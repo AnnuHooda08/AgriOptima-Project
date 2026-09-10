@@ -6,7 +6,6 @@ AgriOptima is a research-oriented agricultural decision-support platform designe
 
 The system combines **Crop Recommendation, Expert Systems, Constraint Satisfaction, AI Planning, Harvest Scheduling, Storage Decisions, Market Selection, What-If Analysis, Multi-Agent Systems, and Explainable AI (XAI)** into a single platform.
 
----
 
 ## 📌 Problem Statement
 
