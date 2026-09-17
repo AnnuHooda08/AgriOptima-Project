@@ -1,5 +1,0 @@
-*.csv -diff -text
-*.tif binary
-*.pdf binary
-data/shared/mandi_archive/part-* binary
-soil-nutrient-analysis.csv filter=lfs diff=lfs merge=lfs -text

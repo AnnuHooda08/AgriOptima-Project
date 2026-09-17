@@ -1,9 +1,0 @@
-# SoilGrids Haryana–Punjab area extract
-
-Source: [ISRIC SoilGrids 2.0](https://docs.isric.org/globaldata/soilgrids/), accessed through its [WCS](https://docs.isric.org/globaldata/soilgrids/wcs.html) on 2026-09-17. The original mean-prediction GeoTIFFs are in `../raw/soilgrids_haryana_punjab_bbox/`. SoilGrids is published under CC BY 4.0; cite ISRIC – World Soil Information when using it.
-
-The six CSVs in `soilgrids_haryana_punjab_bbox/` contain 249,001 locations each, or 1,494,006 location-depth rows total after excluding zero-filled missing pixels. One pixel is sampled from every 4 × 4 pixels of the original approximately 250 m layers, producing an approximately 1 km grid. The region is the rectangle 73.7–78.0°E, 27.5–32.7°N. This **includes areas outside Haryana and Punjab**; the files do not assert a state or district for each location. Join with administrative boundaries before filtering to state. Latitude and longitude refer to the sampled pixel centers.
-
-Depths (cm): 0–5, 5–15, 15–30, 30–60, 60–100, 100–200. Columns are pH in water, organic carbon (g/kg), **total** nitrogen (g/kg), sand/silt/clay (%), bulk density (g/cm³), CEC (cmol(c)/kg), and coarse fragments (volume %). Units are converted from the integer-scaled GeoTIFF values using the [official conversion factors](https://docs.isric.org/globaldata/soilgrids/SoilGrids_faqs_01.html). Total nitrogen is not a measurement of plant-available nitrogen.
-
-These are **model-predicted soil properties**, not individual laboratory samples. They are useful as location-level features in the project, but should not be treated as observed ground truth or as an independent target for evaluating another soil-property model. Original rasters can be re-downloaded with `scripts/download_soilgrids.py` and CSVs recreated with `scripts/build_soilgrids_csv.py`.

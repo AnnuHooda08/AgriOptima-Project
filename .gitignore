@@ -1,9 +1,0 @@
-.DS_Store
-__pycache__/
-*.pyc
-tmp/
-*.part
-
-# The full mandi archive is shared in Git as smaller pieces; the extracted copy is 4.4 GB.
-data/raw/india_mandi_prices_2000_2024_kaggle.zip
-data/raw/india_mandi_prices_2000_2024/
