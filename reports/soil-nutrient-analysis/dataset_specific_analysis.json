@@ -1,0 +1,15 @@
+{
+  "dataset_family": "soil",
+  "detected_columns": {
+    "ph": null,
+    "nitrogen": null,
+    "organic_carbon": "block_name",
+    "cec": null,
+    "bulk_density": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "notes": [
+    "Check units and soil depth before merging SoilGrids layers."
+  ]
+}

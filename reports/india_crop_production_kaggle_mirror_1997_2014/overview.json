@@ -1,0 +1,13 @@
+{
+  "file": "india_crop_production_kaggle_mirror_1997_2014.csv",
+  "size_mb": 14.61,
+  "rows": 246091,
+  "columns": 7,
+  "sample_rows": 50000,
+  "numeric_columns": [
+    "Crop_Year",
+    "Area",
+    "Production"
+  ],
+  "dataset_family": "crop_production_or_yield"
+}

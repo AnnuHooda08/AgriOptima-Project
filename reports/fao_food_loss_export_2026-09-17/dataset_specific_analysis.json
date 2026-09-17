@@ -1,0 +1,11 @@
+{
+  "dataset_family": "post_harvest_loss",
+  "detected_columns": {
+    "commodity": "commodity",
+    "loss": "loss_percentage",
+    "stage": "food_supply_stage",
+    "location": "region",
+    "year": "year"
+  },
+  "notes": []
+}

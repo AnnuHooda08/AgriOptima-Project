@@ -1,0 +1,5 @@
+Dataset: crop_production_haryana_punjab_1997_2014.csv
+Rows: 9,048
+Columns: 7
+Sample: 9,048
+Family: crop_production_or_yield

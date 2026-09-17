@@ -1,0 +1,16 @@
+{
+  "file": "soil-nutrient-analysis.csv",
+  "size_mb": 1046.02,
+  "rows": 10853209,
+  "columns": 14,
+  "sample_rows": 50000,
+  "numeric_columns": [
+    "id",
+    "state_code",
+    "district_code",
+    "block_code",
+    "village_code",
+    "value"
+  ],
+  "dataset_family": "soil"
+}

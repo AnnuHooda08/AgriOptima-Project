@@ -1,0 +1,14 @@
+column,dtype,rows,missing_count,missing_percent,unique_values_tracked
+latitude,int64,249001,0,0.0,544
+longitude,int64,249001,0,0.0,476
+depth_top_cm,int64,249001,0,0.0,1
+depth_bottom_cm,int64,249001,0,0.0,1
+ph_h2o,int64,249001,0,0.0,45
+organic_carbon_g_kg,int64,249001,0,0.0,769
+total_nitrogen_g_kg,int64,249001,0,0.0,659
+sand_pct,int64,249001,0,0.0,626
+silt_pct,int64,249001,0,0.0,593
+clay_pct,int64,249001,0,0.0,299
+bulk_density_g_cm3,int64,249001,0,0.0,77
+cec_cmol_kg,int64,249001,0,0.0,380
+coarse_fragments_vol_pct,int64,249001,0,0.0,422

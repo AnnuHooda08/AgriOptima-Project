@@ -1,0 +1,13 @@
+{
+  "file": "india_district_crop_production_1997_2019.csv",
+  "size_mb": 29.56,
+  "rows": 345407,
+  "columns": 10,
+  "sample_rows": 50000,
+  "numeric_columns": [
+    "Area",
+    "Production",
+    "Yield"
+  ],
+  "dataset_family": "crop_production_or_yield"
+}

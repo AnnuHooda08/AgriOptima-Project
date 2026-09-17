@@ -1,0 +1,5 @@
+Dataset: india_crop_production_kaggle_mirror_1997_2014.csv
+Rows: 246,091
+Columns: 7
+Sample: 50,000
+Family: crop_production_or_yield

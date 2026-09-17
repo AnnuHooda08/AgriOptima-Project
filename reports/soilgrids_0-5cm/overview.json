@@ -1,0 +1,23 @@
+{
+  "file": "soilgrids_0-5cm.csv",
+  "size_mb": 16.07,
+  "rows": 249001,
+  "columns": 13,
+  "sample_rows": 50000,
+  "numeric_columns": [
+    "latitude",
+    "longitude",
+    "depth_top_cm",
+    "depth_bottom_cm",
+    "ph_h2o",
+    "organic_carbon_g_kg",
+    "total_nitrogen_g_kg",
+    "sand_pct",
+    "silt_pct",
+    "clay_pct",
+    "bulk_density_g_cm3",
+    "cec_cmol_kg",
+    "coarse_fragments_vol_pct"
+  ],
+  "dataset_family": "soil"
+}

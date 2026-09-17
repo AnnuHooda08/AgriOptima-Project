@@ -1,0 +1,15 @@
+{
+  "file": "post_harvest_loss_2022_haryana_punjab.csv",
+  "size_mb": 0.01,
+  "rows": 164,
+  "columns": 9,
+  "sample_rows": 164,
+  "numeric_columns": [
+    "year",
+    "loss_percentage",
+    "source_pdf_page",
+    "source_table",
+    "source_row"
+  ],
+  "dataset_family": "post_harvest_loss"
+}

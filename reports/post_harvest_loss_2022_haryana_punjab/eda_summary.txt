@@ -1,0 +1,5 @@
+Dataset: post_harvest_loss_2022_haryana_punjab.csv
+Rows: 164
+Columns: 9
+Sample: 164
+Family: post_harvest_loss

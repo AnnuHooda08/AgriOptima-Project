@@ -1,0 +1,7 @@
+Dataset: india_district_crop_production_1997_2019.csv
+Rows: 345,407
+Columns: 10
+Sample: 50,000
+Family: crop_production_or_yield
+
+NOTE: Potential target leakage: if yield is production/area, do not use production as a predictor.

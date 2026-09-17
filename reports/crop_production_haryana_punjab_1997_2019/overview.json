@@ -1,0 +1,13 @@
+{
+  "file": "crop_production_haryana_punjab_1997_2019.csv",
+  "size_mb": 0.97,
+  "rows": 12447,
+  "columns": 10,
+  "sample_rows": 12447,
+  "numeric_columns": [
+    "Area",
+    "Production",
+    "Yield"
+  ],
+  "dataset_family": "crop_production_or_yield"
+}

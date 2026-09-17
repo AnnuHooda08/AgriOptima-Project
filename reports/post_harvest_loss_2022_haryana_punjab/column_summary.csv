@@ -1,0 +1,10 @@
+column,dtype,rows,missing_count,missing_percent,unique_values_tracked
+year,int64,164,0,0.0,1
+state,int64,164,0,0.0,2
+crop,int64,164,0,0.0,12
+loss_type,int64,164,0,0.0,3
+stage,int64,164,0,0.0,17
+loss_percentage,int64,164,0,0.0,105
+source_pdf_page,int64,164,0,0.0,2
+source_table,int64,164,0,0.0,1
+source_row,int64,164,0,0.0,12

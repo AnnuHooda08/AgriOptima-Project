@@ -1,0 +1,35 @@
+column,value,sample_count,sample_percent
+state,Haryana,89,54.26829268292683
+state,Punjab,75,45.73170731707317
+crop,Wheat,31,18.902439024390244
+crop,Bajra,16,9.75609756097561
+crop,Poultry Meat,15,9.146341463414634
+crop,Cottonseed,14,8.536585365853659
+crop,Mushroom,14,8.536585365853659
+crop,Potato,14,8.536585365853659
+crop,Muskmelon,13,7.926829268292683
+crop,Capsicum,12,7.317073170731708
+crop,Green Pea,12,7.317073170731708
+crop,Sugarcane,9,5.487804878048781
+crop,Milk,9,5.487804878048781
+crop,Meat,5,3.048780487804878
+loss_type,Farm Operations,88,53.65853658536585
+loss_type,Market Operations,65,39.63414634146341
+loss_type,Total,11,6.7073170731707314
+stage,Transport,25,15.24390243902439
+stage,Total loss in market operations,13,7.926829268292683
+stage,Harvesting,12,7.317073170731708
+stage,Collection,12,7.317073170731708
+stage,Total loss in farm operations,12,7.317073170731708
+stage,Retailers,12,7.317073170731708
+stage,Wholesalers,11,6.7073170731707314
+stage,Overall total loss,11,6.7073170731707314
+stage,Packaging,10,6.097560975609756
+stage,Farm level storage,10,6.097560975609756
+stage,Processing unit,9,5.487804878048781
+stage,Godown,7,4.2682926829268295
+stage,Winnowing/Cleaning,6,3.658536585365854
+stage,Drying,5,3.048780487804878
+stage,Sorting/Grading,5,3.048780487804878
+stage,Threshing,3,1.829268292682927
+stage,Trimming,1,0.6097560975609756

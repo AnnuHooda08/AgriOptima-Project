@@ -1,0 +1,14 @@
+{
+  "dataset_family": "crop_production_or_yield",
+  "detected_columns": {
+    "crop": "Crop",
+    "area": "Area",
+    "production": "Production",
+    "yield": null,
+    "year": "Crop_Year",
+    "state": "State_Name",
+    "district": "District_Name",
+    "season": "Season"
+  },
+  "notes": []
+}

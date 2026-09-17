@@ -1,0 +1,15 @@
+column,dtype,rows,missing_count,missing_percent,unique_values_tracked
+id,int64,10853209,0,0.0,100000
+year,int64,10853209,0,0.0,2
+state_name,int64,10853209,0,0.0,32
+state_code,int64,10853209,0,0.0,32
+district_name,int64,10853209,0,0.0,735
+district_code,int64,10853209,0,0.0,738
+block_name,int64,10853209,0,0.0,6289
+block_code,int64,10853209,0,0.0,6585
+village_name,int64,10853209,0,0.0,100000
+village_code,int64,10853209,0,0.0,100000
+nutrient_type,int64,10853209,0,0.0,2
+nutrient_name,int64,10853209,0,0.0,12
+nutrient_level,int64,10853209,0,0.0,10
+value,int64,10853209,0,0.0,2083

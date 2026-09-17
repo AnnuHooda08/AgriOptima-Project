@@ -1,0 +1,95 @@
+column,value,sample_count,sample_percent
+State,Uttar Pradesh,6446,12.892
+State,Madhya Pradesh,4274,8.548
+State,Karnataka,4002,8.004
+State,Bihar,3589,7.178
+State,Rajasthan,2950,5.9
+State,Tamil Nadu,2643,5.286
+State,Assam,2602,5.204
+State,Maharashtra,2548,5.096
+State,Andhra Pradesh,2457,4.914
+State,Odisha,2298,4.596
+State,Chhattisgarh,2243,4.486
+State,Gujarat,2068,4.136
+State,West Bengal,1837,3.674
+State,Haryana,1181,2.362
+State,Uttarakhand,970,1.94
+State,Nagaland,876,1.752
+State,Himachal Pradesh,770,1.54
+State,Jharkhand,718,1.436
+State,Kerala,712,1.424
+State,Telangana,683,1.366
+State,Jammu and Kashmir,643,1.286
+State,Arunachal Pradesh,619,1.238
+State,Punjab,612,1.224
+State,Meghalaya,597,1.194
+State,Manipur,469,0.938
+State,Tripura,369,0.738
+State,Mizoram,296,0.592
+State,Puducherry,158,0.316
+State,Sikkim,110,0.22
+State,Andaman and Nicobar Islands,99,0.198
+Crop,Rice,3093,6.186
+Crop,Maize,2912,5.824
+Crop,Moong(Green Gram),2160,4.32
+Crop,Urad,2117,4.234
+Crop,Sesamum,1913,3.826
+Crop,Groundnut,1882,3.764
+Crop,Arhar/Tur,1632,3.264
+Crop,Wheat,1608,3.216
+Crop,Sugarcane,1604,3.208
+Crop,Rapeseed &Mustard,1584,3.168
+Crop,Potato,1582,3.164
+Crop,Gram,1553,3.106
+Crop,Onion,1505,3.01
+Crop,Jowar,1389,2.778
+Crop,Dry chillies,1297,2.594
+Crop,Bajra,1140,2.28
+Crop,Small millets,1055,2.11
+Crop,Sunflower,1002,2.004
+Crop,Peas & beans (Pulses),997,1.994
+Crop,Masoor,956,1.912
+Crop,Cotton(lint),941,1.882
+Crop,Other Kharif pulses,867,1.734
+Crop,Ragi,857,1.714
+Crop,Sweet potato,857,1.714
+Crop,Barley,846,1.692
+Crop,Linseed,818,1.636
+Crop,Turmeric,810,1.62
+Crop,Horse-gram,807,1.614
+Crop,Coriander,743,1.486
+Crop,Soyabean,705,1.41
+Year,2019-20,2847,5.694
+Year,2018-19,2670,5.34
+Year,2017-18,2575,5.15
+Year,2016-17,2554,5.108
+Year,2015-16,2363,4.726
+Year,2011-12,2326,4.652
+Year,2013-14,2321,4.642
+Year,2014-15,2249,4.498
+Year,2009-10,2240,4.48
+Year,2012-13,2227,4.454
+Year,2008-09,2177,4.354
+Year,2010-11,2176,4.352
+Year,2002-03,2119,4.238
+Year,2003-04,2096,4.192
+Year,2007-08,2088,4.176
+Year,2005-06,2085,4.17
+Year,2006-07,2074,4.148
+Year,2000-01,2046,4.092
+Year,2004-05,2023,4.046
+Year,2001-02,1899,3.798
+Year,1999-00,1842,3.684
+Year,1998-99,1723,3.446
+Year,1997-98,1239,2.478
+Year,2020-21,41,0.082
+Season,Kharif,20124,40.248
+Season,Rabi,14553,29.106
+Season,Whole Year,9941,19.882
+Season,Summer,3215,6.43
+Season,Winter,1198,2.396
+Season,Autumn,969,1.938
+Area Units,Hectare,50000,100.0
+Production Units,Tonnes,47994,95.988
+Production Units,Bales,1545,3.09
+Production Units,Nuts,461,0.922

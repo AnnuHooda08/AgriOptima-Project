@@ -1,0 +1,16 @@
+{
+  "file": "fao_food_loss_export_2026-09-17.csv",
+  "size_mb": 7.02,
+  "rows": 30361,
+  "columns": 18,
+  "sample_rows": 30361,
+  "numeric_columns": [
+    "m49_code",
+    "cpc_code",
+    "year",
+    "loss_percentage",
+    "loss_percentage_original",
+    "loss_quantity"
+  ],
+  "dataset_family": "post_harvest_loss"
+}

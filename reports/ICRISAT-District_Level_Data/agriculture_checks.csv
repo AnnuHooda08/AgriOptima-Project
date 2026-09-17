@@ -1,0 +1,151 @@
+column,check,count
+RICE AREA (1000 ha),negative values,22
+RICE AREA (1000 ha),zero values,1094
+RICE PRODUCTION (1000 tons),negative values,22
+RICE PRODUCTION (1000 tons),zero values,1136
+RICE YIELD (Kg per ha),negative values,22
+RICE YIELD (Kg per ha),zero values,1143
+WHEAT AREA (1000 ha),negative values,35
+WHEAT AREA (1000 ha),zero values,2304
+WHEAT PRODUCTION (1000 tons),negative values,35
+WHEAT PRODUCTION (1000 tons),zero values,2372
+WHEAT YIELD (Kg per ha),negative values,35
+WHEAT YIELD (Kg per ha),zero values,2369
+KHARIF SORGHUM AREA (1000 ha),negative values,40
+KHARIF SORGHUM AREA (1000 ha),zero values,4579
+KHARIF SORGHUM PRODUCTION (1000 tons),negative values,40
+KHARIF SORGHUM PRODUCTION (1000 tons),zero values,4855
+KHARIF SORGHUM YIELD (Kg per ha),negative values,40
+KHARIF SORGHUM YIELD (Kg per ha),zero values,4864
+RABI SORGHUM AREA (1000 ha),negative values,40
+RABI SORGHUM AREA (1000 ha),zero values,12033
+RABI SORGHUM PRODUCTION (1000 tons),negative values,40
+RABI SORGHUM PRODUCTION (1000 tons),zero values,12094
+RABI SORGHUM YIELD (Kg per ha),negative values,40
+RABI SORGHUM YIELD (Kg per ha),zero values,12113
+SORGHUM AREA (1000 ha),negative values,40
+SORGHUM AREA (1000 ha),zero values,4289
+SORGHUM PRODUCTION (1000 tons),negative values,40
+SORGHUM PRODUCTION (1000 tons),zero values,4530
+SORGHUM YIELD (Kg per ha),negative values,40
+SORGHUM YIELD (Kg per ha),zero values,4541
+PEARL MILLET AREA (1000 ha),negative values,54
+PEARL MILLET AREA (1000 ha),zero values,5846
+PEARL MILLET PRODUCTION (1000 tons),negative values,26
+PEARL MILLET PRODUCTION (1000 tons),zero values,6132
+PEARL MILLET YIELD (Kg per ha),negative values,54
+PEARL MILLET YIELD (Kg per ha),zero values,6133
+MAIZE AREA (1000 ha),negative values,28
+MAIZE AREA (1000 ha),zero values,1852
+MAIZE PRODUCTION (1000 tons),negative values,28
+MAIZE PRODUCTION (1000 tons),zero values,1930
+MAIZE YIELD (Kg per ha),negative values,28
+MAIZE YIELD (Kg per ha),zero values,1964
+FINGER MILLET AREA (1000 ha),negative values,20
+FINGER MILLET AREA (1000 ha),zero values,10003
+FINGER MILLET PRODUCTION (1000 tons),negative values,20
+FINGER MILLET PRODUCTION (1000 tons),zero values,10235
+FINGER MILLET YIELD (Kg per ha),negative values,20
+FINGER MILLET YIELD (Kg per ha),zero values,10243
+BARLEY AREA (1000 ha),negative values,20
+BARLEY AREA (1000 ha),zero values,8114
+BARLEY PRODUCTION (1000 tons),negative values,20
+BARLEY PRODUCTION (1000 tons),zero values,8131
+BARLEY YIELD (Kg per ha),negative values,20
+BARLEY YIELD (Kg per ha),zero values,8198
+CHICKPEA AREA (1000 ha),negative values,40
+CHICKPEA AREA (1000 ha),zero values,1991
+CHICKPEA PRODUCTION (1000 tons),negative values,43
+CHICKPEA PRODUCTION (1000 tons),zero values,2249
+CHICKPEA YIELD (Kg per ha),negative values,42
+CHICKPEA YIELD (Kg per ha),zero values,2235
+PIGEONPEA AREA (1000 ha),negative values,34
+PIGEONPEA AREA (1000 ha),zero values,2816
+PIGEONPEA PRODUCTION (1000 tons),negative values,34
+PIGEONPEA PRODUCTION (1000 tons),zero values,3086
+PIGEONPEA YIELD (Kg per ha),negative values,34
+PIGEONPEA YIELD (Kg per ha),zero values,3081
+MINOR PULSES AREA (1000 ha),negative values,105
+MINOR PULSES AREA (1000 ha),zero values,568
+MINOR PULSES PRODUCTION (1000 tons),negative values,1354
+MINOR PULSES PRODUCTION (1000 tons),zero values,987
+MINOR PULSES YIELD (Kg per ha),negative values,1420
+MINOR PULSES YIELD (Kg per ha),zero values,960
+GROUNDNUT AREA (1000 ha),negative values,10
+GROUNDNUT AREA (1000 ha),zero values,3826
+GROUNDNUT PRODUCTION (1000 tons),negative values,10
+GROUNDNUT PRODUCTION (1000 tons),zero values,4053
+GROUNDNUT YIELD (Kg per ha),negative values,10
+GROUNDNUT YIELD (Kg per ha),zero values,4086
+SESAMUM AREA (1000 ha),negative values,44
+SESAMUM AREA (1000 ha),zero values,1819
+SESAMUM PRODUCTION (1000 tons),negative values,44
+SESAMUM PRODUCTION (1000 tons),zero values,2886
+SESAMUM YIELD (Kg per ha),negative values,44
+SESAMUM YIELD (Kg per ha),zero values,2850
+RAPESEED AND MUSTARD AREA (1000 ha),negative values,14
+RAPESEED AND MUSTARD AREA (1000 ha),zero values,3760
+RAPESEED AND MUSTARD PRODUCTION (1000 tons),negative values,14
+RAPESEED AND MUSTARD PRODUCTION (1000 tons),zero values,4523
+RAPESEED AND MUSTARD YIELD (Kg per ha),negative values,14
+RAPESEED AND MUSTARD YIELD (Kg per ha),zero values,4499
+SAFFLOWER AREA (1000 ha),negative values,18
+SAFFLOWER AREA (1000 ha),zero values,12898
+SAFFLOWER PRODUCTION (1000 tons),negative values,786
+SAFFLOWER PRODUCTION (1000 tons),zero values,12952
+SAFFLOWER YIELD (Kg per ha),negative values,483
+SAFFLOWER YIELD (Kg per ha),zero values,13252
+CASTOR AREA (1000 ha),negative values,83
+CASTOR AREA (1000 ha),zero values,10269
+CASTOR PRODUCTION (1000 tons),negative values,83
+CASTOR PRODUCTION (1000 tons),zero values,11051
+CASTOR YIELD (Kg per ha),negative values,83
+CASTOR YIELD (Kg per ha),zero values,11021
+LINSEED AREA (1000 ha),negative values,257
+LINSEED AREA (1000 ha),zero values,8340
+LINSEED PRODUCTION (1000 tons),negative values,257
+LINSEED PRODUCTION (1000 tons),zero values,9061
+LINSEED YIELD (Kg per ha),negative values,257
+LINSEED YIELD (Kg per ha),zero values,9036
+SUNFLOWER AREA (1000 ha),negative values,40
+SUNFLOWER AREA (1000 ha),zero values,10939
+SUNFLOWER PRODUCTION (1000 tons),negative values,40
+SUNFLOWER PRODUCTION (1000 tons),zero values,11171
+SUNFLOWER YIELD (Kg per ha),negative values,40
+SUNFLOWER YIELD (Kg per ha),zero values,11189
+SOYABEAN AREA (1000 ha),negative values,40
+SOYABEAN AREA (1000 ha),zero values,11788
+SOYABEAN PRODUCTION (1000 tons),negative values,40
+SOYABEAN PRODUCTION (1000 tons),zero values,12027
+SOYABEAN YIELD (Kg per ha),negative values,40
+SOYABEAN YIELD (Kg per ha),zero values,12003
+OILSEEDS AREA (1000 ha),negative values,137
+OILSEEDS AREA (1000 ha),zero values,1197
+OILSEEDS PRODUCTION (1000 tons),negative values,1673
+OILSEEDS PRODUCTION (1000 tons),zero values,1657
+OILSEEDS YIELD (Kg per ha),negative values,1673
+OILSEEDS YIELD (Kg per ha),zero values,1666
+SUGARCANE AREA (1000 ha),negative values,240
+SUGARCANE AREA (1000 ha),zero values,2350
+SUGARCANE PRODUCTION (1000 tons),negative values,241
+SUGARCANE PRODUCTION (1000 tons),zero values,2125
+SUGARCANE YIELD (Kg per ha),negative values,241
+SUGARCANE YIELD (Kg per ha),zero values,2382
+COTTON AREA (1000 ha),negative values,15
+COTTON AREA (1000 ha),zero values,7434
+COTTON PRODUCTION (1000 tons),negative values,10
+COTTON PRODUCTION (1000 tons),zero values,8299
+COTTON YIELD (Kg per ha),negative values,15
+COTTON YIELD (Kg per ha),zero values,8315
+FRUITS AREA (1000 ha),negative values,347
+FRUITS AREA (1000 ha),zero values,1310
+VEGETABLES AREA (1000 ha),negative values,289
+VEGETABLES AREA (1000 ha),zero values,1083
+FRUITS AND VEGETABLES AREA (1000 ha),negative values,287
+FRUITS AND VEGETABLES AREA (1000 ha),zero values,1117
+POTATOES AREA (1000 ha),negative values,34
+POTATOES AREA (1000 ha),zero values,4216
+ONION AREA (1000 ha),negative values,317
+ONION AREA (1000 ha),zero values,2207
+FODDER AREA (1000 ha),negative values,887
+FODDER AREA (1000 ha),zero values,3781

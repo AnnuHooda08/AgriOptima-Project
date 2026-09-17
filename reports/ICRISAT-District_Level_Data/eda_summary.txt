@@ -1,0 +1,5 @@
+Dataset: ICRISAT-District Level Data.csv
+Rows: 16,146
+Columns: 80
+Sample: 16,146
+Family: unknown

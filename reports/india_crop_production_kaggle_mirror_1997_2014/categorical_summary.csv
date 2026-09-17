@@ -1,0 +1,37 @@
+column,value,sample_count,sample_percent
+State_Name,Uttar Pradesh,6778,13.556
+State_Name,Madhya Pradesh,4679,9.358
+State_Name,Karnataka,4299,8.598
+State_Name,Bihar,3868,7.736
+State_Name,Assam,3004,6.008
+State_Name,Tamil Nadu,2734,5.468
+State_Name,Odisha,2730,5.46
+State_Name,Maharashtra,2569,5.138
+State_Name,Rajasthan,2523,5.046
+State_Name,Chhattisgarh,2078,4.156
+State_Name,Andhra Pradesh,1983,3.966
+State_Name,West Bengal,1918,3.836
+State_Name,Gujarat,1740,3.48
+State_Name,Haryana,1213,2.426
+State_Name,Telangana ,1181,2.362
+State_Name,Uttarakhand,981,1.962
+State_Name,Kerala,871,1.742
+State_Name,Nagaland,837,1.674
+State_Name,Punjab,653,1.306
+State_Name,Meghalaya,564,1.128
+State_Name,Arunachal Pradesh,522,1.044
+State_Name,Himachal Pradesh,501,1.002
+State_Name,Jammu and Kashmir ,337,0.674
+State_Name,Tripura,283,0.566
+State_Name,Jharkhand,256,0.512
+State_Name,Manipur,230,0.46
+State_Name,Mizoram,198,0.396
+State_Name,Puducherry,173,0.346
+State_Name,Sikkim,150,0.3
+State_Name,Dadra and Nagar Haveli,54,0.108
+Season,Kharif     ,19467,38.934
+Season,Rabi       ,13644,27.288
+Season,Whole Year ,11656,23.312
+Season,Summer     ,3035,6.07
+Season,Winter     ,1188,2.376
+Season,Autumn     ,1010,2.02

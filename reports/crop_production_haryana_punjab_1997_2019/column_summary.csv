@@ -1,0 +1,11 @@
+column,dtype,rows,missing_count,missing_percent,unique_values_tracked
+State,int64,12447,0,0.0,2
+District,int64,12447,0,0.0,45
+Crop,int64,12447,0,0.0,39
+Year,int64,12447,0,0.0,23
+Season,int64,12447,0,0.0,3
+Area,int64,12447,0,0.0,3430
+Area Units,int64,12447,0,0.0,1
+Production,int64,12447,1418,11.392303366272998,2269
+Production Units,int64,12447,0,0.0,2
+Yield,int64,12447,0,0.0,5890

@@ -1,0 +1,57 @@
+column,value,sample_count,sample_percent
+year,2024-25,32818,65.636
+year,2023-24,17182,34.364
+state_name,Madhya Pradesh,6993,13.986
+state_name,West Bengal,5794,11.588
+state_name,Bihar,5405,10.81
+state_name,Rajasthan,4948,9.896
+state_name,Gujarat,4847,9.694
+state_name,Odisha,3327,6.654
+state_name,Andhra Pradesh,3251,6.502
+state_name,Maharashtra,2511,5.022
+state_name,Tamil Nadu,2241,4.482
+state_name,Jharkhand,1911,3.822
+state_name,Uttar Pradesh,1775,3.55
+state_name,Karnataka,1664,3.328
+state_name,Assam,1388,2.776
+state_name,Himachal Pradesh,715,1.43
+state_name,Arunachal Pradesh,531,1.062
+state_name,Jammu And Kashmir,486,0.972
+state_name,Chhattisgarh,382,0.764
+state_name,Haryana,364,0.728
+state_name,Uttarakhand,313,0.626
+state_name,Meghalaya,221,0.442
+state_name,Kerala,207,0.414
+state_name,Punjab,203,0.406
+state_name,Tripura,122,0.244
+state_name,Sikkim,81,0.162
+state_name,Telangana,81,0.162
+state_name,Mizoram,68,0.136
+state_name,Nagaland,63,0.126
+state_name,Goa,50,0.1
+state_name,Andaman And Nicobar Islands,28,0.056
+state_name,Puducherry,24,0.048
+nutrient_type,Macro,29438,58.876
+nutrient_type,Micro,20562,41.124
+nutrient_name,Nitrogen,5325,10.65
+nutrient_name,Organic Carbon,5230,10.46
+nutrient_name,Phosphorus,5160,10.32
+nutrient_name,Soil Ph,5107,10.214
+nutrient_name,Potassium,5102,10.204
+nutrient_name,Electrical Conductivity,3514,7.028
+nutrient_name,Iron,3506,7.012
+nutrient_name,Manganese,3504,7.008
+nutrient_name,Zinc,3443,6.886
+nutrient_name,Boron,3407,6.814
+nutrient_name,Copper,3379,6.758
+nutrient_name,Sulphur,3323,6.646
+nutrient_level,Sufficient,10362,20.724
+nutrient_level,Deficient,10200,20.4
+nutrient_level,High,7007,14.014
+nutrient_level,Medium,6966,13.932
+nutrient_level,Low,6844,13.688
+nutrient_level,Saline,1763,3.526
+nutrient_level,Non Saline,1751,3.502
+nutrient_level,Alkaline,1717,3.434
+nutrient_level,Neutral,1714,3.428
+nutrient_level,Acidic,1676,3.352

@@ -1,0 +1,6 @@
+column,q1,q3,iqr,sample_outliers,outlier_percent
+year,2022.0,2022.0,0.0,0,0.0
+loss_percentage,0.15,1.25,1.1,231,12.386058981233244
+source_pdf_page,271.0,280.0,9.0,0,0.0
+source_table,1.0,2.0,1.0,0,0.0
+source_row,11.0,26.0,15.0,33,1.769436997319035

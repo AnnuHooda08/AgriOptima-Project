@@ -1,0 +1,15 @@
+{
+  "file": "post_harvest_loss_2022_state_stage.csv",
+  "size_mb": 0.12,
+  "rows": 1865,
+  "columns": 9,
+  "sample_rows": 1865,
+  "numeric_columns": [
+    "year",
+    "loss_percentage",
+    "source_pdf_page",
+    "source_table",
+    "source_row"
+  ],
+  "dataset_family": "post_harvest_loss"
+}

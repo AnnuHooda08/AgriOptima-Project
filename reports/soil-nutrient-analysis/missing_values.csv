@@ -1,0 +1,15 @@
+column,missing_count,missing_percent
+id,0,0.0
+year,0,0.0
+state_name,0,0.0
+state_code,0,0.0
+district_name,0,0.0
+district_code,0,0.0
+block_name,0,0.0
+block_code,0,0.0
+village_name,0,0.0
+village_code,0,0.0
+nutrient_type,0,0.0
+nutrient_name,0,0.0
+nutrient_level,0,0.0
+value,0,0.0

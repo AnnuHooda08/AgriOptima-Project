@@ -1,0 +1,8 @@
+column,dtype,rows,missing_count,missing_percent,unique_values_tracked
+State_Name,int64,9048,0,0.0,2
+District_Name,int64,9048,0,0.0,43
+Crop_Year,int64,9048,0,0.0,18
+Season,int64,9048,0,0.0,3
+Crop,int64,9048,0,0.0,43
+Area,int64,9048,0,0.0,3079
+Production,int64,9048,1365,15.086206896551724,1218

@@ -1,0 +1,7 @@
+Dataset: soil-nutrient-analysis.csv
+Rows: 10,853,209
+Columns: 14
+Sample: 50,000
+Family: soil
+
+NOTE: Check units and soil depth before merging SoilGrids layers.

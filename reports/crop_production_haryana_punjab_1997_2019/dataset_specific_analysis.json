@@ -1,0 +1,16 @@
+{
+  "dataset_family": "crop_production_or_yield",
+  "detected_columns": {
+    "crop": "Crop",
+    "area": "Area",
+    "production": "Production",
+    "yield": "Yield",
+    "year": "Year",
+    "state": "State",
+    "district": "District",
+    "season": "Season"
+  },
+  "notes": [
+    "Potential target leakage: if yield is production/area, do not use production as a predictor."
+  ]
+}

@@ -1,0 +1,5 @@
+Dataset: fao_food_loss_export_2026-09-17.csv
+Rows: 30,361
+Columns: 18
+Sample: 30,361
+Family: post_harvest_loss

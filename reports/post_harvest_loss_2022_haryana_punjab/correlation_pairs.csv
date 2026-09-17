@@ -1,0 +1,4 @@
+feature_1,feature_2,correlation,abs_correlation
+source_pdf_page,source_row,-0.08091248348416161,0.08091248348416161
+loss_percentage,source_pdf_page,0.06294551730819718,0.06294551730819718
+loss_percentage,source_row,0.03547810267831455,0.03547810267831455

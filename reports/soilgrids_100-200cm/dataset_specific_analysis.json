@@ -1,0 +1,15 @@
+{
+  "dataset_family": "soil",
+  "detected_columns": {
+    "ph": "ph_h2o",
+    "nitrogen": "total_nitrogen_g_kg",
+    "organic_carbon": "organic_carbon_g_kg",
+    "cec": "cec_cmol_kg",
+    "bulk_density": "bulk_density_g_cm3",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  },
+  "notes": [
+    "Check units and soil depth before merging SoilGrids layers."
+  ]
+}

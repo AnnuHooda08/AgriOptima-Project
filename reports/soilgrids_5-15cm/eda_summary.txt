@@ -1,0 +1,7 @@
+Dataset: soilgrids_5-15cm.csv
+Rows: 249,001
+Columns: 13
+Sample: 50,000
+Family: soil
+
+NOTE: Check units and soil depth before merging SoilGrids layers.

@@ -1,0 +1,5 @@
+Dataset: post_harvest_loss_2022_state_stage.csv
+Rows: 1,865
+Columns: 9
+Sample: 1,865
+Family: post_harvest_loss

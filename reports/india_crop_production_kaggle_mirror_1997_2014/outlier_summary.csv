@@ -1,0 +1,4 @@
+column,q1,q3,iqr,sample_outliers,outlier_percent
+Crop_Year,2002.0,2010.0,8.0,0,0.0
+Area,82.0,4350.0,4268.0,8271,16.542
+Production,90.0,7015.25,6925.25,8596,17.461607215405866

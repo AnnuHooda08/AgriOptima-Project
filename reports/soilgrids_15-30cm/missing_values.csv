@@ -1,0 +1,14 @@
+column,missing_count,missing_percent
+latitude,0,0.0
+longitude,0,0.0
+depth_top_cm,0,0.0
+depth_bottom_cm,0,0.0
+ph_h2o,0,0.0
+organic_carbon_g_kg,0,0.0
+total_nitrogen_g_kg,0,0.0
+sand_pct,0,0.0
+silt_pct,0,0.0
+clay_pct,0,0.0
+bulk_density_g_cm3,0,0.0
+cec_cmol_kg,0,0.0
+coarse_fragments_vol_pct,0,0.0

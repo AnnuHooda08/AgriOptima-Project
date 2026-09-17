@@ -1,0 +1,6 @@
+,year,loss_percentage,source_pdf_page,source_table,source_row
+year,,,,,
+loss_percentage,,1.0,0.06294551730819718,,0.03547810267831455
+source_pdf_page,,0.06294551730819718,1.0,,-0.08091248348416161
+source_table,,,,,
+source_row,,0.03547810267831455,-0.08091248348416161,,1.0
