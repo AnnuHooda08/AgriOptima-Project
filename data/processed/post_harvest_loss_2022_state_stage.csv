@@ -1,0 +1,1866 @@
+year,state,crop,loss_type,stage,loss_percentage,source_pdf_page,source_table,source_row
+2022,Andhra Pradesh,Bajra,Farm Operations,Harvesting,1.17,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Collection,0.41,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Threshing,1.69,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Winnowing/Cleaning,0.15,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Drying,0.21,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Packaging,0.26,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Farm level storage,0.28,267,1,6
+2022,Andhra Pradesh,Bajra,Farm Operations,Transport,0.18,267,1,6
+2022,Andhra Pradesh,Bajra,Market Operations,Godown,0.15,267,1,6
+2022,Andhra Pradesh,Bajra,Market Operations,Wholesalers,0.01,267,1,6
+2022,Andhra Pradesh,Bajra,Market Operations,Retailers,0.12,267,1,6
+2022,Andhra Pradesh,Bajra,Market Operations,Processing unit,0.13,267,1,6
+2022,Andhra Pradesh,Bajra,Market Operations,Transport,0.3,267,1,6
+2022,Andhra Pradesh,Bajra,Market Operations,Total loss in market operations,0.72,267,1,6
+2022,Andhra Pradesh,Bajra,Total,Overall total loss,5.07,267,1,6
+2022,Andhra Pradesh,Black gram,Farm Operations,Harvesting,1.06,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Collection,0.6,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Threshing,0.99,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Winnowing/Cleaning,0.67,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Drying,0.29,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Packaging,0.26,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Farm level storage,0.69,267,1,11
+2022,Andhra Pradesh,Black gram,Farm Operations,Transport,0.13,267,1,11
+2022,Andhra Pradesh,Black gram,Market Operations,Godown,0.04,267,1,11
+2022,Andhra Pradesh,Black gram,Market Operations,Wholesalers,0.22,267,1,11
+2022,Andhra Pradesh,Black gram,Market Operations,Retailers,0.23,267,1,11
+2022,Andhra Pradesh,Black gram,Market Operations,Processing unit,0.11,267,1,11
+2022,Andhra Pradesh,Black gram,Market Operations,Transport,0.27,267,1,11
+2022,Andhra Pradesh,Black gram,Market Operations,Total loss in market operations,0.87,267,1,11
+2022,Andhra Pradesh,Black gram,Total,Overall total loss,5.56,267,1,11
+2022,Andhra Pradesh,Chickpea,Farm Operations,Harvesting,1.27,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Collection,0.84,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Threshing,1.87,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Winnowing/Cleaning,0.2,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Drying,0.27,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Packaging,0.16,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Farm level storage,0.16,267,1,16
+2022,Andhra Pradesh,Chickpea,Farm Operations,Transport,0.24,267,1,16
+2022,Andhra Pradesh,Chickpea,Market Operations,Wholesalers,0.16,267,1,16
+2022,Andhra Pradesh,Chickpea,Market Operations,Retailers,0.11,267,1,16
+2022,Andhra Pradesh,Chickpea,Market Operations,Processing unit,0.07,267,1,16
+2022,Andhra Pradesh,Chickpea,Market Operations,Transport,0.35,267,1,16
+2022,Andhra Pradesh,Chickpea,Market Operations,Total loss in market operations,0.69,267,1,16
+2022,Andhra Pradesh,Chickpea,Total,Overall total loss,5.71,267,1,16
+2022,Andhra Pradesh,Citrus,Farm Operations,Harvesting,0.74,267,1,21
+2022,Andhra Pradesh,Citrus,Farm Operations,Collection,0.39,267,1,21
+2022,Andhra Pradesh,Citrus,Farm Operations,Sorting/Grading,2.67,267,1,21
+2022,Andhra Pradesh,Citrus,Farm Operations,Packaging,0.56,267,1,21
+2022,Andhra Pradesh,Citrus,Farm Operations,Farm level storage,0.62,267,1,21
+2022,Andhra Pradesh,Citrus,Farm Operations,Transport,0.86,267,1,21
+2022,Andhra Pradesh,Citrus,Market Operations,Godown,0.08,267,1,21
+2022,Andhra Pradesh,Citrus,Market Operations,Wholesalers,0.68,267,1,21
+2022,Andhra Pradesh,Citrus,Market Operations,Retailers,0.62,267,1,21
+2022,Andhra Pradesh,Citrus,Market Operations,Processing unit,0.03,267,1,21
+2022,Andhra Pradesh,Citrus,Market Operations,Transport,0.71,267,1,21
+2022,Andhra Pradesh,Citrus,Market Operations,Total loss in market operations,2.12,267,1,21
+2022,Andhra Pradesh,Citrus,Total,Overall total loss,7.97,267,1,21
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Harvesting,1.98,267,1,26
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Collection,0.34,267,1,26
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Drying,0.02,267,1,26
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Packaging,0.05,267,1,26
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Farm level storage,0.05,267,1,26
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Transport,0.14,267,1,26
+2022,Andhra Pradesh,Cottonseed,Farm Operations,Total loss in farm operations,2.57,267,1,26
+2022,Andhra Pradesh,Cottonseed,Market Operations,Godown,0.02,267,1,26
+2022,Andhra Pradesh,Cottonseed,Market Operations,Wholesalers,0.25,267,1,26
+2022,Andhra Pradesh,Cottonseed,Market Operations,Retailers,0.03,267,1,26
+2022,Andhra Pradesh,Cottonseed,Market Operations,Processing unit,0.03,267,1,26
+2022,Andhra Pradesh,Cottonseed,Market Operations,Transport,0.13,267,1,26
+2022,Andhra Pradesh,Cottonseed,Market Operations,Total loss in market operations,0.46,267,1,26
+2022,Andhra Pradesh,Cottonseed,Total,Overall total loss,3.03,267,1,26
+2022,Andhra Pradesh,Green gram,Farm Operations,Collection,0.73,267,1,31
+2022,Andhra Pradesh,Green gram,Farm Operations,Threshing,1.5,267,1,31
+2022,Andhra Pradesh,Green gram,Farm Operations,Winnowing/Cleaning,0.37,267,1,31
+2022,Andhra Pradesh,Green gram,Farm Operations,Drying,0.32,267,1,31
+2022,Andhra Pradesh,Green gram,Farm Operations,Packaging,0.24,267,1,31
+2022,Andhra Pradesh,Green gram,Farm Operations,Farm level storage,0.39,267,1,31
+2022,Andhra Pradesh,Green gram,Market Operations,Godown,0.33,267,1,31
+2022,Andhra Pradesh,Green gram,Market Operations,Wholesalers,0.31,267,1,31
+2022,Andhra Pradesh,Green gram,Market Operations,Retailers,0.02,267,1,31
+2022,Andhra Pradesh,Green gram,Market Operations,Processing unit,0.14,267,1,31
+2022,Andhra Pradesh,Green gram,Market Operations,Transport,0.16,267,1,31
+2022,Andhra Pradesh,Green gram,Market Operations,Total loss in market operations,0.97,267,1,31
+2022,Andhra Pradesh,Green gram,Total,Overall total loss,6.13,267,1,31
+2022,Andhra Pradesh,Inland fish,Farm Operations,Harvesting,1.5,267,1,36
+2022,Andhra Pradesh,Inland fish,Farm Operations,Collection,0.33,267,1,36
+2022,Andhra Pradesh,Inland fish,Farm Operations,Sorting/Grading,1.43,267,1,36
+2022,Andhra Pradesh,Inland fish,Farm Operations,Packaging,0.17,267,1,36
+2022,Andhra Pradesh,Inland fish,Farm Operations,Farm level storage,0.08,267,1,36
+2022,Andhra Pradesh,Inland fish,Farm Operations,Transport,0.13,267,1,36
+2022,Andhra Pradesh,Inland fish,Farm Operations,Total loss in farm operations,3.64,267,1,36
+2022,Andhra Pradesh,Inland fish,Market Operations,Wholesalers,0.36,267,1,36
+2022,Andhra Pradesh,Inland fish,Market Operations,Retailers,0.57,267,1,36
+2022,Andhra Pradesh,Inland fish,Market Operations,Transport,0.11,267,1,36
+2022,Andhra Pradesh,Inland fish,Market Operations,Total loss in market operations,1.04,267,1,36
+2022,Andhra Pradesh,Inland fish,Total,Overall total loss,4.68,267,1,36
+2022,Andhra Pradesh,Mango,Farm Operations,Harvesting,1.66,267,1,41
+2022,Andhra Pradesh,Mango,Farm Operations,Collection,0.26,267,1,41
+2022,Andhra Pradesh,Mango,Farm Operations,Sorting/Grading,2.56,267,1,41
+2022,Andhra Pradesh,Mango,Farm Operations,Packaging,0.05,267,1,41
+2022,Andhra Pradesh,Mango,Farm Operations,Farm level storage,5.59,267,1,41
+2022,Andhra Pradesh,Mango,Farm Operations,Transport,0.81,267,1,41
+2022,Andhra Pradesh,Mango,Market Operations,Wholesalers,0.22,267,1,41
+2022,Andhra Pradesh,Mango,Market Operations,Retailers,1.1,267,1,41
+2022,Andhra Pradesh,Mango,Market Operations,Processing unit,0.16,267,1,41
+2022,Andhra Pradesh,Mango,Market Operations,Transport,0.82,267,1,41
+2022,Andhra Pradesh,Mango,Market Operations,Total loss in market operations,2.3,267,1,41
+2022,Andhra Pradesh,Mango,Total,Overall total loss,7.9,267,1,41
+2022,Andhra Pradesh,Milk,Farm Operations,Harvesting,0.16,268,1,6
+2022,Andhra Pradesh,Milk,Farm Operations,Collection,0.1,268,1,6
+2022,Andhra Pradesh,Milk,Farm Operations,Transport,0.08,268,1,6
+2022,Andhra Pradesh,Milk,Market Operations,Retailers,0.06,268,1,6
+2022,Andhra Pradesh,Milk,Market Operations,Processing unit,0.14,268,1,6
+2022,Andhra Pradesh,Milk,Market Operations,Transport,0.13,268,1,6
+2022,Andhra Pradesh,Milk,Market Operations,Total loss in market operations,0.24,268,1,6
+2022,Andhra Pradesh,Milk,Total,Overall total loss,0.58,268,1,6
+2022,Andhra Pradesh,Paddy,Farm Operations,Harvesting,2.04,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Collection,0.39,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Threshing,1.07,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Winnowing/Cleaning,0.65,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Drying,0.13,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Packaging,0.1,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Farm level storage,0.43,268,1,11
+2022,Andhra Pradesh,Paddy,Farm Operations,Transport,0.17,268,1,11
+2022,Andhra Pradesh,Paddy,Market Operations,Godown,0.02,268,1,11
+2022,Andhra Pradesh,Paddy,Market Operations,Wholesalers,0.33,268,1,11
+2022,Andhra Pradesh,Paddy,Market Operations,Retailers,0.03,268,1,11
+2022,Andhra Pradesh,Paddy,Market Operations,Processing unit,0.14,268,1,11
+2022,Andhra Pradesh,Paddy,Market Operations,Transport,0.24,268,1,11
+2022,Andhra Pradesh,Paddy,Market Operations,Total loss in market operations,0.76,268,1,11
+2022,Andhra Pradesh,Paddy,Total,Overall total loss,5.73,268,1,11
+2022,Andhra Pradesh,Pomegranate,Farm Operations,Harvesting,1.64,268,1,16
+2022,Andhra Pradesh,Pomegranate,Farm Operations,Collection,0.16,268,1,16
+2022,Andhra Pradesh,Pomegranate,Farm Operations,Sorting/Grading,2.97,268,1,16
+2022,Andhra Pradesh,Pomegranate,Farm Operations,Packaging,0.21,268,1,16
+2022,Andhra Pradesh,Pomegranate,Farm Operations,Farm level storage,0.25,268,1,16
+2022,Andhra Pradesh,Pomegranate,Farm Operations,Transport,0.25,268,1,16
+2022,Andhra Pradesh,Pomegranate,Market Operations,Godown,0.21,268,1,16
+2022,Andhra Pradesh,Pomegranate,Market Operations,Wholesalers,0.84,268,1,16
+2022,Andhra Pradesh,Pomegranate,Market Operations,Retailers,1.04,268,1,16
+2022,Andhra Pradesh,Pomegranate,Market Operations,Processing unit,0.11,268,1,16
+2022,Andhra Pradesh,Pomegranate,Market Operations,Transport,1.02,268,1,16
+2022,Andhra Pradesh,Pomegranate,Market Operations,Total loss in market operations,3.21,268,1,16
+2022,Andhra Pradesh,Pomegranate,Total,Overall total loss,8.69,268,1,16
+2022,Andhra Pradesh,Sorghum,Farm Operations,Harvesting,1.38,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Collection,0.32,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Threshing,1.78,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Winnowing/Cleaning,0.35,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Drying,0.08,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Packaging,0.3,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Farm level storage,0.2,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Transport,0.08,268,1,21
+2022,Andhra Pradesh,Sorghum,Farm Operations,Total loss in farm operations,4.5,268,1,21
+2022,Andhra Pradesh,Sorghum,Market Operations,Godown,0.09,268,1,21
+2022,Andhra Pradesh,Sorghum,Market Operations,Wholesalers,0.72,268,1,21
+2022,Andhra Pradesh,Sorghum,Market Operations,Retailers,0.14,268,1,21
+2022,Andhra Pradesh,Sorghum,Market Operations,Processing unit,0.02,268,1,21
+2022,Andhra Pradesh,Sorghum,Market Operations,Transport,0.2,268,1,21
+2022,Andhra Pradesh,Sorghum,Market Operations,Total loss in market operations,1.17,268,1,21
+2022,Andhra Pradesh,Sorghum,Total,Overall total loss,5.67,268,1,21
+2022,Andhra Pradesh,Tomato,Farm Operations,Harvesting,2.99,268,1,26
+2022,Andhra Pradesh,Tomato,Farm Operations,Collection,0.68,268,1,26
+2022,Andhra Pradesh,Tomato,Farm Operations,Sorting/Grading,3.21,268,1,26
+2022,Andhra Pradesh,Tomato,Farm Operations,Packaging,0.31,268,1,26
+2022,Andhra Pradesh,Tomato,Farm Operations,Farm level storage,1.22,268,1,26
+2022,Andhra Pradesh,Tomato,Farm Operations,Transport,0.86,268,1,26
+2022,Andhra Pradesh,Tomato,Market Operations,Wholesalers,0.79,268,1,26
+2022,Andhra Pradesh,Tomato,Market Operations,Retailers,1.46,268,1,26
+2022,Andhra Pradesh,Tomato,Market Operations,Processing unit,0.13,268,1,26
+2022,Andhra Pradesh,Tomato,Market Operations,Transport,0.71,268,1,26
+2022,Andhra Pradesh,Tomato,Market Operations,Total loss in market operations,3.1,268,1,26
+2022,Andhra Pradesh,Tomato,Total,Overall total loss,12.36,268,1,26
+2022,Assam,Cabbage,Farm Operations,Harvesting,1.21,268,2,12
+2022,Assam,Cabbage,Farm Operations,Collection,0.11,268,2,12
+2022,Assam,Cabbage,Farm Operations,Sorting/Grading,2.62,268,2,12
+2022,Assam,Cabbage,Farm Operations,Packaging,0.35,268,2,12
+2022,Assam,Cabbage,Farm Operations,Farm level storage,0.11,268,2,12
+2022,Assam,Cabbage,Farm Operations,Transport,1.06,268,2,12
+2022,Assam,Cabbage,Farm Operations,Total loss in farm operations,5.46,268,2,12
+2022,Assam,Cabbage,Market Operations,Godown,0.05,268,2,12
+2022,Assam,Cabbage,Market Operations,Wholesalers,0.7,268,2,12
+2022,Assam,Cabbage,Market Operations,Retailers,1.08,268,2,12
+2022,Assam,Cabbage,Market Operations,Processing unit,0.01,268,2,12
+2022,Assam,Cabbage,Market Operations,Transport,0.07,268,2,12
+2022,Assam,Cabbage,Market Operations,Total loss in market operations,1.92,268,2,12
+2022,Assam,Cabbage,Total,Overall total loss,7.38,268,2,12
+2022,Assam,Meat,Farm Operations,Harvesting,2.45,268,2,17
+2022,Assam,Meat,Farm Operations,Total loss in farm operations,2.45,268,2,17
+2022,Assam,Meat,Market Operations,Wholesalers,0.5,268,2,17
+2022,Assam,Meat,Market Operations,Retailers,0.27,268,2,17
+2022,Assam,Meat,Market Operations,Processing unit,0.19,268,2,17
+2022,Assam,Meat,Market Operations,Transport,0.03,268,2,17
+2022,Assam,Paddy,Farm Operations,Harvesting,2.02,268,2,22
+2022,Assam,Paddy,Farm Operations,Collection,0.62,268,2,22
+2022,Assam,Paddy,Farm Operations,Threshing,1.55,268,2,22
+2022,Assam,Paddy,Farm Operations,Winnowing/Cleaning,0.57,268,2,22
+2022,Assam,Paddy,Farm Operations,Drying,0.4,268,2,22
+2022,Assam,Paddy,Farm Operations,Packaging,0.05,268,2,22
+2022,Assam,Paddy,Farm Operations,Farm level storage,0.18,268,2,22
+2022,Assam,Paddy,Farm Operations,Transport,0.09,268,2,22
+2022,Assam,Paddy,Farm Operations,Total loss in farm operations,5.48,268,2,22
+2022,Assam,Paddy,Market Operations,Godown,0.06,268,2,22
+2022,Assam,Paddy,Market Operations,Wholesalers,0.18,268,2,22
+2022,Assam,Paddy,Market Operations,Retailers,0.03,268,2,22
+2022,Assam,Paddy,Market Operations,Processing unit,0.12,268,2,22
+2022,Assam,Paddy,Market Operations,Transport,0.21,268,2,22
+2022,Assam,Paddy,Market Operations,Total loss in market operations,0.59,268,2,22
+2022,Assam,Paddy,Total,Overall total loss,6.07,268,2,22
+2022,Assam,Poultry,Farm Operations,Harvesting,2.17,269,1,12
+2022,Assam,Poultry,Farm Operations,Collection,0.09,269,1,12
+2022,Assam,Poultry,Farm Operations,Sorting/Grading,2.18,269,1,12
+2022,Assam,Poultry,Farm Operations,Packaging,0.03,269,1,12
+2022,Assam,Poultry,Farm Operations,Farm level storage,0.05,269,1,12
+2022,Assam,Poultry,Farm Operations,Transport,0.9,269,1,12
+2022,Assam,Poultry,Farm Operations,Total loss in farm operations,5.43,269,1,12
+2022,Assam,Poultry,Market Operations,Godown,0.01,269,1,12
+2022,Assam,Poultry,Market Operations,Wholesalers,0.49,269,1,12
+2022,Assam,Poultry,Market Operations,Retailers,0.41,269,1,12
+2022,Assam,Poultry,Market Operations,Processing unit,0.13,269,1,12
+2022,Assam,Poultry,Market Operations,Transport,0.64,269,1,12
+2022,Assam,Poultry,Market Operations,Total loss in market operations,1.68,269,1,12
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Harvesting,0.82,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Collection,0.27,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Winnowing/Cleaning,0.52,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Drying,0.77,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Packaging,0.42,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Farm level storage,0.29,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Transport,0.32,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Farm Operations,Total loss in farm operations,3.4,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Market Operations,Godown,0.37,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Market Operations,Wholesalers,0.16,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Market Operations,Retailers,0.21,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Market Operations,Transport,0.11,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Market Operations,Total loss in market operations,0.85,269,2,13
+2022,Andaman and Nicobar Islands,Coconut,Total,Overall total loss,4.25,269,2,13
+2022,Bihar,Bottlegourd,Farm Operations,Harvesting,1.84,269,3,12
+2022,Bihar,Bottlegourd,Farm Operations,Collection,0.45,269,3,12
+2022,Bihar,Bottlegourd,Farm Operations,Sorting/Grading,1.31,269,3,12
+2022,Bihar,Bottlegourd,Farm Operations,Packaging,0.37,269,3,12
+2022,Bihar,Bottlegourd,Farm Operations,Farm level storage,0.2,269,3,12
+2022,Bihar,Bottlegourd,Farm Operations,Transport,0.62,269,3,12
+2022,Bihar,Bottlegourd,Farm Operations,Total loss in farm operations,4.79,269,3,12
+2022,Bihar,Bottlegourd,Market Operations,Wholesalers,0.71,269,3,12
+2022,Bihar,Bottlegourd,Market Operations,Retailers,1.02,269,3,12
+2022,Bihar,Bottlegourd,Market Operations,Transport,0.82,269,3,12
+2022,Bihar,Bottlegourd,Market Operations,Total loss in market operations,2.56,269,3,12
+2022,Bihar,Bottlegourd,Total,Overall total loss,7.35,269,3,12
+2022,Bihar,Cabbage,Farm Operations,Harvesting,1.61,269,3,17
+2022,Bihar,Cabbage,Farm Operations,Collection,0.5,269,3,17
+2022,Bihar,Cabbage,Farm Operations,Sorting/Grading,3.11,269,3,17
+2022,Bihar,Cabbage,Farm Operations,Packaging,0.35,269,3,17
+2022,Bihar,Cabbage,Farm Operations,Farm level storage,0.11,269,3,17
+2022,Bihar,Cabbage,Farm Operations,Transport,1.01,269,3,17
+2022,Bihar,Cabbage,Farm Operations,Total loss in farm operations,6.7,269,3,17
+2022,Bihar,Cabbage,Market Operations,Godown,0.06,269,3,17
+2022,Bihar,Cabbage,Market Operations,Wholesalers,0.39,269,3,17
+2022,Bihar,Cabbage,Market Operations,Retailers,1.39,269,3,17
+2022,Bihar,Cabbage,Market Operations,Processing unit,0.01,269,3,17
+2022,Bihar,Cabbage,Market Operations,Transport,0.15,269,3,17
+2022,Bihar,Cabbage,Market Operations,Total loss in market operations,2.0,269,3,17
+2022,Bihar,Cabbage,Total,Overall total loss,8.7,269,3,17
+2022,Bihar,Green gram,Farm Operations,Harvesting,1.55,269,3,22
+2022,Bihar,Green gram,Farm Operations,Collection,0.64,269,3,22
+2022,Bihar,Green gram,Farm Operations,Threshing,1.51,269,3,22
+2022,Bihar,Green gram,Farm Operations,Winnowing/Cleaning,0.31,269,3,22
+2022,Bihar,Green gram,Farm Operations,Drying,0.36,269,3,22
+2022,Bihar,Green gram,Farm Operations,Packaging,0.18,269,3,22
+2022,Bihar,Green gram,Farm Operations,Farm level storage,0.47,269,3,22
+2022,Bihar,Green gram,Farm Operations,Transport,0.13,269,3,22
+2022,Bihar,Green gram,Farm Operations,Total loss in farm operations,5.14,269,3,22
+2022,Bihar,Green gram,Market Operations,Godown,0.32,269,3,22
+2022,Bihar,Green gram,Market Operations,Wholesalers,0.29,269,3,22
+2022,Bihar,Green gram,Market Operations,Retailers,0.02,269,3,22
+2022,Bihar,Green gram,Market Operations,Processing unit,0.16,269,3,22
+2022,Bihar,Green gram,Market Operations,Transport,0.13,269,3,22
+2022,Bihar,Green gram,Market Operations,Total loss in market operations,0.93,269,3,22
+2022,Bihar,Green gram,Total,Overall total loss,6.07,269,3,22
+2022,Bihar,Inland fish,Farm Operations,Harvesting,2.32,270,1,12
+2022,Bihar,Inland fish,Farm Operations,Collection,0.34,270,1,12
+2022,Bihar,Inland fish,Farm Operations,Sorting/Grading,1.62,270,1,12
+2022,Bihar,Inland fish,Farm Operations,Packaging,0.15,270,1,12
+2022,Bihar,Inland fish,Farm Operations,Farm level storage,0.1,270,1,12
+2022,Bihar,Inland fish,Farm Operations,Transport,0.18,270,1,12
+2022,Bihar,Inland fish,Farm Operations,Total loss in farm operations,4.72,270,1,12
+2022,Bihar,Inland fish,Market Operations,Wholesalers,0.36,270,1,12
+2022,Bihar,Inland fish,Market Operations,Retailers,0.8,270,1,12
+2022,Bihar,Inland fish,Market Operations,Transport,0.12,270,1,12
+2022,Bihar,Inland fish,Market Operations,Total loss in market operations,1.28,270,1,12
+2022,Bihar,Inland fish,Total,Overall total loss,5.99,270,1,12
+2022,Bihar,Mango,Farm Operations,Harvesting,2.08,270,1,17
+2022,Bihar,Mango,Farm Operations,Collection,0.47,270,1,17
+2022,Bihar,Mango,Farm Operations,Sorting/Grading,3.1,270,1,17
+2022,Bihar,Mango,Farm Operations,Packaging,0.03,270,1,17
+2022,Bihar,Mango,Farm Operations,Farm level storage,0.39,270,1,17
+2022,Bihar,Mango,Farm Operations,Transport,0.91,270,1,17
+2022,Bihar,Mango,Farm Operations,Total loss in farm operations,6.98,270,1,17
+2022,Bihar,Mango,Market Operations,Wholesalers,0.57,270,1,17
+2022,Bihar,Mango,Market Operations,Retailers,1.12,270,1,17
+2022,Bihar,Mango,Market Operations,Processing unit,0.3,270,1,17
+2022,Bihar,Mango,Market Operations,Transport,1.13,270,1,17
+2022,Bihar,Mango,Market Operations,Total loss in market operations,3.13,270,1,17
+2022,Bihar,Mango,Total,Overall total loss,10.1,270,1,17
+2022,Bihar,Paddy,Farm Operations,Harvesting,1.32,270,1,22
+2022,Bihar,Paddy,Farm Operations,Collection,0.35,270,1,22
+2022,Bihar,Paddy,Farm Operations,Threshing,0.99,270,1,22
+2022,Bihar,Paddy,Farm Operations,Winnowing/Cleaning,0.32,270,1,22
+2022,Bihar,Paddy,Farm Operations,Drying,0.42,270,1,22
+2022,Bihar,Paddy,Farm Operations,Packaging,0.24,270,1,22
+2022,Bihar,Paddy,Farm Operations,Farm level storage,0.32,270,1,22
+2022,Bihar,Paddy,Farm Operations,Transport,0.09,270,1,22
+2022,Bihar,Paddy,Farm Operations,Total loss in farm operations,4.04,270,1,22
+2022,Bihar,Paddy,Market Operations,Godown,0.07,270,1,22
+2022,Bihar,Paddy,Market Operations,Wholesalers,0.23,270,1,22
+2022,Bihar,Paddy,Market Operations,Retailers,0.04,270,1,22
+2022,Bihar,Paddy,Market Operations,Processing unit,0.15,270,1,22
+2022,Bihar,Paddy,Market Operations,Transport,0.11,270,1,22
+2022,Bihar,Paddy,Market Operations,Total loss in market operations,0.6,270,1,22
+2022,Bihar,Paddy,Total,Overall total loss,4.65,270,1,22
+2022,Bihar,Potato,Farm Operations,Harvesting,2.11,270,1,27
+2022,Bihar,Potato,Farm Operations,Collection,0.29,270,1,27
+2022,Bihar,Potato,Farm Operations,Sorting/Grading,2.19,270,1,27
+2022,Bihar,Potato,Farm Operations,Packaging,0.03,270,1,27
+2022,Bihar,Potato,Farm Operations,Farm level storage,0.12,270,1,27
+2022,Bihar,Potato,Farm Operations,Transport,0.65,270,1,27
+2022,Bihar,Potato,Farm Operations,Total loss in farm operations,5.4,270,1,27
+2022,Bihar,Potato,Market Operations,Godown,0.07,270,1,27
+2022,Bihar,Potato,Market Operations,Wholesalers,0.25,270,1,27
+2022,Bihar,Potato,Market Operations,Retailers,0.11,270,1,27
+2022,Bihar,Potato,Market Operations,Processing unit,0.04,270,1,27
+2022,Bihar,Potato,Market Operations,Transport,0.25,270,1,27
+2022,Bihar,Potato,Market Operations,Total loss in market operations,0.71,270,1,27
+2022,Bihar,Potato,Total,Overall total loss,6.11,270,1,27
+2022,Bihar,Sugarcane,Farm Operations,Harvesting,1.31,270,1,32
+2022,Bihar,Sugarcane,Farm Operations,Collection,1.86,270,1,32
+2022,Bihar,Sugarcane,Farm Operations,Winnowing/Cleaning,2.24,270,1,32
+2022,Bihar,Sugarcane,Farm Operations,Transport,2.31,270,1,32
+2022,Bihar,Sugarcane,Farm Operations,Total loss in farm operations,7.73,270,1,32
+2022,Bihar,Sugarcane,Market Operations,Processing unit,0.23,270,1,32
+2022,Bihar,Sugarcane,Market Operations,Transport,1.02,270,1,32
+2022,Bihar,Sugarcane,Market Operations,Total loss in market operations,1.26,270,1,32
+2022,Bihar,Sugarcane,Total,Overall total loss,8.99,270,1,32
+2022,Chhattisgarh,Radish,Farm Operations,Harvesting,1.48,270,2,16
+2022,Chhattisgarh,Radish,Farm Operations,Collection,0.04,270,2,16
+2022,Chhattisgarh,Radish,Farm Operations,Sorting/Grading,0.19,270,2,16
+2022,Chhattisgarh,Radish,Farm Operations,Packaging,0.46,270,2,16
+2022,Chhattisgarh,Radish,Farm Operations,Farm level storage,0.13,270,2,16
+2022,Chhattisgarh,Radish,Farm Operations,Transport,0.11,270,2,16
+2022,Chhattisgarh,Radish,Farm Operations,Total loss in farm operations,2.4,270,2,16
+2022,Chhattisgarh,Radish,Market Operations,Wholesalers,1.34,270,2,16
+2022,Chhattisgarh,Radish,Market Operations,Retailers,0.84,270,2,16
+2022,Chhattisgarh,Radish,Market Operations,Transport,2.07,270,2,16
+2022,Chhattisgarh,Radish,Market Operations,Total loss in market operations,4.26,270,2,16
+2022,Chhattisgarh,Radish,Total,Overall total loss,6.66,270,2,16
+2022,Gujarat,Green gram,Farm Operations,Harvesting,1.76,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Collection,0.65,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Threshing,1.5,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Drying,0.36,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Packaging,0.13,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Farm level storage,0.28,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Transport,0.1,271,1,5
+2022,Gujarat,Green gram,Farm Operations,Total loss in farm operations,5.08,271,1,5
+2022,Gujarat,Green gram,Market Operations,Godown,0.32,271,1,5
+2022,Gujarat,Green gram,Market Operations,Wholesalers,0.28,271,1,5
+2022,Gujarat,Green gram,Market Operations,Retailers,0.02,271,1,5
+2022,Gujarat,Green gram,Market Operations,Processing unit,0.15,271,1,5
+2022,Gujarat,Green gram,Market Operations,Transport,0.01,271,1,5
+2022,Gujarat,Green gram,Market Operations,Total loss in market operations,0.77,271,1,5
+2022,Gujarat,Green gram,Total,Overall total loss,5.85,271,1,5
+2022,Gujarat,Tomato,Farm Operations,Harvesting,2.69,271,1,10
+2022,Gujarat,Tomato,Farm Operations,Collection,0.44,271,1,10
+2022,Gujarat,Tomato,Farm Operations,Sorting/Grading,3.24,271,1,10
+2022,Gujarat,Tomato,Farm Operations,Packaging,0.26,271,1,10
+2022,Gujarat,Tomato,Farm Operations,Farm level storage,0.24,271,1,10
+2022,Gujarat,Tomato,Farm Operations,Transport,0.77,271,1,10
+2022,Gujarat,Tomato,Farm Operations,Total loss in farm operations,7.64,271,1,10
+2022,Gujarat,Tomato,Market Operations,Wholesalers,0.82,271,1,10
+2022,Gujarat,Tomato,Market Operations,Retailers,1.22,271,1,10
+2022,Gujarat,Tomato,Market Operations,Processing unit,0.19,271,1,10
+2022,Gujarat,Tomato,Market Operations,Transport,1.11,271,1,10
+2022,Gujarat,Tomato,Market Operations,Total loss in market operations,3.34,271,1,10
+2022,Gujarat,Tomato,Total,Overall total loss,10.97,271,1,10
+2022,Gujarat,Groundnut,Farm Operations,Harvesting,1.85,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Collection,0.32,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Threshing,1.24,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Drying,0.14,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Packaging,0.16,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Farm level storage,0.06,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Transport,0.11,271,1,15
+2022,Gujarat,Groundnut,Farm Operations,Total loss in farm operations,4.27,271,1,15
+2022,Gujarat,Groundnut,Market Operations,Godown,0.05,271,1,15
+2022,Gujarat,Groundnut,Market Operations,Wholesalers,0.43,271,1,15
+2022,Gujarat,Groundnut,Market Operations,Retailers,0.09,271,1,15
+2022,Gujarat,Groundnut,Market Operations,Processing unit,0.29,271,1,15
+2022,Gujarat,Groundnut,Market Operations,Transport,0.19,271,1,15
+2022,Gujarat,Groundnut,Market Operations,Total loss in market operations,1.04,271,1,15
+2022,Gujarat,Groundnut,Total,Overall total loss,5.31,271,1,15
+2022,Gujarat,Sapota,Farm Operations,Harvesting,1.79,271,1,20
+2022,Gujarat,Sapota,Farm Operations,Collection,0.23,271,1,20
+2022,Gujarat,Sapota,Farm Operations,Sorting/Grading,1.46,271,1,20
+2022,Gujarat,Sapota,Farm Operations,Packaging,0.21,271,1,20
+2022,Gujarat,Sapota,Farm Operations,Farm level storage,0.02,271,1,20
+2022,Gujarat,Sapota,Farm Operations,Transport,0.96,271,1,20
+2022,Gujarat,Sapota,Farm Operations,Total loss in farm operations,4.67,271,1,20
+2022,Gujarat,Sapota,Market Operations,Godown,0.13,271,1,20
+2022,Gujarat,Sapota,Market Operations,Wholesalers,0.72,271,1,20
+2022,Gujarat,Sapota,Market Operations,Retailers,0.91,271,1,20
+2022,Gujarat,Sapota,Market Operations,Processing unit,0.03,271,1,20
+2022,Gujarat,Sapota,Market Operations,Transport,1.01,271,1,20
+2022,Gujarat,Sapota,Market Operations,Total loss in market operations,2.8,271,1,20
+2022,Gujarat,Sapota,Total,Overall total loss,7.47,271,1,20
+2022,Gujarat,Cauliflower,Farm Operations,Harvesting,1.85,271,1,25
+2022,Gujarat,Cauliflower,Farm Operations,Collection,0.16,271,1,25
+2022,Gujarat,Cauliflower,Farm Operations,Sorting/Grading,2.42,271,1,25
+2022,Gujarat,Cauliflower,Farm Operations,Packaging,0.66,271,1,25
+2022,Gujarat,Cauliflower,Farm Operations,Transport,1.31,271,1,25
+2022,Gujarat,Cauliflower,Farm Operations,Total loss in farm operations,6.52,271,1,25
+2022,Gujarat,Cauliflower,Market Operations,Godown,0.02,271,1,25
+2022,Gujarat,Cauliflower,Market Operations,Wholesalers,0.47,271,1,25
+2022,Gujarat,Cauliflower,Market Operations,Retailers,0.17,271,1,25
+2022,Gujarat,Cauliflower,Market Operations,Processing unit,0.01,271,1,25
+2022,Gujarat,Cauliflower,Market Operations,Transport,0.8,271,1,25
+2022,Gujarat,Cauliflower,Market Operations,Total loss in market operations,1.47,271,1,25
+2022,Gujarat,Cauliflower,Total,Overall total loss,7.99,271,1,25
+2022,Gujarat,Onion,Farm Operations,Harvesting,2.94,271,1,30
+2022,Gujarat,Onion,Farm Operations,Collection,0.49,271,1,30
+2022,Gujarat,Onion,Farm Operations,Sorting/Grading,1.23,271,1,30
+2022,Gujarat,Onion,Farm Operations,Packaging,0.15,271,1,30
+2022,Gujarat,Onion,Farm Operations,Farm level storage,0.77,271,1,30
+2022,Gujarat,Onion,Farm Operations,Transport,0.24,271,1,30
+2022,Gujarat,Onion,Farm Operations,Total loss in farm operations,5.82,271,1,30
+2022,Gujarat,Onion,Market Operations,Godown,0.22,271,1,30
+2022,Gujarat,Onion,Market Operations,Wholesalers,0.49,271,1,30
+2022,Gujarat,Onion,Market Operations,Retailers,0.57,271,1,30
+2022,Gujarat,Onion,Market Operations,Processing unit,0.01,271,1,30
+2022,Gujarat,Onion,Market Operations,Transport,0.46,271,1,30
+2022,Gujarat,Onion,Market Operations,Total loss in market operations,1.75,271,1,30
+2022,Gujarat,Onion,Total,Overall total loss,7.57,271,1,30
+2022,Gujarat,Potato,Farm Operations,Harvesting,2.26,271,1,35
+2022,Gujarat,Potato,Farm Operations,Collection,0.27,271,1,35
+2022,Gujarat,Potato,Farm Operations,Sorting/Grading,1.85,271,1,35
+2022,Gujarat,Potato,Farm Operations,Packaging,0.04,271,1,35
+2022,Gujarat,Potato,Farm Operations,Farm level storage,0.12,271,1,35
+2022,Gujarat,Potato,Farm Operations,Transport,0.57,271,1,35
+2022,Gujarat,Potato,Farm Operations,Total loss in farm operations,5.11,271,1,35
+2022,Gujarat,Potato,Market Operations,Godown,0.14,271,1,35
+2022,Gujarat,Potato,Market Operations,Wholesalers,0.23,271,1,35
+2022,Gujarat,Potato,Market Operations,Retailers,0.11,271,1,35
+2022,Gujarat,Potato,Market Operations,Processing unit,0.02,271,1,35
+2022,Gujarat,Potato,Market Operations,Transport,0.29,271,1,35
+2022,Gujarat,Potato,Market Operations,Total loss in market operations,0.79,271,1,35
+2022,Gujarat,Potato,Total,Overall total loss,5.9,271,1,35
+2022,Gujarat,Maize,Farm Operations,Harvesting,0.48,271,1,40
+2022,Gujarat,Maize,Farm Operations,Collection,0.65,271,1,40
+2022,Gujarat,Maize,Farm Operations,Threshing,0.52,271,1,40
+2022,Gujarat,Maize,Farm Operations,Drying,0.61,271,1,40
+2022,Gujarat,Maize,Farm Operations,Packaging,0.51,271,1,40
+2022,Gujarat,Maize,Farm Operations,Farm level storage,0.11,271,1,40
+2022,Gujarat,Maize,Farm Operations,Transport,0.5,271,1,40
+2022,Gujarat,Maize,Farm Operations,Total loss in farm operations,3.56,271,1,40
+2022,Gujarat,Maize,Market Operations,Godown,0.002,271,1,40
+2022,Gujarat,Maize,Market Operations,Wholesalers,0.35,271,1,40
+2022,Gujarat,Maize,Market Operations,Retailers,0.92,271,1,40
+2022,Gujarat,Maize,Market Operations,Processing unit,0.31,271,1,40
+2022,Gujarat,Maize,Market Operations,Transport,0.04,271,1,40
+2022,Gujarat,Maize,Market Operations,Total loss in market operations,1.62,271,1,40
+2022,Gujarat,Maize,Total,Overall total loss,5.18,271,1,40
+2022,Gujarat,Brinjal,Farm Operations,Harvesting,1.84,271,1,45
+2022,Gujarat,Brinjal,Farm Operations,Collection,0.95,271,1,45
+2022,Gujarat,Brinjal,Farm Operations,Sorting/Grading,0.46,271,1,45
+2022,Gujarat,Brinjal,Farm Operations,Packaging,0.27,271,1,45
+2022,Gujarat,Brinjal,Farm Operations,Farm level storage,0.32,271,1,45
+2022,Gujarat,Brinjal,Farm Operations,Transport,0.59,271,1,45
+2022,Gujarat,Brinjal,Farm Operations,Total loss in farm operations,4.43,271,1,45
+2022,Gujarat,Brinjal,Market Operations,Wholesalers,0.98,271,1,45
+2022,Gujarat,Brinjal,Market Operations,Retailers,1.22,271,1,45
+2022,Gujarat,Brinjal,Market Operations,Transport,0.37,271,1,45
+2022,Gujarat,Brinjal,Market Operations,Total loss in market operations,2.56,271,1,45
+2022,Gujarat,Brinjal,Total,Overall total loss,6.99,271,1,45
+2022,Gujarat,Black gram,Farm Operations,Harvesting,1.08,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Collection,0.65,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Threshing,0.95,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Drying,0.26,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Packaging,0.13,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Farm level storage,0.3,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Transport,0.17,271,1,50
+2022,Gujarat,Black gram,Farm Operations,Total loss in farm operations,4.05,271,1,50
+2022,Gujarat,Black gram,Market Operations,Godown,0.07,271,1,50
+2022,Gujarat,Black gram,Market Operations,Wholesalers,0.2,271,1,50
+2022,Gujarat,Black gram,Market Operations,Retailers,0.24,271,1,50
+2022,Gujarat,Black gram,Market Operations,Processing unit,0.05,271,1,50
+2022,Gujarat,Black gram,Market Operations,Transport,0.19,271,1,50
+2022,Gujarat,Black gram,Market Operations,Total loss in market operations,0.75,271,1,50
+2022,Gujarat,Black gram,Total,Overall total loss,4.8,271,1,50
+2022,Gujarat,Paddy,Farm Operations,Harvesting,1.01,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Collection,0.45,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Threshing,0.72,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Drying,0.29,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Packaging,0.28,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Farm level storage,0.32,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Transport,0.41,272,1,5
+2022,Gujarat,Paddy,Farm Operations,Total loss in farm operations,4.02,272,1,5
+2022,Gujarat,Paddy,Market Operations,Godown,0.05,272,1,5
+2022,Gujarat,Paddy,Market Operations,Wholesalers,0.27,272,1,5
+2022,Gujarat,Paddy,Market Operations,Retailers,0.05,272,1,5
+2022,Gujarat,Paddy,Market Operations,Processing unit,0.09,272,1,5
+2022,Gujarat,Paddy,Market Operations,Transport,0.06,272,1,5
+2022,Gujarat,Paddy,Market Operations,Total loss in market operations,0.52,272,1,5
+2022,Gujarat,Paddy,Total,Overall total loss,4.54,272,1,5
+2022,Haryana,Bajra,Farm Operations,Harvesting,0.69,272,2,7
+2022,Haryana,Bajra,Farm Operations,Collection,0.29,272,2,7
+2022,Haryana,Bajra,Farm Operations,Threshing,0.83,272,2,7
+2022,Haryana,Bajra,Farm Operations,Winnowing/Cleaning,0.15,272,2,7
+2022,Haryana,Bajra,Farm Operations,Drying,0.22,272,2,7
+2022,Haryana,Bajra,Farm Operations,Packaging,0.24,272,2,7
+2022,Haryana,Bajra,Farm Operations,Farm level storage,0.31,272,2,7
+2022,Haryana,Bajra,Farm Operations,Transport,0.24,272,2,7
+2022,Haryana,Bajra,Farm Operations,Total loss in farm operations,2.96,272,2,7
+2022,Haryana,Bajra,Market Operations,Godown,0.14,272,2,7
+2022,Haryana,Bajra,Market Operations,Wholesalers,0.05,272,2,7
+2022,Haryana,Bajra,Market Operations,Retailers,0.16,272,2,7
+2022,Haryana,Bajra,Market Operations,Processing unit,0.14,272,2,7
+2022,Haryana,Bajra,Market Operations,Transport,0.32,272,2,7
+2022,Haryana,Bajra,Market Operations,Total loss in market operations,0.81,272,2,7
+2022,Haryana,Bajra,Total,Overall total loss,3.77,272,2,7
+2022,Haryana,Cottonseed,Farm Operations,Harvesting,1.7,272,2,12
+2022,Haryana,Cottonseed,Farm Operations,Collection,0.2,272,2,12
+2022,Haryana,Cottonseed,Farm Operations,Drying,0.05,272,2,12
+2022,Haryana,Cottonseed,Farm Operations,Packaging,0.03,272,2,12
+2022,Haryana,Cottonseed,Farm Operations,Farm level storage,0.03,272,2,12
+2022,Haryana,Cottonseed,Farm Operations,Transport,0.28,272,2,12
+2022,Haryana,Cottonseed,Farm Operations,Total loss in farm operations,2.28,272,2,12
+2022,Haryana,Cottonseed,Market Operations,Godown,0.01,272,2,12
+2022,Haryana,Cottonseed,Market Operations,Wholesalers,0.16,272,2,12
+2022,Haryana,Cottonseed,Market Operations,Retailers,0.02,272,2,12
+2022,Haryana,Cottonseed,Market Operations,Processing unit,0.03,272,2,12
+2022,Haryana,Cottonseed,Market Operations,Transport,0.05,272,2,12
+2022,Haryana,Cottonseed,Market Operations,Total loss in market operations,0.27,272,2,12
+2022,Haryana,Cottonseed,Total,Overall total loss,2.55,272,2,12
+2022,Haryana,Meat,Market Operations,Wholesalers,0.15,272,2,18
+2022,Haryana,Meat,Market Operations,Retailers,0.2,272,2,18
+2022,Haryana,Meat,Market Operations,Processing unit,0.39,272,2,18
+2022,Haryana,Meat,Market Operations,Transport,0.03,272,2,18
+2022,Haryana,Meat,Market Operations,Total loss in market operations,0.76,272,2,18
+2022,Haryana,Mushroom,Farm Operations,Harvesting,0.1,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Collection,0.11,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Sorting/Grading,4.24,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Trimming,0.04,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Winnowing/Cleaning,0.04,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Packaging,0.24,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Farm level storage,0.06,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Transport,0.004,272,2,22
+2022,Haryana,Mushroom,Farm Operations,Total loss in farm operations,4.83,272,2,22
+2022,Haryana,Mushroom,Market Operations,Wholesalers,0.32,272,2,22
+2022,Haryana,Mushroom,Market Operations,Retailers,0.22,272,2,22
+2022,Haryana,Mushroom,Market Operations,Transport,0.54,272,2,22
+2022,Haryana,Mushroom,Market Operations,Total loss in market operations,1.08,272,2,22
+2022,Haryana,Mushroom,Total,Overall total loss,5.91,272,2,22
+2022,Haryana,Poultry Meat,Farm Operations,Harvesting,1.58,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Collection,0.53,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Threshing,1.33,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Winnowing/Cleaning,0.44,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Drying,0.14,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Packaging,0.12,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Farm level storage,0.01,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Transport,0.05,272,2,26
+2022,Haryana,Poultry Meat,Farm Operations,Total loss in farm operations,4.2,272,2,26
+2022,Haryana,Poultry Meat,Market Operations,Godown,0.02,272,2,26
+2022,Haryana,Poultry Meat,Market Operations,Wholesalers,0.03,272,2,26
+2022,Haryana,Poultry Meat,Market Operations,Retailers,0.03,272,2,26
+2022,Haryana,Poultry Meat,Market Operations,Processing unit,0.04,272,2,26
+2022,Haryana,Poultry Meat,Market Operations,Transport,0.2,272,2,26
+2022,Haryana,Poultry Meat,Market Operations,Total loss in market operations,0.32,272,2,26
+2022,Haryana,Sugarcane,Farm Operations,Harvesting,0.96,272,2,29
+2022,Haryana,Sugarcane,Farm Operations,Collection,0.47,272,2,29
+2022,Haryana,Sugarcane,Farm Operations,Winnowing/Cleaning,1.08,272,2,29
+2022,Haryana,Sugarcane,Farm Operations,Transport,2.86,272,2,29
+2022,Haryana,Sugarcane,Farm Operations,Total loss in farm operations,5.37,272,2,29
+2022,Haryana,Sugarcane,Market Operations,Processing unit,0.32,272,2,29
+2022,Haryana,Sugarcane,Market Operations,Transport,0.65,272,2,29
+2022,Haryana,Sugarcane,Market Operations,Total loss in market operations,0.97,272,2,29
+2022,Haryana,Sugarcane,Total,Overall total loss,6.34,272,2,29
+2022,Haryana,Wheat,Farm Operations,Harvesting,1.62,272,2,34
+2022,Haryana,Wheat,Farm Operations,Collection,0.56,272,2,34
+2022,Haryana,Wheat,Farm Operations,Threshing,1.0,272,2,34
+2022,Haryana,Wheat,Farm Operations,Winnowing/Cleaning,0.03,272,2,34
+2022,Haryana,Wheat,Farm Operations,Drying,0.03,272,2,34
+2022,Haryana,Wheat,Farm Operations,Packaging,0.005,272,2,34
+2022,Haryana,Wheat,Farm Operations,Farm level storage,0.26,272,2,34
+2022,Haryana,Wheat,Farm Operations,Transport,0.13,272,2,34
+2022,Haryana,Wheat,Farm Operations,Total loss in farm operations,3.64,272,2,34
+2022,Haryana,Wheat,Market Operations,Godown,0.001,272,2,34
+2022,Haryana,Wheat,Market Operations,Wholesalers,0.21,272,2,34
+2022,Haryana,Wheat,Market Operations,Retailers,0.14,272,2,34
+2022,Haryana,Wheat,Market Operations,Processing unit,0.38,272,2,34
+2022,Haryana,Wheat,Market Operations,Transport,0.004,272,2,34
+2022,Haryana,Wheat,Market Operations,Total loss in market operations,0.73,272,2,34
+2022,Haryana,Wheat,Total,Overall total loss,4.37,272,2,34
+2022,Himachal Pradesh,Capsicum,Farm Operations,Harvesting,1.64,273,1,10
+2022,Himachal Pradesh,Capsicum,Farm Operations,Collection,0.07,273,1,10
+2022,Himachal Pradesh,Capsicum,Farm Operations,Sorting/Grading,0.74,273,1,10
+2022,Himachal Pradesh,Capsicum,Farm Operations,Packaging,0.11,273,1,10
+2022,Himachal Pradesh,Capsicum,Farm Operations,Farm level storage,0.005,273,1,10
+2022,Himachal Pradesh,Capsicum,Farm Operations,Transport,0.58,273,1,10
+2022,Himachal Pradesh,Capsicum,Farm Operations,Total loss in farm operations,3.14,273,1,10
+2022,Himachal Pradesh,Capsicum,Market Operations,Wholesalers,1.0,273,1,10
+2022,Himachal Pradesh,Capsicum,Market Operations,Retailers,0.61,273,1,10
+2022,Himachal Pradesh,Capsicum,Market Operations,Transport,1.0,273,1,10
+2022,Himachal Pradesh,Capsicum,Market Operations,Total loss in market operations,2.61,273,1,10
+2022,Himachal Pradesh,Capsicum,Total,Overall total loss,5.74,273,1,10
+2022,Himachal Pradesh,Mushroom,Farm Operations,Harvesting,0.82,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Collection,0.09,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Sorting/Grading,3.36,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Trimming,0.39,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Winnowing/Cleaning,0.08,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Packaging,0.03,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Farm level storage,0.1,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Transport,0.11,273,1,15
+2022,Himachal Pradesh,Mushroom,Farm Operations,Total loss in farm operations,4.98,273,1,15
+2022,Himachal Pradesh,Mushroom,Market Operations,Wholesalers,0.36,273,1,15
+2022,Himachal Pradesh,Mushroom,Market Operations,Retailers,0.26,273,1,15
+2022,Himachal Pradesh,Mushroom,Market Operations,Transport,0.4,273,1,15
+2022,Himachal Pradesh,Mushroom,Market Operations,Total loss in market operations,1.02,273,1,15
+2022,Himachal Pradesh,Mushroom,Total,Overall total loss,6.01,273,1,15
+2022,Himachal Pradesh,Maize,Farm Operations,Harvesting,0.53,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Collection,0.07,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Threshing,1.05,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Winnowing/Cleaning,0.12,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Drying,0.04,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Packaging,0.05,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Farm level storage,0.04,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Transport,0.04,273,1,20
+2022,Himachal Pradesh,Maize,Farm Operations,Total loss in farm operations,1.94,273,1,20
+2022,Himachal Pradesh,Maize,Market Operations,Godown,0.001,273,1,20
+2022,Himachal Pradesh,Maize,Market Operations,Wholesalers,0.05,273,1,20
+2022,Himachal Pradesh,Maize,Market Operations,Retailers,0.05,273,1,20
+2022,Himachal Pradesh,Maize,Market Operations,Processing unit,0.06,273,1,20
+2022,Himachal Pradesh,Maize,Market Operations,Transport,0.18,273,1,20
+2022,Himachal Pradesh,Maize,Market Operations,Total loss in market operations,0.33,273,1,20
+2022,Karnataka,Beans,Farm Operations,Harvesting,1.78,274,1,7
+2022,Karnataka,Beans,Farm Operations,Collection,0.58,274,1,7
+2022,Karnataka,Beans,Farm Operations,Sorting/Grading,1.34,274,1,7
+2022,Karnataka,Beans,Farm Operations,Packaging,0.35,274,1,7
+2022,Karnataka,Beans,Farm Operations,Farm level storage,0.14,274,1,7
+2022,Karnataka,Beans,Farm Operations,Transport,0.24,274,1,7
+2022,Karnataka,Beans,Farm Operations,Total loss in farm operations,4.42,274,1,7
+2022,Karnataka,Beans,Market Operations,Godown,0.13,274,1,7
+2022,Karnataka,Beans,Market Operations,Wholesalers,0.4,274,1,7
+2022,Karnataka,Beans,Market Operations,Retailers,0.91,274,1,7
+2022,Karnataka,Beans,Market Operations,Transport,1.48,274,1,7
+2022,Karnataka,Beans,Market Operations,Total loss in market operations,2.91,274,1,7
+2022,Karnataka,Beans,Total,Overall total loss,7.33,274,1,7
+2022,Karnataka,Capsicum,Farm Operations,Harvesting,1.24,274,1,12
+2022,Karnataka,Capsicum,Farm Operations,Collection,0.3,274,1,12
+2022,Karnataka,Capsicum,Farm Operations,Sorting/Grading,0.87,274,1,12
+2022,Karnataka,Capsicum,Farm Operations,Packaging,0.37,274,1,12
+2022,Karnataka,Capsicum,Farm Operations,Farm level storage,0.006,274,1,12
+2022,Karnataka,Capsicum,Farm Operations,Transport,0.28,274,1,12
+2022,Karnataka,Capsicum,Farm Operations,Total loss in farm operations,3.06,274,1,12
+2022,Karnataka,Capsicum,Market Operations,Wholesalers,1.15,274,1,12
+2022,Karnataka,Capsicum,Market Operations,Retailers,0.73,274,1,12
+2022,Karnataka,Capsicum,Market Operations,Transport,0.8,274,1,12
+2022,Karnataka,Capsicum,Market Operations,Total loss in market operations,2.68,274,1,12
+2022,Karnataka,Capsicum,Total,Overall total loss,5.75,274,1,12
+2022,Karnataka,Coconut,Farm Operations,Harvesting,1.29,274,1,17
+2022,Karnataka,Coconut,Farm Operations,Collection,0.21,274,1,17
+2022,Karnataka,Coconut,Farm Operations,Drying,0.36,274,1,17
+2022,Karnataka,Coconut,Farm Operations,Packaging,0.18,274,1,17
+2022,Karnataka,Coconut,Farm Operations,Farm level storage,0.6,274,1,17
+2022,Karnataka,Coconut,Farm Operations,Transport,0.08,274,1,17
+2022,Karnataka,Coconut,Farm Operations,Total loss in farm operations,3.07,274,1,17
+2022,Karnataka,Coconut,Market Operations,Godown,0.04,274,1,17
+2022,Karnataka,Coconut,Market Operations,Wholesalers,0.01,274,1,17
+2022,Karnataka,Coconut,Market Operations,Retailers,0.07,274,1,17
+2022,Karnataka,Coconut,Market Operations,Processing unit,0.13,274,1,17
+2022,Karnataka,Coconut,Market Operations,Transport,0.41,274,1,17
+2022,Karnataka,Coconut,Market Operations,Total loss in market operations,0.65,274,1,17
+2022,Karnataka,Coconut,Total,Overall total loss,3.72,274,1,17
+2022,Karnataka,Grapes,Farm Operations,Harvesting,1.8,274,1,22
+2022,Karnataka,Grapes,Farm Operations,Collection,0.34,274,1,22
+2022,Karnataka,Grapes,Farm Operations,Sorting/Grading,2.45,274,1,22
+2022,Karnataka,Grapes,Farm Operations,Packaging,0.12,274,1,22
+2022,Karnataka,Grapes,Farm Operations,Farm level storage,0.38,274,1,22
+2022,Karnataka,Grapes,Farm Operations,Transport,0.65,274,1,22
+2022,Karnataka,Grapes,Farm Operations,Total loss in farm operations,5.75,274,1,22
+2022,Karnataka,Grapes,Market Operations,Godown,0.01,274,1,22
+2022,Karnataka,Grapes,Market Operations,Wholesalers,0.55,274,1,22
+2022,Karnataka,Grapes,Market Operations,Retailers,0.99,274,1,22
+2022,Karnataka,Grapes,Market Operations,Processing unit,0.09,274,1,22
+2022,Karnataka,Grapes,Market Operations,Transport,0.63,274,1,22
+2022,Karnataka,Grapes,Market Operations,Total loss in market operations,2.28,274,1,22
+2022,Karnataka,Grapes,Total,Overall total loss,8.02,274,1,22
+2022,Karnataka,Maize,Farm Operations,Harvesting,0.47,274,1,27
+2022,Karnataka,Maize,Farm Operations,Collection,0.06,274,1,27
+2022,Karnataka,Maize,Farm Operations,Threshing,0.72,274,1,27
+2022,Karnataka,Maize,Farm Operations,Drying,0.1,274,1,27
+2022,Karnataka,Maize,Farm Operations,Packaging,0.02,274,1,27
+2022,Karnataka,Maize,Farm Operations,Farm level storage,0.18,274,1,27
+2022,Karnataka,Maize,Farm Operations,Transport,0.03,274,1,27
+2022,Karnataka,Maize,Farm Operations,Total loss in farm operations,1.64,274,1,27
+2022,Karnataka,Maize,Market Operations,Godown,0.003,274,1,27
+2022,Karnataka,Maize,Market Operations,Wholesalers,0.23,274,1,27
+2022,Karnataka,Maize,Market Operations,Retailers,1.88,274,1,27
+2022,Karnataka,Maize,Market Operations,Processing unit,0.32,274,1,27
+2022,Karnataka,Maize,Market Operations,Transport,0.32,274,1,27
+2022,Karnataka,Maize,Market Operations,Total loss in market operations,2.76,274,1,27
+2022,Karnataka,Maize,Total,Overall total loss,4.4,274,1,27
+2022,Karnataka,Onion,Farm Operations,Harvesting,2.85,274,1,32
+2022,Karnataka,Onion,Farm Operations,Collection,0.51,274,1,32
+2022,Karnataka,Onion,Farm Operations,Sorting/Grading,1.29,274,1,32
+2022,Karnataka,Onion,Farm Operations,Packaging,0.29,274,1,32
+2022,Karnataka,Onion,Farm Operations,Farm level storage,1.37,274,1,32
+2022,Karnataka,Onion,Farm Operations,Transport,0.68,274,1,32
+2022,Karnataka,Onion,Farm Operations,Total loss in farm operations,7.0,274,1,32
+2022,Karnataka,Onion,Market Operations,Godown,0.3,274,1,32
+2022,Karnataka,Onion,Market Operations,Wholesalers,0.53,274,1,32
+2022,Karnataka,Onion,Market Operations,Retailers,0.59,274,1,32
+2022,Karnataka,Onion,Market Operations,Processing unit,0.02,274,1,32
+2022,Karnataka,Onion,Market Operations,Transport,0.25,274,1,32
+2022,Karnataka,Onion,Market Operations,Total loss in market operations,1.69,274,1,32
+2022,Karnataka,Onion,Total,Overall total loss,8.7,274,1,32
+2022,Karnataka,Pineapple,Farm Operations,Harvesting,1.19,274,1,37
+2022,Karnataka,Pineapple,Farm Operations,Collection,0.04,274,1,37
+2022,Karnataka,Pineapple,Farm Operations,Sorting/Grading,0.71,274,1,37
+2022,Karnataka,Pineapple,Farm Operations,Packaging,0.04,274,1,37
+2022,Karnataka,Pineapple,Farm Operations,Farm level storage,0.04,274,1,37
+2022,Karnataka,Pineapple,Farm Operations,Transport,0.02,274,1,37
+2022,Karnataka,Pineapple,Farm Operations,Total loss in farm operations,2.04,274,1,37
+2022,Karnataka,Pineapple,Market Operations,Godown,0.03,274,1,37
+2022,Karnataka,Pineapple,Market Operations,Wholesalers,0.63,274,1,37
+2022,Karnataka,Pineapple,Market Operations,Retailers,0.45,274,1,37
+2022,Karnataka,Pineapple,Market Operations,Processing unit,0.11,274,1,37
+2022,Karnataka,Pineapple,Market Operations,Transport,0.47,274,1,37
+2022,Karnataka,Pineapple,Market Operations,Total loss in market operations,1.69,274,1,37
+2022,Karnataka,Pineapple,Total,Overall total loss,3.73,274,1,37
+2022,Karnataka,Safflower,Farm Operations,Harvesting,1.04,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Collection,0.41,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Threshing,0.49,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Drying,0.14,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Packaging,0.17,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Farm level storage,0.01,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Transport,0.15,274,1,42
+2022,Karnataka,Safflower,Farm Operations,Total loss in farm operations,2.68,274,1,42
+2022,Karnataka,Safflower,Market Operations,Godown,0.02,274,1,42
+2022,Karnataka,Safflower,Market Operations,Wholesalers,0.15,274,1,42
+2022,Karnataka,Safflower,Market Operations,Retailers,0.04,274,1,42
+2022,Karnataka,Safflower,Market Operations,Processing unit,0.08,274,1,42
+2022,Karnataka,Safflower,Market Operations,Transport,0.13,274,1,42
+2022,Karnataka,Safflower,Market Operations,Total loss in market operations,0.42,274,1,42
+2022,Karnataka,Safflower,Total,Overall total loss,3.1,274,1,42
+2022,Karnataka,Soybean,Farm Operations,Harvesting,2.39,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Collection,0.88,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Threshing,0.89,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Drying,0.13,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Packaging,0.24,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Farm level storage,0.87,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Transport,0.16,274,1,47
+2022,Karnataka,Soybean,Farm Operations,Total loss in farm operations,5.91,274,1,47
+2022,Karnataka,Soybean,Market Operations,Godown,0.21,274,1,47
+2022,Karnataka,Soybean,Market Operations,Wholesalers,0.01,274,1,47
+2022,Karnataka,Soybean,Market Operations,Retailers,0.22,274,1,47
+2022,Karnataka,Soybean,Market Operations,Processing unit,0.11,274,1,47
+2022,Karnataka,Soybean,Market Operations,Transport,0.16,274,1,47
+2022,Karnataka,Soybean,Market Operations,Total loss in market operations,0.72,274,1,47
+2022,Karnataka,Soybean,Total,Overall total loss,6.63,274,1,47
+2022,Karnataka,Sunflower,Farm Operations,Harvesting,0.85,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Collection,0.35,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Threshing,1.41,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Drying,0.09,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Packaging,0.13,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Farm level storage,0.04,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Transport,0.1,275,1,5
+2022,Karnataka,Sunflower,Farm Operations,Total loss in farm operations,3.16,275,1,5
+2022,Karnataka,Sunflower,Market Operations,Godown,0.02,275,1,5
+2022,Karnataka,Sunflower,Market Operations,Wholesalers,0.17,275,1,5
+2022,Karnataka,Sunflower,Market Operations,Retailers,0.03,275,1,5
+2022,Karnataka,Sunflower,Market Operations,Processing unit,0.75,275,1,5
+2022,Karnataka,Sunflower,Market Operations,Transport,0.08,275,1,5
+2022,Karnataka,Sunflower,Market Operations,Total loss in market operations,1.06,275,1,5
+2022,Karnataka,Sunflower,Total,Overall total loss,4.22,275,1,5
+2022,Kerala,Areca nut,Farm Operations,Harvesting,1.15,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Collection,0.27,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Threshing,0.44,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Winnowing/Cleaning,0.87,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Drying,0.13,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Packaging,0.12,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Farm level storage,0.19,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Transport,0.25,275,2,7
+2022,Kerala,Areca nut,Farm Operations,Total loss in farm operations,3.41,275,2,7
+2022,Kerala,Areca nut,Market Operations,Wholesalers,0.42,275,2,7
+2022,Kerala,Areca nut,Market Operations,Retailers,0.01,275,2,7
+2022,Kerala,Areca nut,Market Operations,Processing unit,0.16,275,2,7
+2022,Kerala,Areca nut,Market Operations,Total loss in market operations,0.6,275,2,7
+2022,Kerala,Areca nut,Total,Overall total loss,4.01,275,2,7
+2022,Kerala,Cashew,Farm Operations,Harvesting,0.51,275,2,11
+2022,Kerala,Cashew,Farm Operations,Collection,0.2,275,2,11
+2022,Kerala,Cashew,Farm Operations,Threshing,0.21,275,2,11
+2022,Kerala,Cashew,Farm Operations,Winnowing/Cleaning,0.03,275,2,11
+2022,Kerala,Cashew,Farm Operations,Drying,0.06,275,2,11
+2022,Kerala,Cashew,Farm Operations,Packaging,0.03,275,2,11
+2022,Kerala,Cashew,Farm Operations,Farm level storage,0.02,275,2,11
+2022,Kerala,Cashew,Farm Operations,Transport,0.01,275,2,11
+2022,Kerala,Cashew,Farm Operations,Total loss in farm operations,1.07,275,2,11
+2022,Kerala,Cashew,Market Operations,Godown,0.01,275,2,11
+2022,Kerala,Cashew,Market Operations,Wholesalers,0.08,275,2,11
+2022,Kerala,Cashew,Market Operations,Retailers,0.07,275,2,11
+2022,Kerala,Cashew,Market Operations,Processing unit,0.02,275,2,11
+2022,Kerala,Cashew,Market Operations,Transport,0.01,275,2,11
+2022,Kerala,Cashew,Market Operations,Total loss in market operations,0.19,275,2,11
+2022,Kerala,Egg,Farm Operations,Harvesting,1.71,275,2,17
+2022,Kerala,Egg,Farm Operations,Sorting/Grading,1.06,275,2,17
+2022,Kerala,Egg,Farm Operations,Packaging,1.06,275,2,17
+2022,Kerala,Egg,Farm Operations,Farm level storage,0.02,275,2,17
+2022,Kerala,Egg,Farm Operations,Transport,0.3,275,2,17
+2022,Kerala,Egg,Farm Operations,Total loss in farm operations,4.15,275,2,17
+2022,Kerala,Egg,Market Operations,Godown,0.05,275,2,17
+2022,Kerala,Egg,Market Operations,Total loss in market operations,1.38,275,2,17
+2022,Kerala,Egg,Total,Overall total loss,5.53,275,2,17
+2022,Kerala,Meat,Farm Operations,Harvesting,5.46,275,2,21
+2022,Kerala,Meat,Farm Operations,Collection,0.55,275,2,21
+2022,Kerala,Meat,Farm Operations,Sorting/Grading,0.36,275,2,21
+2022,Kerala,Meat,Farm Operations,Drying,0.16,275,2,21
+2022,Kerala,Meat,Farm Operations,Packaging,0.01,275,2,21
+2022,Kerala,Meat,Farm Operations,Transport,0.44,275,2,21
+2022,Kerala,Meat,Farm Operations,Total loss in farm operations,6.98,275,2,21
+2022,Kerala,Meat,Market Operations,Godown,0.24,275,2,21
+2022,Kerala,Meat,Market Operations,Wholesalers,0.53,275,2,21
+2022,Kerala,Meat,Market Operations,Retailers,0.21,275,2,21
+2022,Kerala,Meat,Market Operations,Processing unit,0.3,275,2,21
+2022,Kerala,Meat,Market Operations,Transport,0.49,275,2,21
+2022,Kerala,Meat,Market Operations,Total loss in market operations,1.77,275,2,21
+2022,Kerala,Tapioca,Farm Operations,Harvesting,1.2,275,2,24
+2022,Kerala,Tapioca,Farm Operations,Collection,0.26,275,2,24
+2022,Kerala,Tapioca,Farm Operations,Sorting/Grading,1.05,275,2,24
+2022,Kerala,Tapioca,Farm Operations,Packaging,0.09,275,2,24
+2022,Kerala,Tapioca,Farm Operations,Farm level storage,0.27,275,2,24
+2022,Kerala,Tapioca,Farm Operations,Transport,0.54,275,2,24
+2022,Kerala,Tapioca,Farm Operations,Total loss in farm operations,3.41,275,2,24
+2022,Kerala,Tapioca,Market Operations,Wholesalers,0.35,275,2,24
+2022,Kerala,Tapioca,Market Operations,Retailers,0.45,275,2,24
+2022,Kerala,Tapioca,Market Operations,Processing unit,0.16,275,2,24
+2022,Kerala,Tapioca,Market Operations,Transport,0.44,275,2,24
+2022,Kerala,Tapioca,Market Operations,Total loss in market operations,1.4,275,2,24
+2022,Kerala,Tapioca,Total,Overall total loss,4.8,275,2,24
+2022,Madhya Pradesh,Bajra,Farm Operations,Harvesting,1.38,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Collection,0.35,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Threshing,0.9,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Winnowing/Cleaning,0.15,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Drying,0.21,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Packaging,0.26,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Farm level storage,0.36,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Transport,0.19,276,1,7
+2022,Madhya Pradesh,Bajra,Farm Operations,Total loss in farm operations,3.8,276,1,7
+2022,Madhya Pradesh,Bajra,Market Operations,Godown,0.11,276,1,7
+2022,Madhya Pradesh,Bajra,Market Operations,Retailers,0.12,276,1,7
+2022,Madhya Pradesh,Bajra,Market Operations,Processing unit,0.14,276,1,7
+2022,Madhya Pradesh,Bajra,Market Operations,Transport,0.36,276,1,7
+2022,Madhya Pradesh,Bajra,Market Operations,Total loss in market operations,0.73,276,1,7
+2022,Madhya Pradesh,Bajra,Total,Overall total loss,4.53,276,1,7
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Harvesting,1.41,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Collection,0.94,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Threshing,1.73,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Winnowing/Cleaning,0.66,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Drying,0.45,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Packaging,0.38,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Farm level storage,0.24,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Transport,0.12,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Farm Operations,Total loss in farm operations,5.94,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Market Operations,Godown,0.01,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Market Operations,Wholesalers,0.27,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Market Operations,Retailers,0.23,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Market Operations,Processing unit,0.05,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Market Operations,Transport,0.24,276,1,11
+2022,Madhya Pradesh,Bottlegourd,Market Operations,Total loss in market operations,0.79,276,1,11
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Harvesting,1.6,276,1,15
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Collection,0.18,276,1,15
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Sorting/Grading,2.42,276,1,15
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Packaging,0.31,276,1,15
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Farm level storage,0.06,276,1,15
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Transport,0.74,276,1,15
+2022,Madhya Pradesh,Cauliflower,Farm Operations,Total loss in farm operations,5.32,276,1,15
+2022,Madhya Pradesh,Cauliflower,Market Operations,Godown,0.01,276,1,15
+2022,Madhya Pradesh,Cauliflower,Market Operations,Wholesalers,0.21,276,1,15
+2022,Madhya Pradesh,Cauliflower,Market Operations,Retailers,0.26,276,1,15
+2022,Madhya Pradesh,Cauliflower,Market Operations,Processing unit,0.01,276,1,15
+2022,Madhya Pradesh,Cauliflower,Market Operations,Transport,0.65,276,1,15
+2022,Madhya Pradesh,Cauliflower,Market Operations,Total loss in market operations,1.14,276,1,15
+2022,Madhya Pradesh,Cauliflower,Total,Overall total loss,6.46,276,1,15
+2022,Madhya Pradesh,Chilli,Farm Operations,Harvesting,1.21,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Collection,0.83,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Threshing,1.61,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Winnowing/Cleaning,0.24,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Drying,0.26,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Packaging,0.16,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Farm level storage,0.17,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Transport,0.29,276,1,17
+2022,Madhya Pradesh,Chilli,Farm Operations,Total loss in farm operations,4.77,276,1,17
+2022,Madhya Pradesh,Chilli,Market Operations,Godown,0.02,276,1,17
+2022,Madhya Pradesh,Chilli,Market Operations,Wholesalers,0.31,276,1,17
+2022,Madhya Pradesh,Chilli,Market Operations,Retailers,0.13,276,1,17
+2022,Madhya Pradesh,Chilli,Market Operations,Processing unit,0.13,276,1,17
+2022,Madhya Pradesh,Chilli,Market Operations,Transport,0.49,276,1,17
+2022,Madhya Pradesh,Chilli,Market Operations,Total loss in market operations,1.08,276,1,17
+2022,Madhya Pradesh,Coriander,Farm Operations,Harvesting,2.07,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Collection,0.86,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Threshing,1.11,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Winnowing/Cleaning,0.51,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Drying,0.08,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Packaging,0.15,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Farm level storage,0.06,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Transport,0.13,276,1,21
+2022,Madhya Pradesh,Coriander,Farm Operations,Total loss in farm operations,4.97,276,1,21
+2022,Madhya Pradesh,Coriander,Market Operations,Godown,0.02,276,1,21
+2022,Madhya Pradesh,Coriander,Market Operations,Wholesalers,0.3,276,1,21
+2022,Madhya Pradesh,Coriander,Market Operations,Retailers,0.3,276,1,21
+2022,Madhya Pradesh,Coriander,Market Operations,Processing unit,0.07,276,1,21
+2022,Madhya Pradesh,Coriander,Market Operations,Transport,0.33,276,1,21
+2022,Madhya Pradesh,Coriander,Market Operations,Total loss in market operations,1.03,276,1,21
+2022,Madhya Pradesh,Coriander,Total,Overall total loss,6.01,276,1,21
+2022,Madhya Pradesh,Green Pea,Farm Operations,Harvesting,1.68,276,1,24
+2022,Madhya Pradesh,Green Pea,Farm Operations,Collection,0.79,276,1,24
+2022,Madhya Pradesh,Green Pea,Farm Operations,Sorting/Grading,1.43,276,1,24
+2022,Madhya Pradesh,Green Pea,Farm Operations,Packaging,0.08,276,1,24
+2022,Madhya Pradesh,Green Pea,Farm Operations,Farm level storage,0.005,276,1,24
+2022,Madhya Pradesh,Green Pea,Farm Operations,Transport,0.62,276,1,24
+2022,Madhya Pradesh,Green Pea,Farm Operations,Total loss in farm operations,4.6,276,1,24
+2022,Madhya Pradesh,Green Pea,Market Operations,Wholesalers,0.57,276,1,24
+2022,Madhya Pradesh,Green Pea,Market Operations,Retailers,0.66,276,1,24
+2022,Madhya Pradesh,Green Pea,Market Operations,Processing unit,0.06,276,1,24
+2022,Madhya Pradesh,Green Pea,Market Operations,Transport,0.38,276,1,24
+2022,Madhya Pradesh,Green Pea,Market Operations,Total loss in market operations,1.67,276,1,24
+2022,Madhya Pradesh,Green Pea,Total,Overall total loss,6.27,276,1,24
+2022,Madhya Pradesh,Guava,Farm Operations,Harvesting,1.99,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Collection,0.65,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Threshing,1.43,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Winnowing/Cleaning,0.43,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Drying,0.14,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Packaging,0.15,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Farm level storage,0.09,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Transport,0.14,276,1,26
+2022,Madhya Pradesh,Guava,Farm Operations,Total loss in farm operations,5.0,276,1,26
+2022,Madhya Pradesh,Guava,Market Operations,Godown,0.07,276,1,26
+2022,Madhya Pradesh,Guava,Market Operations,Wholesalers,0.35,276,1,26
+2022,Madhya Pradesh,Guava,Market Operations,Retailers,0.07,276,1,26
+2022,Madhya Pradesh,Guava,Market Operations,Processing unit,0.41,276,1,26
+2022,Madhya Pradesh,Guava,Market Operations,Transport,0.2,276,1,26
+2022,Madhya Pradesh,Guava,Market Operations,Total loss in market operations,1.11,276,1,26
+2022,Madhya Pradesh,Milk,Farm Operations,Harvesting,1.0,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Collection,0.09,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Threshing,1.82,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Winnowing/Cleaning,0.04,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Drying,0.01,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Packaging,0.04,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Farm level storage,0.07,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Transport,0.09,276,1,29
+2022,Madhya Pradesh,Milk,Farm Operations,Total loss in farm operations,3.16,276,1,29
+2022,Madhya Pradesh,Milk,Market Operations,Godown,0.08,276,1,29
+2022,Madhya Pradesh,Milk,Market Operations,Wholesalers,1.81,276,1,29
+2022,Madhya Pradesh,Milk,Market Operations,Retailers,0.29,276,1,29
+2022,Madhya Pradesh,Milk,Market Operations,Processing unit,0.81,276,1,29
+2022,Madhya Pradesh,Milk,Market Operations,Transport,0.14,276,1,29
+2022,Madhya Pradesh,Milk,Market Operations,Total loss in market operations,3.14,276,1,29
+2022,Madhya Pradesh,Mustard,Farm Operations,Harvesting,1.46,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Collection,0.55,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Threshing,1.6,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Winnowing/Cleaning,0.56,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Drying,0.14,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Packaging,0.13,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Farm level storage,0.01,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Transport,0.06,276,1,33
+2022,Madhya Pradesh,Mustard,Farm Operations,Total loss in farm operations,4.51,276,1,33
+2022,Madhya Pradesh,Mustard,Market Operations,Godown,0.004,276,1,33
+2022,Madhya Pradesh,Mustard,Market Operations,Wholesalers,0.04,276,1,33
+2022,Madhya Pradesh,Mustard,Market Operations,Retailers,0.04,276,1,33
+2022,Madhya Pradesh,Mustard,Market Operations,Processing unit,0.02,276,1,33
+2022,Madhya Pradesh,Mustard,Market Operations,Transport,0.24,276,1,33
+2022,Madhya Pradesh,Mustard,Market Operations,Total loss in market operations,0.34,276,1,33
+2022,Madhya Pradesh,Mustard,Total,Overall total loss,4.86,276,1,33
+2022,Madhya Pradesh,Onion,Farm Operations,Harvesting,2.67,276,1,36
+2022,Madhya Pradesh,Onion,Farm Operations,Collection,0.42,276,1,36
+2022,Madhya Pradesh,Onion,Farm Operations,Sorting/Grading,1.19,276,1,36
+2022,Madhya Pradesh,Onion,Farm Operations,Packaging,0.08,276,1,36
+2022,Madhya Pradesh,Onion,Farm Operations,Farm level storage,1.02,276,1,36
+2022,Madhya Pradesh,Onion,Farm Operations,Transport,0.49,276,1,36
+2022,Madhya Pradesh,Onion,Farm Operations,Total loss in farm operations,5.87,276,1,36
+2022,Madhya Pradesh,Onion,Market Operations,Godown,0.36,276,1,36
+2022,Madhya Pradesh,Onion,Market Operations,Wholesalers,0.99,276,1,36
+2022,Madhya Pradesh,Onion,Market Operations,Retailers,0.59,276,1,36
+2022,Madhya Pradesh,Onion,Market Operations,Processing unit,0.01,276,1,36
+2022,Madhya Pradesh,Onion,Market Operations,Transport,0.28,276,1,36
+2022,Madhya Pradesh,Onion,Market Operations,Total loss in market operations,2.24,276,1,36
+2022,Madhya Pradesh,Onion,Total,Overall total loss,8.11,276,1,36
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Harvesting,1.26,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Collection,0.4,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Threshing,2.08,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Winnowing/Cleaning,0.55,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Drying,0.24,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Packaging,0.16,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Farm level storage,0.4,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Transport,0.16,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Farm Operations,Total loss in farm operations,5.24,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Market Operations,Godown,0.16,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Market Operations,Wholesalers,0.12,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Market Operations,Retailers,0.18,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Market Operations,Processing unit,0.45,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Market Operations,Transport,0.28,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Market Operations,Total loss in market operations,1.19,277,1,7
+2022,Madhya Pradesh,Pigeon Pea,Total,Overall total loss,6.43,277,1,7
+2022,Madhya Pradesh,Sorghum,Farm Operations,Harvesting,1.95,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Collection,0.36,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Threshing,1.96,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Winnowing/Cleaning,0.45,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Drying,0.11,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Packaging,0.19,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Farm level storage,0.2,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Transport,0.14,277,1,10
+2022,Madhya Pradesh,Sorghum,Farm Operations,Total loss in farm operations,5.37,277,1,10
+2022,Madhya Pradesh,Sorghum,Market Operations,Godown,0.08,277,1,10
+2022,Madhya Pradesh,Sorghum,Market Operations,Wholesalers,0.94,277,1,10
+2022,Madhya Pradesh,Sorghum,Market Operations,Retailers,0.15,277,1,10
+2022,Madhya Pradesh,Sorghum,Market Operations,Processing unit,0.02,277,1,10
+2022,Madhya Pradesh,Sorghum,Market Operations,Transport,0.21,277,1,10
+2022,Madhya Pradesh,Sorghum,Market Operations,Total loss in market operations,1.39,277,1,10
+2022,Madhya Pradesh,Sorghum,Total,Overall total loss,6.76,277,1,10
+2022,Madhya Pradesh,Tomato,Farm Operations,Harvesting,2.62,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Collection,0.83,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Threshing,1.09,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Winnowing/Cleaning,0.25,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Drying,0.09,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Packaging,0.43,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Farm level storage,0.71,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Transport,0.36,277,1,12
+2022,Madhya Pradesh,Tomato,Farm Operations,Total loss in farm operations,6.37,277,1,12
+2022,Madhya Pradesh,Tomato,Market Operations,Godown,0.05,277,1,12
+2022,Madhya Pradesh,Tomato,Market Operations,Wholesalers,0.52,277,1,12
+2022,Madhya Pradesh,Tomato,Market Operations,Retailers,0.18,277,1,12
+2022,Madhya Pradesh,Tomato,Market Operations,Processing unit,0.18,277,1,12
+2022,Madhya Pradesh,Tomato,Market Operations,Transport,0.06,277,1,12
+2022,Madhya Pradesh,Tomato,Market Operations,Total loss in market operations,0.99,277,1,12
+2022,Maharashtra,Bajra,Farm Operations,Harvesting,0.97,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Collection,0.3,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Threshing,0.97,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Winnowing/Cleaning,0.17,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Drying,0.22,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Packaging,0.24,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Farm level storage,0.26,277,2,13
+2022,Maharashtra,Bajra,Farm Operations,Transport,0.26,277,2,13
+2022,Maharashtra,Bajra,Market Operations,Godown,0.11,277,2,13
+2022,Maharashtra,Bajra,Market Operations,Wholesalers,0.07,277,2,13
+2022,Maharashtra,Bajra,Market Operations,Retailers,0.13,277,2,13
+2022,Maharashtra,Bajra,Market Operations,Processing unit,0.16,277,2,13
+2022,Maharashtra,Bajra,Market Operations,Transport,0.34,277,2,13
+2022,Maharashtra,Bajra,Market Operations,Total loss in market operations,0.81,277,2,13
+2022,Maharashtra,Bajra,Total,Overall total loss,4.21,277,2,13
+2022,Maharashtra,Black gram,Farm Operations,Harvesting,1.88,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Collection,1.09,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Threshing,1.55,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Winnowing/Cleaning,0.72,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Drying,0.46,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Packaging,0.32,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Farm level storage,0.51,277,2,17
+2022,Maharashtra,Black gram,Farm Operations,Transport,0.14,277,2,17
+2022,Maharashtra,Black gram,Market Operations,Godown,0.03,277,2,17
+2022,Maharashtra,Black gram,Market Operations,Wholesalers,0.34,277,2,17
+2022,Maharashtra,Black gram,Market Operations,Retailers,0.18,277,2,17
+2022,Maharashtra,Black gram,Market Operations,Processing unit,0.05,277,2,17
+2022,Maharashtra,Black gram,Market Operations,Transport,0.22,277,2,17
+2022,Maharashtra,Black gram,Market Operations,Total loss in market operations,0.82,277,2,17
+2022,Maharashtra,Black gram,Total,Overall total loss,7.48,277,2,17
+2022,Maharashtra,Citrus,Farm Operations,Harvesting,1.16,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Collection,0.96,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Threshing,1.54,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Winnowing/Cleaning,0.2,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Drying,0.24,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Packaging,0.16,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Farm level storage,0.17,277,2,20
+2022,Maharashtra,Citrus,Farm Operations,Transport,0.17,277,2,20
+2022,Maharashtra,Citrus,Market Operations,Godown,0.01,277,2,20
+2022,Maharashtra,Citrus,Market Operations,Wholesalers,0.1,277,2,20
+2022,Maharashtra,Citrus,Market Operations,Retailers,0.12,277,2,20
+2022,Maharashtra,Citrus,Market Operations,Processing unit,0.1,277,2,20
+2022,Maharashtra,Citrus,Market Operations,Transport,0.48,277,2,20
+2022,Maharashtra,Citrus,Market Operations,Total loss in market operations,0.8,277,2,20
+2022,Maharashtra,Eggs,Farm Operations,Harvesting,1.83,277,2,23
+2022,Maharashtra,Eggs,Farm Operations,Collection,0.28,277,2,23
+2022,Maharashtra,Eggs,Farm Operations,Drying,0.08,277,2,23
+2022,Maharashtra,Eggs,Farm Operations,Packaging,0.1,277,2,23
+2022,Maharashtra,Eggs,Farm Operations,Farm level storage,0.1,277,2,23
+2022,Maharashtra,Eggs,Farm Operations,Transport,0.16,277,2,23
+2022,Maharashtra,Eggs,Market Operations,Godown,0.01,277,2,23
+2022,Maharashtra,Eggs,Market Operations,Wholesalers,0.23,277,2,23
+2022,Maharashtra,Eggs,Market Operations,Retailers,0.03,277,2,23
+2022,Maharashtra,Eggs,Market Operations,Processing unit,0.03,277,2,23
+2022,Maharashtra,Eggs,Market Operations,Transport,0.13,277,2,23
+2022,Maharashtra,Eggs,Market Operations,Total loss in market operations,0.44,277,2,23
+2022,Maharashtra,Green gram,Farm Operations,Harvesting,1.7,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Collection,0.59,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Threshing,1.4,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Winnowing/Cleaning,0.33,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Drying,0.32,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Packaging,0.17,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Farm level storage,0.37,278,1,13
+2022,Maharashtra,Green gram,Farm Operations,Transport,0.14,278,1,13
+2022,Maharashtra,Green gram,Market Operations,Godown,0.33,278,1,13
+2022,Maharashtra,Green gram,Market Operations,Wholesalers,0.28,278,1,13
+2022,Maharashtra,Green gram,Market Operations,Retailers,0.02,278,1,13
+2022,Maharashtra,Green gram,Market Operations,Processing unit,0.12,278,1,13
+2022,Maharashtra,Green gram,Market Operations,Transport,0.12,278,1,13
+2022,Maharashtra,Green gram,Market Operations,Total loss in market operations,0.87,278,1,13
+2022,Maharashtra,Green gram,Total,Overall total loss,5.9,278,1,13
+2022,Maharashtra,Maize,Farm Operations,Harvesting,1.47,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Collection,0.41,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Threshing,1.32,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Winnowing/Cleaning,0.23,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Drying,0.34,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Packaging,0.04,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Farm level storage,0.27,278,1,16
+2022,Maharashtra,Maize,Farm Operations,Transport,0.03,278,1,16
+2022,Maharashtra,Maize,Market Operations,Godown,0.001,278,1,16
+2022,Maharashtra,Maize,Market Operations,Wholesalers,0.52,278,1,16
+2022,Maharashtra,Maize,Market Operations,Retailers,0.1,278,1,16
+2022,Maharashtra,Maize,Market Operations,Processing unit,0.55,278,1,16
+2022,Maharashtra,Maize,Market Operations,Transport,0.03,278,1,16
+2022,Maharashtra,Maize,Market Operations,Total loss in market operations,1.2,278,1,16
+2022,Maharashtra,Maize,Total,Overall total loss,5.3,278,1,16
+2022,Maharashtra,Marine fish,Farm Operations,Harvesting,5.3,278,1,19
+2022,Maharashtra,Marine fish,Farm Operations,Collection,0.6,278,1,19
+2022,Maharashtra,Marine fish,Farm Operations,Sorting/Grading,0.33,278,1,19
+2022,Maharashtra,Marine fish,Farm Operations,Drying,0.19,278,1,19
+2022,Maharashtra,Marine fish,Farm Operations,Packaging,0.01,278,1,19
+2022,Maharashtra,Marine fish,Farm Operations,Transport,0.48,278,1,19
+2022,Maharashtra,Marine fish,Market Operations,Godown,0.2,278,1,19
+2022,Maharashtra,Marine fish,Market Operations,Wholesalers,0.68,278,1,19
+2022,Maharashtra,Marine fish,Market Operations,Retailers,0.19,278,1,19
+2022,Maharashtra,Marine fish,Market Operations,Processing unit,0.32,278,1,19
+2022,Maharashtra,Marine fish,Market Operations,Transport,0.51,278,1,19
+2022,Maharashtra,Marine fish,Market Operations,Total loss in market operations,1.9,278,1,19
+2022,Maharashtra,Marine fish,Total,Overall total loss,8.8,278,1,19
+2022,Maharashtra,Milk,Farm Operations,Harvesting,0.16,278,1,22
+2022,Maharashtra,Milk,Farm Operations,Collection,0.1,278,1,22
+2022,Maharashtra,Milk,Farm Operations,Transport,0.06,278,1,22
+2022,Maharashtra,Milk,Market Operations,Retailers,0.18,278,1,22
+2022,Maharashtra,Milk,Market Operations,Processing unit,0.22,278,1,22
+2022,Maharashtra,Milk,Market Operations,Transport,0.07,278,1,22
+2022,Maharashtra,Milk,Market Operations,Total loss in market operations,0.33,278,1,22
+2022,Maharashtra,Milk,Total,Overall total loss,0.65,278,1,22
+2022,Maharashtra,Onion,Farm Operations,Harvesting,2.28,278,1,25
+2022,Maharashtra,Onion,Farm Operations,Collection,0.34,278,1,25
+2022,Maharashtra,Onion,Farm Operations,Sorting/Grading,0.87,278,1,25
+2022,Maharashtra,Onion,Farm Operations,Packaging,0.08,278,1,25
+2022,Maharashtra,Onion,Farm Operations,Farm level storage,0.76,278,1,25
+2022,Maharashtra,Onion,Farm Operations,Transport,0.31,278,1,25
+2022,Maharashtra,Onion,Market Operations,Godown,0.49,278,1,25
+2022,Maharashtra,Onion,Market Operations,Wholesalers,0.75,278,1,25
+2022,Maharashtra,Onion,Market Operations,Retailers,0.51,278,1,25
+2022,Maharashtra,Onion,Market Operations,Processing unit,0.01,278,1,25
+2022,Maharashtra,Onion,Market Operations,Transport,0.39,278,1,25
+2022,Maharashtra,Onion,Market Operations,Total loss in market operations,2.15,278,1,25
+2022,Maharashtra,Onion,Total,Overall total loss,6.78,278,1,25
+2022,Maharashtra,Pigeon Pea,Farm Operations,Harvesting,1.56,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Collection,0.37,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Threshing,2.16,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Winnowing/Cleaning,0.24,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Drying,0.3,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Packaging,0.25,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Farm level storage,0.53,278,1,28
+2022,Maharashtra,Pigeon Pea,Farm Operations,Transport,0.24,278,1,28
+2022,Maharashtra,Pigeon Pea,Market Operations,Godown,0.16,278,1,28
+2022,Maharashtra,Pigeon Pea,Market Operations,Wholesalers,0.14,278,1,28
+2022,Maharashtra,Pigeon Pea,Market Operations,Retailers,0.2,278,1,28
+2022,Maharashtra,Pigeon Pea,Market Operations,Processing unit,0.47,278,1,28
+2022,Maharashtra,Pigeon Pea,Market Operations,Transport,0.3,278,1,28
+2022,Maharashtra,Pigeon Pea,Market Operations,Total loss in market operations,1.26,278,1,28
+2022,Maharashtra,Pigeon Pea,Total,Overall total loss,6.9,278,1,28
+2022,Maharashtra,Poultry Meat,Farm Operations,Harvesting,1.31,278,1,30
+2022,Maharashtra,Poultry Meat,Farm Operations,Collection,0.18,278,1,30
+2022,Maharashtra,Poultry Meat,Farm Operations,Sorting/Grading,1.42,278,1,30
+2022,Maharashtra,Poultry Meat,Farm Operations,Packaging,0.22,278,1,30
+2022,Maharashtra,Poultry Meat,Farm Operations,Farm level storage,0.28,278,1,30
+2022,Maharashtra,Poultry Meat,Farm Operations,Transport,0.31,278,1,30
+2022,Maharashtra,Poultry Meat,Market Operations,Godown,0.13,278,1,30
+2022,Maharashtra,Poultry Meat,Market Operations,Wholesalers,0.61,278,1,30
+2022,Maharashtra,Poultry Meat,Market Operations,Retailers,0.7,278,1,30
+2022,Maharashtra,Poultry Meat,Market Operations,Processing unit,0.09,278,1,30
+2022,Maharashtra,Poultry Meat,Market Operations,Transport,0.76,278,1,30
+2022,Maharashtra,Poultry Meat,Market Operations,Total loss in market operations,2.29,278,1,30
+2022,Maharashtra,Sorghum,Farm Operations,Harvesting,1.71,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Collection,0.34,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Threshing,1.78,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Winnowing/Cleaning,0.38,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Drying,0.1,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Packaging,0.22,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Farm level storage,0.26,278,1,34
+2022,Maharashtra,Sorghum,Farm Operations,Transport,0.13,278,1,34
+2022,Maharashtra,Sorghum,Market Operations,Godown,0.04,278,1,34
+2022,Maharashtra,Sorghum,Market Operations,Wholesalers,0.76,278,1,34
+2022,Maharashtra,Sorghum,Market Operations,Retailers,0.21,278,1,34
+2022,Maharashtra,Sorghum,Market Operations,Processing unit,0.02,278,1,34
+2022,Maharashtra,Sorghum,Market Operations,Transport,0.2,278,1,34
+2022,Maharashtra,Sorghum,Market Operations,Total loss in market operations,1.22,278,1,34
+2022,Maharashtra,Sorghum,Total,Overall total loss,6.16,278,1,34
+2022,Maharashtra,Sugarcane,Farm Operations,Harvesting,3.24,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Collection,0.93,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Threshing,1.44,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Winnowing/Cleaning,0.13,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Drying,0.15,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Packaging,0.55,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Farm level storage,0.86,278,1,37
+2022,Maharashtra,Sugarcane,Farm Operations,Transport,0.28,278,1,37
+2022,Maharashtra,Sugarcane,Market Operations,Godown,0.18,278,1,37
+2022,Maharashtra,Sugarcane,Market Operations,Wholesalers,0.27,278,1,37
+2022,Maharashtra,Sugarcane,Market Operations,Retailers,0.16,278,1,37
+2022,Maharashtra,Sugarcane,Market Operations,Processing unit,0.51,278,1,37
+2022,Maharashtra,Sugarcane,Market Operations,Transport,0.13,278,1,37
+2022,Maharashtra,Sugarcane,Market Operations,Total loss in market operations,1.26,278,1,37
+2022,Meghalaya,Tapioca,Farm Operations,Harvesting,1.15,279,1,5
+2022,Meghalaya,Tapioca,Farm Operations,Collection,0.33,279,1,5
+2022,Meghalaya,Tapioca,Farm Operations,Sorting/Grading,1.13,279,1,5
+2022,Meghalaya,Tapioca,Farm Operations,Packaging,0.08,279,1,5
+2022,Meghalaya,Tapioca,Farm Operations,Farm level storage,0.28,279,1,5
+2022,Meghalaya,Tapioca,Farm Operations,Transport,0.53,279,1,5
+2022,Meghalaya,Tapioca,Farm Operations,Total loss in farm operations,3.5,279,1,5
+2022,Meghalaya,Tapioca,Market Operations,Wholesalers,0.35,279,1,5
+2022,Meghalaya,Tapioca,Market Operations,Retailers,0.46,279,1,5
+2022,Meghalaya,Tapioca,Market Operations,Processing unit,0.17,279,1,5
+2022,Meghalaya,Tapioca,Market Operations,Transport,0.51,279,1,5
+2022,Meghalaya,Tapioca,Market Operations,Total loss in market operations,1.49,279,1,5
+2022,Meghalaya,Tapioca,Total,Overall total loss,4.99,279,1,5
+2022,Meghalaya,Cashew,Farm Operations,Harvesting,1.79,279,1,8
+2022,Meghalaya,Cashew,Farm Operations,Collection,0.3,279,1,8
+2022,Meghalaya,Cashew,Farm Operations,Threshing,1.35,279,1,8
+2022,Meghalaya,Cashew,Farm Operations,Drying,0.02,279,1,8
+2022,Meghalaya,Cashew,Farm Operations,Farm level storage,0.07,279,1,8
+2022,Meghalaya,Cashew,Farm Operations,Transport,0.02,279,1,8
+2022,Meghalaya,Cashew,Farm Operations,Total loss in farm operations,3.888,279,1,8
+2022,Meghalaya,Cashew,Market Operations,Godown,0.002,279,1,8
+2022,Meghalaya,Cashew,Market Operations,Wholesalers,0.13,279,1,8
+2022,Meghalaya,Cashew,Market Operations,Retailers,0.02,279,1,8
+2022,Meghalaya,Cashew,Market Operations,Processing unit,0.28,279,1,8
+2022,Meghalaya,Cashew,Market Operations,Transport,0.2,279,1,8
+2022,Meghalaya,Cashew,Market Operations,Total loss in market operations,0.64,279,1,8
+2022,Meghalaya,Cashew,Total,Overall total loss,4.53,279,1,8
+2022,Odisha,Bottle gourd,Farm Operations,Harvesting,2.38,279,3,4
+2022,Odisha,Bottle gourd,Farm Operations,Collection,0.69,279,3,4
+2022,Odisha,Bottle gourd,Farm Operations,Sorting/Grading,1.66,279,3,4
+2022,Odisha,Bottle gourd,Farm Operations,Packaging,0.12,279,3,4
+2022,Odisha,Bottle gourd,Farm Operations,Farm level storage,0.1,279,3,4
+2022,Odisha,Bottle gourd,Farm Operations,Transport,0.49,279,3,4
+2022,Odisha,Bottle gourd,Farm Operations,Total loss in farm operations,5.44,279,3,4
+2022,Odisha,Bottle gourd,Market Operations,Wholesalers,0.72,279,3,4
+2022,Odisha,Bottle gourd,Market Operations,Retailers,0.57,279,3,4
+2022,Odisha,Bottle gourd,Market Operations,Transport,0.84,279,3,4
+2022,Odisha,Bottle gourd,Market Operations,Total loss in market operations,2.13,279,3,4
+2022,Odisha,Bottle gourd,Total,Overall total loss,7.57,279,3,4
+2022,Odisha,Cabbage,Farm Operations,Harvesting,1.35,279,3,9
+2022,Odisha,Cabbage,Farm Operations,Collection,0.35,279,3,9
+2022,Odisha,Cabbage,Farm Operations,Sorting/Grading,2.59,279,3,9
+2022,Odisha,Cabbage,Farm Operations,Packaging,0.28,279,3,9
+2022,Odisha,Cabbage,Farm Operations,Farm level storage,0.12,279,3,9
+2022,Odisha,Cabbage,Farm Operations,Transport,0.74,279,3,9
+2022,Odisha,Cabbage,Farm Operations,Total loss in farm operations,5.44,279,3,9
+2022,Odisha,Cabbage,Market Operations,Godown,0.08,279,3,9
+2022,Odisha,Cabbage,Market Operations,Wholesalers,0.78,279,3,9
+2022,Odisha,Cabbage,Market Operations,Retailers,1.54,279,3,9
+2022,Odisha,Cabbage,Market Operations,Processing unit,0.01,279,3,9
+2022,Odisha,Cabbage,Market Operations,Transport,0.24,279,3,9
+2022,Odisha,Cabbage,Market Operations,Total loss in market operations,2.65,279,3,9
+2022,Odisha,Cabbage,Total,Overall total loss,8.08,279,3,9
+2022,Odisha,Chickpea,Farm Operations,Harvesting,1.17,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Collection,0.8,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Threshing,1.59,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Winnowing/Cleaning,0.26,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Drying,0.55,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Packaging,0.16,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Farm level storage,0.17,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Transport,0.56,279,3,14
+2022,Odisha,Chickpea,Farm Operations,Total loss in farm operations,5.25,279,3,14
+2022,Odisha,Chickpea,Market Operations,Godown,0.02,279,3,14
+2022,Odisha,Chickpea,Market Operations,Wholesalers,0.28,279,3,14
+2022,Odisha,Chickpea,Market Operations,Retailers,0.12,279,3,14
+2022,Odisha,Chickpea,Market Operations,Processing unit,0.13,279,3,14
+2022,Odisha,Chickpea,Market Operations,Transport,0.28,279,3,14
+2022,Odisha,Chickpea,Market Operations,Total loss in market operations,0.84,279,3,14
+2022,Odisha,Chickpea,Total,Overall total loss,6.09,279,3,14
+2022,Odisha,Greengram,Farm Operations,Harvesting,1.74,279,3,19
+2022,Odisha,Greengram,Farm Operations,Collection,0.67,279,3,19
+2022,Odisha,Greengram,Farm Operations,Threshing,1.45,279,3,19
+2022,Odisha,Greengram,Farm Operations,Winnowing/Cleaning,0.34,279,3,19
+2022,Odisha,Greengram,Farm Operations,Drying,0.31,279,3,19
+2022,Odisha,Greengram,Farm Operations,Packaging,0.2,279,3,19
+2022,Odisha,Greengram,Farm Operations,Transport,0.13,279,3,19
+2022,Odisha,Greengram,Farm Operations,Total loss in farm operations,5.16,279,3,19
+2022,Odisha,Greengram,Market Operations,Godown,0.33,279,3,19
+2022,Odisha,Greengram,Market Operations,Wholesalers,0.31,279,3,19
+2022,Odisha,Greengram,Market Operations,Retailers,0.02,279,3,19
+2022,Odisha,Greengram,Market Operations,Processing unit,0.13,279,3,19
+2022,Odisha,Greengram,Market Operations,Transport,0.16,279,3,19
+2022,Odisha,Greengram,Market Operations,Total loss in market operations,0.94,279,3,19
+2022,Odisha,Greengram,Total,Overall total loss,6.11,279,3,19
+2022,Odisha,Marine fish,Farm Operations,Harvesting,6.47,280,1,4
+2022,Odisha,Marine fish,Farm Operations,Collection,0.5,280,1,4
+2022,Odisha,Marine fish,Farm Operations,Sorting/Grading,0.43,280,1,4
+2022,Odisha,Marine fish,Farm Operations,Drying,0.12,280,1,4
+2022,Odisha,Marine fish,Farm Operations,Packaging,0.01,280,1,4
+2022,Odisha,Marine fish,Farm Operations,Transport,0.41,280,1,4
+2022,Odisha,Marine fish,Market Operations,Godown,0.24,280,1,4
+2022,Odisha,Marine fish,Market Operations,Wholesalers,0.61,280,1,4
+2022,Odisha,Marine fish,Market Operations,Retailers,0.22,280,1,4
+2022,Odisha,Marine fish,Market Operations,Processing unit,0.37,280,1,4
+2022,Odisha,Marine fish,Market Operations,Transport,0.5,280,1,4
+2022,Odisha,Marine fish,Market Operations,Total loss in market operations,1.94,280,1,4
+2022,Odisha,Marine fish,Total,Overall total loss,9.89,280,1,4
+2022,Odisha,Okra,Farm Operations,Harvesting,1.78,280,1,9
+2022,Odisha,Okra,Farm Operations,Collection,0.34,280,1,9
+2022,Odisha,Okra,Farm Operations,Sorting/Grading,1.08,280,1,9
+2022,Odisha,Okra,Farm Operations,Packaging,0.15,280,1,9
+2022,Odisha,Okra,Farm Operations,Farm level storage,0.16,280,1,9
+2022,Odisha,Okra,Farm Operations,Transport,0.46,280,1,9
+2022,Odisha,Okra,Market Operations,Wholesalers,0.89,280,1,9
+2022,Odisha,Okra,Market Operations,Retailers,0.83,280,1,9
+2022,Odisha,Okra,Market Operations,Transport,0.57,280,1,9
+2022,Odisha,Okra,Market Operations,Total loss in market operations,2.29,280,1,9
+2022,Odisha,Okra,Total,Overall total loss,6.25,280,1,9
+2022,Odisha,Tomato,Farm Operations,Harvesting,3.99,280,1,14
+2022,Odisha,Tomato,Farm Operations,Collection,0.76,280,1,14
+2022,Odisha,Tomato,Farm Operations,Sorting/Grading,2.25,280,1,14
+2022,Odisha,Tomato,Farm Operations,Packaging,0.24,280,1,14
+2022,Odisha,Tomato,Farm Operations,Farm level storage,1.2,280,1,14
+2022,Odisha,Tomato,Farm Operations,Transport,1.11,280,1,14
+2022,Odisha,Tomato,Market Operations,Wholesalers,1.03,280,1,14
+2022,Odisha,Tomato,Market Operations,Retailers,1.08,280,1,14
+2022,Odisha,Tomato,Market Operations,Processing unit,0.25,280,1,14
+2022,Odisha,Tomato,Market Operations,Transport,1.26,280,1,14
+2022,Odisha,Tomato,Market Operations,Total loss in market operations,3.63,280,1,14
+2022,Odisha,Tomato,Total,Overall total loss,13.19,280,1,14
+2022,Punjab,Capsicum,Farm Operations,Harvesting,1.3,280,2,6
+2022,Punjab,Capsicum,Farm Operations,Collection,0.02,280,2,6
+2022,Punjab,Capsicum,Farm Operations,Sorting/Grading,0.03,280,2,6
+2022,Punjab,Capsicum,Farm Operations,Packaging,0.03,280,2,6
+2022,Punjab,Capsicum,Farm Operations,Farm level storage,0.006,280,2,6
+2022,Punjab,Capsicum,Farm Operations,Transport,0.11,280,2,6
+2022,Punjab,Capsicum,Farm Operations,Total loss in farm operations,1.49,280,2,6
+2022,Punjab,Capsicum,Market Operations,Wholesalers,1.02,280,2,6
+2022,Punjab,Capsicum,Market Operations,Retailers,1.0,280,2,6
+2022,Punjab,Capsicum,Market Operations,Transport,0.8,280,2,6
+2022,Punjab,Capsicum,Market Operations,Total loss in market operations,2.82,280,2,6
+2022,Punjab,Capsicum,Total,Overall total loss,4.31,280,2,6
+2022,Punjab,Green Pea,Farm Operations,Harvesting,2.1,280,2,11
+2022,Punjab,Green Pea,Farm Operations,Collection,0.41,280,2,11
+2022,Punjab,Green Pea,Farm Operations,Sorting/Grading,1.73,280,2,11
+2022,Punjab,Green Pea,Farm Operations,Packaging,0.2,280,2,11
+2022,Punjab,Green Pea,Farm Operations,Farm level storage,0.007,280,2,11
+2022,Punjab,Green Pea,Farm Operations,Transport,0.33,280,2,11
+2022,Punjab,Green Pea,Farm Operations,Total loss in farm operations,4.77,280,2,11
+2022,Punjab,Green Pea,Market Operations,Wholesalers,0.37,280,2,11
+2022,Punjab,Green Pea,Market Operations,Retailers,0.64,280,2,11
+2022,Punjab,Green Pea,Market Operations,Transport,0.85,280,2,11
+2022,Punjab,Green Pea,Market Operations,Total loss in market operations,1.89,280,2,11
+2022,Punjab,Green Pea,Total,Overall total loss,6.67,280,2,11
+2022,Punjab,Milk,Farm Operations,Harvesting,0.23,280,2,16
+2022,Punjab,Milk,Farm Operations,Collection,0.08,280,2,16
+2022,Punjab,Milk,Farm Operations,Transport,0.2,280,2,16
+2022,Punjab,Milk,Farm Operations,Total loss in farm operations,0.51,280,2,16
+2022,Punjab,Milk,Market Operations,Retailers,0.13,280,2,16
+2022,Punjab,Milk,Market Operations,Processing unit,0.05,280,2,16
+2022,Punjab,Milk,Market Operations,Transport,0.03,280,2,16
+2022,Punjab,Milk,Market Operations,Total loss in market operations,0.12,280,2,16
+2022,Punjab,Milk,Total,Overall total loss,0.63,280,2,16
+2022,Punjab,Muskmelon,Farm Operations,Harvesting,1.2,280,2,21
+2022,Punjab,Muskmelon,Farm Operations,Collection,0.24,280,2,21
+2022,Punjab,Muskmelon,Farm Operations,Sorting/Grading,0.78,280,2,21
+2022,Punjab,Muskmelon,Farm Operations,Packaging,0.34,280,2,21
+2022,Punjab,Muskmelon,Farm Operations,Farm level storage,0.04,280,2,21
+2022,Punjab,Muskmelon,Farm Operations,Transport,0.61,280,2,21
+2022,Punjab,Muskmelon,Farm Operations,Total loss in farm operations,3.23,280,2,21
+2022,Punjab,Muskmelon,Market Operations,Godown,0.01,280,2,21
+2022,Punjab,Muskmelon,Market Operations,Wholesalers,0.51,280,2,21
+2022,Punjab,Muskmelon,Market Operations,Retailers,1.14,280,2,21
+2022,Punjab,Muskmelon,Market Operations,Transport,0.6,280,2,21
+2022,Punjab,Muskmelon,Market Operations,Total loss in market operations,2.25,280,2,21
+2022,Punjab,Muskmelon,Total,Overall total loss,5.48,280,2,21
+2022,Punjab,Potato,Farm Operations,Harvesting,2.13,280,2,26
+2022,Punjab,Potato,Farm Operations,Collection,0.11,280,2,26
+2022,Punjab,Potato,Farm Operations,Sorting/Grading,2.1,280,2,26
+2022,Punjab,Potato,Farm Operations,Packaging,0.03,280,2,26
+2022,Punjab,Potato,Farm Operations,Farm level storage,0.09,280,2,26
+2022,Punjab,Potato,Farm Operations,Transport,0.44,280,2,26
+2022,Punjab,Potato,Farm Operations,Total loss in farm operations,4.91,280,2,26
+2022,Punjab,Potato,Market Operations,Godown,0.1,280,2,26
+2022,Punjab,Potato,Market Operations,Wholesalers,0.25,280,2,26
+2022,Punjab,Potato,Market Operations,Retailers,0.05,280,2,26
+2022,Punjab,Potato,Market Operations,Processing unit,0.03,280,2,26
+2022,Punjab,Potato,Market Operations,Transport,0.24,280,2,26
+2022,Punjab,Potato,Market Operations,Total loss in market operations,0.66,280,2,26
+2022,Punjab,Potato,Total,Overall total loss,5.57,280,2,26
+2022,Punjab,Wheat,Farm Operations,Harvesting,1.63,280,2,32
+2022,Punjab,Wheat,Farm Operations,Collection,0.41,280,2,32
+2022,Punjab,Wheat,Farm Operations,Winnowing/Cleaning,0.06,280,2,32
+2022,Punjab,Wheat,Farm Operations,Drying,0.04,280,2,32
+2022,Punjab,Wheat,Farm Operations,Packaging,0.002,280,2,32
+2022,Punjab,Wheat,Farm Operations,Farm level storage,0.04,280,2,32
+2022,Punjab,Wheat,Farm Operations,Transport,0.08,280,2,32
+2022,Punjab,Wheat,Farm Operations,Total loss in farm operations,2.84,280,2,32
+2022,Punjab,Wheat,Market Operations,Godown,4e-05,280,2,32
+2022,Punjab,Wheat,Market Operations,Wholesalers,0.13,280,2,32
+2022,Punjab,Wheat,Market Operations,Retailers,0.7,280,2,32
+2022,Punjab,Wheat,Market Operations,Processing unit,0.86,280,2,32
+2022,Punjab,Wheat,Market Operations,Transport,0.02,280,2,32
+2022,Punjab,Wheat,Market Operations,Total loss in market operations,1.71,280,2,32
+2022,Punjab,Wheat,Total,Overall total loss,4.55,280,2,32
+2022,Rajasthan,Chickpea,Farm Operations,Harvesting,1.43,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Collection,0.88,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Threshing,1.2,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Drying,0.46,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Packaging,0.17,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Farm level storage,0.17,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Transport,0.08,281,1,8
+2022,Rajasthan,Chickpea,Farm Operations,Total loss in farm operations,4.88,281,1,8
+2022,Rajasthan,Chickpea,Market Operations,Godown,0.02,281,1,8
+2022,Rajasthan,Chickpea,Market Operations,Wholesalers,0.4,281,1,8
+2022,Rajasthan,Chickpea,Market Operations,Retailers,0.1,281,1,8
+2022,Rajasthan,Chickpea,Market Operations,Processing unit,0.2,281,1,8
+2022,Rajasthan,Chickpea,Market Operations,Transport,0.24,281,1,8
+2022,Rajasthan,Chickpea,Market Operations,Total loss in market operations,0.95,281,1,8
+2022,Rajasthan,Chickpea,Total,Overall total loss,5.83,281,1,8
+2022,Rajasthan,Cottonseed,Farm Operations,Harvesting,1.91,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Collection,0.7,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Threshing,1.25,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Drying,0.09,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Packaging,0.11,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Farm level storage,0.02,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Transport,0.12,281,1,10
+2022,Rajasthan,Cottonseed,Farm Operations,Total loss in farm operations,4.7,281,1,10
+2022,Rajasthan,Cottonseed,Market Operations,Godown,0.02,281,1,10
+2022,Rajasthan,Cottonseed,Market Operations,Wholesalers,0.32,281,1,10
+2022,Rajasthan,Cottonseed,Market Operations,Retailers,0.26,281,1,10
+2022,Rajasthan,Cottonseed,Market Operations,Processing unit,0.07,281,1,10
+2022,Rajasthan,Cottonseed,Market Operations,Transport,0.33,281,1,10
+2022,Rajasthan,Cottonseed,Market Operations,Total loss in market operations,1.0,281,1,10
+2022,Rajasthan,Groundnut,Farm Operations,Harvesting,1.6,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Collection,0.52,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Threshing,1.17,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Drying,0.09,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Packaging,0.1,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Farm level storage,0.1,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Transport,0.1,281,1,14
+2022,Rajasthan,Groundnut,Farm Operations,Total loss in farm operations,4.06,281,1,14
+2022,Rajasthan,Groundnut,Market Operations,Godown,0.05,281,1,14
+2022,Rajasthan,Groundnut,Market Operations,Wholesalers,0.39,281,1,14
+2022,Rajasthan,Groundnut,Market Operations,Retailers,0.07,281,1,14
+2022,Rajasthan,Groundnut,Market Operations,Processing unit,0.28,281,1,14
+2022,Rajasthan,Groundnut,Market Operations,Transport,0.18,281,1,14
+2022,Rajasthan,Groundnut,Market Operations,Total loss in market operations,0.98,281,1,14
+2022,Rajasthan,Groundnut,Total,Overall total loss,5.03,281,1,14
+2022,Rajasthan,Milk,Farm Operations,Harvesting,0.78,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Collection,0.27,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Threshing,1.53,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Drying,0.16,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Packaging,0.13,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Farm level storage,0.21,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Transport,0.18,281,1,16
+2022,Rajasthan,Milk,Farm Operations,Total loss in farm operations,3.44,281,1,16
+2022,Rajasthan,Milk,Market Operations,Godown,0.01,281,1,16
+2022,Rajasthan,Milk,Market Operations,Wholesalers,0.9,281,1,16
+2022,Rajasthan,Milk,Market Operations,Retailers,0.51,281,1,16
+2022,Rajasthan,Milk,Market Operations,Processing unit,0.83,281,1,16
+2022,Rajasthan,Milk,Market Operations,Transport,0.13,281,1,16
+2022,Rajasthan,Milk,Market Operations,Total loss in market operations,2.37,281,1,16
+2022,Rajasthan,Sorghum,Farm Operations,Harvesting,1.55,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Collection,0.29,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Threshing,1.84,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Drying,0.14,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Packaging,0.22,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Farm level storage,0.28,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Transport,0.2,281,1,20
+2022,Rajasthan,Sorghum,Farm Operations,Total loss in farm operations,4.89,281,1,20
+2022,Rajasthan,Sorghum,Market Operations,Godown,0.04,281,1,20
+2022,Rajasthan,Sorghum,Market Operations,Wholesalers,0.74,281,1,20
+2022,Rajasthan,Sorghum,Market Operations,Retailers,0.16,281,1,20
+2022,Rajasthan,Sorghum,Market Operations,Processing unit,0.02,281,1,20
+2022,Rajasthan,Sorghum,Market Operations,Transport,0.17,281,1,20
+2022,Rajasthan,Sorghum,Market Operations,Total loss in market operations,1.12,281,1,20
+2022,Rajasthan,Sorghum,Total,Overall total loss,6.01,281,1,20
+2022,Rajasthan,Wheat,Farm Operations,Harvesting,1.83,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Collection,0.38,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Threshing,1.22,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Drying,0.12,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Packaging,0.024,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Farm level storage,0.51,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Transport,0.09,281,1,23
+2022,Rajasthan,Wheat,Farm Operations,Total loss in farm operations,4.46,281,1,23
+2022,Rajasthan,Wheat,Market Operations,Godown,0.002,281,1,23
+2022,Rajasthan,Wheat,Market Operations,Wholesalers,0.34,281,1,23
+2022,Rajasthan,Wheat,Market Operations,Retailers,0.55,281,1,23
+2022,Rajasthan,Wheat,Market Operations,Processing unit,0.81,281,1,23
+2022,Rajasthan,Wheat,Market Operations,Transport,0.08,281,1,23
+2022,Rajasthan,Wheat,Market Operations,Total loss in market operations,1.78,281,1,23
+2022,Rajasthan,Wheat,Total,Overall total loss,6.25,281,1,23
+2022,Tamil Nadu,Banana,Farm Operations,Harvesting,1.41,281,2,7
+2022,Tamil Nadu,Banana,Farm Operations,Collection,0.27,281,2,7
+2022,Tamil Nadu,Banana,Farm Operations,Sorting/Grading,1.77,281,2,7
+2022,Tamil Nadu,Banana,Farm Operations,Packaging,0.16,281,2,7
+2022,Tamil Nadu,Banana,Farm Operations,Farm level storage,0.04,281,2,7
+2022,Tamil Nadu,Banana,Farm Operations,Transport,1.38,281,2,7
+2022,Tamil Nadu,Banana,Farm Operations,Total loss in farm operations,5.03,281,2,7
+2022,Tamil Nadu,Banana,Market Operations,Godown,0.06,281,2,7
+2022,Tamil Nadu,Banana,Market Operations,Wholesalers,1.03,281,2,7
+2022,Tamil Nadu,Banana,Market Operations,Retailers,0.44,281,2,7
+2022,Tamil Nadu,Banana,Market Operations,Processing unit,0.01,281,2,7
+2022,Tamil Nadu,Banana,Market Operations,Transport,0.91,281,2,7
+2022,Tamil Nadu,Banana,Market Operations,Total loss in market operations,2.45,281,2,7
+2022,Tamil Nadu,Banana,Total,Overall total loss,7.47,281,2,7
+2022,Tamil Nadu,Black gram,Farm Operations,Harvesting,0.88,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Collection,0.97,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Threshing,1.04,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Winnowing/Cleaning,0.43,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Drying,0.54,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Packaging,0.13,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Farm level storage,0.98,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Transport,0.15,282,1,7
+2022,Tamil Nadu,Black gram,Farm Operations,Total loss in farm operations,5.12,282,1,7
+2022,Tamil Nadu,Black gram,Market Operations,Godown,0.02,282,1,7
+2022,Tamil Nadu,Black gram,Market Operations,Wholesalers,0.24,282,1,7
+2022,Tamil Nadu,Black gram,Market Operations,Retailers,0.22,282,1,7
+2022,Tamil Nadu,Black gram,Market Operations,Processing unit,0.06,282,1,7
+2022,Tamil Nadu,Black gram,Market Operations,Transport,0.27,282,1,7
+2022,Tamil Nadu,Black gram,Market Operations,Total loss in market operations,0.81,282,1,7
+2022,Tamil Nadu,Black gram,Total,Overall total loss,5.93,282,1,7
+2022,Tamil Nadu,Groundnut,Farm Operations,Harvesting,1.66,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Collection,0.6,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Threshing,1.25,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Winnowing/Cleaning,0.37,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Drying,0.15,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Packaging,0.12,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Farm level storage,0.05,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Transport,0.15,282,1,10
+2022,Tamil Nadu,Groundnut,Farm Operations,Total loss in farm operations,4.35,282,1,10
+2022,Tamil Nadu,Groundnut,Market Operations,Godown,0.05,282,1,10
+2022,Tamil Nadu,Groundnut,Market Operations,Wholesalers,0.35,282,1,10
+2022,Tamil Nadu,Groundnut,Market Operations,Retailers,0.07,282,1,10
+2022,Tamil Nadu,Groundnut,Market Operations,Processing unit,0.32,282,1,10
+2022,Tamil Nadu,Groundnut,Market Operations,Transport,0.17,282,1,10
+2022,Tamil Nadu,Groundnut,Market Operations,Total loss in market operations,0.96,282,1,10
+2022,Tamil Nadu,Groundnut,Total,Overall total loss,5.31,282,1,10
+2022,Tamil Nadu,Marine fish,Farm Operations,Harvesting,0.85,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Collection,0.2,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Threshing,0.73,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Winnowing/Cleaning,0.17,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Drying,0.23,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Packaging,0.27,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Farm level storage,0.24,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Transport,0.45,282,1,12
+2022,Tamil Nadu,Marine fish,Farm Operations,Total loss in farm operations,3.14,282,1,12
+2022,Tamil Nadu,Marine fish,Market Operations,Godown,0.001,282,1,12
+2022,Tamil Nadu,Marine fish,Market Operations,Wholesalers,0.33,282,1,12
+2022,Tamil Nadu,Marine fish,Market Operations,Retailers,0.22,282,1,12
+2022,Tamil Nadu,Marine fish,Market Operations,Processing unit,0.43,282,1,12
+2022,Tamil Nadu,Marine fish,Market Operations,Transport,0.27,282,1,12
+2022,Tamil Nadu,Marine fish,Market Operations,Total loss in market operations,1.25,282,1,12
+2022,Tamil Nadu,Mushroom,Farm Operations,Harvesting,1.04,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Collection,0.04,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Sorting/Grading,6.4,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Trimming,0.67,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Winnowing/Cleaning,0.25,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Packaging,0.22,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Farm level storage,0.74,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Transport,0.77,282,1,16
+2022,Tamil Nadu,Mushroom,Farm Operations,Total loss in farm operations,10.12,282,1,16
+2022,Tamil Nadu,Mushroom,Market Operations,Wholesalers,0.49,282,1,16
+2022,Tamil Nadu,Mushroom,Market Operations,Retailers,0.33,282,1,16
+2022,Tamil Nadu,Mushroom,Market Operations,Transport,0.09,282,1,16
+2022,Tamil Nadu,Mushroom,Market Operations,Total loss in market operations,0.91,282,1,16
+2022,Tamil Nadu,Mushroom,Total,Overall total loss,11.03,282,1,16
+2022,Tamil Nadu,Poultry,Farm Operations,Harvesting,2.03,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Collection,0.39,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Threshing,1.55,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Winnowing/Cleaning,0.52,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Drying,0.13,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Packaging,0.1,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Farm level storage,0.45,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Transport,0.19,282,1,18
+2022,Tamil Nadu,Poultry,Farm Operations,Total loss in farm operations,5.36,282,1,18
+2022,Tamil Nadu,Poultry,Market Operations,Godown,0.06,282,1,18
+2022,Tamil Nadu,Poultry,Market Operations,Wholesalers,0.21,282,1,18
+2022,Tamil Nadu,Poultry,Market Operations,Retailers,0.04,282,1,18
+2022,Tamil Nadu,Poultry,Market Operations,Processing unit,0.17,282,1,18
+2022,Tamil Nadu,Poultry,Market Operations,Transport,0.14,282,1,18
+2022,Tamil Nadu,Poultry,Market Operations,Total loss in market operations,0.62,282,1,18
+2022,Tamil Nadu,Meat,Farm Operations,Harvesting,2.3,282,1,19
+2022,Tamil Nadu,Meat,Farm Operations,Total loss in farm operations,2.3,282,1,19
+2022,Tamil Nadu,Meat,Market Operations,Wholesalers,2.18,282,1,19
+2022,Tamil Nadu,Meat,Market Operations,Retailers,1.26,282,1,19
+2022,Tamil Nadu,Meat,Market Operations,Processing unit,0.0,282,1,19
+2022,Tamil Nadu,Meat,Market Operations,Transport,0.34,282,1,19
+2022,Tamil Nadu,Meat,Market Operations,Total loss in market operations,3.78,282,1,19
+2022,Tamil Nadu,Meat,Total,Overall total loss,6.08,282,1,19
+2022,Tamil Nadu,Sugarcane,Farm Operations,Harvesting,1.79,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Collection,0.33,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Threshing,1.78,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Winnowing/Cleaning,0.42,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Drying,0.1,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Packaging,0.23,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Farm level storage,0.31,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Transport,0.2,282,1,21
+2022,Tamil Nadu,Sugarcane,Farm Operations,Total loss in farm operations,5.17,282,1,21
+2022,Tamil Nadu,Sugarcane,Market Operations,Retailers,0.18,282,1,21
+2022,Tamil Nadu,Sugarcane,Market Operations,Processing unit,0.01,282,1,21
+2022,Tamil Nadu,Sugarcane,Market Operations,Transport,0.17,282,1,21
+2022,Tamil Nadu,Sugarcane,Market Operations,Total loss in market operations,1.13,282,1,21
+2022,Uttar Pradesh,Bajra,Farm Operations,Harvesting,0.72,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Collection,0.25,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Threshing,1.24,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Drying,0.22,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Packaging,0.25,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Farm level storage,0.28,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Transport,0.24,284,1,5
+2022,Uttar Pradesh,Bajra,Farm Operations,Total loss in farm operations,3.35,284,1,5
+2022,Uttar Pradesh,Bajra,Market Operations,Godown,0.09,284,1,5
+2022,Uttar Pradesh,Bajra,Market Operations,Wholesalers,0.08,284,1,5
+2022,Uttar Pradesh,Bajra,Market Operations,Retailers,0.14,284,1,5
+2022,Uttar Pradesh,Bajra,Market Operations,Processing unit,0.14,284,1,5
+2022,Uttar Pradesh,Bajra,Market Operations,Transport,0.32,284,1,5
+2022,Uttar Pradesh,Bajra,Market Operations,Total loss in market operations,0.77,284,1,5
+2022,Uttar Pradesh,Bajra,Total,Overall total loss,4.11,284,1,5
+2022,Uttar Pradesh,Bottle,Farm Operations,Harvesting,1.91,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Collection,0.87,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Threshing,1.4,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Drying,0.25,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Packaging,0.2,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Farm level storage,0.39,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Transport,0.13,284,1,9
+2022,Uttar Pradesh,Bottle,Farm Operations,Total loss in farm operations,5.36,284,1,9
+2022,Uttar Pradesh,Bottle,Market Operations,Godown,0.03,284,1,9
+2022,Uttar Pradesh,Bottle,Market Operations,Wholesalers,0.16,284,1,9
+2022,Uttar Pradesh,Bottle,Market Operations,Retailers,0.28,284,1,9
+2022,Uttar Pradesh,Bottle,Market Operations,Processing unit,0.06,284,1,9
+2022,Uttar Pradesh,Bottle,Market Operations,Transport,0.22,284,1,9
+2022,Uttar Pradesh,Bottle,Market Operations,Total loss in market operations,0.75,284,1,9
+2022,Uttar Pradesh,Green Pea,Farm Operations,Harvesting,2.03,284,1,15
+2022,Uttar Pradesh,Green Pea,Farm Operations,Collection,0.5,284,1,15
+2022,Uttar Pradesh,Green Pea,Farm Operations,Sorting/Grading,1.68,284,1,15
+2022,Uttar Pradesh,Green Pea,Farm Operations,Packaging,0.1,284,1,15
+2022,Uttar Pradesh,Green Pea,Farm Operations,Farm level storage,0.005,284,1,15
+2022,Uttar Pradesh,Green Pea,Farm Operations,Transport,0.36,284,1,15
+2022,Uttar Pradesh,Green Pea,Farm Operations,Total loss in farm operations,4.68,284,1,15
+2022,Uttar Pradesh,Green Pea,Market Operations,Wholesalers,0.43,284,1,15
+2022,Uttar Pradesh,Green Pea,Market Operations,Retailers,0.56,284,1,15
+2022,Uttar Pradesh,Green Pea,Market Operations,Transport,0.62,284,1,15
+2022,Uttar Pradesh,Green Pea,Market Operations,Total loss in market operations,1.66,284,1,15
+2022,Uttar Pradesh,Green Pea,Total,Overall total loss,6.34,284,1,15
+2022,Uttar Pradesh,Maize,Farm Operations,Harvesting,0.99,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Collection,0.54,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Threshing,0.54,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Drying,0.42,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Packaging,0.56,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Farm level storage,0.18,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Transport,0.45,284,1,20
+2022,Uttar Pradesh,Maize,Farm Operations,Total loss in farm operations,3.88,284,1,20
+2022,Uttar Pradesh,Maize,Market Operations,Godown,0.02,284,1,20
+2022,Uttar Pradesh,Maize,Market Operations,Wholesalers,0.35,284,1,20
+2022,Uttar Pradesh,Maize,Market Operations,Retailers,1.09,284,1,20
+2022,Uttar Pradesh,Maize,Market Operations,Processing unit,0.27,284,1,20
+2022,Uttar Pradesh,Maize,Market Operations,Transport,0.16,284,1,20
+2022,Uttar Pradesh,Maize,Market Operations,Total loss in market operations,1.88,284,1,20
+2022,Uttar Pradesh,Maize,Total,Overall total loss,5.77,284,1,20
+2022,Uttar Pradesh,Milk,Farm Operations,Harvesting,0.29,284,1,25
+2022,Uttar Pradesh,Milk,Farm Operations,Collection,0.09,284,1,25
+2022,Uttar Pradesh,Milk,Farm Operations,Transport,0.24,284,1,25
+2022,Uttar Pradesh,Milk,Farm Operations,Total loss in farm operations,0.62,284,1,25
+2022,Uttar Pradesh,Milk,Market Operations,Retailers,0.17,284,1,25
+2022,Uttar Pradesh,Milk,Market Operations,Processing unit,0.14,284,1,25
+2022,Uttar Pradesh,Milk,Market Operations,Transport,0.46,284,1,25
+2022,Uttar Pradesh,Milk,Market Operations,Total loss in market operations,0.5,284,1,25
+2022,Uttar Pradesh,Milk,Total,Overall total loss,1.12,284,1,25
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Harvesting,1.6,284,1,30
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Collection,0.28,284,1,30
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Sorting/Grading,1.2,284,1,30
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Packaging,0.34,284,1,30
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Farm level storage,0.06,284,1,30
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Transport,0.74,284,1,30
+2022,Uttar Pradesh,Muskmelon,Farm Operations,Total loss in farm operations,4.22,284,1,30
+2022,Uttar Pradesh,Muskmelon,Market Operations,Godown,0.01,284,1,30
+2022,Uttar Pradesh,Muskmelon,Market Operations,Wholesalers,0.62,284,1,30
+2022,Uttar Pradesh,Muskmelon,Market Operations,Retailers,1.49,284,1,30
+2022,Uttar Pradesh,Muskmelon,Market Operations,Transport,0.91,284,1,30
+2022,Uttar Pradesh,Muskmelon,Market Operations,Total loss in market operations,3.03,284,1,30
+2022,Uttar Pradesh,Muskmelon,Total,Overall total loss,7.25,284,1,30
+2022,Uttar Pradesh,Paddy,Farm Operations,Harvesting,1.24,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Collection,0.24,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Threshing,0.56,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Drying,0.3,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Packaging,0.04,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Farm level storage,0.16,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Transport,0.05,284,1,35
+2022,Uttar Pradesh,Paddy,Farm Operations,Total loss in farm operations,3.46,284,1,35
+2022,Uttar Pradesh,Paddy,Market Operations,Godown,0.06,284,1,35
+2022,Uttar Pradesh,Paddy,Market Operations,Wholesalers,0.27,284,1,35
+2022,Uttar Pradesh,Paddy,Market Operations,Retailers,0.04,284,1,35
+2022,Uttar Pradesh,Paddy,Market Operations,Processing unit,0.07,284,1,35
+2022,Uttar Pradesh,Paddy,Market Operations,Transport,0.1,284,1,35
+2022,Uttar Pradesh,Paddy,Market Operations,Total loss in market operations,0.54,284,1,35
+2022,Uttar Pradesh,Paddy,Total,Overall total loss,4.0,284,1,35
+2022,Uttar Pradesh,Poultry Meat,Farm Operations,Harvesting,2.88,284,1,40
+2022,Uttar Pradesh,Poultry Meat,Farm Operations,Total loss in farm operations,2.88,284,1,40
+2022,Uttar Pradesh,Poultry Meat,Market Operations,Wholesalers,2.49,284,1,40
+2022,Uttar Pradesh,Poultry Meat,Market Operations,Retailers,1.45,284,1,40
+2022,Uttar Pradesh,Poultry Meat,Market Operations,Processing unit,0.4,284,1,40
+2022,Uttar Pradesh,Poultry Meat,Market Operations,Transport,0.02,284,1,40
+2022,Uttar Pradesh,Poultry Meat,Market Operations,Total loss in market operations,4.36,284,1,40
+2022,Uttar Pradesh,Wheat,Farm Operations,Harvesting,1.15,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Collection,0.39,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Threshing,1.58,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Drying,0.04,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Packaging,0.008,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Farm level storage,0.05,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Transport,0.12,284,1,44
+2022,Uttar Pradesh,Wheat,Farm Operations,Total loss in farm operations,3.48,284,1,44
+2022,Uttar Pradesh,Wheat,Market Operations,Godown,0.433,284,1,44
+2022,Uttar Pradesh,Wheat,Market Operations,Wholesalers,0.83,284,1,44
+2022,Uttar Pradesh,Wheat,Market Operations,Retailers,0.66,284,1,44
+2022,Uttar Pradesh,Wheat,Market Operations,Processing unit,0.9,284,1,44
+2022,Uttar Pradesh,Wheat,Market Operations,Transport,0.06,284,1,44
+2022,Uttar Pradesh,Wheat,Market Operations,Total loss in market operations,2.88,284,1,44
+2022,Uttar Pradesh,Wheat,Total,Overall total loss,6.36,284,1,44
+2022,West Bengal,Beans,Farm Operations,Harvesting,0.33,285,2,5
+2022,West Bengal,Beans,Farm Operations,Sorting/Grading,1.29,285,2,5
+2022,West Bengal,Beans,Farm Operations,Packaging,0.33,285,2,5
+2022,West Bengal,Beans,Farm Operations,Farm level storage,0.39,285,2,5
+2022,West Bengal,Beans,Farm Operations,Transport,0.07,285,2,5
+2022,West Bengal,Beans,Farm Operations,Total loss in farm operations,2.61,285,2,5
+2022,West Bengal,Beans,Market Operations,Godown,0.09,285,2,5
+2022,West Bengal,Beans,Market Operations,Wholesalers,0.96,285,2,5
+2022,West Bengal,Beans,Market Operations,Retailers,0.67,285,2,5
+2022,West Bengal,Beans,Market Operations,Transport,1.15,285,2,5
+2022,West Bengal,Beans,Market Operations,Total loss in market operations,2.87,285,2,5
+2022,West Bengal,Beans,Total,Overall total loss,5.48,285,2,5
+2022,West Bengal,Cabbage,Farm Operations,Harvesting,1.35,285,2,10
+2022,West Bengal,Cabbage,Farm Operations,Collection,0.37,285,2,10
+2022,West Bengal,Cabbage,Farm Operations,Sorting/Grading,2.54,285,2,10
+2022,West Bengal,Cabbage,Farm Operations,Packaging,0.36,285,2,10
+2022,West Bengal,Cabbage,Farm Operations,Farm level storage,0.16,285,2,10
+2022,West Bengal,Cabbage,Farm Operations,Transport,0.76,285,2,10
+2022,West Bengal,Cabbage,Farm Operations,Total loss in farm operations,5.54,285,2,10
+2022,West Bengal,Cabbage,Market Operations,Godown,0.06,285,2,10
+2022,West Bengal,Cabbage,Market Operations,Wholesalers,0.73,285,2,10
+2022,West Bengal,Cabbage,Market Operations,Retailers,2.28,285,2,10
+2022,West Bengal,Cabbage,Market Operations,Processing unit,0.01,285,2,10
+2022,West Bengal,Cabbage,Market Operations,Transport,0.09,285,2,10
+2022,West Bengal,Cabbage,Market Operations,Total loss in market operations,3.17,285,2,10
+2022,West Bengal,Cabbage,Total,Overall total loss,8.71,285,2,10
+2022,West Bengal,Eggs,Farm Operations,Harvesting,1.78,285,2,15
+2022,West Bengal,Eggs,Farm Operations,Sorting/Grading,1.63,285,2,15
+2022,West Bengal,Eggs,Farm Operations,Packaging,1.04,285,2,15
+2022,West Bengal,Eggs,Farm Operations,Farm level storage,0.41,285,2,15
+2022,West Bengal,Eggs,Farm Operations,Transport,0.38,285,2,15
+2022,West Bengal,Eggs,Farm Operations,Total loss in farm operations,5.26,285,2,15
+2022,West Bengal,Eggs,Total,Overall total loss,7.07,285,2,15
+2022,West Bengal,Groundnut,Farm Operations,Harvesting,2.35,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Collection,0.73,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Threshing,2.01,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Drying,0.16,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Packaging,0.14,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Farm level storage,0.1,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Transport,0.13,285,2,20
+2022,West Bengal,Groundnut,Farm Operations,Total loss in farm operations,6.15,285,2,20
+2022,West Bengal,Groundnut,Market Operations,Godown,0.05,285,2,20
+2022,West Bengal,Groundnut,Market Operations,Wholesalers,0.42,285,2,20
+2022,West Bengal,Groundnut,Market Operations,Retailers,0.08,285,2,20
+2022,West Bengal,Groundnut,Market Operations,Processing unit,0.39,285,2,20
+2022,West Bengal,Groundnut,Market Operations,Transport,0.14,285,2,20
+2022,West Bengal,Groundnut,Market Operations,Total loss in market operations,1.09,285,2,20
+2022,West Bengal,Groundnut,Total,Overall total loss,7.24,285,2,20
+2022,West Bengal,Inland fish,Farm Operations,Harvesting,1.24,285,2,25
+2022,West Bengal,Inland fish,Farm Operations,Collection,0.31,285,2,25
+2022,West Bengal,Inland fish,Farm Operations,Sorting/Grading,0.92,285,2,25
+2022,West Bengal,Inland fish,Farm Operations,Packaging,0.13,285,2,25
+2022,West Bengal,Inland fish,Farm Operations,Farm level storage,0.06,285,2,25
+2022,West Bengal,Inland fish,Farm Operations,Transport,0.12,285,2,25
+2022,West Bengal,Inland fish,Farm Operations,Total loss in farm operations,2.77,285,2,25
+2022,West Bengal,Inland fish,Market Operations,Wholesalers,0.35,285,2,25
+2022,West Bengal,Inland fish,Market Operations,Retailers,0.54,285,2,25
+2022,West Bengal,Inland fish,Market Operations,Transport,0.12,285,2,25
+2022,West Bengal,Inland fish,Market Operations,Total loss in market operations,1.02,285,2,25
+2022,West Bengal,Inland fish,Total,Overall total loss,3.79,285,2,25
+2022,West Bengal,Marine fish,Farm Operations,Harvesting,5.77,285,2,30
+2022,West Bengal,Marine fish,Farm Operations,Collection,0.51,285,2,30
+2022,West Bengal,Marine fish,Farm Operations,Sorting/Grading,0.42,285,2,30
+2022,West Bengal,Marine fish,Farm Operations,Drying,0.17,285,2,30
+2022,West Bengal,Marine fish,Farm Operations,Packaging,0.03,285,2,30
+2022,West Bengal,Marine fish,Farm Operations,Transport,0.37,285,2,30
+2022,West Bengal,Marine fish,Farm Operations,Total loss in farm operations,7.26,285,2,30
+2022,West Bengal,Marine fish,Market Operations,Godown,0.15,285,2,30
+2022,West Bengal,Marine fish,Market Operations,Wholesalers,0.57,285,2,30
+2022,West Bengal,Marine fish,Market Operations,Retailers,0.2,285,2,30
+2022,West Bengal,Marine fish,Market Operations,Processing unit,0.2,285,2,30
+2022,West Bengal,Marine fish,Market Operations,Transport,0.56,285,2,30
+2022,West Bengal,Marine fish,Market Operations,Total loss in market operations,1.68,285,2,30
+2022,West Bengal,Marine fish,Total,Overall total loss,8.94,285,2,30
+2022,West Bengal,Milk,Farm Operations,Harvesting,0.27,285,2,35
+2022,West Bengal,Milk,Farm Operations,Collection,0.05,285,2,35
+2022,West Bengal,Milk,Farm Operations,Transport,0.3,285,2,35
+2022,West Bengal,Milk,Farm Operations,Total loss in farm operations,0.61,285,2,35
+2022,West Bengal,Milk,Market Operations,Retailers,0.14,285,2,35
+2022,West Bengal,Milk,Market Operations,Processing unit,0.4,285,2,35
+2022,West Bengal,Milk,Market Operations,Transport,0.04,285,2,35
+2022,West Bengal,Milk,Market Operations,Total loss in market operations,0.48,285,2,35
+2022,West Bengal,Milk,Total,Overall total loss,1.09,285,2,35
+2022,West Bengal,Okra,Farm Operations,Harvesting,1.48,285,2,40
+2022,West Bengal,Okra,Farm Operations,Collection,0.39,285,2,40
+2022,West Bengal,Okra,Farm Operations,Sorting/Grading,1.16,285,2,40
+2022,West Bengal,Okra,Farm Operations,Packaging,0.16,285,2,40
+2022,West Bengal,Okra,Farm Operations,Farm level storage,0.19,285,2,40
+2022,West Bengal,Okra,Farm Operations,Transport,0.44,285,2,40
+2022,West Bengal,Okra,Farm Operations,Total loss in farm operations,3.81,285,2,40
+2022,West Bengal,Okra,Market Operations,Wholesalers,0.84,285,2,40
+2022,West Bengal,Okra,Market Operations,Retailers,0.9,285,2,40
+2022,West Bengal,Okra,Market Operations,Transport,0.49,285,2,40
+2022,West Bengal,Okra,Market Operations,Total loss in market operations,2.24,285,2,40
+2022,West Bengal,Okra,Total,Overall total loss,6.05,285,2,40
+2022,West Bengal,Pineapple,Farm Operations,Harvesting,2.45,285,2,45
+2022,West Bengal,Pineapple,Farm Operations,Collection,0.09,285,2,45
+2022,West Bengal,Pineapple,Farm Operations,Sorting/Grading,0.96,285,2,45
+2022,West Bengal,Pineapple,Farm Operations,Packaging,0.04,285,2,45
+2022,West Bengal,Pineapple,Farm Operations,Farm level storage,0.08,285,2,45
+2022,West Bengal,Pineapple,Farm Operations,Transport,0.2,285,2,45
+2022,West Bengal,Pineapple,Farm Operations,Total loss in farm operations,3.82,285,2,45
+2022,West Bengal,Pineapple,Market Operations,Godown,0.15,285,2,45
+2022,West Bengal,Pineapple,Market Operations,Wholesalers,0.71,285,2,45
+2022,West Bengal,Pineapple,Market Operations,Retailers,0.54,285,2,45
+2022,West Bengal,Pineapple,Market Operations,Processing unit,0.1,285,2,45
+2022,West Bengal,Pineapple,Market Operations,Transport,0.35,285,2,45
+2022,West Bengal,Pineapple,Market Operations,Total loss in market operations,1.84,285,2,45
+2022,West Bengal,Pineapple,Total,Overall total loss,5.66,285,2,45
+2022,West Bengal,Poultry,Farm Operations,Harvesting,2.28,285,2,49
+2022,West Bengal,Poultry,Farm Operations,Collection,0.15,285,2,49
+2022,West Bengal,Poultry,Farm Operations,Sorting/Grading,1.89,285,2,49
+2022,West Bengal,Poultry,Farm Operations,Packaging,0.04,285,2,49
+2022,West Bengal,Poultry,Farm Operations,Farm level storage,0.11,285,2,49
+2022,West Bengal,Poultry,Farm Operations,Transport,0.42,285,2,49
+2022,West Bengal,Poultry,Farm Operations,Total loss in farm operations,4.89,285,2,49
+2022,West Bengal,Poultry,Market Operations,Godown,0.1,285,2,49
+2022,West Bengal,Poultry,Market Operations,Wholesalers,0.3,285,2,49
+2022,West Bengal,Poultry,Market Operations,Retailers,0.08,285,2,49
+2022,West Bengal,Poultry,Market Operations,Processing unit,0.04,285,2,49
+2022,West Bengal,Poultry,Market Operations,Transport,0.31,285,2,49
+2022,West Bengal,Poultry,Market Operations,Total loss in market operations,0.83,285,2,49
+2022,West Bengal,Meat,Market Operations,Wholesalers,2.29,285,2,51
+2022,West Bengal,Meat,Market Operations,Retailers,0.53,285,2,51
+2022,West Bengal,Meat,Market Operations,Processing unit,0.02,285,2,51
+2022,West Bengal,Meat,Market Operations,Transport,0.2,285,2,51
+2022,West Bengal,Meat,Market Operations,Total loss in market operations,3.03,285,2,51
+2022,West Bengal,Sunflower,Farm Operations,Harvesting,1.15,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Collection,0.49,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Threshing,1.92,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Drying,0.1,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Packaging,0.09,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Farm level storage,0.05,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Transport,0.13,286,1,5
+2022,West Bengal,Sunflower,Farm Operations,Total loss in farm operations,4.17,286,1,5
+2022,West Bengal,Sunflower,Market Operations,Godown,0.02,286,1,5
+2022,West Bengal,Sunflower,Market Operations,Wholesalers,0.17,286,1,5
+2022,West Bengal,Sunflower,Market Operations,Retailers,0.04,286,1,5
+2022,West Bengal,Sunflower,Market Operations,Processing unit,0.71,286,1,5
+2022,West Bengal,Sunflower,Market Operations,Transport,0.11,286,1,5
+2022,West Bengal,Sunflower,Market Operations,Total loss in market operations,1.04,286,1,5
+2022,West Bengal,Sunflower,Total,Overall total loss,5.21,286,1,5
