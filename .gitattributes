@@ -1,0 +1,4 @@
+*.csv -diff -text
+*.tif binary
+*.pdf binary
+data/shared/mandi_archive/part-* binary

@@ -69,3 +69,8 @@ IF
     AND soil conditions match
 THEN
     recommend the crop
+
+
+## Datasets
+
+Historical mandi prices, soil properties, crop production, and post-harvest loss data are documented in [the dataset guide](docs/datasets.md). The large mandi archive is shared in numbered parts with reconstruction instructions.
