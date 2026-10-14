@@ -1,0 +1,364 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Andhra Pradesh,Vijayanagaram,Bobbili,Other,Forest Products,0.0,200,500,350,2005-07-27
+Telangana,Nalgonda,Bhongir,Other,Forest Products,3.33,550,550,550,2006-01-07
+Telangana,Nalgonda,Bhongir,Other,Forest Products,2.0,550,550,550,2006-01-09
+Telangana,Nalgonda,Bhongir,Other,Forest Products,4.33,550,550,550,2006-01-10
+Telangana,Nalgonda,Bhongir,Other,Forest Products,2.66,550,550,550,2006-01-12
+Telangana,Nalgonda,Bhongir,Other,Forest Products,3.33,570,570,570,2006-01-17
+Telangana,Nalgonda,Bhongir,Other,Forest Products,1.66,550,550,550,2006-01-18
+Telangana,Nalgonda,Bhongir,Other,Forest Products,1.0,550,550,550,2006-01-19
+Telangana,Nalgonda,Bhongir,Other,Forest Products,3.33,550,550,550,2006-01-20
+Telangana,Nalgonda,Bhongir,Other,Forest Products,2.0,550,550,550,2006-01-28
+Telangana,Nalgonda,Bhongir,Other,Forest Products,1.66,530,530,530,2006-01-30
+Telangana,Nalgonda,Bhongir,Other,Forest Products,1.33,550,550,550,2006-01-31
+Telangana,Nalgonda,Bhongir,Other,Forest Products,3.33,550,550,550,2006-02-01
+Telangana,Nalgonda,Bhongir,Other,Forest Products,3.33,550,550,550,2006-02-03
+Telangana,Nalgonda,Bhongir,Other,Forest Products,6.66,550,550,550,2006-02-07
+Telangana,Nalgonda,Bhongir,Other,Forest Products,1.66,550,550,550,2006-02-08
+Telangana,Nalgonda,Bhongir,Other,Forest Products,6.66,550,550,550,2006-02-10
+Telangana,Medak,Zaheerabad,Other,Forest Products,6.66,611,611,611,2005-12-29
+Telangana,Medak,Zaheerabad,Other,Forest Products,6.66,615,615,615,2006-01-24
+Telangana,Medak,Zaheerabad,Other,Forest Products,0.2,775,775,775,2006-12-16
+Telangana,Medak,Zaheerabad,Other,Forest Products,0.1,820,820,820,2006-12-30
+Telangana,Medak,Zaheerabad,Other,Forest Products,0.2,825,850,837,2007-03-01
+Telangana,Medak,Zaheerabad,Other,Forest Products,0.2,980,980,980,2007-12-24
+Telangana,Medak,Jogipet,Other,Forest Products,6.33,560,700,630,2006-01-31
+Telangana,Mahbubnagar,Nagarkurnool,Other,Forest Products,0.1,4000,4000,4000,2013-01-18
+Telangana,Mahbubnagar,Nagarkurnool,Other,Forest Products,0.1,4001,4001,4001,2013-01-29
+Telangana,Mahbubnagar,Nagarkurnool,Other,Forest Products,0.2,4155,4155,4155,2014-01-29
+Telangana,Mahbubnagar,Nagarkurnool,Other,Forest Products,0.3,3519,4059,3769,2014-02-17
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.0,500,500,500,2004-05-22
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,30.0,612,612,612,2004-12-30
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,8.0,580,593,593,2005-01-03
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,11.0,530,561,550,2005-01-05
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,3.0,889,889,889,2005-01-07
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,8.0,502,850,830,2005-01-11
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,5.0,535,535,535,2005-01-18
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,3.0,503,503,503,2005-03-15
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.0,501,501,501,2005-03-22
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.0,710,710,710,2005-03-29
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,2.0,515,515,515,2005-04-01
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,8.0,500,500,500,2005-04-20
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.0,653,653,653,2005-05-17
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,2.0,700,700,700,2005-07-07
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.0,1436,1546,1436,2006-01-17
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,3.33,1501,1546,1511,2006-01-18
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,6.66,490,490,490,2006-02-10
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,6.66,770,770,770,2006-02-17
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,0.3,515,515,515,2006-12-18
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,0.1,528,528,528,2006-12-26
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.0,541,578,578,2006-12-29
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,1.5,575,611,575,2007-01-11
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,0.2,633,786,751,2007-01-24
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,0.2,655,655,655,2007-02-05
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,6.0,1100,1100,1100,2011-01-10
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,0.3,1340,1801,1342,2012-01-10
+Telangana,Mahbubnagar,Badepalli,Other,Forest Products,0.2,1870,1870,1870,2014-03-24
+Madhya Pradesh,Tikamgarh,Tikamgarh,Other,Forest Products,17.75,500,500,500,2003-02-07
+Madhya Pradesh,Tikamgarh,Tikamgarh,Other,Forest Products,102.1,505,525,515,2003-02-14
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,5.0,1200,1210,1205,2005-04-11
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,3.02,1200,1225,1210,2005-04-28
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,4.02,1175,1200,1180,2005-05-15
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,7.3,1301,1310,1305,2005-06-18
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,2.8,1300,1315,1310,2005-06-21
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,4.6,1200,1210,1205,2005-06-27
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,3.6,1175,1200,1185,2005-07-02
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,7.9,1710,1720,1715,2007-02-06
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,17.0,1850,1900,1860,2007-02-20
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,12.9,1700,1710,1710,2007-03-22
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,7.5,1000,1010,1010,2007-04-17
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,12.8,1725,1725,1725,2007-06-23
+Madhya Pradesh,Mandla,Mandla,Other,Forest Products,10.0,1750,1760,1760,2007-07-12
+Madhya Pradesh,Sidhi,Sidhi,Other,Forest Products,28.2,1500,1525,1510,2023-03-22
+Madhya Pradesh,Sidhi,Sidhi,Ambada Seed,Forest Products,75.0,1500,1600,1600,2023-05-03
+Madhya Pradesh,Singroli,Singroli,Other,Forest Products,2.0,2000,2000,2000,2023-04-14
+Madhya Pradesh,Singroli,Singroli,Other,Forest Products,32.0,2500,2500,2500,2023-06-01
+Madhya Pradesh,Singroli,Singroli,Other,Forest Products,4.5,4000,4000,4000,2023-06-21
+Madhya Pradesh,Singroli,Singroli,Other,Forest Products,22.0,2500,2500,2500,2023-06-29
+Madhya Pradesh,Singroli,Singroli,Ambada Seed,Forest Products,20.0,2000,2000,2000,2023-08-05
+Madhya Pradesh,Singroli,Singroli,Ambada Seed,Forest Products,20.0,2000,2000,2000,2023-10-02
+Haryana,Ambala,Mullana,Other,Forest Products,1.0,600,700,650,2008-06-19
+Gujarat,Panchmahals,Godhra,Other,Forest Products,30.0,1200,1300,1250,2012-10-01
+Gujarat,Surat,Songadh,Other,Forest Products,0.3,5450,5450,5450,2015-05-30
+Gujarat,Surat,Songadh,Other,Forest Products,5.0,1190,1390,1245,2015-11-01
+Gujarat,Surat,Songadh,Other,Forest Products,1.1,1180,1285,1232,2015-11-17
+Gujarat,Surat,Songadh,Other,Forest Products,0.1,1955,1955,1955,2015-12-24
+Gujarat,Surat,Songadh,Other,Forest Products,0.1,2105,2223,2175,2015-12-31
+Gujarat,Surat,Songadh,Other,Forest Products,0.2,2125,2125,2125,2016-01-08
+Gujarat,Surat,Songadh,Other,Forest Products,0.3,2105,2105,2105,2016-01-09
+Gujarat,Surat,Songadh,Other,Forest Products,0.1,2200,2200,2200,2016-02-26
+Gujarat,Surat,Songadh,Other,Forest Products,18.7,1360,1470,1415,2016-10-21
+Gujarat,Surat,Songadh,Other,Forest Products,11.0,1325,1525,1425,2016-12-26
+Gujarat,Surat,Songadh,Other,Forest Products,0.1,1680,1680,1680,2017-01-04
+Gujarat,Surat,Songadh,Other,Forest Products,0.1,1575,1575,1575,2017-01-27
+Gujarat,Surat,Songadh,Other,Forest Products,6.1,1395,1480,1437,2017-02-07
+Gujarat,Surat,Songadh,Other,Forest Products,2.1,1480,1500,1490,2017-09-09
+Gujarat,Surat,Songadh,Other,Forest Products,4.2,1350,1555,1452,2017-10-03
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,1505,1505,1505,2018-01-27
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,2.5,1490,1595,1547,2018-09-20
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,3.4,1530,1580,1555,2018-09-25
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,53.4,1630,1756,1723,2018-10-25
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,70.3,1678,1765,1734,2018-10-31
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,1750,1845,1790,2018-11-17
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,1.8,1710,1723,1716,2019-07-18
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.5,1675,1675,1675,2019-07-21
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,2.1,1695,1745,1720,2019-07-24
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.9,1700,1700,1700,2019-07-26
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,1.5,1720,1740,1730,2019-08-09
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,1.7,1695,1720,1707,2019-08-10
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,1.1,1695,1700,1697,2019-08-14
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,4.5,1680,1745,1712,2019-08-17
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,1.8,1537,1700,1618,2020-07-14
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,1550,1550,1550,2020-07-28
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,3000,3000,3000,2020-12-12
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,4950,4950,4950,2020-12-19
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,4995,4995,4995,2020-12-22
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,4750,4750,4750,2020-12-23
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.2,3995,4010,4002,2021-01-09
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,3.9,2000,4025,3012,2021-01-10
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.4,4900,5000,4950,2021-01-20
+Gujarat,Surat,Songadh,Ambada Seed,Forest Products,0.1,2045,2045,2045,2023-07-17
+Maharashtra,Nanded,Nanded,Other,Forest Products,0.6,725,725,725,2003-02-25
+Maharashtra,Nanded,Nanded,Other,Forest Products,0.2,800,800,800,2003-05-06
+Maharashtra,Jalana,Jalana,Other,Forest Products,2.0,625,660,660,2003-02-11
+Maharashtra,Jalana,Jalana,Other,Forest Products,1.0,700,700,700,2003-03-11
+Rajasthan,Swai Madhopur,Sawai Madhopur,Other,Forest Products,0.01,1575,1655,1600,2021-03-24
+Rajasthan,Swai Madhopur,Sawai Madhopur,Other,Forest Products,2.9,1765,1945,1920,2022-02-19
+Rajasthan,Swai Madhopur,Sawai Madhopur,Other,Forest Products,29.7,2130,2295,2235,2022-05-04
+Rajasthan,Swai Madhopur,Sawai Madhopur,Other,Forest Products,0.6,1980,2030,2005,2023-06-17
+Chattisgarh,Bastar,Jaitgiri,Other,Forest Products,10.0,990,1010,1000,2015-02-08
+Chattisgarh,Bastar,Jaitgiri,Other,Forest Products,320.9,1250,1300,1275,2017-08-27
+Chattisgarh,Bastar,Jaitgiri,Other,Forest Products,0.1,1200,1300,1250,2020-06-14
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.3,685,685,685,2004-01-22
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.2,500,550,525,2004-01-30
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.6,555,560,558,2004-02-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.8,400,400,400,2004-05-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,11.4,325,386,355,2004-07-16
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,2.6,311,361,336,2005-01-04
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.0,370,372,371,2005-01-06
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.0,360,370,365,2005-01-08
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,7.0,360,561,460,2005-01-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,2.8,360,360,360,2005-01-31
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,3.3,321,325,323,2005-02-03
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.9,325,325,325,2005-02-04
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,10.0,301,311,306,2005-02-05
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,2.5,301,305,303,2005-02-07
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.0,311,311,311,2005-02-08
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.3,350,400,375,2006-01-07
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,10.0,365,560,448,2006-01-16
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.1,500,540,520,2006-01-17
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,6.0,400,500,450,2006-01-19
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,3.6,400,400,400,2006-01-21
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.3,405,410,408,2006-02-01
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.4,415,500,448,2006-02-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.4,400,400,400,2006-02-27
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.7,350,375,363,2006-03-02
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.1,411,450,431,2006-03-18
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.5,400,600,500,2007-01-02
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.8,400,450,425,2007-01-03
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.5,400,500,450,2007-01-05
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.8,480,510,495,2007-01-06
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.5,400,500,450,2007-01-10
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,9.5,350,500,425,2007-01-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.4,450,450,450,2007-01-12
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,3.8,350,600,475,2007-01-16
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.1,400,500,450,2007-01-19
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.1,475,475,475,2007-01-22
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.5,400,500,450,2007-01-27
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,7.9,400,450,425,2007-02-01
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.7,400,400,400,2007-02-02
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,6.5,450,475,460,2008-01-12
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,10.0,600,600,600,2010-01-01
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.5,600,600,600,2010-01-04
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.5,600,600,600,2010-01-05
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,9.0,600,600,600,2010-01-07
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,9.0,600,600,600,2010-01-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,14.0,600,650,625,2010-01-13
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,6.0,600,600,600,2010-01-18
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.0,750,750,750,2011-02-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,15.4,886,1086,986,2015-02-24
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,2.4,3982,3982,3982,2015-04-14
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,7.8,1086,1186,1136,2015-04-25
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,9.9,1086,1186,1136,2015-05-05
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,10.2,1050,1100,1075,2015-05-20
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.0,1190,1210,1200,2015-12-30
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.7,1100,1100,1100,2016-01-11
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.4,1200,1300,1250,2016-01-14
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.0,1100,1200,1150,2016-01-16
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,8.0,1100,1200,1150,2016-01-23
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,6.1,1200,1220,1210,2016-02-12
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,21.8,3500,4195,3848,2016-04-19
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,2.9,5000,5100,5050,2017-07-08
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,4.2,4000,4160,4092,2017-09-18
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.9,1100,1100,1100,2017-10-13
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,13.7,1525,1586,1556,2018-01-16
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,14.0,1200,1220,1210,2018-01-29
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,9.9,1190,1210,1200,2018-02-06
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,9.4,1040,1060,1050,2018-03-17
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,1.5,1186,1186,1186,2018-05-21
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,6.0,1890,1900,1895,2019-02-01
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.1,900,900,900,2019-03-02
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,5.0,1250,1350,1300,2020-02-03
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.1,1000,1000,1000,2020-04-28
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,367.1,6000,7236,6618,2021-06-25
+Chattisgarh,Bastar,Jagdalpur,Other,Forest Products,0.1,3000,3000,3000,2022-11-25
+Chattisgarh,Bastar,Lohandiguda,Other,Forest Products,10.0,925,1000,963,2015-02-20
+Chattisgarh,Bastar,Devda,Other,Forest Products,2.5,2000,2000,2000,2015-01-17
+Chattisgarh,Bastar,Devda,Other,Forest Products,4.8,1350,1350,1350,2020-09-02
+Chattisgarh,Bastar,Devda,Other,Forest Products,1.0,3000,3000,3000,2023-04-01
+Chattisgarh,Narayanpur,Narayanpur,Other,Forest Products,0.4,800,1000,900,2006-07-20
+Chattisgarh,Kondagaon,Kondagoan,Other,Forest Products,0.05,400,400,400,2005-01-05
+Chattisgarh,Kanker,Sarona,Ambada Seed,Forest Products,40.0,5200,5200,5200,2018-05-16
+Chattisgarh,Kanker,Sarona,Ambada Seed,Forest Products,12.0,5200,5200,5200,2018-05-17
+Chattisgarh,Kanker,Sarona,Ambada Seed,Forest Products,130.0,5500,5500,5500,2018-05-21
+Chattisgarh,Kanker,Sarona,Ambada Seed,Forest Products,20.0,6500,6500,6500,2018-06-03
+Chattisgarh,Kanker,Sarona,Ambada Seed,Forest Products,30.0,3000,3000,3000,2019-11-26
+Chattisgarh,Jashpur,Pathalgaon,Other,Forest Products,10.0,200,400,300,2006-07-13
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,30.0,600,600,600,2014-08-15
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,30.0,600,600,600,2014-08-19
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,40.0,600,600,600,2014-08-20
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2014-08-22
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,80.0,600,600,600,2014-08-25
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2014-09-04
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,60.0,600,600,600,2014-09-08
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,130.0,600,800,800,2014-10-08
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,70.0,600,800,800,2014-10-13
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,18.0,600,600,600,2014-10-17
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,18.0,600,800,800,2014-10-20
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,15.0,600,600,600,2014-10-22
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,17.0,600,600,600,2014-10-27
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,18.0,600,600,600,2014-10-30
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,75.0,600,800,600,2014-11-03
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,5.0,600,600,600,2014-11-05
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,20.0,600,600,600,2014-11-10
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,20.0,600,600,600,2014-11-14
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2014-11-18
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,38.0,600,600,600,2014-11-20
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,65.0,600,600,600,2014-11-25
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-03-23
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,21.0,600,600,600,2015-03-27
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,25.0,600,600,600,2015-08-03
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,25.0,600,600,600,2015-08-05
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2015-08-20
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2015-08-22
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,80.0,600,600,600,2015-08-28
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,170.0,600,600,600,2015-08-31
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-09-07
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-09-14
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,75.0,600,600,600,2015-09-21
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-09-23
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-09-28
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-09-30
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,30.0,600,600,600,2015-10-06
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,25.0,600,600,600,2015-10-08
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,32.0,600,600,600,2015-10-13
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,30.0,600,600,600,2015-10-16
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2015-10-19
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,20.0,600,600,600,2015-10-23
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,40.0,600,600,600,2015-10-26
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,25.0,600,600,600,2015-10-27
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,85.0,600,600,600,2015-10-30
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,36.0,600,600,600,2015-11-09
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,55.0,600,600,600,2015-11-16
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,60.0,600,600,600,2015-11-30
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,3.0,600,600,600,2016-01-11
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,8.0,600,600,600,2016-08-03
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,160.0,600,600,600,2016-08-11
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,181.0,600,600,600,2016-08-16
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2016-08-20
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2016-08-24
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,9.0,600,600,600,2016-08-26
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,100.0,600,600,600,2016-09-29
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2016-10-14
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,60.0,600,600,600,2016-10-20
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2016-11-08
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,30.0,600,600,600,2016-11-28
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,60.0,600,600,600,2016-11-30
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,50.0,600,600,600,2016-12-16
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,40.0,600,600,600,2016-12-30
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,145.0,600,600,600,2017-08-28
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,116.0,600,600,600,2017-08-31
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,120.0,600,600,600,2017-09-07
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,80.0,600,600,600,2017-10-09
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2017-10-18
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,10.0,600,600,600,2017-10-23
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,35.0,600,600,600,2017-11-16
+Chattisgarh,Koria,Baikunthpur,Other,Forest Products,100.0,600,600,600,2017-12-07
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,25.0,300,300,300,2018-08-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2018-12-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,25.0,300,300,300,2019-08-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,12.5,300,300,300,2019-09-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,1.0,400,400,400,2020-01-06
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,25.0,300,300,300,2020-08-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,13.0,300,300,300,2020-09-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,2.0,600,600,600,2021-01-25
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2021-08-07
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2021-08-17
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2021-08-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2021-09-16
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2021-09-27
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2021-09-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,600,600,600,2022-01-25
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2022-03-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2022-06-28
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2022-06-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2022-07-25
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2022-07-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2022-08-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,300,300,300,2022-09-26
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2022-09-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,20.0,600,600,600,2022-12-31
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,300,300,300,2023-01-23
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,500,500,500,2023-03-27
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,2.0,500,500,500,2023-03-28
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,500,500,500,2023-04-25
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,700,700,700,2023-04-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-05-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-08-28
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,2.5,1000,1000,1000,2023-09-04
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,1.5,1000,1000,1000,2023-09-25
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,10.0,1000,1000,1000,2023-09-28
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-09-29
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-10-19
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,2.0,1000,1000,1000,2023-10-20
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,1.5,1000,1000,1000,2023-10-23
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,1.5,1000,1000,1000,2023-10-24
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,4.0,1000,1000,1000,2023-10-25
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-10-28
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-11-29
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,12.0,1000,1000,1000,2023-11-30
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,5.0,1000,1000,1000,2023-12-11
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,19.0,1000,1000,1000,2023-12-28
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,2.0,1000,1000,1000,2024-01-11
+Chattisgarh,Koria,Baikunthpur,Ambada Seed,Forest Products,2.0,1000,1000,1000,2024-01-19
+Chattisgarh,Surajpur,Surajpur,Ambada Seed,Forest Products,250.0,1000,1000,1000,2023-11-30
+Chattisgarh,Surajpur,Surajpur,Ambada Seed,Forest Products,50.0,1000,1000,1000,2024-01-31
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,10.0,900,1000,950,2010-08-22
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,1.5,800,900,850,2010-11-18
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,0.1,1500,1600,1550,2011-01-09
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,0.5,800,900,850,2011-01-24
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,2.0,800,900,850,2011-01-28
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,1.0,800,900,850,2011-02-22
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,100.0,624,724,674,2013-09-25
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,10.0,1000,1100,1050,2013-10-22
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,50.0,1000,1100,1050,2014-05-07
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,100.0,600,700,650,2014-07-10
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,150.0,600,700,650,2014-07-11
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,100.0,600,700,650,2014-07-12
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,50.0,600,700,650,2014-07-13
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,100.0,600,700,650,2014-07-14
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,0.3,900,1000,950,2015-01-31
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,0.5,800,900,850,2015-02-10
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,1.5,1000,1100,1050,2016-01-08
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,2.2,1200,1300,1250,2017-09-17
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,13.0,800,900,850,2018-05-25
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,5.0,3000,3200,3100,2023-09-12
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,20.0,2800,3000,2900,2023-10-10
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,2.0,2800,3000,2900,2023-10-13
+Chattisgarh,Dantewada,Gidam,Other,Forest Products,99.5,1400,1600,1500,2023-10-31
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Ambada Seed,Forest Products,0.5,1150,1350,1200,2019-10-12
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Ambada Seed,Forest Products,1.0,1000,1200,1100,2019-10-14
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Ambada Seed,Forest Products,0.5,1100,1250,1150,2019-10-15
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Ambada Seed,Forest Products,0.8,1050,1250,1100,2019-10-16
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Ambada Seed,Forest Products,2.0,1100,1300,1200,2019-10-17
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Ambada Seed,Forest Products,1.0,1100,1300,1200,2019-10-18

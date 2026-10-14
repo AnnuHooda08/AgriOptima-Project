@@ -1,0 +1,845 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",12.0,160,180,170,13 Aug 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",200.0,130,160,145,10 Aug 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",257.0,150,170,160,06 Jul 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",45.0,160,180,170,28 Jun 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",45.0,160,180,170,23 Jun 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",52.0,140,160,150,21 Jun 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",20.0,130,160,140,15 Jun 2010
+Arunachal Pradesh,East Siang,Pasighat,Other,"Live Stock,Poultry,Fisheries",8.0,100,130,120,02 Jun 2010
+Odisha,Nowarangpur,Nawarangpur,Other,"Live Stock,Poultry,Fisheries",2000.0,100,100,100,11 Mar 2021
+Odisha,Nowarangpur,Nawarangpur,Local,"Live Stock,Poultry,Fisheries",700.0,5000,5000,5000,31 Dec 2013
+Odisha,Nowarangpur,Nawarangpur,Local,"Live Stock,Poultry,Fisheries",500.0,5000,5000,5000,05 Jan 2010
+Odisha,Nowarangpur,Nawarangpur,Local,"Live Stock,Poultry,Fisheries",500.0,5000,5000,5000,05 Dec 2009
+Odisha,Nowarangpur,Nawarangpur,Local,"Live Stock,Poultry,Fisheries",609.0,5000,5000,5000,24 Nov 2009
+Odisha,Nowarangpur,Nawarangpur,Local,"Live Stock,Poultry,Fisheries",500.0,5000,5000,5000,20 Aug 2009
+Odisha,Nowarangpur,Nawarangpur,Local,"Live Stock,Poultry,Fisheries",500.0,5000,5000,5000,17 Aug 2009
+Tripura,Khowai,Kalyanpur,Other,"Live Stock,Poultry,Fisheries",50.0,160,180,170,04 Apr 2010
+Tripura,Khowai,Kalyanpur,Other,"Live Stock,Poultry,Fisheries",30.0,120,140,130,28 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,120,250,200,09 Apr 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",30.0,150,200,170,05 Apr 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,120,220,180,02 Apr 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,150,250,200,29 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,150,250,200,26 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,150,250,200,22 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,150,250,200,19 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",30.0,150,250,200,15 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,125,200,150,12 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",30.0,150,250,200,08 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,120,250,200,05 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",25.0,150,250,200,01 Mar 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,130,250,175,26 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",30.0,125,225,180,19 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",25.0,150,250,200,15 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,150,300,200,12 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,150,250,200,08 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",45.0,150,200,180,05 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",45.0,120,250,180,01 Feb 2010
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",25.0,150,250,200,25 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,150,250,200,21 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,150,200,170,18 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,150,225,180,14 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,150,200,170,11 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,150,200,175,07 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,150,200,175,04 Dec 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,150,250,200,30 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,100,200,150,27 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,100,200,150,23 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",45.0,100,200,150,20 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,100,200,150,16 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,100,200,150,13 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,100,175,150,09 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",50.0,100,200,150,06 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",30.0,100,200,150,02 Nov 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",45.0,100,150,125,26 Oct 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",55.0,150,200,175,23 Oct 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,100,150,125,19 Oct 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,100,200,150,09 Oct 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,100,200,150,05 Oct 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",40.0,125,160,150,02 Oct 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",45.0,120,160,150,18 Sep 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",35.0,130,180,160,14 Sep 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",45.0,150,180,160,11 Sep 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",70.0,100,160,130,07 Sep 2009
+Tripura,Khowai,Teliamura,Other,"Live Stock,Poultry,Fisheries",100.0,120,150,130,04 Sep 2009
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,400,600,500,20 Sep 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,480,600,500,24 May 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,600,500,12 Apr 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,600,560,09 Apr 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",119.0,450,560,500,26 Mar 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,560,500,05 Mar 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,460,550,500,01 Mar 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,460,570,500,26 Feb 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,600,500,22 Feb 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,560,500,19 Feb 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,400,600,550,15 Feb 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,390,600,500,29 Jan 2022
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,350,560,500,23 Nov 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,380,560,500,16 Nov 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,360,550,500,13 Nov 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,380,550,500,09 Nov 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,600,560,30 Oct 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,480,600,560,26 Oct 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",80.0,450,600,580,09 Oct 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,11 Sep 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",56.0,360,550,500,31 Aug 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,360,560,500,20 Jul 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,360,560,500,13 Jul 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,360,550,500,22 Jun 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",85.0,360,550,500,15 Jun 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,360,550,500,12 Jun 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,380,560,500,05 Jun 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,340,560,500,01 Jun 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,29 May 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,350,550,500,25 May 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,380,560,500,18 May 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,380,560,500,08 May 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,380,560,500,04 May 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,380,560,500,27 Apr 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,370,550,500,24 Apr 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,20 Apr 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,380,580,500,17 Apr 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,360,550,500,13 Apr 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,380,550,500,03 Apr 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,30 Mar 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,27 Mar 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,340,560,500,23 Mar 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",115.0,380,560,500,20 Mar 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,340,560,500,16 Mar 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,340,550,500,06 Mar 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,460,580,540,06 Feb 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,460,600,540,02 Feb 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",125.0,450,600,560,30 Jan 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",115.0,460,600,550,26 Jan 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",115.0,460,540,500,23 Jan 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,450,600,560,13 Jan 2021
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",125.0,450,600,560,26 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,460,600,550,22 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,450,600,560,19 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,460,600,550,15 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,460,600,550,12 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,05 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,380,560,500,01 Dec 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,360,560,500,28 Nov 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,380,560,500,21 Nov 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",115.0,360,560,500,14 Nov 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,360,560,500,30 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",150.0,380,600,560,20 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,360,560,500,17 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,360,550,500,13 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",115.0,360,550,500,10 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,350,550,500,06 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",85.0,360,550,500,03 Oct 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,29 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,360,550,500,26 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,350,550,500,22 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,360,560,500,19 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,350,550,500,15 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,360,550,500,08 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,360,550,500,05 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,360,540,500,01 Sep 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,360,600,500,25 Aug 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",110.0,350,600,500,22 Aug 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,360,560,500,18 Aug 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,350,560,500,15 Aug 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,280,500,450,17 Mar 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,280,500,450,14 Mar 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,350,500,450,10 Mar 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,380,500,450,07 Mar 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,340,500,450,03 Mar 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,285,500,450,29 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,350,500,460,25 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,280,500,450,22 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,340,500,450,18 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,340,500,450,11 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,320,500,450,08 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",120.0,340,500,450,04 Feb 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",115.0,350,500,450,28 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",150.0,350,500,450,25 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,340,500,450,21 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,380,500,450,18 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,380,500,450,14 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,350,500,475,11 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,350,500,450,07 Jan 2020
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,350,500,450,24 Dec 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,380,500,450,07 Dec 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,380,500,450,03 Dec 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",70.0,300,500,450,26 Nov 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,340,500,450,19 Nov 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,340,500,400,16 Nov 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,280,500,400,12 Nov 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,250,500,450,05 Nov 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,320,500,450,02 Nov 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,350,500,475,29 Oct 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,320,500,450,26 Oct 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,380,500,450,12 Oct 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,275,450,365,01 Oct 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,260,420,375,28 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,260,450,375,24 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,275,400,350,21 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,230,450,350,17 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,260,400,350,10 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,250,400,370,07 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,250,400,360,03 Sep 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,240,350,350,24 Aug 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,230,350,350,20 Aug 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,240,400,360,17 Aug 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,240,450,375,10 Aug 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,230,475,360,06 Aug 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,240,450,380,03 Aug 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,265,400,350,30 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,280,400,375,27 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,240,400,360,23 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,250,400,350,20 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,270,430,380,16 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,250,400,380,13 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,250,400,350,09 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,250,400,350,02 Jul 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,300,400,350,29 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,300,450,400,25 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",60.0,300,450,400,22 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,300,450,375,18 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,300,450,400,15 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,300,450,400,11 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",60.0,300,450,375,08 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,300,450,375,04 Jun 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,250,400,350,28 May 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,300,450,350,25 May 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,300,450,400,21 May 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,275,450,350,18 May 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,250,400,350,14 May 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,250,400,350,11 May 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",60.0,250,400,350,27 Apr 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,250,400,350,20 Apr 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",60.0,250,450,400,16 Apr 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",65.0,250,400,350,13 Apr 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,250,450,400,06 Apr 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,230,400,350,02 Apr 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,250,400,350,30 Mar 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,230,400,350,19 Mar 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,220,400,350,05 Mar 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,230,400,340,26 Feb 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,250,400,350,23 Feb 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,240,400,300,16 Feb 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",30.0,300,450,400,12 Feb 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,300,500,450,05 Feb 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,300,450,400,02 Feb 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,300,450,350,29 Jan 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,250,450,350,26 Jan 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",60.0,300,500,450,22 Jan 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,300,500,400,14 Jan 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,240,350,300,05 Jan 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,230,400,300,01 Jan 2019
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",70.0,250,400,350,25 Sep 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,200,450,300,15 Sep 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",60.0,200,400,325,11 Sep 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,200,400,340,08 Sep 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,200,400,350,04 Sep 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",30.0,200,300,250,28 Aug 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",80.0,200,350,285,25 Aug 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,175,300,250,21 Aug 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,200,400,250,18 Aug 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",55.0,200,450,300,07 Aug 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,200,450,300,31 Jul 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,200,450,300,29 May 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,200,450,300,26 May 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,250,400,300,22 May 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,200,400,300,19 May 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",45.0,200,400,350,12 May 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",35.0,200,450,300,28 Apr 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,200,300,250,24 Apr 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",75.0,200,450,300,20 Apr 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,200,400,350,17 Apr 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,250,400,300,13 Apr 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",100.0,250,400,350,10 Apr 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,250,400,350,31 Mar 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",25.0,250,400,300,27 Mar 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,250,400,350,24 Mar 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,250,400,300,20 Mar 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,200,400,300,17 Mar 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",30.0,250,400,300,10 Mar 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",30.0,250,450,300,27 Feb 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",40.0,300,400,360,24 Feb 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,350,500,400,20 Feb 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,250,400,350,17 Feb 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,300,400,350,06 Feb 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,250,400,300,03 Feb 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,300,450,350,30 Jan 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",20.0,250,450,350,27 Jan 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,300,450,350,20 Jan 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",50.0,300,400,350,16 Jan 2018
+Tripura,Khowai,Bachaibari,Local,"Live Stock,Poultry,Fisheries",200.0,250,500,350,13 Jan 2018
+Tripura,South District,Biokhora,Local,"Live Stock,Poultry,Fisheries",2.0,500,600,550,20 Apr 2020
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,325,16 Sep 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,325,06 Sep 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,275,350,300,30 Aug 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,375,350,16 Aug 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,350,400,375,09 Aug 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,300,350,325,15 Jul 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,400,350,12 Jul 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,400,350,05 Jul 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,300,350,325,01 Jul 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,300,400,325,29 Jun 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,300,400,350,24 Jun 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,400,350,21 Jun 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,250,350,300,17 Jun 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,250,350,300,10 Jun 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",10.0,250,350,300,03 Jun 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,300,400,350,31 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,27 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,20 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,220,300,250,13 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,300,275,10 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,220,300,250,06 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,200,300,250,03 May 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,300,350,325,29 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,325,300,26 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,375,350,22 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,19 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,350,300,15 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,200,300,250,08 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,01 Apr 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,25 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,22 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,275,325,300,18 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,15 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,11 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,250,300,275,08 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,250,300,275,04 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,275,325,300,01 Mar 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,325,25 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,350,325,18 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,400,350,15 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,350,450,400,12 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,350,425,400,08 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,400,350,04 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",1.0,350,450,400,01 Feb 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,325,400,350,28 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,350,450,400,25 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",35.0,350,450,400,20 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,350,450,400,18 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,350,450,400,14 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,350,450,400,11 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,400,350,06 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,400,350,04 Jan 2019
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,28 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,270,24 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,21 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,18 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,260,320,280,17 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,300,275,14 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,300,260,10 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,07 Sep 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",35.0,250,350,300,31 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",1.0,250,350,300,27 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,200,275,250,17 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,13 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,275,350,300,10 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",35.0,250,350,300,06 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",1.0,340,400,350,03 Aug 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,30 Jul 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,27 Jul 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,300,275,23 Jul 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,06 Jul 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,375,350,25 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,270,350,300,22 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,270,350,300,18 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,300,275,15 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,270,320,280,11 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,08 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",40.0,250,350,300,04 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,350,325,01 Jun 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,320,28 May 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,300,350,320,25 May 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",10.0,250,350,300,21 May 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,325,04 May 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,300,275,27 Apr 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,16 Apr 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,270,300,280,13 Apr 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,09 Apr 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,250,325,300,06 Apr 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,300,275,02 Apr 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,275,325,300,27 Mar 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,275,325,300,26 Mar 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,300,350,325,23 Mar 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,250,325,300,19 Mar 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,325,16 Mar 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,350,400,375,12 Mar 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,400,360,02 Feb 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,350,400,375,19 Jan 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",15.0,350,425,400,12 Jan 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,350,300,08 Jan 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,275,350,300,05 Jan 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,300,275,01 Jan 2018
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,300,275,22 Dec 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,300,350,330,18 Dec 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,300,350,325,15 Dec 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,300,350,320,08 Dec 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,320,17 Nov 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,300,350,320,13 Nov 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,10 Nov 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,06 Nov 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,270,350,300,03 Nov 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",10.0,300,350,320,30 Oct 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",25.0,250,350,300,27 Oct 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,250,350,300,23 Oct 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",20.0,220,300,250,20 Oct 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,250,350,300,13 Oct 2017
+Tripura,West District,Kamalghat,Local,"Live Stock,Poultry,Fisheries",30.0,150,225,175,09 Oct 2017
+Tripura,West District,Mohanpur,Other,"Live Stock,Poultry,Fisheries",70.0,160,180,170,14 Jul 2011
+Tripura,West District,Mohanpur,Other,"Live Stock,Poultry,Fisheries",20.0,120,180,160,28 Apr 2011
+Tripura,Unokoti,Pabiacherra,Local,"Live Stock,Poultry,Fisheries",30.0,160,250,225,11 Jun 2011
+Tripura,Sepahijala,Sonamura,Local,"Live Stock,Poultry,Fisheries",77.0,450,600,500,04 Jan 2020
+Tripura,Sepahijala,Sonamura,Other,"Live Stock,Poultry,Fisheries",75.0,500,750,600,04 Dec 2019
+Tripura,Sepahijala,Sonamura,Local,"Live Stock,Poultry,Fisheries",55.0,400,650,500,30 Oct 2019
+Tripura,Sepahijala,Sonamura,Local,"Live Stock,Poultry,Fisheries",65.0,450,600,500,23 Oct 2019
+Tripura,Sepahijala,Sonamura,Local,"Live Stock,Poultry,Fisheries",120.0,400,550,450,19 Oct 2019
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",40.0,120,175,150,08 May 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",40.0,160,200,180,24 Apr 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",120.0,140,180,160,17 Apr 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",110.0,145,190,175,10 Apr 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",110.0,130,180,165,03 Apr 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",150.0,160,190,180,27 Mar 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",190.0,145,200,180,20 Mar 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",170.0,140,200,185,13 Mar 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",90.0,150,200,175,06 Mar 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",95.0,150,200,180,24 Feb 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",110.0,140,200,180,20 Feb 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",40.0,160,200,180,17 Feb 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",86.0,160,200,180,13 Feb 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",45.0,140,180,160,10 Feb 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",40.0,150,200,190,06 Feb 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",68.0,145,190,180,23 Jan 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",75.0,140,200,180,20 Jan 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",86.0,140,180,160,13 Jan 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",40.0,170,200,190,06 Jan 2011
+Tripura,Sepahijala,Jumpuijala,Other,"Live Stock,Poultry,Fisheries",125.0,140,200,180,02 Jan 2011
+Tripura,Sepahijala,Melaghar,Local,"Live Stock,Poultry,Fisheries",20.0,140,200,170,10 May 2011
+Tripura,Sepahijala,Melaghar,Local,"Live Stock,Poultry,Fisheries",15.0,130,200,150,03 May 2011
+Tripura,Sepahijala,Melaghar,Local,"Live Stock,Poultry,Fisheries",30.0,110,140,120,29 Mar 2011
+Tripura,Sepahijala,Melaghar,Local,"Live Stock,Poultry,Fisheries",50.0,120,200,160,22 Mar 2011
+Tripura,North Tripura,Dasda,Other,"Live Stock,Poultry,Fisheries",30.0,200,300,250,21 Aug 2015
+Tripura,North Tripura,Dasda,Local,"Live Stock,Poultry,Fisheries",70.0,200,0,250,03 Dec 2010
+Tripura,North Tripura,Dasda,Other,"Live Stock,Poultry,Fisheries",50.0,200,250,225,27 Jul 2010
+Tripura,North Tripura,Dasda,Other,"Live Stock,Poultry,Fisheries",70.0,120,140,130,29 Jan 2010
+Tripura,North Tripura,Dasda,Other,"Live Stock,Poultry,Fisheries",70.0,120,130,125,22 Jan 2010
+Tripura,North Tripura,Dasda,Other,"Live Stock,Poultry,Fisheries",70.0,190,200,195,01 Jan 2010
+Tripura,Dhalai,Kulai,Local,"Live Stock,Poultry,Fisheries",62.0,130,220,190,19 Jul 2011
+Tripura,Dhalai,Kulai,Local,"Live Stock,Poultry,Fisheries",86.0,150,300,250,12 Jul 2011
+Tripura,Dhalai,Kulai,Local,"Live Stock,Poultry,Fisheries",76.0,110,250,150,28 Jun 2011
+Tripura,Dhalai,Kulai,Local,"Live Stock,Poultry,Fisheries",62.0,50,290,250,21 Jun 2011
+Tripura,Dhalai,Kulai,Local,"Live Stock,Poultry,Fisheries",30.0,200,300,250,10 May 2011
+Tripura,Dhalai,Kulai,Local,"Live Stock,Poultry,Fisheries",50.0,225,275,250,06 May 2011
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,30 Dec 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,16 Dec 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,600,700,650,09 Dec 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,600,700,650,02 Dec 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,25 Nov 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,18 Nov 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,04 Nov 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,21 Oct 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,14 Oct 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,23 Sep 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,600,700,650,16 Sep 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,09 Sep 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,600,700,650,02 Sep 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,600,700,650,26 Aug 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,600,700,650,19 Aug 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,600,700,650,12 Aug 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,600,700,650,05 Aug 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",35.0,500,600,550,29 Jul 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,22 Jul 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,15 Jul 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,08 Jul 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,01 Jul 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,24 Jun 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,17 Jun 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,10 Jun 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,03 Jun 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,27 May 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,20 May 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,13 May 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,06 May 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,05 May 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,500,600,550,29 Apr 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,22 Apr 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,08 Apr 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,01 Apr 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,700,650,18 Mar 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,11 Mar 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,04 Mar 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,25 Feb 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,18 Feb 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,11 Feb 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,600,700,650,04 Feb 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,700,800,750,28 Jan 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,21 Jan 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,14 Jan 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,07 Jan 2023
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,600,700,650,24 Dec 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,17 Dec 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,10 Dec 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,03 Dec 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,19 Nov 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,12 Nov 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,05 Nov 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,22 Oct 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",20.0,500,600,550,15 Oct 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,08 Oct 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,01 Oct 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,24 Sep 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,17 Sep 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,10 Sep 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,03 Sep 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,20 Aug 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,13 Aug 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,06 Aug 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,30 Jul 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,09 Jul 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",20.0,500,600,550,02 Jul 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,25 Jun 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,19 Jun 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,11 Jun 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,04 Jun 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,28 May 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,21 May 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,14 May 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,30 Apr 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,23 Apr 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,16 Apr 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,09 Apr 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,02 Apr 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,26 Mar 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,19 Mar 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,12 Mar 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,05 Mar 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,26 Feb 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,19 Feb 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,12 Feb 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,05 Feb 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,500,600,550,29 Jan 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,22 Jan 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,15 Jan 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,08 Jan 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,01 Jan 2022
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,25 Dec 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,700,800,750,18 Dec 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,600,700,650,27 Nov 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,600,700,650,13 Nov 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,06 Nov 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,23 Oct 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,16 Oct 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,09 Oct 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,02 Oct 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,500,600,550,25 Sep 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,18 Sep 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,11 Sep 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,04 Sep 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,28 Aug 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,21 Aug 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,14 Aug 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,07 Aug 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,23 Jul 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,10 Jul 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,03 Jul 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,26 Jun 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,19 Jun 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,12 Jun 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,400,500,450,05 Jun 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,29 May 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,22 May 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,500,600,550,15 May 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,08 May 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,500,600,550,01 May 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,24 Apr 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,17 Apr 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,03 Apr 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,27 Mar 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,20 Mar 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,13 Mar 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,500,600,550,06 Mar 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,500,600,550,27 Feb 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,500,600,550,20 Feb 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,13 Feb 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,06 Feb 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,16 Jan 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,09 Jan 2021
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,600,700,650,26 Dec 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",35.0,600,700,650,19 Dec 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,12 Dec 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,700,800,750,05 Dec 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,700,800,750,21 Nov 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,700,800,750,14 Nov 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,800,1000,900,07 Nov 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,700,800,750,11 Sep 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,600,700,650,04 Sep 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,21 Aug 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",35.0,700,800,750,14 Aug 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,700,800,750,25 Jul 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,600,700,650,18 Jul 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,600,700,650,11 Jul 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,04 Jul 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,27 Jun 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,700,800,750,20 Jun 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",20.0,700,800,750,13 Jun 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,15 May 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,02 May 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,25 Apr 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",30.0,500,600,550,14 Apr 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,21 Mar 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,14 Mar 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",35.0,500,600,550,07 Mar 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,400,500,450,29 Feb 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,22 Feb 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,500,600,550,15 Feb 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,08 Feb 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,400,600,500,02 Feb 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,25 Jan 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,600,700,650,18 Jan 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,11 Jan 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,04 Jan 2020
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,21 Dec 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,400,500,450,14 Dec 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,07 Dec 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,30 Nov 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,400,500,450,23 Nov 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,16 Nov 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,09 Nov 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,02 Nov 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,26 Oct 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,500,600,550,19 Oct 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,12 Oct 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,05 Oct 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,28 Sep 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,21 Sep 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,14 Sep 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,500,600,550,07 Sep 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,500,600,550,01 Sep 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,22 Aug 2019
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,550,525,29 Sep 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,450,500,475,22 Sep 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,5,6,5,08 Sep 2018
+Tripura,Dhalai,Chowmanu,Other,"Live Stock,Poultry,Fisheries",60.0,4,4,4,01 Sep 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,5,600,5,01 Sep 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,4,5,5,02 Jun 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,450,500,500,26 May 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,550,12 May 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,05 May 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,400,500,450,28 Apr 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,500,600,600,07 Apr 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,31 Mar 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,450,500,500,24 Mar 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,450,500,500,17 Mar 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,450,500,500,10 Mar 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,450,500,500,03 Mar 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,24 Feb 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,450,500,500,17 Feb 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,500,600,550,10 Feb 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,450,500,500,03 Feb 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,06 Jan 2018
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,30 Dec 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,350,400,400,23 Dec 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,350,400,400,16 Dec 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,350,400,400,09 Dec 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,350,400,400,02 Dec 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,300,350,350,11 Nov 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,300,350,350,21 Oct 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,300,350,350,14 Oct 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,300,350,350,07 Oct 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",54.0,350,400,400,30 Sep 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,300,350,350,16 Sep 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,300,350,350,02 Sep 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,390,400,395,19 Aug 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,390,400,395,12 Aug 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",6.0,390,400,395,05 Aug 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,390,400,395,29 Jul 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,390,400,395,22 Jul 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,400,500,450,24 Jun 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,400,500,450,17 Jun 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",57.0,400,500,450,06 May 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,400,500,450,29 Apr 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,380,400,390,11 Feb 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,380,400,390,04 Feb 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",56.0,4,450,425,28 Jan 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,390,400,395,21 Jan 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",67.0,390,400,395,14 Jan 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",67.0,4,450,425,07 Jan 2017
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",6.0,3,3,3,24 Dec 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,4,4,4,03 Dec 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",76.0,360,380,370,26 Nov 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",5.0,310,340,320,12 Nov 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",86.0,300,340,320,29 Oct 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",66.0,270,290,280,22 Oct 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",86.0,400,440,420,15 Oct 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",40.0,400,420,410,17 Sep 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",66.0,370,390,380,10 Sep 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,03 Sep 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,380,400,390,27 Aug 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",76.0,380,400,390,20 Aug 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,390,400,395,13 Aug 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",65.0,390,400,395,06 Aug 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,30 Jul 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,400,420,410,23 Jul 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",65.0,390,400,395,16 Jul 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,09 Jul 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,02 Jul 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,25 Jun 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",85.0,390,400,395,18 Jun 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,11 Jun 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,390,400,395,04 Jun 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,390,400,395,28 May 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,390,400,395,21 May 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",757.0,390,400,395,14 May 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",65.0,390,400,395,07 May 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,30 Apr 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,390,400,395,23 Apr 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",65.0,390,400,395,09 Apr 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,390,400,395,02 Apr 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,26 Mar 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,19 Mar 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,12 Mar 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,05 Mar 2016
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,21 Nov 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,390,400,395,07 Nov 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,390,400,395,01 Nov 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,24 Oct 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,17 Oct 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,10 Oct 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,03 Oct 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",78.0,390,400,395,18 Sep 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,390,400,395,12 Sep 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,05 Sep 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,29 Aug 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",68.0,390,400,395,22 Aug 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,390,400,395,15 Aug 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",76.0,390,400,395,08 Aug 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,390,400,395,01 Aug 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,25 Jul 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",66.0,390,400,395,18 Jul 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,390,400,395,11 Jul 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",67.0,390,400,395,04 Jul 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,390,400,395,27 Jun 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,380,400,390,20 Jun 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",65.0,380,400,390,13 Jun 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",75.0,380,400,390,06 Jun 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,375,400,385,30 May 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,375,400,385,23 May 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,375,400,385,16 May 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,375,400,385,09 May 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,370,400,385,02 May 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,350,400,375,18 Apr 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,350,400,375,11 Apr 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,350,400,375,04 Apr 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,350,400,375,28 Mar 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",7.0,350,400,375,21 Mar 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",7.0,350,400,375,14 Mar 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",78.0,350,400,375,07 Mar 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",8.0,2,3,2,28 Feb 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",8.0,2,3,2,21 Feb 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",4.0,2,3,2,14 Feb 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",7.0,2,3,2,07 Feb 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",6.0,2,3,2,31 Jan 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,2,3,2,24 Jan 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",76.0,2,3,2,17 Jan 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",5.0,2,3,2,10 Jan 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",7.0,2,3,2,03 Jan 2015
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,250,300,275,20 Dec 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,250,300,275,13 Dec 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,250,300,275,06 Dec 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,250,300,275,30 Nov 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,250,300,275,22 Nov 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",60.0,250,300,275,15 Nov 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,250,300,275,08 Nov 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,250,300,275,01 Nov 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,250,300,275,25 Oct 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",54.0,250,300,275,18 Oct 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",45.0,250,300,275,11 Oct 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",55.0,250,300,275,04 Oct 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",65.0,250,300,275,27 Sep 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",80.0,350,400,375,20 Sep 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",70.0,350,400,375,13 Sep 2014
+Tripura,Dhalai,Chowmanu,Local,"Live Stock,Poultry,Fisheries",50.0,300,500,400,06 Sep 2014
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",78.0,200,300,250,31 Aug 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",80.0,200,300,250,24 Aug 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",38.0,150,250,200,17 Aug 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,150,250,200,27 Jul 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",20.0,100,200,150,20 Jul 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",24.0,150,200,170,29 Jun 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",36.0,150,200,180,22 Jun 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,150,200,175,15 Jun 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",42.0,150,200,170,08 Jun 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",38.0,200,250,220,25 May 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",25.0,150,200,180,18 May 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",72.0,140,200,160,11 May 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,150,200,180,04 May 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,150,250,200,27 Apr 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",32.0,150,250,200,20 Apr 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",150.0,150,250,200,26 Jan 2021
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",32.0,150,250,200,29 Dec 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",55.0,150,250,200,22 Dec 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",30.0,150,250,200,27 Oct 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",40.0,150,250,200,20 Oct 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",70.0,150,200,180,13 Oct 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",70.0,120,180,150,06 Oct 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",76.0,150,250,200,29 Sep 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",55.0,150,250,200,01 Sep 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",45.0,150,250,200,25 Aug 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",45.0,150,250,200,18 Aug 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",35.0,150,200,160,11 Aug 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",36.0,150,250,200,21 Jul 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",45.0,120,200,150,14 Jul 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",75.0,150,200,180,07 Jul 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",30.0,150,200,180,30 Jun 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",20.0,150,200,180,23 Jun 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",45.0,150,250,200,17 Mar 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",35.0,120,150,130,03 Mar 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",38.0,120,200,150,25 Feb 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",40.0,120,200,150,11 Feb 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",46.0,120,200,150,28 Jan 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",55.0,150,250,200,21 Jan 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",55.0,150,250,200,14 Jan 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,150,250,200,07 Jan 2020
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",120.0,150,260,200,31 Dec 2019
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",50.0,150,250,200,24 Dec 2019
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",50.0,150,250,200,17 Dec 2019
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",50.0,450,500,500,22 May 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",90.0,5,6,5,15 May 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",70.0,350,450,400,24 Apr 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,10 Apr 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",70.0,450,500,500,03 Apr 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,20 Feb 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,450,500,500,13 Feb 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",50.0,450,500,500,06 Feb 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",60.0,400,500,450,23 Jan 2018
+Tripura,Dhalai,Masli,Local,"Live Stock,Poultry,Fisheries",55.0,450,500,500,09 Jan 2018
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",15.0,1050,1150,1100,21 Jun 2010
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",300.0,260,285,275,11 Oct 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",400.0,225,225,225,04 Oct 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,250,250,250,27 Sep 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",300.0,225,225,225,30 Aug 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,210,230,220,29 Mar 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,225,225,225,15 Mar 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",400.0,230,230,230,08 Mar 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",300.0,250,250,250,01 Mar 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",700.0,200,200,200,08 Feb 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",600.0,250,250,250,18 Jan 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",700.0,240,240,240,04 Jan 2007
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",700.0,240,240,240,09 Nov 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",600.0,240,240,240,02 Nov 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",800.0,220,220,220,19 Oct 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",700.0,250,250,250,05 Oct 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",700.0,250,250,250,28 Sep 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",600.0,220,240,225,21 Sep 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",300.0,640,680,650,14 Sep 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,215,215,215,24 Aug 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,220,220,220,10 Aug 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",400.0,240,240,240,20 Jul 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,220,220,220,29 Jun 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,200,200,200,15 Jun 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",400.0,210,210,210,01 Jun 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",400.0,215,225,220,25 May 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",400.0,225,225,225,18 May 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",250.0,220,220,220,27 Apr 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",200.0,200,225,210,30 Mar 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",500.0,210,210,210,09 Feb 2006
+West Bengal,Malda,Samsi,Other,"Live Stock,Poultry,Fisheries",800.0,215,215,215,02 Feb 2006

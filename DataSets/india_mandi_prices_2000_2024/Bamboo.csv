@@ -1,0 +1,767 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Arunachal Pradesh,East Siang,Pasighat,Bamboo,Forest Products,8.0,200,250,230,19 May 2010
+Andhra Pradesh,Nellore,Rapur,Bamboo,Forest Products,92.2,360,400,390,06 Dec 2013
+Andhra Pradesh,Nellore,Rapur,Bamboo,Forest Products,16.0,350,400,390,05 Dec 2013
+Andhra Pradesh,Vijayanagaram,Saluru,Bamboo,Forest Products,0.0,500,700,600,27 Jul 2005
+Telangana,Hyderabad,Gudimalkapur,Bamboo,Forest Products,3.0,300,500,400,21 May 2018
+Telangana,Khammam,Khammam,Bamboo,Forest Products,250.0,250,250,250,22 May 2022
+Telangana,Khammam,Khammam,Bamboo,Forest Products,300.0,470,470,470,21 May 2022
+Telangana,Khammam,Khammam,Bamboo,Forest Products,230.0,1250,1250,1250,18 May 2022
+Telangana,Khammam,Sattupalli,Bamboo,Forest Products,45.0,420,420,420,04 Dec 2022
+Telangana,Khammam,Sattupalli,Bamboo,Forest Products,30.0,420,420,420,15 Jul 2022
+Telangana,Khammam,Sattupalli,Other,Forest Products,50.0,400,600,600,24 Feb 2019
+Telangana,Khammam,Sattupalli,Other,Forest Products,1142.7,1500,1700,1500,18 Feb 2019
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,2650.0,1000,1000,1000,16 Jun 2014
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,755.0,900,900,900,21 Jan 2014
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,250.0,800,800,800,30 Jul 2013
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,3000.0,850,850,850,30 Jun 2013
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,2000.0,800,800,800,16 Jul 2011
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,1500.0,1000,1000,1000,20 May 2011
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,960.0,800,900,880,29 Nov 2010
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,525.0,800,800,800,30 Oct 2010
+Madhya Pradesh,Mandla,Nainpur,Other,Forest Products,525.0,800,800,800,15 Oct 2010
+Madhya Pradesh,Sidhi,Sidhi,Other,Forest Products,80.0,2900,2902,2901,30 Oct 2010
+Madhya Pradesh,Sidhi,Sidhi,Other,Forest Products,6.0,3170,3170,3170,28 Oct 2010
+Madhya Pradesh,Sidhi,Sidhi,Other,Forest Products,60.0,3170,3172,3171,27 Oct 2010
+Madhya Pradesh,Sidhi,Sidhi,Bamboo,Forest Products,10.0,1020,1020,1020,13 Aug 2009
+Madhya Pradesh,Seoni,Keolari,Other,Forest Products,3.03,1222,1222,1222,25 Apr 2010
+Madhya Pradesh,Seoni,Keolari,Other,Forest Products,6.0,800,800,800,16 Nov 2008
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,562.7,1410,1410,1410,22 Jan 2016
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,1138.2,1360,1360,1360,17 Jan 2015
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,786.94,1360,1360,1360,12 Jan 2015
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,1.0,1100,1345,1320,24 Jul 2014
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,12.0,1250,1250,1250,28 Feb 2013
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,70.0,1000,1051,1051,01 Oct 2011
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,220.0,1000,1051,1051,27 Aug 2011
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,265.0,100,0,0,30 Jul 2011
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,80.0,1000,0,0,29 Jul 2011
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,50.0,1000,1051,1051,19 May 2011
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,121.3,365,366,366,25 Nov 2010
+Madhya Pradesh,Balaghat,Lalbarra,Other,Forest Products,26.5,365,365,365,16 Oct 2009
+Madhya Pradesh,Shehdol,Shahdol,Bamboo,Forest Products,37.0,1232,1232,1232,09 Jun 2007
+Madhya Pradesh,Shehdol,Shahdol,Other,Forest Products,10.9,1232,1232,1232,14 May 2007
+Madhya Pradesh,Shehdol,Shahdol,Other,Forest Products,810.56,118,118,118,04 Sep 2002
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,15.0,3000,3000,3000,29 Jan 2013
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,35.0,2200,2200,2200,11 Jan 2013
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,35.0,2200,2200,2200,10 Jan 2013
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,10.0,8000,8000,8000,21 Apr 2012
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,60.0,2200,2200,2200,23 Dec 2010
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,50.0,2640,2640,2640,24 Sep 2010
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,13.0,3780,3780,3780,23 Jul 2010
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,60.0,220,220,220,21 Jun 2010
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,30.0,3300,3300,3300,16 Apr 2010
+Karnataka,Madikeri(Kodagu),Somvarpet,Bamboo,Forest Products,30.0,333,333,333,12 Apr 2010
+Karnataka,Madikeri(Kodagu),Gonikappal,Bamboo,Forest Products,20.0,300,300,300,26 May 2012
+Karnataka,Belgaum,Athani,Bamboo,Forest Products,1.0,1200,1200,1200,31 Oct 2009
+Karnataka,Belgaum,Nippani,Bamboo,Forest Products,8.0,300,300,300,20 Sep 2010
+Karnataka,Belgaum,Nippani,Bamboo,Forest Products,2.0,606,606,606,19 Jun 2010
+Karnataka,Haveri,Hanagal,Bamboo,Forest Products,78.0,900,950,900,08 Mar 2010
+Karnataka,Haveri,Hanagal,Bamboo,Forest Products,1.0,710,710,710,18 Feb 2010
+Karnataka,Tumkur,Kunigal,Bamboo,Forest Products,1.0,550,650,600,30 Sep 2005
+Karnataka,Tumkur,Gubbi,Bamboo,Forest Products,20.0,200,300,250,03 May 2002
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Other,Forest Products,20.0,200,800,500,30 Sep 2005
+Maharashtra,Thane,Ulhasnagar,Other,Forest Products,0.2,20000,25000,23000,29 Oct 2010
+Odisha,Nuapada,Khariar Road,Other,Forest Products,0.3,400,500,450,24 Apr 2006
+Odisha,Nuapada,Khariar Road,Other,Forest Products,0.5,400,500,450,23 Apr 2006
+Odisha,Nuapada,Khariar Road,Other,Forest Products,0.5,400,500,450,22 Apr 2006
+Odisha,Nuapada,Khariar Road,Other,Forest Products,0.5,400,500,450,21 Apr 2006
+Odisha,Nuapada,Khariar Road,Other,Forest Products,0.5,400,500,450,20 Apr 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,400,420,410,19 Jun 2008
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,420,450,430,29 May 2008
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.2,400,430,420,22 May 2008
+Tripura,West District,Champaknagar,Bamboo,Forest Products,5.5,300,340,330,15 May 2008
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,270,280,275,18 Feb 2008
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,300,310,305,14 Sep 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,300,310,305,31 Aug 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,320,330,325,10 Aug 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,250,300,285,11 May 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,250,265,260,08 May 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,280,300,290,04 May 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,290,300,295,30 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,280,290,285,28 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,280,300,290,27 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,280,300,290,23 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,270,285,280,20 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,2.0,270,285,280,16 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,2.0,270,290,280,09 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,260,270,265,07 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,260,280,270,06 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,260,280,270,02 Apr 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,250,265,260,31 Mar 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,260,280,270,28 Mar 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,270,285,275,19 Mar 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,260,280,270,09 Mar 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,240,250,245,03 Mar 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,260,280,265,29 Jan 2007
+Tripura,West District,Champaknagar,Bamboo,Forest Products,2.0,250,270,260,22 Dec 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,220,245,230,15 Dec 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,240,250,245,06 Dec 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2500,2650,2600,01 Dec 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2400,2650,2500,27 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2400,2600,2500,24 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.8,2500,2650,2600,23 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.8,2500,2650,2600,22 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2500,2650,2550,20 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2400,2550,2500,18 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,250,270,260,17 Nov 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.7,2400,2550,2500,15 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2500,2600,2550,13 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2500,2650,2600,10 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.5,2500,2650,2600,08 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2500,2450,06 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2300,2450,2400,04 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2500,2450,03 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2350,2450,2400,02 Nov 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2500,2450,30 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2350,2450,2400,26 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2300,2400,2350,25 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.4,2400,2500,2450,24 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2600,2500,23 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.8,2400,2500,2450,20 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2400,2300,19 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.8,2300,2600,2400,16 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2400,2300,14 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2650,2500,13 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.4,2200,2400,2300,12 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2400,2300,11 Oct 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2200,2400,2300,29 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2450,2300,27 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2400,2300,11 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2300,2450,2400,08 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2450,2300,07 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2200,2350,2300,06 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2200,2400,2350,04 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2200,2400,2300,02 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2300,2500,2400,01 Sep 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2500,2700,2600,28 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2300,2500,2400,26 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.4,2400,2800,2500,25 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2650,2500,24 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2400,2600,2500,23 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.4,2400,2600,2500,22 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2400,2600,2500,18 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2400,2600,2500,17 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,0.5,2500,2700,2600,14 Aug 2006
+Tripura,West District,Champaknagar,Other,Forest Products,1.0,2250,2400,2350,11 Aug 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2300,2500,2400,03 Aug 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2200,2400,2300,02 Aug 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2400,2600,2500,28 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2400,2600,2500,21 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2400,2650,2500,20 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.7,2200,2400,2300,19 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2200,2450,2350,14 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2300,2500,2400,13 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2300,2500,2400,12 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2200,2400,2300,10 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2300,2600,2400,07 Jul 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2200,2400,2300,29 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.3,2400,2600,2500,28 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.4,2300,2400,2350,27 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.5,2200,2400,2300,26 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.3,2400,2600,2500,24 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.8,2300,2450,2400,23 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.3,2250,2350,2300,22 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.1,2000,2200,2100,19 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.2,2500,2700,2600,17 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2600,2750,2700,16 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.2,2500,2700,2600,15 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,1.0,2500,2700,2600,09 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,0.2,2600,2900,2750,08 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,2.0,2800,3100,3000,06 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,2.0,2800,3100,3000,05 Jun 2006
+Tripura,West District,Champaknagar,Bamboo,Forest Products,2.0,2500,2700,2650,03 Jun 2006
+Assam,Karimganj,Karimganj,Other,Forest Products,12.0,600,750,650,22 Jul 2014
+Assam,Karimganj,Karimganj,Other,Forest Products,12.0,200,250,225,18 Jul 2014
+Assam,Karimganj,Karimganj,Other,Forest Products,12.0,200,250,225,16 Jul 2014
+Assam,Karimganj,Karimganj,Other,Forest Products,12.0,200,250,225,10 Jul 2014
+Assam,Karimganj,Karimganj,Other,Forest Products,12.0,200,250,225,08 Jul 2014
+Assam,Karimganj,Karimganj,Other,Forest Products,4.2,200,250,225,04 Jul 2014
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,50.0,130,145,140,20 Nov 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,130,145,140,08 Nov 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,130,145,140,27 Sep 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,130,145,140,22 Sep 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,110,125,110,20 Mar 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,30.0,100,130,110,18 Mar 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,25.0,100,1300,110,15 Mar 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,100,130,110,12 Mar 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,30.0,100,130,110,11 Mar 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,125,130,125,22 Feb 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,115,120,120,29 Jan 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,10.0,115,120,120,21 Jan 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,18.0,115,120,120,18 Jan 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,30.0,115,120,120,12 Jan 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,30.0,115,120,120,11 Jan 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,45.0,110,120,120,08 Jan 2010
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,30.0,120,130,130,31 Dec 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,100,110,110,03 Dec 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,100,110,110,21 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,39.0,100,110,110,20 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,100,110,110,16 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,50.0,100,110,110,13 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,100,110,110,12 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,40.0,100,110,110,10 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,30.0,100,110,110,04 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,100,110,110,03 Nov 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,22.0,100,110,110,31 Oct 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,100,110,110,30 Oct 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,100,110,110,28 Oct 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,10.0,100,110,100,16 Oct 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,100.0,100,110,110,12 Oct 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,20.0,110,120,110,30 Sep 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,25.0,120,130,125,23 Sep 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,21.0,120,130,120,19 Sep 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,10.0,100,125,120,04 Sep 2009
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,38.0,90,105,92,04 Nov 2008
+Assam,BONGAIGAON,Bongiagaon,Other,Forest Products,32.0,90,105,90,31 Oct 2008
+Assam,BONGAIGAON,Bongiagaon,Bamboo,Forest Products,5.0,800,900,825,18 May 2007
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,29 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,220.0,180,200,190,28 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,27 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,26 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,22 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,21 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,19 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,17 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,230.0,180,200,190,16 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,15 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,14 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,12 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,200.0,180,200,190,11 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,230.0,180,200,190,10 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,08 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,07 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,06 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,05 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,04 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,03 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,01 Nov 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,25 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,24 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,23 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,22 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,21 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,220.0,180,200,190,17 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,230.0,180,200,190,16 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,220.0,180,200,190,15 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,150.0,180,200,190,14 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,200.0,180,200,190,13 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,180.0,180,200,190,12 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,100.0,180,200,190,11 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,150.0,180,200,190,10 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,09 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,08 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,07 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,06 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,03 Oct 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,270.0,180,200,190,21 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,270.0,180,200,190,16 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,20.0,180,200,190,14 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,230.0,180,200,190,12 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,11 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,10 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,06 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,240.0,180,200,190,05 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,250.0,180,200,190,04 Sep 2016
+Assam,Kokrajhar,Srirampur,Bamboo,Forest Products,260.0,180,200,190,03 Sep 2016
+Assam,Nagaon,Lanka,Bamboo,Forest Products,250.0,80,100,80,11 Feb 2005
+Assam,Nagaon,Lanka,Bamboo,Forest Products,300.0,80,100,90,03 Feb 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,12.0,200,240,220,27 Jul 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,10.0,200,240,220,26 Jul 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,10.0,200,220,200,21 Jun 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,16.0,200,220,200,16 Jun 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,18.0,200,220,200,10 Jun 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,18.0,200,220,200,06 Jun 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,12.0,200,220,200,19 May 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,12.0,200,220,200,18 May 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,20.0,200,220,200,17 May 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,16.0,2000,2200,2000,12 May 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,16.0,2000,2100,2000,07 May 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,12.0,2000,2100,2000,05 May 2005
+Assam,Cachar,Cachar,Bamboo,Forest Products,90.0,244,288,266,15 Mar 2004
+Assam,Cachar,Cachar,Bamboo,Forest Products,36.0,244,288,266,20 Oct 2003
+Assam,Cachar,Cachar,Bamboo,Forest Products,360.0,244,288,266,07 Oct 2003
+Assam,Cachar,Cachar,Bamboo,Forest Products,9.0,244,288,266,21 Aug 2003
+Assam,Cachar,Cachar,Bamboo,Forest Products,9.0,244,288,266,20 Aug 2003
+Assam,Cachar,Cachar,Bamboo,Forest Products,180.0,244,288,266,18 Aug 2003
+Assam,Cachar,Cachar,Bamboo,Forest Products,9.0,244,288,266,16 Aug 2003
+Assam,Cachar,Cachar,Bamboo,Forest Products,27.0,244,288,266,12 Aug 2003
+Assam,Dhubri,Gauripur,Other,Forest Products,2.5,2500,3500,3200,25 Jun 2003
+Assam,Barpeta,Howly,Bamboo,Forest Products,70.0,210,215,210,05 Nov 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,50.0,210,220,210,31 Oct 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,40.0,210,215,210,04 Oct 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,60.0,210,215,210,03 Oct 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,70.0,210,215,210,02 Oct 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,50.0,210,215,210,01 Oct 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,50.0,210,220,215,27 Sep 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,50.0,210,220,215,26 Sep 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,12.0,210,220,215,23 Sep 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,20.0,210,220,215,22 Sep 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,50.0,210,220,215,16 Sep 2015
+Assam,Barpeta,Howly,Bamboo,Forest Products,400.0,200,250,220,14 Nov 2014
+Assam,Barpeta,Howly,Bamboo,Forest Products,100.0,200,210,205,09 Nov 2014
+Assam,Barpeta,Howly,Other,Forest Products,10.0,800,1200,1000,21 May 2013
+Assam,Barpeta,Howly,Bamboo,Forest Products,4000.0,600,800,700,19 Jan 2013
+Meghalaya,East Jaintia Hills,Khliehriat,Bamboo,Forest Products,1.4,2000,2500,2250,24 Sep 2016
+Meghalaya,East Jaintia Hills,Khliehriat,Bamboo,Forest Products,1.4,2000,2500,2250,16 Sep 2016
+Meghalaya,East Jaintia Hills,Khliehriat,Bamboo,Forest Products,1.4,2000,2500,2250,08 Sep 2016
+Meghalaya,East Jaintia Hills,Khliehriat,Bamboo,Forest Products,1.0,2000,2500,2250,23 Aug 2016
+Uttrakhand,UdhamSinghNagar,Jaspur(UC),Other,Forest Products,295.9,100,100,100,22 Dec 2009
+Uttrakhand,UdhamSinghNagar,Jaspur(UC),Other,Forest Products,197.5,100,100,100,14 Dec 2009
+Uttrakhand,UdhamSinghNagar,Jaspur(UC),Other,Forest Products,10.0,100,100,100,12 Dec 2009
+Uttrakhand,UdhamSinghNagar,Jaspur(UC),Other,Forest Products,162.0,100,100,100,09 Dec 2009
+Uttrakhand,UdhamSinghNagar,Jaspur(UC),Other,Forest Products,141.9,100,100,100,04 Dec 2009
+Chattisgarh,Sukma,Konta,Other,Forest Products,15.0,1000,1200,1100,30 Nov 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,16.0,1000,1200,1100,31 Oct 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,102.0,1000,1200,1050,30 Sep 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,16.0,1000,1200,1100,25 Sep 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,5.0,1000,1100,1050,31 Aug 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,10.0,1000,1200,1100,30 Aug 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,67.0,700,1000,800,31 Jul 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,10.0,800,900,840,30 Jun 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,52.0,700,1000,800,31 May 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,54.6,500,500,500,29 Apr 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,97.0,1000,1200,1100,31 Mar 2017
+Chattisgarh,Sukma,Konta,Other,Forest Products,10.0,1140,1140,1140,30 Sep 2016
+Chattisgarh,Sukma,Konta,Other,Forest Products,15.0,1000,1200,1100,29 Feb 2016
+Chattisgarh,Sukma,Konta,Other,Forest Products,3.0,1000,1100,1050,22 Feb 2016
+Chattisgarh,Sukma,Konta,Other,Forest Products,13.0,1000,1200,1100,31 Dec 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,14.0,1200,1400,1300,30 Nov 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,14.6,500,700,600,31 Oct 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,6.0,1200,1500,1300,31 Jul 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,10.0,700,1000,800,26 Jul 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,30.0,700,900,800,30 Jun 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,9.0,700,900,800,31 May 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,14.0,700,1000,800,29 May 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,30.0,1300,1500,1400,02 May 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,32.1,800,1200,1000,30 Apr 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,6.0,1500,1500,1500,15 Apr 2015
+Chattisgarh,Sukma,Konta,Other,Forest Products,80.0,300,400,375,01 Oct 2013
+Chattisgarh,Korba,Katghora,Other,Forest Products,19.0,1613,1615,1614,07 Feb 2007
+Chattisgarh,Bilaspur,Kota,Other,Forest Products,20.6,2450,2450,2450,31 Jul 2010
+Chattisgarh,Bilaspur,Kota,Other,Forest Products,3.5,2351,2351,2351,31 May 2010
+Chattisgarh,Bilaspur,Kota,Other,Forest Products,38.8,1718,1718,1718,30 Nov 2009
+Chattisgarh,Bilaspur,Kota,Other,Forest Products,33.9,1661,1661,1661,31 Mar 2009
+Chattisgarh,Bilaspur,Kota,Bamboo,Forest Products,91.02,1625,1631,1627,30 Sep 2006
+Chattisgarh,Kanker,Sambalpur,Other,Forest Products,184.57,1723,1723,1723,22 Dec 2006
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,200.0,212,212,212,31 Dec 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,400.0,225,225,225,30 Nov 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,410.0,258,258,258,31 Oct 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,410.0,263,263,263,30 Sep 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,75.0,287,287,287,31 Aug 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,210.0,278,278,278,31 Jul 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,206.0,247,247,247,30 Jun 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,20.0,225,225,225,28 Jun 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,263.0,274,274,274,30 Apr 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,27.1,3030,3030,3030,31 Mar 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,305.0,284,284,284,31 Jan 2023
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,315.9,291,291,291,31 Dec 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,200.0,283,283,283,30 Nov 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,360.0,281,281,281,31 Oct 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,397.0,311,311,311,30 Sep 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,172.0,327,327,327,31 Aug 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,281.0,310,310,310,31 Jul 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,464.0,318,318,318,30 Jun 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,314.0,298,298,298,30 Apr 2022
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,21.0,537,537,537,30 Apr 2020
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,219.0,554,554,554,30 Nov 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,245.0,563,563,563,31 Oct 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,9.0,400,400,400,23 Oct 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,9.5,500,500,500,18 Oct 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,410.8,560,560,560,30 Sep 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,224.0,550,550,550,31 Aug 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,9.0,500,500,500,22 Aug 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,371.0,540,540,540,31 Jul 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,218.0,521,521,521,30 Jun 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,248.7,560,563,563,31 May 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,254.0,300,350,300,31 Jan 2019
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,101.0,575,575,575,30 Nov 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,137.0,545,545,545,14 Nov 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,169.0,575,575,575,30 Oct 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,319.0,528,528,528,17 Oct 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,379.0,520,520,520,30 Sep 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,35.0,566,566,566,31 Aug 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,21.0,486,486,486,25 Aug 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,22.0,480,480,480,10 Aug 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,150.0,562,562,562,31 Jul 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,10.0,300,300,300,30 Jul 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,22.0,458,458,458,13 Jul 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,179.0,575,575,575,30 Jun 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,125.0,550,550,550,15 Jun 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,69.0,550,550,550,31 May 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,135.0,555,555,555,21 May 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,39.0,526,526,526,30 Apr 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,104.0,530,530,530,27 Apr 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,315.0,502,502,502,28 Feb 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,301.0,523,523,523,31 Jan 2018
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,70.0,480,480,480,31 Dec 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,49.0,480,480,480,28 Dec 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,49.0,551,551,551,28 Nov 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,14.0,535,535,535,27 Nov 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,14.0,535,535,535,20 Nov 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,98.0,600,600,600,15 Nov 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,70.0,587,587,587,28 Oct 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,163.0,521,521,521,25 Oct 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,49.0,471,471,471,11 Oct 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,21.0,471,471,471,09 Oct 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,440.0,250,300,300,30 Sep 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,58.0,255,255,255,11 Sep 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,75.0,250,300,300,19 Aug 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,58.5,250,350,300,31 Jul 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,102.0,250,350,350,25 Jul 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,83.0,250,300,250,06 Jul 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,137.0,250,300,250,30 Jun 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,95.5,250,300,250,28 Jun 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,56.7,250,300,250,16 Jun 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,53.0,250,300,250,12 Jun 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,39.0,250,300,250,29 May 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,78.5,250,300,250,24 May 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,50.0,250,300,250,22 May 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,117.2,250,300,250,15 May 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,181.0,250,250,250,30 Apr 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,19.7,250,300,250,20 Apr 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,113.3,250,300,250,13 Apr 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,263.0,270,270,270,31 Mar 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,7.5,270,270,270,30 Mar 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,83.6,250,250,250,20 Mar 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,119.0,280,300,280,15 Mar 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,123.0,250,300,300,28 Feb 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,113.0,250,400,250,17 Feb 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,37.0,250,400,300,13 Feb 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,91.5,200,300,200,31 Jan 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,90.0,200,300,200,30 Jan 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,73.6,200,300,200,19 Jan 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,41.0,200,250,200,11 Jan 2017
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,84.0,250,250,250,19 Dec 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,41.8,200,250,250,30 Nov 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,53.0,200,200,200,17 Nov 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,82.7,200,200,200,15 Nov 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,293.3,250,250,250,31 Oct 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,66.3,250,250,250,21 Oct 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,223.6,250,250,250,14 Oct 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,255.0,250,250,250,26 Sep 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,46.0,200,200,200,31 Aug 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,173.5,200,200,200,30 Aug 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,111.0,250,250,250,26 Aug 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,24.0,200,200,200,09 Aug 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,84.0,200,200,200,31 Jul 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,50.5,200,200,200,26 Jul 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,407.5,200,210,200,21 Jul 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,248.0,200,360,250,28 Jun 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,244.0,200,360,300,21 Jun 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,222.5,200,360,250,13 Jun 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,160.0,203,203,203,31 May 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,93.5,200,200,200,14 May 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,46.5,200,200,200,09 May 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,27.5,200,200,200,28 Apr 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,60.6,220,220,220,23 Apr 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,252.5,190,210,200,28 Mar 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,166.5,200,200,200,15 Mar 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,164.0,300,300,300,12 Mar 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,47.0,205,205,205,29 Feb 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,182.0,220,230,228,25 Feb 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,236.5,200,270,250,15 Feb 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,378.0,175,220,200,31 Jan 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,191.5,250,275,255,18 Jan 2016
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,98.5,260,280,275,23 Dec 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,29.5,260,270,265,21 Dec 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,54.5,240,240,240,16 Dec 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,196.7,175,220,220,30 Nov 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,164.7,180,250,220,20 Nov 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,181.1,175,220,180,31 Oct 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,212.0,175,180,175,27 Oct 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,440.3,250,300,280,14 Oct 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,20.0,175,175,175,30 Sep 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,208.5,175,180,176,14 Sep 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,162.0,170,200,180,31 Aug 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,45.7,175,175,175,17 Aug 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,22.5,200,200,200,10 Aug 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,184.5,170,200,175,31 Jul 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,10.0,218,218,218,29 Jul 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,161.5,175,200,180,25 Jul 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,125.5,175,200,200,20 Jul 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,175.0,250,290,280,30 Jun 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,141.0,250,290,280,29 Jun 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,57.0,290,300,290,16 Jun 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,200.0,180,210,200,12 Jun 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,293.5,190,200,190,31 May 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,166.0,160,160,160,13 May 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,103.0,110,110,110,08 May 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,224.5,300,300,300,30 Apr 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,124.0,200,230,230,23 Mar 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,257.9,160,170,170,18 Mar 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,148.6,170,200,200,28 Feb 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,184.0,200,200,200,18 Feb 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,275.0,220,250,220,31 Jan 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,43.0,360,360,360,23 Jan 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,101.0,350,350,350,16 Jan 2015
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,60.0,175,175,175,31 Dec 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,85.0,175,175,175,30 Dec 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,69.5,175,175,175,22 Dec 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,144.0,175,175,175,16 Dec 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,39.1,175,175,175,05 Dec 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,111.0,175,175,175,30 Nov 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,185.5,175,175,175,29 Nov 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,142.5,175,175,175,21 Nov 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,71.0,175,175,175,15 Nov 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,144.5,175,175,175,12 Nov 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,72.0,175,175,175,31 Oct 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,268.5,175,175,175,28 Oct 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,110.5,175,175,175,16 Oct 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,249.0,175,175,175,13 Oct 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,79.4,175,175,175,30 Sep 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,189.9,175,175,175,29 Sep 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,321.6,175,175,175,22 Sep 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,138.5,175,175,175,09 Sep 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,82.5,175,175,175,31 Aug 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,10.0,210,210,210,26 Aug 2014
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,184.2,175,175,175,23 Aug 2014
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,649.0,160,160,160,31 Oct 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,859.1,160,160,160,29 Sep 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,472.5,150,150,150,31 Aug 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,305.2,160,160,160,31 Jul 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,0.1,160,160,160,30 Jul 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,10.0,160,160,160,18 Jul 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,738.5,120,120,120,30 Jun 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,884.9,160,160,160,31 May 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,262.7,160,160,160,30 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,385.0,160,160,160,25 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,96.5,160,160,160,23 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,34.0,160,160,160,17 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,56.0,160,160,160,16 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,178.5,160,160,160,11 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,132.5,170,170,170,06 Apr 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,526.5,110,110,110,31 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,64.5,110,110,110,28 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,21.0,110,110,110,25 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,227.0,110,110,110,18 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,140.5,110,110,110,14 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,209.5,110,110,110,13 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,128.0,110,110,110,11 Mar 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,64.0,110,110,110,14 Feb 2013
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,93.6,140,140,140,16 Oct 2012
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,66.3,110,110,110,18 Sep 2012
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,27.0,110,110,110,14 Sep 2012
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,35.5,110,110,110,13 Sep 2012
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,101.0,110,110,110,10 Sep 2012
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,16.0,110,110,110,04 Sep 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,67.5,120,120,120,30 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,83.5,120,120,120,28 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,49.0,110,110,110,25 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,73.0,110,110,110,21 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,49.5,110,110,110,18 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,84.0,120,120,120,09 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,148.0,110,110,110,07 Jun 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,203.0,110,110,110,31 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,37.0,110,110,110,29 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,24.0,110,110,110,28 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,87.0,110,110,110,24 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,60.5,110,110,110,21 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,128.5,110,110,110,19 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,66.0,110,110,110,18 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,38.5,110,110,110,14 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,215.7,110,110,110,09 May 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,390.0,110,110,110,30 Apr 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,139.0,110,110,110,19 Apr 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,220.5,110,110,110,16 Apr 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,86.5,110,110,110,13 Apr 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,34.0,110,110,110,12 Apr 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,373.0,110,110,110,10 Apr 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,387.0,110,110,110,31 Mar 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,25.7,110,110,110,30 Mar 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,20.0,130,130,130,26 Mar 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,81.8,110,110,110,21 Mar 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,301.5,110,110,110,20 Mar 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,457.1,120,120,120,29 Feb 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,199.8,120,120,120,28 Feb 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,359.0,110,110,110,16 Jan 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,9.0,110,110,110,13 Jan 2012
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,392.5,110,110,110,31 Dec 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,241.0,110,110,110,20 Dec 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,275.5,2755,2755,2755,30 Nov 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,379.0,100,100,100,13 Jun 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,100.0,100,100,100,31 May 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,291.4,100,100,100,30 May 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,907.9,100,100,100,27 May 2011
+Chattisgarh,Jashpur,Jaspur,Bamboo,Forest Products,335.4,100,100,100,25 Apr 2011
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,10.0,100,100,100,29 Sep 2010
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,12.0,100,100,100,14 Sep 2010
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,52.0,120,120,120,31 Jul 2010
+Chattisgarh,Jashpur,Jaspur,Other,Forest Products,145.0,90,100,95,23 Dec 2006
+Chattisgarh,Jashpur,Kunkuri,Bamboo,Forest Products,0.3,2000,2000,2000,03 Sep 2008
+Chattisgarh,Jashpur,Pathalgaon,Bamboo,Forest Products,1000.0,150,150,150,30 Apr 2023
+Chattisgarh,Jashpur,Pathalgaon,Bamboo,Forest Products,600.0,200,200,200,30 Sep 2016
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,166.1,200,250,250,30 Jan 2024
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,139.9,300,350,350,17 Jan 2024
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,131.3,300,650,300,30 Dec 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,83.0,300,300,300,20 Dec 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,27.0,300,300,300,15 Dec 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,83.8,300,609,609,30 Nov 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,67.1,300,640,300,15 Nov 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,78.2,300,420,360,06 Nov 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,50.0,200,200,200,31 Oct 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,73.0,200,300,300,20 Oct 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,17.0,200,200,200,18 Oct 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,440,440,440,14 Oct 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,48.0,200,400,300,12 Oct 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,40.0,300,300,300,30 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,4.5,300,300,300,26 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,40.0,300,300,300,20 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,12.5,300,300,300,15 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,3.0,200,200,200,09 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,8.0,200,200,200,08 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,3.0,200,200,200,06 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,36.0,200,500,200,05 Sep 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,23.0,300,500,300,31 Aug 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,24 Aug 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,60.0,300,300,300,18 Aug 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,300,300,300,11 Aug 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,08 Aug 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,105.0,300,300,300,25 Jul 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,41.0,300,300,300,19 Jul 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,2.0,250,250,250,07 Jul 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,85.0,275,300,300,27 Jun 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,103.5,300,310,310,23 Jun 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,25.0,250,250,250,26 May 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,267,267,267,22 May 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,23.0,225,250,250,28 Apr 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,49.0,200,215,200,21 Apr 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,73.5,150,180,180,17 Apr 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,4.0,300,300,300,10 Apr 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,73.0,200,200,200,31 Mar 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,30.0,275,275,275,28 Mar 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,70.0,300,300,300,27 Mar 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,120.5,200,200,200,28 Feb 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,61.0,200,200,200,31 Jan 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,125.0,200,200,200,30 Jan 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,85.0,150,160,150,16 Jan 2023
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,73.0,200,200,200,31 Dec 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,112.0,250,275,250,30 Dec 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,33.1,200,200,200,30 Nov 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,90.5,300,497,300,29 Nov 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,22.0,363,363,363,24 Nov 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,45.2,350,400,400,16 Nov 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,19.9,250,250,250,31 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,23.8,300,300,300,26 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,66.0,200,350,350,17 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,6.0,300,300,300,11 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,300,300,300,10 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,5.0,300,300,300,08 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,4.0,300,300,300,07 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,6.0,300,300,300,06 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,5.0,300,300,300,04 Oct 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,45.0,300,300,300,26 Sep 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,19 Sep 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,4.0,300,300,300,13 Sep 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,59.0,300,300,300,29 Aug 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,300,300,300,24 Aug 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,24.0,300,300,300,22 Aug 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,40.5,180,200,200,30 Jul 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,5.0,300,300,300,27 Jul 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,45.0,300,300,300,22 Jul 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,23.0,300,300,300,12 Jul 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,109.0,195,300,300,30 Jun 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,43.0,300,300,300,20 Jun 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,30.0,300,300,300,15 Jun 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,28.0,300,300,300,10 Jun 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,5.0,300,300,300,06 Jun 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,49.4,140,140,140,30 May 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,300,300,300,19 May 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,300,300,300,18 May 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,40.0,300,300,300,10 May 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,40.0,180,200,200,30 Apr 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,70.0,300,300,300,29 Apr 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,3.0,300,300,300,12 Mar 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,50.0,300,300,300,28 Feb 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,5.0,300,300,300,21 Feb 2022
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,21.3,200,200,200,24 Dec 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,12.0,300,300,300,13 Dec 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,65.0,300,300,300,25 Nov 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,50.0,200,200,200,30 Oct 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,11.0,350,350,350,29 Oct 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,41.0,152,300,300,26 Oct 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,45.0,350,350,350,16 Sep 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,30.0,325,325,325,31 Aug 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,14.0,287,287,287,19 Aug 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,267,267,267,13 Aug 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,442,442,442,26 Jul 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,300,300,300,26 Jun 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,7.0,668,668,668,05 Apr 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,7.0,668,668,668,04 Mar 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,300,300,300,06 Feb 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,320,320,320,07 Jan 2021
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,200,200,200,30 Sep 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,7.0,150,150,150,25 Sep 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,150,150,150,24 Sep 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,18 Jul 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,324,324,324,08 May 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,324,324,324,24 Feb 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,324,324,324,17 Feb 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,324,324,324,31 Jan 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,280,280,280,06 Jan 2020
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,18.0,344,350,347,23 Dec 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,6.0,200,200,200,30 Sep 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,11.0,200,200,200,18 Sep 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,200,200,200,11 Sep 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,200,200,200,22 Jul 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,200,200,200,15 Jul 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,5.0,200,200,200,11 Jul 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,200,200,200,05 Jul 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,40.0,200,200,200,23 May 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,200,200,200,16 May 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,200,200,200,13 May 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,200,200,200,09 May 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,300,300,300,25 Mar 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,285,285,285,15 Mar 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,200,200,200,12 Mar 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,300,300,300,28 Feb 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,21 Feb 2019
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,21.0,300,350,325,10 Sep 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,13.0,300,300,300,19 Jul 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,22.0,320,320,320,13 Jul 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,28 May 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,11 May 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,300,300,300,07 May 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,30.0,280,280,280,02 May 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,30.0,280,280,280,30 Apr 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,280,280,280,28 Mar 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,250,250,250,12 Mar 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,320,320,320,26 Feb 2018
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,200,200,200,20 Jul 2017
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,88.5,200,200,200,31 May 2017
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,100,100,100,31 Mar 2017
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,200,200,200,10 Mar 2017
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,100,100,100,08 Mar 2017
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,100,100,100,02 Feb 2017
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,17.5,200,200,200,05 Dec 2016
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,17.5,200,200,200,24 Nov 2016
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,200,200,200,30 Jul 2016
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,200,200,200,26 Jul 2016
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,175,175,175,15 Jul 2016
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,21.0,110,300,110,26 May 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,13.0,130,130,130,10 May 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,22.4,109,110,109,30 Apr 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,15.0,120,120,120,23 Apr 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,12.5,126,126,126,15 Apr 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,12.0,115,115,115,07 Apr 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,1200,1200,1200,28 Mar 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,12.0,125,125,125,28 Feb 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,9.5,100,100,100,25 Feb 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,38.5,123,125,123,23 Feb 2011
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,20.0,120,120,120,02 Dec 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,9.5,160,160,160,22 Nov 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,35.0,190,190,190,15 Nov 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,22.5,1400,1400,1400,21 Oct 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,1900,1900,1900,07 Oct 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,10.0,140,140,140,17 Apr 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,13.0,1400,1400,1400,18 Feb 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,14.0,960,1565,1300,03 Feb 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,14.0,1400,1400,1400,19 Jan 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,14.0,1500,1500,1500,01 Jan 2010
+Chattisgarh,Balrampur,Ramanujganj,Other,Forest Products,9.0,900,900,900,31 Dec 2009
+Chattisgarh,Rajnandgaon,Bandhabazar,Other,Forest Products,2315.0,1300,1500,1400,06 Sep 2012
+Chattisgarh,Rajnandgaon,Dongargarh,Other,Forest Products,200.0,5000,5000,5000,22 Oct 2011
+Chattisgarh,Rajnandgaon,Dongargarh,Other,Forest Products,890.0,4800,4800,4800,27 May 2011
+Chattisgarh,Rajnandgaon,Dongargarh,Other,Forest Products,165.0,5000,5000,5000,14 Apr 2011
+Chattisgarh,Rajnandgaon,Kheragarh,Other,Forest Products,465.0,1700,2100,1800,16 Jul 2009
+Nagaland,Longleng,Longleng,Bamboo,Forest Products,2.0,8200,8500,8300,01 Aug 2023
+Nagaland,Longleng,Longleng,Bamboo,Forest Products,2.0,6000,6300,6100,23 Jun 2023

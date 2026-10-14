@@ -1,0 +1,256 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Andhra Pradesh,West Godavari,Ungatur,Other,Vegetables,3.33,200,300,200,27 Jan 2006
+Telangana,Medak,Narsapur,Other,Vegetables,135.0,1600,1600,1600,21 Feb 2011
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Other,Vegetables,0.03,2000,2000,2000,08 Dec 2012
+Haryana,Ambala,Ambala City,Other,Vegetables,0.02,1100,1800,1450,02 Mar 2010
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.01,1000,1000,1000,25 Mar 2010
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.02,2000,2000,2000,10 Feb 2010
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.01,2000,2000,2000,24 Jan 2010
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,3.6,200,200,200,21 Dec 2009
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.1,1000,1000,1000,02 Dec 2009
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.1,2000,2000,2000,13 Feb 2008
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.03,1000,1000,1000,07 Mar 2007
+Haryana,Fatehabad,Fatehabad,Other,Vegetables,0.03,600,600,600,07 Jan 2007
+Haryana,Fatehabad,Bhuna,Other,Vegetables,0.02,2100,2100,2100,01 Mar 2009
+Haryana,Fatehabad,Bhuna,Other,Vegetables,30.0,1381,1580,1470,07 Oct 2008
+Gujarat,Bharuch,Ankleshwar,Other,Vegetables,1.1,380,560,470,02 Sep 2006
+Gujarat,Bharuch,Ankleshwar,Other,Vegetables,3.7,460,640,550,01 Sep 2006
+Gujarat,Bharuch,Ankleshwar,Other,Vegetables,1.1,380,560,470,20 Jul 2006
+Gujarat,Bharuch,Ankleshwar,Other,Vegetables,0.55,370,550,460,19 Jul 2006
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,2200,2400,2300,24 Feb 2011
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1100,1200,1200,18 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1300,1400,1300,12 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,1200,1300,1200,11 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,1000,1200,1200,10 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,1000,1300,1200,09 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1300,1300,1300,07 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1300,1400,1400,05 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1400,1400,1400,04 Nov 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1400,1400,1400,30 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,1200,1300,1300,29 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1300,1300,27 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1200,1200,1200,26 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1500,1500,1500,24 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1500,1500,1500,23 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1300,1300,1300,07 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1400,1400,1400,03 Oct 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1200,1400,1400,30 Sep 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1200,1200,1200,23 Sep 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1200,1200,1200,29 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,1500,1500,1500,28 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,25 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,17 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,1200,1500,1200,13 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1500,1700,1600,08 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1500,1600,1600,07 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1500,1800,1800,06 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,05 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,2000,2000,2000,04 Aug 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,900,1000,1000,26 Mar 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,20 Mar 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,19 Mar 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,25 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,23 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,1000,900,21 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,19 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,1000,800,18 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,16 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,12 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,600,800,800,11 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,10 Feb 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,900,800,31 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,750,800,800,30 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,27 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,700,800,700,24 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,22 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,21 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,900,900,20 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,800,900,900,19 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,900,900,17 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,16 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,900,900,900,14 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1000,1000,1000,13 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.4,800,900,900,10 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,850,850,850,09 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,800,800,800,07 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,900,900,900,03 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,800,800,800,02 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,600,800,700,01 Jan 2009
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,700,800,700,27 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,700,800,700,26 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,700,800,700,24 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,700,700,700,23 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.3,700,800,800,22 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,900,1000,1000,19 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.5,700,700,700,15 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,700,800,800,10 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,700,800,800,09 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,06 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,900,900,04 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,1500,1500,02 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,800,800,800,01 Dec 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,700,800,700,28 Nov 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,700,700,700,26 Nov 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,700,700,700,25 Nov 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.2,1000,1000,1000,01 Sep 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1400,1500,1400,18 Jul 2008
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,Vegetables,0.1,1300,1500,1400,17 Jul 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,1500,2200,1800,07 Apr 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1300,1400,1300,08 Feb 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1200,1400,1300,05 Feb 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1300,1600,1500,04 Feb 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1400,1500,1400,01 Feb 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1300,1500,1400,30 Jan 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1200,1300,1200,21 Jan 2010
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1200,1200,1200,19 Nov 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1200,1300,1300,18 Nov 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1000,1300,1300,17 Nov 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1000,1100,1000,11 Nov 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1300,1300,1300,09 Nov 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1200,1200,1200,07 Nov 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,800,800,24 Mar 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,800,800,21 Feb 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,800,800,20 Feb 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,1000,1000,10 Feb 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,1000,1000,28 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,1000,1000,19 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,950,950,17 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,900,1000,1000,16 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,950,950,950,15 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,850,850,850,12 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,900,1000,1000,07 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,900,1000,1000,06 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,1000,1000,1000,03 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,800,900,800,01 Jan 2009
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,750,800,800,22 Dec 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,700,1000,1000,19 Dec 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,800,800,800,16 Dec 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.1,700,800,800,06 Dec 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.3,800,800,800,05 Dec 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,800,900,900,04 Dec 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Jamamkhan,Vegetables,0.1,700,700,700,28 Nov 2008
+Himachal Pradesh,Mandi,Mandi(Mandi),Other,Vegetables,0.2,500,700,700,25 Nov 2008
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,2130,2130,2130,20 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,1939,1939,1939,19 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,2047,2047,2047,18 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,2258,2258,2258,16 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1800,1963,1850,15 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,2249,2249,2249,13 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,2100,2100,2100,12 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,2186,2336,2270,11 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,2283,2294,2290,10 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,2000,2300,2150,09 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,2471,2471,2471,06 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,2000,2000,2000,05 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,2000,2000,2000,04 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,2100,2100,2100,03 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.8,1200,2082,2000,02 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,2100,2200,2150,01 Mar 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,1903,2268,2000,27 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,2100,2100,2100,26 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,1917,2200,2000,24 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,2150,2150,2150,23 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,2550,2550,2550,22 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,2275,2275,2275,21 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,2237,2237,2237,18 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1742,1742,1742,16 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1779,1779,1779,15 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,1750,1750,1750,11 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,1600,1700,1650,10 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,1000,1565,1550,09 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,1581,1819,1650,08 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,1834,1834,1834,06 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.1,1585,1585,1585,05 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,1566,1566,1566,04 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1452,1500,1500,03 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,1607,1650,1650,02 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1481,1565,1500,01 Feb 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1650,1700,1650,30 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1650,1700,1700,29 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.5,1602,1650,1630,28 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.2,1495,1495,1495,27 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.7,1316,1600,1500,26 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1650,1655,1655,25 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,1525,1650,1600,23 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.9,1528,1650,1600,22 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1649,1708,1680,21 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1697,1697,1697,20 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,1454,1700,1550,19 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,1530,1670,1650,18 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,1650,1650,1650,16 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1571,1650,1600,15 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1525,1650,1600,14 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.7,1609,1650,1650,13 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.3,1650,1688,1660,12 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.8,1600,1789,1700,11 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.8,1510,1643,1600,09 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,1527,1562,1550,08 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.7,1499,1632,1565,07 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,1551,1650,1600,06 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.8,1492,1500,1500,05 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,764,1698,1600,04 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1500,1650,1550,02 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.8,1507,1606,1550,01 Jan 2011
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,1600,1650,1600,31 Dec 2010
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.3,960,1650,1350,30 Dec 2010
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,1565,1650,1600,29 Dec 2010
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.3,1580,1650,1600,28 Dec 2010
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.8,1311,1610,1500,26 Dec 2010
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.9,1246,1640,1580,25 Dec 2010
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.9,516,600,550,02 Jan 2007
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.1,548,650,600,01 Jan 2007
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,500,600,550,30 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.3,586,634,600,29 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,600,700,666,28 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.4,450,650,500,25 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.8,500,600,550,24 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.2,450,600,550,23 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,650,700,660,22 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,450,500,450,21 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.7,450,650,600,20 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,0.6,500,600,550,19 Dec 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,1.0,750,750,750,04 Nov 2006
+Punjab,Nawanshahr,Banga,Other,Vegetables,5.0,725,800,750,02 Nov 2006
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.07,700,918,825,26 Dec 2007
+Punjab,Sangrur,Dhuri,Other,Vegetables,0.09,800,825,0,15 Dec 2007
+Punjab,Ferozpur,Firozepur City,Other,Vegetables,2.0,1500,2000,1800,12 Dec 2013
+Punjab,Mohali,Banur,Other,Vegetables,0.1,2000,2200,2000,23 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,2000,22 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1500,2000,2000,21 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1500,2000,1800,20 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1500,1800,1800,19 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1500,2000,2000,17 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1500,2000,2000,16 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,2000,2500,2000,15 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,2000,14 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,2000,10 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,1800,01 Feb 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,2000,31 Jan 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,2000,30 Jan 2011
+Punjab,Mohali,Banur,Other,Vegetables,0.1,1800,2000,2000,28 Jan 2011
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.3,0,0,480,16 Jul 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.6,0,0,520,14 Jul 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.3,0,0,560,12 Jul 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.5,0,0,650,09 Jul 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.4,0,0,800,07 Jul 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,2.1,0,0,715,30 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,1.0,0,0,740,28 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,1.7,0,0,750,25 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,1.5,0,0,700,23 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,1.4,0,0,700,21 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.5,0,0,710,18 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.5,0,0,760,16 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,1.0,0,0,815,09 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.5,0,0,760,07 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,730,02 Jun 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,780,26 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,820,24 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,810,21 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,820,19 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,850,17 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,825,14 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,800,12 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,810,10 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,730,07 May 2010
+Uttar Pradesh,Bareilly,Bahedi,Other,Vegetables,0.2,0,0,600,05 May 2010
+Uttar Pradesh,Saharanpur,Saharanpur,Other,Vegetables,175.0,1330,1600,1485,31 Dec 2008

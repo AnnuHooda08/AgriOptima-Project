@@ -1,0 +1,566 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Andhra Pradesh,Guntur,Tenali,Butter,Oils and Fats,10.0,1500,2100,1750,22 Jul 2005
+Telangana,Medak,Sadasivpet(Sangareddy),Butter,Oils and Fats,0.2,1000,1000,1000,03 Aug 2015
+Telangana,Mahbubnagar,Kalwakurthy,Other,Oils and Fats,0.3,400,400,400,23 Mar 2018
+Madhya Pradesh,Shivpuri,Kolaras,Other,Oils and Fats,0.5,4600,5100,4900,20 Oct 2010
+Madhya Pradesh,Shivpuri,Kolaras,Other,Oils and Fats,0.5,4600,5200,4850,18 Oct 2010
+Madhya Pradesh,Shivpuri,Kolaras,Other,Oils and Fats,0.6,4000,5440,5300,15 Oct 2010
+Madhya Pradesh,Shivpuri,Kolaras,Other,Oils and Fats,0.1,5000,5225,0,11 Oct 2010
+Madhya Pradesh,Shivpuri,Kolaras,Other,Oils and Fats,0.2,0,4500,0,04 Feb 2010
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2464,2464,2464,31 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2563,2563,2563,29 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2541,2599,2570,24 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2400,2400,2400,23 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.6,2665,2700,2683,20 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2620,2620,2620,18 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.3,2491,2566,2529,16 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.6,2483,2483,2483,14 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.7,2375,2375,2375,09 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,4.0,2288,2536,2412,08 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.5,2445,2541,2493,07 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.5,2550,2550,2550,06 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,9.0,2200,2410,2305,03 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.0,2361,2450,2406,01 Aug 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2000,2349,2175,31 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.5,2000,2076,2038,28 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.6,2000,2101,2051,25 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.7,2000,2200,2100,19 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.0,2217,2270,2244,18 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.3,2000,2101,2051,14 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.0,3000,3011,3006,10 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,12.8,2000,2208,2104,06 Jul 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,1870,1900,1885,29 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,1800,1900,1850,28 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2100,2173,2137,27 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2249,2252,2251,25 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,5.0,2200,2300,2250,24 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,8.0,2260,2300,2280,23 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.8,2089,2213,2151,22 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.6,2050,2211,2131,21 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.7,2576,2576,2576,19 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.6,2286,2594,2440,18 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.5,2100,2200,2150,16 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.5,2300,2361,2331,15 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2294,2340,2317,14 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.5,2400,2432,2416,13 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.0,2400,2489,2445,09 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,4.5,1941,2600,2271,08 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.5,2396,2476,2436,07 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.1,2290,2399,2345,06 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.3,2182,2352,2267,05 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.3,2300,2340,2320,04 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.9,2300,2500,2400,01 Jun 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.8,2350,2441,2396,31 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,6.0,2350,2360,2355,30 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.1,2336,2690,2363,29 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,5.0,2303,2733,2518,28 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.3,2490,2500,2495,26 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.5,2326,2400,2363,25 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.7,2323,2623,2473,23 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.7,2280,2700,2490,22 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.8,2511,2651,2581,21 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.5,2500,2569,2535,19 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.6,2675,2700,2688,18 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,1.8,2650,2761,2706,17 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,6.0,2450,2711,2581,16 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.5,2326,2456,2391,15 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.3,2140,2636,2388,12 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.0,2600,2613,2607,11 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.0,2600,2673,2637,10 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.2,2641,2752,2697,08 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.3,2140,2636,2388,07 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,10.2,2650,2740,2695,05 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.1,2547,2742,2645,04 May 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,0.8,2700,2800,2750,29 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.1,2700,2800,2750,28 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,12.0,2552,2835,2694,27 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,7.0,2495,2850,2673,26 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,4.7,2644,2911,2777,25 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,6.4,2200,2850,2525,24 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,3.0,2699,2790,2745,23 Apr 2014
+Madhya Pradesh,Panna,Panna,Other,Oils and Fats,2.1,2701,2936,2819,21 Apr 2014
+Haryana,Sirsa,kalanwali,Other,Oils and Fats,0.1,1500,1500,1500,12 Mar 2011
+Kerala,Kollam,Kollam,Butter,Oils and Fats,1.0,19500,21000,19500,29 Jul 2003
+Kerala,Kollam,Kollam,Butter,Oils and Fats,9.0,12000,16000,14000,18 Jul 2003
+Chattisgarh,Mahasamund,Bhavarpur,Other,Oils and Fats,13.1,2500,2500,2500,25 Apr 2013
+Chattisgarh,Mahasamund,Bhavarpur,Other,Oils and Fats,16.9,2350,2350,2350,08 Apr 2013
+Chattisgarh,Balodabazar,Balodabazar,Other,Oils and Fats,2.4,2050,2050,2050,09 Jul 2014
+Chattisgarh,Balodabazar,Balodabazar,Other,Oils and Fats,30.7,1600,1610,1600,02 Jul 2014
+Chattisgarh,Raigarh,Baramkela,Butter,Oils and Fats,185.0,3500,3500,3500,09 Aug 2016
+Chattisgarh,Raigarh,Baramkela,Butter,Oils and Fats,574.0,1210,1225,1210,13 May 2016
+Chattisgarh,Raigarh,Baramkela,Butter,Oils and Fats,14.0,4100,4100,4100,16 Apr 2016
+Chattisgarh,Jashpur,Pathalgaon,Butter,Oils and Fats,35.3,1500,1500,1500,30 Jun 2010
+Chattisgarh,Jashpur,Pathalgaon,Other,Oils and Fats,1.0,1500,1500,1500,24 May 2010
+Chattisgarh,Jashpur,Pathalgaon,Butter,Oils and Fats,5.0,1500,1500,1500,12 Mar 2010
+Chattisgarh,Raipur,Raipur,Other,Oils and Fats,1.0,1014,1039,1027,07 Apr 2003
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,5130,5170,5150,01 Feb 2024
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,5200,5310,5260,18 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,5340,5340,5340,14 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,5340,5340,5340,13 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,5570,5570,5570,08 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,5560,5560,5560,04 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,4450,5620,5200,02 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.2,5100,5630,5460,01 Dec 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,5490,5670,5590,30 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,5300,5500,5405,29 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,5200,5700,5560,28 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,5660,5690,5675,27 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,5500,5670,5590,24 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,4700,5690,5360,23 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,5040,5480,5300,22 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,5400,5460,5430,20 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,5240,5620,5480,14 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,5220,5530,5400,08 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,4400,5560,5300,07 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,5560,5610,5580,06 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,5480,5630,5560,04 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,5380,5540,5460,02 Nov 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,5410,5410,5410,31 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,5100,5470,5300,30 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,5260,5440,5360,28 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,4400,5310,5100,27 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,4910,5120,5020,26 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,5380,5380,5380,25 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,5180,5390,5320,17 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,4520,5330,5100,05 Oct 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,4900,5300,5200,26 Sep 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,4750,4750,4750,23 Sep 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,5180,5180,5180,20 Sep 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,20.6,3000,3400,3100,13 Sep 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,5200,5200,5200,07 Sep 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,5030,5210,5100,02 Sep 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2150,3000,2575,30 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,4790,4790,4790,28 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,4680,4790,4740,16 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,4170,4540,4400,12 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,4570,4570,4570,10 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3880,4320,4100,08 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.8,3500,4000,3930,07 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4090,4090,4090,01 Aug 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4120,4120,4120,31 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,3990,4060,4020,28 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,4150,4180,4165,27 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3610,4170,4030,26 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.3,3690,4220,4060,25 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,4120,4180,4160,24 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,4050,4190,4140,22 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,3990,4160,4110,21 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,4110,4150,4130,20 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,4170,4170,4170,19 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,4220,4220,4220,18 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.4,3980,4130,4070,15 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.5,3540,4120,3960,14 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.7,3400,4180,3960,13 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,4130,4170,4150,12 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.4,3430,4064,3964,11 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.4,3000,4130,3870,10 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.9,3440,4090,3890,08 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,4040,4080,4060,07 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3930,3930,3930,05 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3800,3800,3800,04 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.5,3940,4040,3980,03 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.7,3510,4000,3840,01 Jul 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,2950,3950,3800,30 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3800,3800,3800,28 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,3890,3930,3900,27 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.3,3500,4000,3800,26 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.6,3130,4020,3750,24 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,3190,3980,3710,23 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.5,2900,4000,3800,22 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.2,3730,4040,3960,21 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.1,3200,4040,3860,20 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.4,3570,3970,3880,19 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.9,3920,4000,3960,17 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.4,3690,4000,3910,16 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,3850,3910,3890,15 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.7,3850,4020,3900,14 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.2,3760,4000,3900,13 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.0,3540,4000,3900,12 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.9,3590,4060,3910,10 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.5,4010,4070,4040,09 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.7,4000,4090,4050,08 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.8,3600,4020,3880,07 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.2,3490,3990,3660,06 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.6,3550,3600,3590,05 Jun 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3460,3460,3460,31 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3120,3560,3400,26 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.1,3370,3650,3560,25 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.7,3420,3550,3500,24 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.6,3200,3520,3430,23 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.6,3340,3510,3460,22 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,3340,3470,3400,20 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,3400,3440,3420,19 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.7,3290,3440,3380,18 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.3,3290,3420,3390,17 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.2,3340,3400,3370,16 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,2990,3410,3260,15 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.3,3110,3360,3310,13 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.5,3200,3350,3300,12 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.8,3290,3380,3320,11 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.8,3190,3380,3340,10 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.3,2750,3370,3260,09 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.4,3300,3380,3350,08 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.4,3290,3380,3350,04 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.5,3290,3400,3350,03 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3360,3380,3370,02 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3340,3340,3340,01 May 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.4,3200,3385,3260,29 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.3,3290,3390,3340,28 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.1,3230,3360,3310,27 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,13.2,2500,3390,3300,26 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.4,3190,3390,3340,25 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.2,3250,3320,3280,24 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.2,3320,3340,3330,21 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.5,3190,3360,3290,20 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.5,3300,3400,3350,19 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.4,3200,3450,3375,18 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.1,3440,3480,3460,17 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,8.7,2650,3490,3400,15 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,8.0,3300,3510,3440,13 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.0,3360,3510,3470,12 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.9,3400,3510,3450,11 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,10.9,3410,3490,3440,10 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.0,3210,3480,3430,06 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.7,3410,3480,3440,05 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.0,3250,3540,3490,01 Apr 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.0,3470,3520,3500,31 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,12.1,3000,3480,3300,29 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,9.9,3620,4200,4000,28 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.7,3050,3440,3300,27 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.0,3000,3410,3240,25 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,11.5,3200,3420,3360,24 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,11.2,3140,3450,3390,22 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.9,3200,3480,3390,21 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.0,3190,3430,3340,20 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,3190,3390,3310,18 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,9.3,3190,3390,3310,17 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.1,3190,3350,3300,16 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,15.2,3090,3360,3310,15 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,12.5,3040,3390,3320,14 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,10.7,3100,3430,3370,13 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.4,3350,3420,3400,11 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.5,2900,3430,3340,04 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.3,2820,3430,3330,03 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,7.0,2500,3440,3300,02 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,9.8,3220,3440,3350,01 Mar 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.2,3100,3430,3350,28 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.5,3240,3380,3340,27 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.3,3100,3380,3280,25 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.6,3090,3380,3310,24 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.8,3390,3400,3395,23 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.5,3000,3410,3300,22 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.3,3190,3430,3310,21 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.5,2700,3440,3350,20 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.4,3050,3410,3310,17 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.3,3290,3350,3330,15 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,3290,3370,3340,14 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3350,3350,3350,13 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.6,3280,3430,3325,11 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,3300,3340,3310,10 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.6,3280,3320,3300,09 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3310,3310,3310,08 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3250,3330,3290,07 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3290,3290,3290,06 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3231,3231,3231,04 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3290,3300,3295,03 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3340,3340,3340,02 Feb 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3000,3290,3150,31 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3390,3390,3390,30 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3210,3210,3210,27 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3555,3555,3555,25 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3490,3500,3495,24 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3400,3400,3400,23 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,3555,3555,3555,21 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3450,3520,3490,20 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3320,3570,3490,19 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,3560,3560,3560,18 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3500,3620,3560,17 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.5,3500,3590,3545,14 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3530,3530,3530,13 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3550,3550,3550,12 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3575,3575,3575,10 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3572,3572,3572,09 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,3580,3660,3610,07 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3490,3490,3490,04 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3460,3460,3460,03 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3390,3470,3430,02 Jan 2023
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3300,3460,3410,31 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3425,3425,3425,30 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3425,3425,3425,29 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3390,3440,3440,28 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3050,3450,3330,27 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3200,3200,3200,26 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3420,3420,3420,24 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3310,3450,3450,23 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3470,3470,3470,22 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3350,3350,3350,21 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3280,3460,3370,20 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3440,3440,3440,15 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3370,3440,3400,14 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3410,3450,3430,13 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3390,3440,3420,10 Dec 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3520,3520,3520,19 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3540,3540,3540,18 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3550,3560,3555,17 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.1,3540,3570,3550,16 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3600,3600,3600,15 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.8,3560,3600,3580,14 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,3590,3610,3600,12 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,3590,3600,3595,10 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,3590,3590,3590,04 Nov 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3560,3560,3560,17 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.3,3550,3580,3570,15 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3530,3530,3530,14 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3560,3560,3560,11 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3530,3530,3530,10 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3540,3540,3540,08 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3550,3550,3550,07 Oct 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3420,3420,3420,29 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3400,3400,3400,28 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3530,3530,3530,26 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3400,3540,3470,24 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,3520,3520,3520,22 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,3530,3530,3530,14 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,3380,3650,3510,08 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3570,3680,3620,07 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3750,3750,3750,03 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3740,3740,3740,01 Sep 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3680,3680,3680,17 Aug 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3590,3590,3590,16 Aug 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3690,3690,3690,13 Aug 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3790,3790,3790,05 Aug 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.5,3300,3300,3300,30 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3490,3620,3570,26 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3590,3600,3595,25 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3720,3720,3720,23 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3460,3460,3460,22 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3620,3620,3620,16 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3570,3620,3600,15 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3460,3460,3460,14 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3570,3570,3570,13 Jul 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.2,3170,3170,3170,27 Jun 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3300,3300,3300,10 May 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3560,3590,3575,09 May 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.3,3290,3660,3550,07 May 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.3,3520,3670,3620,02 May 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3620,3640,3630,30 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.5,3350,3670,3570,29 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.6,3510,3690,3620,28 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.0,3540,3640,3590,27 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.9,3350,3650,3590,26 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.8,3500,3600,3570,25 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3600,3610,3600,23 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,3590,3690,3620,21 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.0,3600,3700,3650,20 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3690,3770,3730,19 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.2,3720,3800,3760,18 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.5,3720,3800,3775,16 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.2,3740,3820,3765,13 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.2,3500,3830,3750,12 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,18.6,3790,3890,3840,11 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3790,3870,3830,09 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3450,3820,3670,08 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3300,3860,3700,07 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.7,3510,3880,3750,06 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.7,3550,3890,3800,05 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.1,3500,3890,3800,04 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,9.6,3000,3940,3750,01 Apr 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,3450,3890,3790,30 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.6,3500,3860,3770,29 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,3680,3870,3824,26 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,8.2,3331,3870,3686,25 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.9,3440,3870,3800,24 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,10.7,3540,3930,3700,23 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3890,3890,3890,22 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3800,3940,3870,21 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3900,3900,3900,16 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3380,3750,3550,14 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.1,4150,4230,4200,12 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,4170,4170,4170,10 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.7,3890,3985,3930,09 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,4130,4140,4135,08 Mar 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,2170,2600,2370,11 Feb 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3840,3840,3840,08 Jan 2022
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3600,3600,3600,11 Dec 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3900,3900,3900,03 Dec 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4100,4100,4100,27 Nov 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4120,4120,4120,26 Nov 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4040,4040,4040,30 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3990,3990,3990,28 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3750,3750,3750,26 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4100,4100,4100,25 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,3800,4270,4115,22 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,4200,4201,4200,21 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,4230,4262,4251,20 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4180,4180,4180,13 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,4206,4263,4240,12 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,4200,4265,4210,11 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,4231,4326,4280,09 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4265,4265,4265,08 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,4275,5290,4630,05 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,4200,4365,4280,04 Oct 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,11.4,3800,4320,4200,30 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4221,4221,4221,28 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4215,4215,4215,27 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,4275,4275,4275,25 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,4200,4250,4230,24 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4100,4100,4100,22 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,4170,4230,4210,13 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4260,4260,4260,08 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,4200,4200,4200,06 Sep 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4110,4110,4110,27 Aug 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4100,4100,4100,25 Aug 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,4000,4000,4000,24 Aug 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3850,3917,3890,13 Aug 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,4000,4000,4000,31 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3710,3710,3710,19 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3740,3740,3740,18 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3800,3800,3800,09 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3650,3650,3650,07 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3670,3670,3670,06 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3600,3600,3600,05 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3780,3780,3780,03 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3780,3780,3780,02 Jul 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.4,3600,3600,3600,30 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,6.6,3000,3770,3640,29 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3450,3800,3660,28 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2000,2000,2000,26 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3770,3770,3770,25 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3760,3760,3760,23 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3800,3800,3800,21 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3690,3730,3710,19 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3600,3640,3620,18 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.5,3400,3680,3550,17 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3600,3710,3660,15 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.6,3000,3790,3580,14 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.0,3110,3700,3520,11 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3670,3700,3690,09 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.4,3570,3780,3700,08 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.6,2500,3770,3610,07 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.7,3280,3690,3540,05 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3635,3635,3635,04 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,3010,3780,3560,03 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.0,3100,3650,3434,02 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3590,3590,3590,01 Jun 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.8,3690,3780,3730,10 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3600,3600,3600,09 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.7,3650,3720,3680,08 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.5,3540,3740,3650,06 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3500,3700,3600,05 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3570,3800,3670,03 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3300,3690,3528,01 Apr 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.1,3630,3690,3660,31 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3550,3670,3610,26 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.2,3640,3690,3660,25 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.6,3580,3710,3640,24 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.9,3395,3660,3550,23 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.5,3100,3750,3400,22 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3620,3620,3620,20 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.3,3000,3740,3600,19 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,3200,3780,3560,18 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,3620,3790,3700,17 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.6,3640,3820,3740,16 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3620,3760,3700,15 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.6,3340,3710,3600,13 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3640,3700,3660,12 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3600,3600,3600,10 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.3,3590,3690,3640,08 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,4.7,3095,3990,3560,06 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,5.8,3150,3810,3510,05 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3850,3850,3850,03 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3510,4020,3800,02 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3700,3900,3810,01 Mar 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.3,3032,3810,3500,26 Feb 2021
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,3590,3590,3590,28 Apr 2020
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3200,3200,3200,06 Dec 2019
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,2871,2871,2871,30 Jun 2019
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,2803,2803,2803,28 Jun 2019
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3000,3000,3000,22 Aug 2018
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,1570,2730,2200,06 Aug 2018
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2500,2500,2500,04 Aug 2018
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,3000,3000,3000,03 Aug 2018
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,1800,1800,1800,31 May 2018
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,1900,1900,1900,24 Jan 2018
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,1500,1500,1500,29 Nov 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,1800,1800,1800,31 Oct 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.8,1800,1800,1800,30 Oct 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.5,2200,2200,2200,31 Aug 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.0,1800,1900,1800,31 Jul 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.0,2100,2100,2100,30 May 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,1601,1601,1601,24 May 2017
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,3000,3000,3000,31 Aug 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,4000,4000,4000,30 Jul 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,3500,4000,3800,30 Jun 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.3,3400,3500,3400,31 May 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,4120,4120,4120,09 Apr 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.1,3100,3200,3150,31 Mar 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,46.3,2430,2580,2500,04 Mar 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.9,2800,2800,2800,29 Feb 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3000,3000,3000,30 Jan 2016
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3000,3000,3000,30 Dec 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3000,3200,3100,30 Nov 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,3500,3500,3500,31 Oct 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,3000,3000,3000,30 Sep 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,3000,3000,3000,22 Sep 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.6,2500,3500,3000,28 Aug 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,2600,2600,2600,31 Jul 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.2,2500,2600,2500,30 Jun 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.6,2900,2915,2900,16 May 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,3.1,2000,2000,2000,31 Mar 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2200,2200,2200,30 Jan 2015
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2600,2600,2600,30 Dec 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2400,2400,2400,29 Nov 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,2400,2400,2400,31 Oct 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,2.7,2350,2360,2350,02 Sep 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,18.8,2300,2350,2325,30 Aug 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2300,2300,2300,01 May 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,1.4,2200,2200,2200,31 Mar 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2350,2350,2350,25 Mar 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2601,2601,2601,11 Mar 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2426,2426,2426,15 Feb 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2281,2281,2281,10 Feb 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2550,2550,2550,08 Feb 2014
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2641,2641,2641,31 Dec 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2641,2641,2641,09 Dec 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2300,2300,2300,09 Nov 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,2000,2000,2000,30 Sep 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2300,2300,2300,23 Sep 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2300,2300,2300,14 Sep 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2300,2300,2300,10 Sep 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.7,2000,2000,2000,31 Aug 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2350,2350,2350,26 Aug 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2100,2100,2100,17 Aug 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2116,2116,2116,16 Aug 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2150,2150,2150,14 Aug 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2240,2240,2240,20 Jul 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2150,2150,2150,11 Jul 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2100,2100,2100,08 Jul 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2346,2346,2346,06 Jul 2013
+Chattisgarh,Mungeli,Munguli,Butter,Oils and Fats,0.2,2105,2105,2105,28 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2200,2200,2200,21 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2200,2200,2200,17 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2200,2200,2200,11 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,2250,2250,2250,07 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2185,2185,2185,05 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2130,2130,2130,04 Jun 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2236,2236,2236,28 May 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2306,2306,2306,11 May 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.2,2356,2356,2356,06 May 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2300,2300,2300,01 May 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,2000,2000,2000,30 Apr 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,2200,2300,2250,22 Apr 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2240,2240,2240,16 Apr 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,2230,2271,2230,04 Apr 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2000,2000,2000,25 Mar 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2025,2025,2025,23 Mar 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2150,2150,2150,15 Mar 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2115,2115,2115,11 Mar 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.5,2170,2170,2170,09 Mar 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.3,2000,2000,2000,06 Mar 2013
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,1800,1800,1800,29 Sep 2012
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,1800,1800,1800,31 Aug 2012
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.4,1400,1700,1600,30 Jun 2012
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.6,1500,1500,1500,30 May 2012
+Chattisgarh,Mungeli,Munguli,Butter,Oils and Fats,0.4,1500,1500,1500,30 Apr 2012
+Chattisgarh,Mungeli,Munguli,Other,Oils and Fats,0.1,2750,2750,2750,21 Dec 2011
+Chattisgarh,Mungeli,Munguli,Butter,Oils and Fats,0.3,1600,1600,1600,30 Sep 2011

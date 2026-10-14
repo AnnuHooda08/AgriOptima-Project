@@ -1,0 +1,9 @@
+DataSets/india_mandi_prices_2000_2024/Wheat.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Rice.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Onion.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Green[[:space:]]Chilli.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Brinjal.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Tomato.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Potato.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Paddy(Dhan)(Common).csv filter=lfs diff=lfs merge=lfs -text
+DataSets/india_mandi_prices_2000_2024/Cauliflower.csv filter=lfs diff=lfs merge=lfs -text

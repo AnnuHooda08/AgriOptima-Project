@@ -1,0 +1,595 @@
+State Name,District Name,Market Name,Variety,Group,Arrivals (Tonnes),Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Reported Date
+Telangana,Nalgonda,Suryapeta,Other,Other,91.0,781.0,921,815.0,24 Mar 2005
+Madhya Pradesh,Sagar,Shahagarh,Other,Other,0.25,1150.0,1200,1175.0,13 Sep 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.6,1635.0,1640,1637.5,31 May 2021
+Gujarat,Banaskanth,Vadgam,Other,Other,1.1,1520.0,1540,1530.0,22 Apr 2021
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1550.0,1550,1550.0,06 Jul 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,0.7,1655.0,1790,1722.5,06 Jun 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,0.18,1735.0,1735,1735.0,22 May 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1790.0,1790,1790.0,30 Apr 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,0.93,1785.0,1785,1785.0,24 Apr 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,2.13,1695.0,1800,1747.5,22 Apr 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1825.0,1825,1825.0,21 Apr 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,0.2,1725.0,1725,1725.0,16 Mar 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,1.0,1750.0,1770,1760.0,14 Mar 2020
+Gujarat,Banaskanth,Vadgam,Other,Other,3.3,1700.0,1765,1732.5,04 Apr 2019
+Gujarat,Banaskanth,Vadgam,Other,Other,0.4,1555.0,1555,1555.0,20 Aug 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1375.0,1375,1375.0,13 Jul 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.5,1405.0,1405,1405.0,09 Jul 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1410.0,1410,1410.0,12 Jun 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.5,1405.0,1405,1405.0,06 Jun 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1400.0,1400,1400.0,15 May 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,3.2,1335.0,1370,1352.5,04 May 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.2,1345.0,1345,1345.0,01 May 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1465.0,1465,1465.0,25 Apr 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.2,1400.0,1400,1400.0,17 Apr 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,1.0,1405.0,1435,1420.0,11 Apr 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.7,1425.0,1425,1425.0,04 Apr 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,1.0,1370.0,1370,1370.0,02 Apr 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.9,1360.0,1375,1367.5,23 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.8,1410.0,1415,1412.5,22 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,1.4,1425.0,1425,1425.0,21 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1435.0,1435,1435.0,14 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1375.0,1455,1415.0,13 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.7,1345.0,1345,1345.0,12 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.8,1380.0,1380,1380.0,07 Mar 2018
+Gujarat,Banaskanth,Vadgam,Other,Other,0.4,1500.0,1500,1500.0,20 Sep 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1380.0,1380,1380.0,09 Sep 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.5,1400.0,1400,1400.0,24 Aug 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1395.0,1395,1395.0,29 May 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.2,1475.0,1475,1475.0,01 May 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,2.5,1470.0,1525,1497.5,26 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.2,1535.0,1535,1535.0,24 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.5,1500.0,1540,1520.0,22 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1530.0,1530,1530.0,21 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.9,1465.0,1525,1495.0,18 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.1,1480.0,1480,1480.0,17 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,2.4,1480.0,1505,1492.5,15 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.4,1530.0,1530,1530.0,13 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,3.8,1510.0,1535,1522.5,12 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.5,1500.0,1535,1517.5,10 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1400.0,1515,1457.5,08 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.7,1475.0,1500,1487.5,07 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.4,1475.0,1520,1497.5,06 Apr 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.2,1475.0,1475,1475.0,24 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1520.0,1520,1520.0,23 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.4,1505.0,1510,1507.5,22 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,1.4,1465.0,1480,1472.5,21 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.2,1450.0,1450,1450.0,20 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.7,1440.0,1440,1440.0,18 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,2.4,1380.0,1425,1402.5,15 Mar 2017
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1615.0,1615,1615.0,22 Jul 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1625.0,1625,1625.0,15 Jul 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1650.0,1650,1650.0,11 Jul 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1515.0,1515,1515.0,23 Jun 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1650.0,1650,1650.0,21 Jun 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1605.0,1605,1605.0,16 Jun 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1630.0,1630,1630.0,08 Jun 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1505.0,1505,1505.0,06 Jun 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1585.0,1585,1585.0,04 Jun 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1475.0,1475,1475.0,19 May 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1435.0,1435,1435.0,18 May 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,2.63,1390.0,1515,1452.5,25 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1440.0,1440,1440.0,23 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.93,1415.0,1485,1450.0,20 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1380.0,1380,1380.0,16 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,1.79,1350.0,1420,1385.0,13 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1380.0,1380,1380.0,12 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1425.0,1425,1425.0,11 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1400.0,1400,1400.0,08 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,1.19,1325.0,1360,1342.5,06 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1385.0,1385,1385.0,05 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,2.98,1325.0,1380,1352.5,04 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1400.0,1400,1400.0,02 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,1.36,1275.0,1350,1312.5,01 Apr 2016
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1450.0,1450,1450.0,29 Dec 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1450.0,1450,1450.0,27 Dec 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1630.0,1630,1630.0,03 Dec 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1625.0,1625,1625.0,26 Nov 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1580.0,1580,1580.0,20 Nov 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1210.0,1210,1210.0,09 Jun 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1245.0,1245,1245.0,06 Jun 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.87,1155.0,1240,1197.5,31 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1225.0,1225,1225.0,28 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1200.0,1235,1217.5,27 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.27,1205.0,1205,1205.0,24 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1200.0,1235,1217.5,22 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.45,1225.0,1225,1225.0,15 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1290.0,1310,1300.0,13 May 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1215.0,1215,1215.0,25 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1175.0,1175,1175.0,24 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1200.0,1200,1200.0,23 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1175.0,1195,1185.0,22 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1150.0,1225,1187.5,21 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,3.57,1130.0,1165,1147.5,18 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.62,1150.0,1175,1162.5,17 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1150.0,1175,1162.5,16 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1195.0,1195,1195.0,11 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,2.13,1155.0,1155,1155.0,10 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1170.0,1170,1170.0,07 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1125.0,1225,1175.0,04 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,2.72,1225.0,1250,1237.5,03 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.02,1235.0,1235,1235.0,02 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1200.0,1255,1227.5,01 Apr 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,1.27,1225.0,1255,1240.0,22 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.28,1235.0,1235,1235.0,21 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1205.0,1255,1230.0,20 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1250.0,1270,1260.0,19 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1200.0,1200,1200.0,18 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,3.48,1150.0,1305,1227.5,14 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1250.0,1250,1250.0,13 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1300.0,1300,1300.0,12 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1365.0,1365,1365.0,01 Mar 2014
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1300.0,1625,1462.5,03 Dec 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1820.0,1820,1820.0,21 Nov 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1630.0,1630,1630.0,20 Nov 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1655.0,1760,1707.5,19 Nov 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1670.0,1670,1670.0,13 Nov 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1305.0,1305,1305.0,24 Sep 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1300.0,1300,1300.0,21 Sep 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1300.0,1355,1327.5,17 Sep 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1265.0,1265,1265.0,13 Sep 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1250.0,1250,1250.0,27 Jun 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1300.0,1300,1300.0,15 Jun 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1250.0,1250,1250.0,11 Jun 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1320.0,1320,1320.0,06 Jun 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1285.0,1295,1290.0,31 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1290.0,1290,1290.0,30 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.19,1305.0,1305,1305.0,29 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1325.0,1325,1325.0,28 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1270.0,1270,1270.0,09 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1285.0,1285,1285.0,07 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1300.0,1300,1300.0,04 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.47,1325.0,1325,1325.0,03 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1320.0,1320,1320.0,02 May 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1325.0,1325,1325.0,29 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1275.0,1330,1302.5,26 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1255.0,1475,1365.0,24 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,1.96,1260.0,1350,1305.0,22 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1335.0,1380,1357.5,20 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1290.0,1290,1290.0,17 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1325.0,1340,1332.5,16 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1280.0,1300,1290.0,12 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,2.46,1280.0,1640,1460.0,10 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,1.1,1255.0,1300,1277.5,08 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1305.0,1305,1305.0,06 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1230.0,1230,1230.0,05 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1250.0,1250,1250.0,04 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1270.0,1270,1270.0,03 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.38,1225.0,1225,1225.0,02 Apr 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1260.0,1260,1260.0,22 Mar 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1250.0,1300,1275.0,19 Mar 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,1.19,1225.0,1300,1262.5,18 Mar 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1345.0,1345,1345.0,06 Mar 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1160.0,1160,1160.0,05 Mar 2013
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1375.0,1375,1375.0,12 Dec 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1400.0,1400,1400.0,06 Dec 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.1,1505.0,1505,1505.0,20 Nov 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.38,1460.0,1460,1460.0,02 Nov 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1425.0,1425,1425.0,01 Nov 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1700.0,1700,1700.0,06 Oct 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1210.0,1210,1210.0,01 Oct 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1250.0,1250,1250.0,16 Aug 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1225.0,1225,1225.0,31 Jul 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1230.0,1230,1230.0,27 Jul 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1355.0,1355,1355.0,25 Jul 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1225.0,1225,1225.0,11 Jul 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1165.0,1165,1165.0,28 Jun 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1205.0,1205,1205.0,15 Jun 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1165.0,1165,1165.0,29 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1200.0,1200,1200.0,26 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1195.0,1225,1210.0,22 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1130.0,1130,1130.0,21 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1200.0,1200,1200.0,16 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1180.0,1180,1180.0,14 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1225.0,1230,1227.5,12 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1200.0,1200,1200.0,08 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1225.0,1260,1242.5,07 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,1.96,1175.0,1270,1222.5,05 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1205.0,1205,1205.0,03 May 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,1.02,1190.0,1210,1200.0,30 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1200.0,1200,1200.0,28 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1175.0,1180,1177.5,27 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1200.0,1200,1200.0,25 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1210.0,1225,1217.5,19 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,2.04,1195.0,1215,1205.0,17 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1175.0,1175,1175.0,13 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,1.96,1255.0,1270,1262.5,12 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,1.1,1230.0,1300,1265.0,11 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1230.0,1230,1230.0,10 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1255.0,1255,1255.0,09 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,4.84,1225.0,1255,1240.0,07 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1155.0,1230,1192.5,05 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,2.63,1150.0,1175,1162.5,03 Apr 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1225.0,1225,1225.0,24 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1220.0,1220,1220.0,23 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1200.0,1200,1200.0,22 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1195.0,1195,1195.0,21 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1200.0,1200,1200.0,19 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1180.0,1180,1180.0,15 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1200.0,1200,1200.0,14 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1030.0,1030,1030.0,13 Mar 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1145.0,1145,1145.0,27 Feb 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1075.0,1075,1075.0,08 Feb 2012
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1100.0,1150,1125.0,07 Dec 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1165.0,1165,1165.0,28 Nov 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1175.0,1185,1180.0,15 Nov 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,1050.0,1075,1062.5,11 Nov 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1005.0,1005,1005.0,08 Nov 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1285.0,1285,1285.0,05 Nov 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1025.0,1025,1025.0,30 Sep 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1085.0,1085,1085.0,06 Jul 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1075.0,1075,1075.0,25 May 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1065.0,1065,1065.0,11 May 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1050.0,1050,1050.0,29 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1015.0,1015,1015.0,27 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1075.0,1075,1075.0,22 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,1.53,1050.0,1055,1052.5,20 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1070.0,1070,1070.0,19 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,3.4,1060.0,1075,1067.5,15 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1085.0,1085,1085.0,13 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1070.0,1070,1070.0,11 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1060.0,1060,1060.0,09 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1075.0,1085,1080.0,07 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,3.31,1050.0,1070,1060.0,06 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1055.0,1060,1057.5,05 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,1.5,1055.0,5125,3090.0,01 Apr 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1075.0,1075,1075.0,23 Mar 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,1.02,1050.0,1050,1050.0,22 Mar 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1040.0,1040,1040.0,21 Mar 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1060.0,1060,1060.0,18 Mar 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1015.0,1015,1015.0,11 Mar 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1000.0,1000,1000.0,09 Mar 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1040.0,1040,1040.0,12 Feb 2011
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1625.0,1755,1690.0,04 Dec 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1350.0,1705,1527.5,02 Dec 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1700.0,1700,1700.0,01 Dec 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1800.0,1800,1800.0,29 Nov 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1250.0,1250,1250.0,20 Nov 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1275.0,1275,1275.0,18 Nov 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1175.0,1175,1175.0,16 Nov 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.27,1200.0,1200,1200.0,19 Oct 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1150.0,1150,1150.0,16 Sep 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1005.0,1005,1005.0,08 Sep 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,850.0,850,850.0,28 Aug 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1010.0,1010,1010.0,28 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1020.0,1020,1020.0,17 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1045.0,1045,1045.0,16 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1040.0,10401,1040.0,12 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1035.0,1035,1035.0,06 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1035.0,1035,1035.0,02 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1025.0,1025,1025.0,01 Jul 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1010.0,1010,1010.0,29 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1030.0,1030,1030.0,25 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1020.0,1020,1020.0,21 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1010.0,1010,1010.0,19 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1025.0,1025,1025.0,12 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1010.0,1010,1010.0,10 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1020.0,1020,1020.0,09 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.28,1020.0,1020,1020.0,05 Jun 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.45,1000.0,1050,1025.0,19 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1035.0,1035,1035.0,18 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1045.0,1045,1045.0,17 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1050.0,1050,1050.0,13 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1040.0,1055,1047.5,11 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1055.0,1055,1055.0,06 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1025.0,1050,1037.5,05 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,1040.0,1040,1040.0,04 May 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1050.0,1050,1050.0,29 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1055.0,1055,1055.0,22 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1065.0,1065,1065.0,19 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.87,1035.0,1035,1035.0,17 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,2.46,1055.0,1070,1062.5,15 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1040.0,1040,1040.0,13 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1035.0,1065,1050.0,10 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.47,1050.0,1050,1050.0,09 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1030.0,1050,1040.0,08 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1050.0,1055,1052.5,07 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,1020.0,1020,1020.0,06 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,1035.0,1060,1047.5,05 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.53,1030.0,1060,1045.0,03 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,2.21,1045.0,1055,1050.0,02 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,3.06,1005.0,1020,1012.5,01 Apr 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1030.0,1040,1035.0,25 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.72,1015.0,1025,1020.0,23 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,4.5,1000.0,1030,1015.0,22 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1020.0,1020,1020.0,20 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.47,1000.0,1030,1015.0,19 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.62,1000.0,1025,1012.5,16 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1000.0,1025,1012.5,15 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1025.0,1025,1025.0,11 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.87,880.0,1060,970.0,10 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1060.0,1060,1060.0,09 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,1.66,1020.0,1035,1027.5,08 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,925.0,1035,980.0,03 Mar 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,945.0,945,945.0,26 Feb 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1000.0,1000,1000.0,09 Jan 2010
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1150.0,1150,1150.0,19 Dec 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1020.0,1020,1020.0,18 Dec 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1015.0,1015,1015.0,10 Dec 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,1200.0,1200,1200.0,21 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1225.0,1225,1225.0,19 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1185.0,1185,1185.0,14 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1175.0,1175,1175.0,13 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1175.0,1175,1175.0,10 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1215.0,1215,1215.0,09 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1150.0,1150,1150.0,05 Nov 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,1505.0,1505,1505.0,27 Oct 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,950.0,950,950.0,05 Sep 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,950.0,950,950.0,02 Sep 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,910.0,935,922.5,30 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,910.0,920,915.0,27 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,940.0,940,940.0,26 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,925.0,925,925.0,25 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,925.0,925,925.0,23 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,955.0,955,955.0,22 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,910.0,940,925.0,16 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,975.0,975,975.0,05 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,950.0,950,950.0,03 Jun 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,950.0,950,950.0,28 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,965.0,965,965.0,27 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,915.0,915,915.0,25 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,975.0,975,975.0,19 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,935.0,935,935.0,18 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.21,960.0,980,970.0,14 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,965.0,975,970.0,06 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.64,950.0,975,962.5,04 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,970.0,970,970.0,02 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,960.0,965,962.5,01 May 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1000.0,1000,1000.0,29 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,940.0,940,940.0,28 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,935.0,985,960.0,25 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,960.0,960,960.0,24 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,980.0,980,980.0,21 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,965.0,965,965.0,20 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1005.0,1010,1007.5,16 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1005.0,1005,1005.0,15 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,3.31,900.0,995,947.5,13 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,930.0,930,930.0,11 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,970.0,970,970.0,10 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,2.63,945.0,980,962.5,08 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,1.02,960.0,970,965.0,06 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,1.19,960.0,965,962.5,04 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,780.0,990,885.0,02 Apr 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,955.0,955,955.0,25 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,1.27,950.0,970,960.0,24 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,855.0,855,855.0,23 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,900.0,900,900.0,21 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,890.0,890,890.0,20 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,895.0,950,922.5,19 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,895.0,895,895.0,17 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,950.0,950,950.0,14 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,915.0,920,917.5,07 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,880.0,880,880.0,06 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,885.0,885,885.0,05 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,945.0,945,945.0,04 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,915.0,915,915.0,03 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,940.0,940,940.0,02 Mar 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,985.0,985,985.0,15 Jan 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,950.0,950,950.0,13 Jan 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,955.0,955,955.0,12 Jan 2009
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,915.0,915,915.0,12 Dec 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,950.0,950,950.0,11 Dec 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1030.0,1030,1030.0,01 Dec 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.23,1045.0,1050,1047.5,21 Nov 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1115.0,1115,1115.0,15 Nov 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1110.0,1110,1110.0,08 Nov 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1040.0,1040,1040.0,06 Nov 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.08,985.0,985,985.0,03 Oct 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.08,935.0,935,935.0,24 Sep 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1000.0,1000,1000.0,12 Sep 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1000.0,1000,1000.0,08 Sep 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1060.0,1075,1067.5,20 Aug 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1075.0,1075,1075.0,06 Aug 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1115.0,1115,1115.0,25 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1105.0,1130,1117.5,22 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.72,1110.0,1110,1110.0,21 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1075.0,1075,1075.0,19 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1075.0,1075,1075.0,16 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1090.0,1090,1090.0,14 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1105.0,1105,1105.0,10 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1100.0,1100,1100.0,08 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1055.0,1055,1055.0,07 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1060.0,1060,1060.0,02 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1075.0,1095,1085.0,01 Jul 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1080.0,1080,1080.0,27 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1025.0,1025,1025.0,25 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1085.0,1095,1090.0,24 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.19,1025.0,1090,1057.52691,23 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1055.0,1055,1055.0,21 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1075.0,1075,1075.0,20 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1090.0,1090,1090.0,19 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1065.0,1065,1065.0,17 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.77,1035.0,1085,1060.0,16 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,1050.0,1050,1050.0,14 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,1110.0,1110,1110.0,11 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1045.0,1090,1067.5,10 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1080.0,1080,1080.0,09 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,1075.0,1075,1075.0,07 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1105.0,1105,1105.0,05 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,2.72,1080.0,1085,1082.5,04 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,1055.0,1055,1055.0,03 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.1,1025.0,1115,1075.0,02 Jun 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1025.0,1110,1067.5,30 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.21,1060.0,1075,1067.5,29 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,1060.0,1060,1060.0,28 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1045.0,1045,1045.0,27 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.04,1040.0,1040,1040.0,26 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,1030.0,1045,1037.5,24 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1025.0,1030,1027.5,23 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,940.0,1030,985.0,22 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,1010.0,1010,1010.0,21 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,2.21,1010.0,1035,1022.5,20 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,940.0,965,952.5,19 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,930.0,940,935.0,16 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,935.0,950,942.5,14 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.21,940.0,940,940.0,13 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,925.0,940,932.5,12 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,925.0,965,945.0,10 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.94,925.0,930,927.5,09 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,910.0,940,925.0,07 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.57,905.0,925,915.0,06 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.68,905.0,905,905.0,05 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,905.0,935,920.0,03 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.27,830.0,905,867.5,02 May 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,900.0,930,915.0,30 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,875.0,915,895.0,29 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.72,865.0,900,882.5,26 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,875.0,885,880.0,25 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.75,885.0,940,912.5,24 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.96,850.0,900,875.0,23 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.85,895.0,895,895.0,22 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.6,885.0,895,890.0,21 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,3.06,800.0,860,830.0,19 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.8,655.0,890,772.5,17 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,2.85,905.0,945,925.0,16 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,2.8,940.0,990,965.0,15 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.02,970.0,995,982.5,12 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.51,1005.0,1030,1017.5,11 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,1000.0,1005,1002.5,10 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,3.15,980.0,1015,997.5,09 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.49,1020.0,1025,1022.05,08 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,4.4,1015.0,1035,1025.0,07 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,3.83,1005.0,1025,1015.0,05 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,3.31,965.0,1015,990.0,04 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.87,905.0,945,925.0,03 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,4.72,880.0,900,890.0,02 Apr 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.13,835.0,835,835.0,20 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,810.0,810,810.0,19 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,810.0,810,810.0,14 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,815.0,815,815.0,13 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,810.0,810,810.0,11 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,1.7,820.0,820,820.0,10 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,800.0,800,800.0,07 Mar 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,800.0,800,800.0,28 Feb 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.34,0.0,900,900.0,12 Feb 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,0.0,900,900.0,02 Jan 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.21,0.0,930,930.0,01 Jan 2008
+Gujarat,Banaskanth,Vadgam,Other,Other,0.09,0.0,1015,1015.0,22 Dec 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,1005.0,1025,1015.0,06 Dec 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,0.0,970,970.0,04 Dec 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.17,0.0,925,925.0,03 Dec 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,980.0,1090,1037.5,01 Dec 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.26,1000.0,1020,1010.0,29 Nov 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.43,855.0,1075,965.0,17 Nov 2007
+Gujarat,Banaskanth,Vadgam,Other,Other,0.3,0.0,950,950.0,10 Oct 2007
+Rajasthan,Ganganagar,Gajsinghpur,Javi,Other,358.0,2630.0,2630,2630.0,22 May 2023
+Rajasthan,Ganganagar,Gajsinghpur,Javi,Other,3.0,2500.0,2500,2500.0,19 May 2023
+Rajasthan,Jodhpur,Jodhpur(Grain)(Bhagat Ki Kothi),Other,Other,0.5,1050.0,1100,1075.0,26 Aug 2010
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.1,900.0,940,920.0,19 Nov 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.1,900.0,972,935.0,05 Nov 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.1,900.0,966,933.0,19 Oct 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.2,950.0,972,960.0,17 Oct 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.3,705.0,991,900.0,25 Sep 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.4,997.0,1004,1000.0,24 Sep 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.2,950.0,1000,975.0,21 Sep 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.5,997.0,1008,1005.0,17 Sep 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.1,900.0,993,950.0,06 Sep 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.1,1000.0,1021,1014.0,09 Aug 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.2,1000.0,1025,1012.0,07 Aug 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.2,900.0,996,950.0,06 Aug 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.3,1000.0,1050,1025.0,03 Aug 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.2,1000.0,1057,1040.0,29 Jul 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.1,1000.0,1029,1015.0,01 Jul 2008
+Rajasthan,Chittorgarh,Pratapgarh,Other,Other,0.2,1026.0,1031,1028.0,29 Jun 2008
+Meghalaya,East Khasi Hills,Shillong,Other,Other,250.0,7000.0,10000,8500.0,21 Jun 2010
+Uttrakhand,Dehradoon,Dehradoon,Other,Other,0.8,550.0,610,580.0,02 Nov 2007
+Uttrakhand,Dehradoon,Dehradoon,Other,Other,20.0,550.0,600,575.0,27 Oct 2007
+Uttrakhand,Dehradoon,Dehradoon,Other,Other,12.0,590.0,610,600.0,25 Oct 2007
+Uttrakhand,Dehradoon,Dehradoon,Other,Other,2.5,510.0,560,535.0,23 Oct 2007
+Uttrakhand,Dehradoon,Dehradoon,Other,Other,2.0,620.0,750,680.0,01 Mar 2005
+Uttrakhand,Dehradoon,Vikasnagar,Other,Other,0.3,2850.0,3000,3000.0,22 Sep 2015
+Uttrakhand,Dehradoon,Vikasnagar,Other,Other,1.2,2000.0,2000,2000.0,07 Aug 2015
+Uttrakhand,Dehradoon,Vikasnagar,Other,Other,0.3,2800.0,2800,2800.0,15 Sep 2014
+Uttrakhand,Dehradoon,Vikasnagar,Other,Other,0.2,2000.0,2000,2000.0,20 Aug 2014
+Uttrakhand,Dehradoon,Vikasnagar,Other,Other,0.8,1600.0,1600,1600.0,12 Jun 2014
+Uttrakhand,Haridwar,Lakshar,Other,Other,1.2,1250.0,1500,1400.0,15 Jun 2015
+Uttrakhand,Haridwar,Lakshar,Other,Other,5.0,1400.0,1600,1500.0,12 Jun 2015
+Uttrakhand,Haridwar,Lakshar,Other,Other,12.4,1300.0,1500,1400.0,25 Nov 2014
+Uttrakhand,Haridwar,Lakshar,Other,Other,11.0,1200.0,1400,1300.0,01 Nov 2014
+Uttrakhand,Haridwar,Lakshar,Other,Other,7.2,1000.0,1100,0.0,15 May 2014
+Uttrakhand,Haridwar,Lakshar,Other,Other,3.5,1100.0,1150,0.0,15 Mar 2014
+Uttrakhand,Haridwar,Lakshar,Other,Other,12.0,1250.0,1300,0.0,25 Nov 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,2.5,1200.0,1300,0.0,26 Oct 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,10.0,1000.0,1100,0.0,22 Sep 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,13.5,990.0,1100,0.0,06 Aug 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,0.2,800.0,900,0.0,29 Jul 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,17.3,800.0,850,0.0,25 Jul 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,4.1,1120.0,1300,0.0,01 Jul 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,3.0,1000.0,1100,0.0,30 Jun 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,3.0,900.0,950,0.0,20 May 2013
+Uttrakhand,Haridwar,Lakshar,Other,Other,2.0,800.0,900,850.0,28 Jul 2010
+Uttrakhand,Haridwar,Lakshar,Other,Other,14.5,800.0,900,850.0,29 Jun 2010
+Uttrakhand,Haridwar,Lakshar,Other,Other,5.0,650.0,800,750.0,12 Jun 2009
+Uttrakhand,Haridwar,Lakshar,Other,Other,5.0,650.8,800,750.0,11 Jun 2009
+Uttrakhand,Haridwar,Lakshar,Other,Other,2.0,650.0,800,750.0,05 Jun 2009
+Uttrakhand,Haridwar,Lakshar,Other,Other,5.0,650.0,700,675.0,02 Apr 2009
+Uttrakhand,Haridwar,Roorkee,Other,Other,1.0,1020.0,1100,0.0,03 Sep 2012
+Uttrakhand,Haridwar,Roorkee,Other,Other,2.0,800.0,1000,880.0,08 Jan 2009
+Uttrakhand,Haridwar,Roorkee,Other,Other,1.5,800.0,800,800.0,22 May 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,0.4,800.0,800,800.0,17 May 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,3.0,800.0,800,800.0,13 May 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,4.0,600.0,700,650.0,23 Apr 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,17.0,1210.0,1210,1210.0,26 Mar 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,16.0,1230.0,1230,1230.0,25 Mar 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,2.4,700.0,800,700.0,27 Jan 2008
+Uttrakhand,Haridwar,Roorkee,Other,Other,0.3,600.0,800,700.0,22 Jan 2008
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,30.0,1700.0,1800,1750.0,08 Oct 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,21.0,1750.0,1850,1800.0,02 Oct 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1750.0,1850,1800.0,30 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1750.0,1850,1800.0,29 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,35.0,1750.0,1850,1800.0,27 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1750.0,1850,1800.0,21 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,24.0,1700.0,1750,1750.0,18 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1750.0,1850,1800.0,17 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,32.0,1700.0,1800,1750.0,15 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,16.0,1700.0,1800,1750.0,13 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,32.0,1700.0,1750,1750.0,12 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,22.0,1700.0,1750,1750.0,10 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,22.0,1700.0,1750,1750.0,09 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1700.0,1750,1750.0,07 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,23.0,1700.0,1750,1750.0,06 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1700.0,1750,1750.0,04 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,17.0,1700.0,1750,1750.0,01 Sep 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1700.0,1750,1750.0,31 Aug 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,27.0,1800.0,1900,1850.0,27 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,19.0,1800.0,1900,1850.0,20 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1800.0,1900,1850.0,18 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,11.5,1800.0,1900,1850.0,12 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,26.0,1800.0,1900,1850.0,09 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,15.0,1800.0,1900,1850.0,07 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1800.0,1900,1850.0,05 Jul 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,18.0,1800.0,1850,1850.0,31 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,65.0,1820.0,1840,1830.0,30 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,52.5,1810.0,1830,1820.0,29 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,30.0,1800.0,1820,1810.0,28 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,25.0,1800.0,1820,1810.0,27 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,30.0,1800.0,1820,1810.0,25 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,50.0,1750.0,1800,1800.0,23 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,29.0,1800.0,1900,1850.0,22 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,43.0,1800.0,1820,1810.0,21 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,61.5,1750.0,1850,1800.0,20 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,8.0,1790.0,1810,1800.0,15 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,17.0,1790.0,1810,1800.0,14 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,39.0,1820.0,1840,1830.0,13 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,62.0,1800.0,1820,1810.0,12 May 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,43.0,1800.0,1900,1850.0,29 Apr 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,33.0,1800.0,1900,1850.0,18 Apr 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,27.0,1800.0,1900,1850.0,02 Apr 2023
+Uttar Pradesh,Mahoba,Charkhari,Javi,Other,36.0,1800.0,1900,1850.0,01 Apr 2023
+Uttar Pradesh,Saharanpur,Devband,Other,Other,2.5,1500.0,1800,1680.0,12 Feb 2011
+Uttar Pradesh,Saharanpur,Devband,Other,Other,8.0,300.0,450,410.0,24 Jan 2011
+Uttar Pradesh,Saharanpur,Devband,Other,Other,1.5,1400.0,1800,1720.0,12 Jan 2011
+Uttar Pradesh,Saharanpur,Devband,Other,Other,16.0,1700.0,2050,1950.0,26 Nov 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,5.0,2200.0,2500,2400.0,30 Sep 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,5.0,2100.0,2350,2230.0,29 Sep 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,5.0,2000.0,2350,2210.0,27 Sep 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,0.5,2000.0,2300,2200.0,25 Sep 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,3.5,2000.0,2300,2200.0,21 Sep 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,0.2,1650.0,1800,1720.0,12 May 2010
+Uttar Pradesh,Saharanpur,Devband,Other,Other,10.0,2100.0,2400,2200.0,13 Feb 2010
+Uttar Pradesh,Saharanpur,Chutmalpur,Other,Other,10.0,1070.0,1100,1080.0,10 Jan 2010
+Uttar Pradesh,Saharanpur,Chutmalpur,Other,Other,10.0,970.0,1000,980.0,27 Aug 2009
+Uttar Pradesh,Saharanpur,Chutmalpur,Other,Other,8.0,870.0,900,880.0,10 Aug 2009
+Uttar Pradesh,Ghazipur,Gazipur,Other,Other,25.0,1500.0,1540,1520.0,21 Feb 2013
+Bihar,Patna,Bihta,Other,Other,13.6,1500.0,1650,1550.0,30 Oct 2005
