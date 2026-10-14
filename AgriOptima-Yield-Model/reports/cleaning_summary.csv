@@ -1,0 +1,7 @@
+metric,value
+original_rows,12447
+rows_after_exact_duplicate_removal,12447
+cleaned_rows,9882
+excluded_rows,2565
+extreme_yields_flagged,1599
+cleaned_zero_yield_rows,0

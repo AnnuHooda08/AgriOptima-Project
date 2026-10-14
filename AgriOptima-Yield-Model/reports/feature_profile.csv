@@ -1,0 +1,8 @@
+column,role,data_type,unique_values
+State,input,str,2
+District,input,str,45
+Crop,input,str,34
+Season,input,str,3
+YearStart,input,int64,23
+Area,input,float64,3208
+Yield,target,float64,5575

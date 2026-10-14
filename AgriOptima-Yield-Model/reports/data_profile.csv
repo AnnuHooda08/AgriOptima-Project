@@ -1,0 +1,11 @@
+column,dtype,missing_count,missing_percent,unique_values
+State,str,0,0.0,2
+District,str,0,0.0,45
+Crop,str,0,0.0,39
+Year,str,0,0.0,23
+Season,str,0,0.0,3
+Area,float64,0,0.0,3430
+Area Units,str,0,0.0,1
+Production,float64,1418,11.39,2269
+Production Units,str,0,0.0,2
+Yield,float64,0,0.0,5890
