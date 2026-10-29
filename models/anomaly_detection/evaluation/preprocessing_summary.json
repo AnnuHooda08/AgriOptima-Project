@@ -1,0 +1,45 @@
+{
+  "source_directory": "DataSets/Soil Grid",
+  "sample_rows": 30000,
+  "sample_rows_by_depth": {
+    "soilgrids_0-5cm.csv": 5000,
+    "soilgrids_100-200cm.csv": 5000,
+    "soilgrids_15-30cm.csv": 5000,
+    "soilgrids_30-60cm.csv": 5000,
+    "soilgrids_5-15cm.csv": 5000,
+    "soilgrids_60-100cm.csv": 5000
+  },
+  "model_features": [
+    "depth_top_cm",
+    "depth_bottom_cm",
+    "ph_h2o",
+    "organic_carbon_g_kg",
+    "total_nitrogen_g_kg",
+    "sand_pct",
+    "silt_pct",
+    "clay_pct",
+    "bulk_density_g_cm3",
+    "cec_cmol_kg",
+    "coarse_fragments_vol_pct"
+  ],
+  "sample_columns": [
+    "latitude",
+    "longitude",
+    "depth_top_cm",
+    "depth_bottom_cm",
+    "ph_h2o",
+    "organic_carbon_g_kg",
+    "total_nitrogen_g_kg",
+    "sand_pct",
+    "silt_pct",
+    "clay_pct",
+    "bulk_density_g_cm3",
+    "cec_cmol_kg",
+    "coarse_fragments_vol_pct",
+    "source_depth_file"
+  ],
+  "location_columns_used_for_holdout_only": [
+    "latitude",
+    "longitude"
+  ]
+}

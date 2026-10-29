@@ -1,0 +1,15 @@
+{
+  "split": "coordinate-group holdout; random_state=42",
+  "train_rows": 24000,
+  "test_rows": 6000,
+  "selected_k": 2,
+  "training_silhouette_by_k": {
+    "2": 0.380334423717003,
+    "3": 0.25493109337883973,
+    "4": 0.23109018397196024,
+    "5": 0.2447816222958378
+  },
+  "holdout_silhouette": 0.3909856643417678,
+  "silhouette_sample_rows": 2000,
+  "interpretation": "geometric separation only; clusters are not crop recommendations"
+}

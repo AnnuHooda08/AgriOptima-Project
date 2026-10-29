@@ -1,0 +1,55 @@
+{
+  "source_directory": "DataSets/Soil Grid",
+  "sample_rows": 30000,
+  "rows_by_depth_file": {
+    "soilgrids_0-5cm.csv": {
+      "source_rows": 249001,
+      "valid_rows": 249001,
+      "sampled_rows": 5000
+    },
+    "soilgrids_100-200cm.csv": {
+      "source_rows": 249001,
+      "valid_rows": 249001,
+      "sampled_rows": 5000
+    },
+    "soilgrids_15-30cm.csv": {
+      "source_rows": 249001,
+      "valid_rows": 249001,
+      "sampled_rows": 5000
+    },
+    "soilgrids_30-60cm.csv": {
+      "source_rows": 249001,
+      "valid_rows": 249001,
+      "sampled_rows": 5000
+    },
+    "soilgrids_5-15cm.csv": {
+      "source_rows": 249001,
+      "valid_rows": 249001,
+      "sampled_rows": 5000
+    },
+    "soilgrids_60-100cm.csv": {
+      "source_rows": 249001,
+      "valid_rows": 249001,
+      "sampled_rows": 5000
+    }
+  },
+  "sampling": "random sample per depth file",
+  "random_state": 42,
+  "features": [
+    "depth_top_cm",
+    "depth_bottom_cm",
+    "ph_h2o",
+    "organic_carbon_g_kg",
+    "total_nitrogen_g_kg",
+    "sand_pct",
+    "silt_pct",
+    "clay_pct",
+    "bulk_density_g_cm3",
+    "cec_cmol_kg",
+    "coarse_fragments_vol_pct"
+  ],
+  "location_columns_used_for_holdout_only": [
+    "latitude",
+    "longitude"
+  ]
+}

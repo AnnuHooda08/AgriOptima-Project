@@ -1,0 +1,12 @@
+{
+  "split": "coordinate-group holdout; random_state=42",
+  "train_rows": 24000,
+  "test_rows": 6000,
+  "flagged_rows": 160,
+  "flagged_fraction": 0.02666666666666667,
+  "score_min": -0.08958383376184464,
+  "score_median": 0.16700028612865964,
+  "score_max": 0.23129192469326887,
+  "supervised_metrics": null,
+  "interpretation": "No labeled anomaly truth exists; flagged rows require review."
+}

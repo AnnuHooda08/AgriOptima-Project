@@ -1,0 +1,21 @@
+{
+  "split": "train before 2021; test 2023 onward; missing calendar months excluded",
+  "train_rows": 227,
+  "test_rows": 14,
+  "test_month_min": "2023-01-01",
+  "test_month_max": "2024-02-01",
+  "metrics": {
+    "previous_calendar_month": {
+      "mae_rs_per_quintal": 49.214285714285715,
+      "rmse_rs_per_quintal": 71.323708741003
+    },
+    "same_month_previous_year": {
+      "mae_rs_per_quintal": 122.89285714285714,
+      "rmse_rs_per_quintal": 160.29531897630164
+    },
+    "hist_gradient_boosting": {
+      "mae_rs_per_quintal": 306.1400431824704,
+      "rmse_rs_per_quintal": 319.65031359055524
+    }
+  }
+}

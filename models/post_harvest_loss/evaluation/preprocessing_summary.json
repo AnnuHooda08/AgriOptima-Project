@@ -1,0 +1,20 @@
+{
+  "source_file": "DataSets/Food Loss/post_harvest_loss_2022_state_stage.csv",
+  "source_rows": 1865,
+  "valid_unique_rows": 1865,
+  "removed_or_duplicate_rows": 0,
+  "target_range": [
+    0.0,
+    13.19
+  ],
+  "features": [
+    "state",
+    "crop",
+    "loss_type",
+    "stage"
+  ],
+  "target": "loss_percentage",
+  "source_years": [
+    2022
+  ]
+}

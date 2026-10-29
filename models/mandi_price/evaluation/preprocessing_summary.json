@@ -1,0 +1,13 @@
+{
+  "source_file": "DataSets/india_mandi_prices_2000_2024/Maize.csv",
+  "source_rows": 1077217,
+  "valid_price_records": 1073015,
+  "rejected_rows": 4202,
+  "observed_months": 277,
+  "calendar_months": 278,
+  "model_rows_after_calendar_lags": 265,
+  "date_min": "2002-01-01",
+  "date_max": "2024-02-01",
+  "aggregation": "monthly median modal price, Rs/quintal",
+  "missing_months_are_not_filled": true
+}

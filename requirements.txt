@@ -3,3 +3,11 @@ numpy
 matplotlib
 pyarrow
 openpyxl
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+plotly
+pydantic

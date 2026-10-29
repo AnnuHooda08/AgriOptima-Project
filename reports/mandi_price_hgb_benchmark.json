@@ -1,0 +1,27 @@
+{
+  "dataset": "Maize.csv (1.07M records)",
+  "split": "Chronological (Train < 2021, Val 2021-2022, Test >= 2023)",
+  "test_sample_count": 221,
+  "target": "Modal Price (Rs./Quintal)",
+  "features": [
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "rolling_mean_3",
+    "month",
+    "year"
+  ],
+  "metrics": {
+    "naive_persistence_baseline": {
+      "description": "Last observed price (Lag-1)",
+      "MAE_rs_per_quintal": 161.09,
+      "RMSE_rs_per_quintal": 451.98
+    },
+    "hist_gradient_boosting": {
+      "description": "HistGradientBoostingRegressor (100 iterations)",
+      "MAE_rs_per_quintal": 389.71,
+      "RMSE_rs_per_quintal": 697.93
+    }
+  },
+  "verdict": "HistGradientBoosting underperforms the naive baseline by 228.62 Rs./quintal on post-2021 test data due to market non-stationarity. Therefore, it is excluded from production planning and retained strictly as an experimental evaluation benchmark."
+}

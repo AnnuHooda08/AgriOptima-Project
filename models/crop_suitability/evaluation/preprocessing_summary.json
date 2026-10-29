@@ -1,0 +1,18 @@
+{
+  "source_file": "DataSets/crop_suitability.csv",
+  "source_rows": 3130,
+  "clean_rows": 3130,
+  "removed_rows": 0,
+  "duplicate_rows_removed_after_validation": 0,
+  "class_count": 27,
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "target": "label"
+}

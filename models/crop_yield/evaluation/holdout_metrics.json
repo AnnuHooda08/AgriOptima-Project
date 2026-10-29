@@ -1,0 +1,11 @@
+{
+  "split": "train before 2015; test 2015 onward",
+  "train_rows": 7170,
+  "test_rows": 2712,
+  "test_year_min": 2015,
+  "test_year_max": 2019,
+  "random_forest_mae": 2.0994758017101387,
+  "median_baseline_mae": 8.496044201757876,
+  "random_forest_rmse": 9.274456552970449,
+  "random_forest_r2": 0.7722658478855973
+}

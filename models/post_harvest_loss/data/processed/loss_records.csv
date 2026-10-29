@@ -1,0 +1,1866 @@
+state,crop,loss_type,stage,loss_percentage
+Andhra Pradesh,Bajra,Farm Operations,Harvesting,1.17
+Andhra Pradesh,Bajra,Farm Operations,Collection,0.41
+Andhra Pradesh,Bajra,Farm Operations,Threshing,1.69
+Andhra Pradesh,Bajra,Farm Operations,Winnowing/Cleaning,0.15
+Andhra Pradesh,Bajra,Farm Operations,Drying,0.21
+Andhra Pradesh,Bajra,Farm Operations,Packaging,0.26
+Andhra Pradesh,Bajra,Farm Operations,Farm level storage,0.28
+Andhra Pradesh,Bajra,Farm Operations,Transport,0.18
+Andhra Pradesh,Bajra,Market Operations,Godown,0.15
+Andhra Pradesh,Bajra,Market Operations,Wholesalers,0.01
+Andhra Pradesh,Bajra,Market Operations,Retailers,0.12
+Andhra Pradesh,Bajra,Market Operations,Processing unit,0.13
+Andhra Pradesh,Bajra,Market Operations,Transport,0.3
+Andhra Pradesh,Bajra,Market Operations,Total loss in market operations,0.72
+Andhra Pradesh,Bajra,Total,Overall total loss,5.07
+Andhra Pradesh,Black gram,Farm Operations,Harvesting,1.06
+Andhra Pradesh,Black gram,Farm Operations,Collection,0.6
+Andhra Pradesh,Black gram,Farm Operations,Threshing,0.99
+Andhra Pradesh,Black gram,Farm Operations,Winnowing/Cleaning,0.67
+Andhra Pradesh,Black gram,Farm Operations,Drying,0.29
+Andhra Pradesh,Black gram,Farm Operations,Packaging,0.26
+Andhra Pradesh,Black gram,Farm Operations,Farm level storage,0.69
+Andhra Pradesh,Black gram,Farm Operations,Transport,0.13
+Andhra Pradesh,Black gram,Market Operations,Godown,0.04
+Andhra Pradesh,Black gram,Market Operations,Wholesalers,0.22
+Andhra Pradesh,Black gram,Market Operations,Retailers,0.23
+Andhra Pradesh,Black gram,Market Operations,Processing unit,0.11
+Andhra Pradesh,Black gram,Market Operations,Transport,0.27
+Andhra Pradesh,Black gram,Market Operations,Total loss in market operations,0.87
+Andhra Pradesh,Black gram,Total,Overall total loss,5.56
+Andhra Pradesh,Chickpea,Farm Operations,Harvesting,1.27
+Andhra Pradesh,Chickpea,Farm Operations,Collection,0.84
+Andhra Pradesh,Chickpea,Farm Operations,Threshing,1.87
+Andhra Pradesh,Chickpea,Farm Operations,Winnowing/Cleaning,0.2
+Andhra Pradesh,Chickpea,Farm Operations,Drying,0.27
+Andhra Pradesh,Chickpea,Farm Operations,Packaging,0.16
+Andhra Pradesh,Chickpea,Farm Operations,Farm level storage,0.16
+Andhra Pradesh,Chickpea,Farm Operations,Transport,0.24
+Andhra Pradesh,Chickpea,Market Operations,Wholesalers,0.16
+Andhra Pradesh,Chickpea,Market Operations,Retailers,0.11
+Andhra Pradesh,Chickpea,Market Operations,Processing unit,0.07
+Andhra Pradesh,Chickpea,Market Operations,Transport,0.35
+Andhra Pradesh,Chickpea,Market Operations,Total loss in market operations,0.69
+Andhra Pradesh,Chickpea,Total,Overall total loss,5.71
+Andhra Pradesh,Citrus,Farm Operations,Harvesting,0.74
+Andhra Pradesh,Citrus,Farm Operations,Collection,0.39
+Andhra Pradesh,Citrus,Farm Operations,Sorting/Grading,2.67
+Andhra Pradesh,Citrus,Farm Operations,Packaging,0.56
+Andhra Pradesh,Citrus,Farm Operations,Farm level storage,0.62
+Andhra Pradesh,Citrus,Farm Operations,Transport,0.86
+Andhra Pradesh,Citrus,Market Operations,Godown,0.08
+Andhra Pradesh,Citrus,Market Operations,Wholesalers,0.68
+Andhra Pradesh,Citrus,Market Operations,Retailers,0.62
+Andhra Pradesh,Citrus,Market Operations,Processing unit,0.03
+Andhra Pradesh,Citrus,Market Operations,Transport,0.71
+Andhra Pradesh,Citrus,Market Operations,Total loss in market operations,2.12
+Andhra Pradesh,Citrus,Total,Overall total loss,7.97
+Andhra Pradesh,Cottonseed,Farm Operations,Harvesting,1.98
+Andhra Pradesh,Cottonseed,Farm Operations,Collection,0.34
+Andhra Pradesh,Cottonseed,Farm Operations,Drying,0.02
+Andhra Pradesh,Cottonseed,Farm Operations,Packaging,0.05
+Andhra Pradesh,Cottonseed,Farm Operations,Farm level storage,0.05
+Andhra Pradesh,Cottonseed,Farm Operations,Transport,0.14
+Andhra Pradesh,Cottonseed,Farm Operations,Total loss in farm operations,2.57
+Andhra Pradesh,Cottonseed,Market Operations,Godown,0.02
+Andhra Pradesh,Cottonseed,Market Operations,Wholesalers,0.25
+Andhra Pradesh,Cottonseed,Market Operations,Retailers,0.03
+Andhra Pradesh,Cottonseed,Market Operations,Processing unit,0.03
+Andhra Pradesh,Cottonseed,Market Operations,Transport,0.13
+Andhra Pradesh,Cottonseed,Market Operations,Total loss in market operations,0.46
+Andhra Pradesh,Cottonseed,Total,Overall total loss,3.03
+Andhra Pradesh,Green gram,Farm Operations,Collection,0.73
+Andhra Pradesh,Green gram,Farm Operations,Threshing,1.5
+Andhra Pradesh,Green gram,Farm Operations,Winnowing/Cleaning,0.37
+Andhra Pradesh,Green gram,Farm Operations,Drying,0.32
+Andhra Pradesh,Green gram,Farm Operations,Packaging,0.24
+Andhra Pradesh,Green gram,Farm Operations,Farm level storage,0.39
+Andhra Pradesh,Green gram,Market Operations,Godown,0.33
+Andhra Pradesh,Green gram,Market Operations,Wholesalers,0.31
+Andhra Pradesh,Green gram,Market Operations,Retailers,0.02
+Andhra Pradesh,Green gram,Market Operations,Processing unit,0.14
+Andhra Pradesh,Green gram,Market Operations,Transport,0.16
+Andhra Pradesh,Green gram,Market Operations,Total loss in market operations,0.97
+Andhra Pradesh,Green gram,Total,Overall total loss,6.13
+Andhra Pradesh,Inland fish,Farm Operations,Harvesting,1.5
+Andhra Pradesh,Inland fish,Farm Operations,Collection,0.33
+Andhra Pradesh,Inland fish,Farm Operations,Sorting/Grading,1.43
+Andhra Pradesh,Inland fish,Farm Operations,Packaging,0.17
+Andhra Pradesh,Inland fish,Farm Operations,Farm level storage,0.08
+Andhra Pradesh,Inland fish,Farm Operations,Transport,0.13
+Andhra Pradesh,Inland fish,Farm Operations,Total loss in farm operations,3.64
+Andhra Pradesh,Inland fish,Market Operations,Wholesalers,0.36
+Andhra Pradesh,Inland fish,Market Operations,Retailers,0.57
+Andhra Pradesh,Inland fish,Market Operations,Transport,0.11
+Andhra Pradesh,Inland fish,Market Operations,Total loss in market operations,1.04
+Andhra Pradesh,Inland fish,Total,Overall total loss,4.68
+Andhra Pradesh,Mango,Farm Operations,Harvesting,1.66
+Andhra Pradesh,Mango,Farm Operations,Collection,0.26
+Andhra Pradesh,Mango,Farm Operations,Sorting/Grading,2.56
+Andhra Pradesh,Mango,Farm Operations,Packaging,0.05
+Andhra Pradesh,Mango,Farm Operations,Farm level storage,5.59
+Andhra Pradesh,Mango,Farm Operations,Transport,0.81
+Andhra Pradesh,Mango,Market Operations,Wholesalers,0.22
+Andhra Pradesh,Mango,Market Operations,Retailers,1.1
+Andhra Pradesh,Mango,Market Operations,Processing unit,0.16
+Andhra Pradesh,Mango,Market Operations,Transport,0.82
+Andhra Pradesh,Mango,Market Operations,Total loss in market operations,2.3
+Andhra Pradesh,Mango,Total,Overall total loss,7.9
+Andhra Pradesh,Milk,Farm Operations,Harvesting,0.16
+Andhra Pradesh,Milk,Farm Operations,Collection,0.1
+Andhra Pradesh,Milk,Farm Operations,Transport,0.08
+Andhra Pradesh,Milk,Market Operations,Retailers,0.06
+Andhra Pradesh,Milk,Market Operations,Processing unit,0.14
+Andhra Pradesh,Milk,Market Operations,Transport,0.13
+Andhra Pradesh,Milk,Market Operations,Total loss in market operations,0.24
+Andhra Pradesh,Milk,Total,Overall total loss,0.58
+Andhra Pradesh,Paddy,Farm Operations,Harvesting,2.04
+Andhra Pradesh,Paddy,Farm Operations,Collection,0.39
+Andhra Pradesh,Paddy,Farm Operations,Threshing,1.07
+Andhra Pradesh,Paddy,Farm Operations,Winnowing/Cleaning,0.65
+Andhra Pradesh,Paddy,Farm Operations,Drying,0.13
+Andhra Pradesh,Paddy,Farm Operations,Packaging,0.1
+Andhra Pradesh,Paddy,Farm Operations,Farm level storage,0.43
+Andhra Pradesh,Paddy,Farm Operations,Transport,0.17
+Andhra Pradesh,Paddy,Market Operations,Godown,0.02
+Andhra Pradesh,Paddy,Market Operations,Wholesalers,0.33
+Andhra Pradesh,Paddy,Market Operations,Retailers,0.03
+Andhra Pradesh,Paddy,Market Operations,Processing unit,0.14
+Andhra Pradesh,Paddy,Market Operations,Transport,0.24
+Andhra Pradesh,Paddy,Market Operations,Total loss in market operations,0.76
+Andhra Pradesh,Paddy,Total,Overall total loss,5.73
+Andhra Pradesh,Pomegranate,Farm Operations,Harvesting,1.64
+Andhra Pradesh,Pomegranate,Farm Operations,Collection,0.16
+Andhra Pradesh,Pomegranate,Farm Operations,Sorting/Grading,2.97
+Andhra Pradesh,Pomegranate,Farm Operations,Packaging,0.21
+Andhra Pradesh,Pomegranate,Farm Operations,Farm level storage,0.25
+Andhra Pradesh,Pomegranate,Farm Operations,Transport,0.25
+Andhra Pradesh,Pomegranate,Market Operations,Godown,0.21
+Andhra Pradesh,Pomegranate,Market Operations,Wholesalers,0.84
+Andhra Pradesh,Pomegranate,Market Operations,Retailers,1.04
+Andhra Pradesh,Pomegranate,Market Operations,Processing unit,0.11
+Andhra Pradesh,Pomegranate,Market Operations,Transport,1.02
+Andhra Pradesh,Pomegranate,Market Operations,Total loss in market operations,3.21
+Andhra Pradesh,Pomegranate,Total,Overall total loss,8.69
+Andhra Pradesh,Sorghum,Farm Operations,Harvesting,1.38
+Andhra Pradesh,Sorghum,Farm Operations,Collection,0.32
+Andhra Pradesh,Sorghum,Farm Operations,Threshing,1.78
+Andhra Pradesh,Sorghum,Farm Operations,Winnowing/Cleaning,0.35
+Andhra Pradesh,Sorghum,Farm Operations,Drying,0.08
+Andhra Pradesh,Sorghum,Farm Operations,Packaging,0.3
+Andhra Pradesh,Sorghum,Farm Operations,Farm level storage,0.2
+Andhra Pradesh,Sorghum,Farm Operations,Transport,0.08
+Andhra Pradesh,Sorghum,Farm Operations,Total loss in farm operations,4.5
+Andhra Pradesh,Sorghum,Market Operations,Godown,0.09
+Andhra Pradesh,Sorghum,Market Operations,Wholesalers,0.72
+Andhra Pradesh,Sorghum,Market Operations,Retailers,0.14
+Andhra Pradesh,Sorghum,Market Operations,Processing unit,0.02
+Andhra Pradesh,Sorghum,Market Operations,Transport,0.2
+Andhra Pradesh,Sorghum,Market Operations,Total loss in market operations,1.17
+Andhra Pradesh,Sorghum,Total,Overall total loss,5.67
+Andhra Pradesh,Tomato,Farm Operations,Harvesting,2.99
+Andhra Pradesh,Tomato,Farm Operations,Collection,0.68
+Andhra Pradesh,Tomato,Farm Operations,Sorting/Grading,3.21
+Andhra Pradesh,Tomato,Farm Operations,Packaging,0.31
+Andhra Pradesh,Tomato,Farm Operations,Farm level storage,1.22
+Andhra Pradesh,Tomato,Farm Operations,Transport,0.86
+Andhra Pradesh,Tomato,Market Operations,Wholesalers,0.79
+Andhra Pradesh,Tomato,Market Operations,Retailers,1.46
+Andhra Pradesh,Tomato,Market Operations,Processing unit,0.13
+Andhra Pradesh,Tomato,Market Operations,Transport,0.71
+Andhra Pradesh,Tomato,Market Operations,Total loss in market operations,3.1
+Andhra Pradesh,Tomato,Total,Overall total loss,12.36
+Assam,Cabbage,Farm Operations,Harvesting,1.21
+Assam,Cabbage,Farm Operations,Collection,0.11
+Assam,Cabbage,Farm Operations,Sorting/Grading,2.62
+Assam,Cabbage,Farm Operations,Packaging,0.35
+Assam,Cabbage,Farm Operations,Farm level storage,0.11
+Assam,Cabbage,Farm Operations,Transport,1.06
+Assam,Cabbage,Farm Operations,Total loss in farm operations,5.46
+Assam,Cabbage,Market Operations,Godown,0.05
+Assam,Cabbage,Market Operations,Wholesalers,0.7
+Assam,Cabbage,Market Operations,Retailers,1.08
+Assam,Cabbage,Market Operations,Processing unit,0.01
+Assam,Cabbage,Market Operations,Transport,0.07
+Assam,Cabbage,Market Operations,Total loss in market operations,1.92
+Assam,Cabbage,Total,Overall total loss,7.38
+Assam,Meat,Farm Operations,Harvesting,2.45
+Assam,Meat,Farm Operations,Total loss in farm operations,2.45
+Assam,Meat,Market Operations,Wholesalers,0.5
+Assam,Meat,Market Operations,Retailers,0.27
+Assam,Meat,Market Operations,Processing unit,0.19
+Assam,Meat,Market Operations,Transport,0.03
+Assam,Paddy,Farm Operations,Harvesting,2.02
+Assam,Paddy,Farm Operations,Collection,0.62
+Assam,Paddy,Farm Operations,Threshing,1.55
+Assam,Paddy,Farm Operations,Winnowing/Cleaning,0.57
+Assam,Paddy,Farm Operations,Drying,0.4
+Assam,Paddy,Farm Operations,Packaging,0.05
+Assam,Paddy,Farm Operations,Farm level storage,0.18
+Assam,Paddy,Farm Operations,Transport,0.09
+Assam,Paddy,Farm Operations,Total loss in farm operations,5.48
+Assam,Paddy,Market Operations,Godown,0.06
+Assam,Paddy,Market Operations,Wholesalers,0.18
+Assam,Paddy,Market Operations,Retailers,0.03
+Assam,Paddy,Market Operations,Processing unit,0.12
+Assam,Paddy,Market Operations,Transport,0.21
+Assam,Paddy,Market Operations,Total loss in market operations,0.59
+Assam,Paddy,Total,Overall total loss,6.07
+Assam,Poultry,Farm Operations,Harvesting,2.17
+Assam,Poultry,Farm Operations,Collection,0.09
+Assam,Poultry,Farm Operations,Sorting/Grading,2.18
+Assam,Poultry,Farm Operations,Packaging,0.03
+Assam,Poultry,Farm Operations,Farm level storage,0.05
+Assam,Poultry,Farm Operations,Transport,0.9
+Assam,Poultry,Farm Operations,Total loss in farm operations,5.43
+Assam,Poultry,Market Operations,Godown,0.01
+Assam,Poultry,Market Operations,Wholesalers,0.49
+Assam,Poultry,Market Operations,Retailers,0.41
+Assam,Poultry,Market Operations,Processing unit,0.13
+Assam,Poultry,Market Operations,Transport,0.64
+Assam,Poultry,Market Operations,Total loss in market operations,1.68
+Andaman and Nicobar Islands,Coconut,Farm Operations,Harvesting,0.82
+Andaman and Nicobar Islands,Coconut,Farm Operations,Collection,0.27
+Andaman and Nicobar Islands,Coconut,Farm Operations,Winnowing/Cleaning,0.52
+Andaman and Nicobar Islands,Coconut,Farm Operations,Drying,0.77
+Andaman and Nicobar Islands,Coconut,Farm Operations,Packaging,0.42
+Andaman and Nicobar Islands,Coconut,Farm Operations,Farm level storage,0.29
+Andaman and Nicobar Islands,Coconut,Farm Operations,Transport,0.32
+Andaman and Nicobar Islands,Coconut,Farm Operations,Total loss in farm operations,3.4
+Andaman and Nicobar Islands,Coconut,Market Operations,Godown,0.37
+Andaman and Nicobar Islands,Coconut,Market Operations,Wholesalers,0.16
+Andaman and Nicobar Islands,Coconut,Market Operations,Retailers,0.21
+Andaman and Nicobar Islands,Coconut,Market Operations,Transport,0.11
+Andaman and Nicobar Islands,Coconut,Market Operations,Total loss in market operations,0.85
+Andaman and Nicobar Islands,Coconut,Total,Overall total loss,4.25
+Bihar,Bottlegourd,Farm Operations,Harvesting,1.84
+Bihar,Bottlegourd,Farm Operations,Collection,0.45
+Bihar,Bottlegourd,Farm Operations,Sorting/Grading,1.31
+Bihar,Bottlegourd,Farm Operations,Packaging,0.37
+Bihar,Bottlegourd,Farm Operations,Farm level storage,0.2
+Bihar,Bottlegourd,Farm Operations,Transport,0.62
+Bihar,Bottlegourd,Farm Operations,Total loss in farm operations,4.79
+Bihar,Bottlegourd,Market Operations,Wholesalers,0.71
+Bihar,Bottlegourd,Market Operations,Retailers,1.02
+Bihar,Bottlegourd,Market Operations,Transport,0.82
+Bihar,Bottlegourd,Market Operations,Total loss in market operations,2.56
+Bihar,Bottlegourd,Total,Overall total loss,7.35
+Bihar,Cabbage,Farm Operations,Harvesting,1.61
+Bihar,Cabbage,Farm Operations,Collection,0.5
+Bihar,Cabbage,Farm Operations,Sorting/Grading,3.11
+Bihar,Cabbage,Farm Operations,Packaging,0.35
+Bihar,Cabbage,Farm Operations,Farm level storage,0.11
+Bihar,Cabbage,Farm Operations,Transport,1.01
+Bihar,Cabbage,Farm Operations,Total loss in farm operations,6.7
+Bihar,Cabbage,Market Operations,Godown,0.06
+Bihar,Cabbage,Market Operations,Wholesalers,0.39
+Bihar,Cabbage,Market Operations,Retailers,1.39
+Bihar,Cabbage,Market Operations,Processing unit,0.01
+Bihar,Cabbage,Market Operations,Transport,0.15
+Bihar,Cabbage,Market Operations,Total loss in market operations,2.0
+Bihar,Cabbage,Total,Overall total loss,8.7
+Bihar,Green gram,Farm Operations,Harvesting,1.55
+Bihar,Green gram,Farm Operations,Collection,0.64
+Bihar,Green gram,Farm Operations,Threshing,1.51
+Bihar,Green gram,Farm Operations,Winnowing/Cleaning,0.31
+Bihar,Green gram,Farm Operations,Drying,0.36
+Bihar,Green gram,Farm Operations,Packaging,0.18
+Bihar,Green gram,Farm Operations,Farm level storage,0.47
+Bihar,Green gram,Farm Operations,Transport,0.13
+Bihar,Green gram,Farm Operations,Total loss in farm operations,5.14
+Bihar,Green gram,Market Operations,Godown,0.32
+Bihar,Green gram,Market Operations,Wholesalers,0.29
+Bihar,Green gram,Market Operations,Retailers,0.02
+Bihar,Green gram,Market Operations,Processing unit,0.16
+Bihar,Green gram,Market Operations,Transport,0.13
+Bihar,Green gram,Market Operations,Total loss in market operations,0.93
+Bihar,Green gram,Total,Overall total loss,6.07
+Bihar,Inland fish,Farm Operations,Harvesting,2.32
+Bihar,Inland fish,Farm Operations,Collection,0.34
+Bihar,Inland fish,Farm Operations,Sorting/Grading,1.62
+Bihar,Inland fish,Farm Operations,Packaging,0.15
+Bihar,Inland fish,Farm Operations,Farm level storage,0.1
+Bihar,Inland fish,Farm Operations,Transport,0.18
+Bihar,Inland fish,Farm Operations,Total loss in farm operations,4.72
+Bihar,Inland fish,Market Operations,Wholesalers,0.36
+Bihar,Inland fish,Market Operations,Retailers,0.8
+Bihar,Inland fish,Market Operations,Transport,0.12
+Bihar,Inland fish,Market Operations,Total loss in market operations,1.28
+Bihar,Inland fish,Total,Overall total loss,5.99
+Bihar,Mango,Farm Operations,Harvesting,2.08
+Bihar,Mango,Farm Operations,Collection,0.47
+Bihar,Mango,Farm Operations,Sorting/Grading,3.1
+Bihar,Mango,Farm Operations,Packaging,0.03
+Bihar,Mango,Farm Operations,Farm level storage,0.39
+Bihar,Mango,Farm Operations,Transport,0.91
+Bihar,Mango,Farm Operations,Total loss in farm operations,6.98
+Bihar,Mango,Market Operations,Wholesalers,0.57
+Bihar,Mango,Market Operations,Retailers,1.12
+Bihar,Mango,Market Operations,Processing unit,0.3
+Bihar,Mango,Market Operations,Transport,1.13
+Bihar,Mango,Market Operations,Total loss in market operations,3.13
+Bihar,Mango,Total,Overall total loss,10.1
+Bihar,Paddy,Farm Operations,Harvesting,1.32
+Bihar,Paddy,Farm Operations,Collection,0.35
+Bihar,Paddy,Farm Operations,Threshing,0.99
+Bihar,Paddy,Farm Operations,Winnowing/Cleaning,0.32
+Bihar,Paddy,Farm Operations,Drying,0.42
+Bihar,Paddy,Farm Operations,Packaging,0.24
+Bihar,Paddy,Farm Operations,Farm level storage,0.32
+Bihar,Paddy,Farm Operations,Transport,0.09
+Bihar,Paddy,Farm Operations,Total loss in farm operations,4.04
+Bihar,Paddy,Market Operations,Godown,0.07
+Bihar,Paddy,Market Operations,Wholesalers,0.23
+Bihar,Paddy,Market Operations,Retailers,0.04
+Bihar,Paddy,Market Operations,Processing unit,0.15
+Bihar,Paddy,Market Operations,Transport,0.11
+Bihar,Paddy,Market Operations,Total loss in market operations,0.6
+Bihar,Paddy,Total,Overall total loss,4.65
+Bihar,Potato,Farm Operations,Harvesting,2.11
+Bihar,Potato,Farm Operations,Collection,0.29
+Bihar,Potato,Farm Operations,Sorting/Grading,2.19
+Bihar,Potato,Farm Operations,Packaging,0.03
+Bihar,Potato,Farm Operations,Farm level storage,0.12
+Bihar,Potato,Farm Operations,Transport,0.65
+Bihar,Potato,Farm Operations,Total loss in farm operations,5.4
+Bihar,Potato,Market Operations,Godown,0.07
+Bihar,Potato,Market Operations,Wholesalers,0.25
+Bihar,Potato,Market Operations,Retailers,0.11
+Bihar,Potato,Market Operations,Processing unit,0.04
+Bihar,Potato,Market Operations,Transport,0.25
+Bihar,Potato,Market Operations,Total loss in market operations,0.71
+Bihar,Potato,Total,Overall total loss,6.11
+Bihar,Sugarcane,Farm Operations,Harvesting,1.31
+Bihar,Sugarcane,Farm Operations,Collection,1.86
+Bihar,Sugarcane,Farm Operations,Winnowing/Cleaning,2.24
+Bihar,Sugarcane,Farm Operations,Transport,2.31
+Bihar,Sugarcane,Farm Operations,Total loss in farm operations,7.73
+Bihar,Sugarcane,Market Operations,Processing unit,0.23
+Bihar,Sugarcane,Market Operations,Transport,1.02
+Bihar,Sugarcane,Market Operations,Total loss in market operations,1.26
+Bihar,Sugarcane,Total,Overall total loss,8.99
+Chhattisgarh,Radish,Farm Operations,Harvesting,1.48
+Chhattisgarh,Radish,Farm Operations,Collection,0.04
+Chhattisgarh,Radish,Farm Operations,Sorting/Grading,0.19
+Chhattisgarh,Radish,Farm Operations,Packaging,0.46
+Chhattisgarh,Radish,Farm Operations,Farm level storage,0.13
+Chhattisgarh,Radish,Farm Operations,Transport,0.11
+Chhattisgarh,Radish,Farm Operations,Total loss in farm operations,2.4
+Chhattisgarh,Radish,Market Operations,Wholesalers,1.34
+Chhattisgarh,Radish,Market Operations,Retailers,0.84
+Chhattisgarh,Radish,Market Operations,Transport,2.07
+Chhattisgarh,Radish,Market Operations,Total loss in market operations,4.26
+Chhattisgarh,Radish,Total,Overall total loss,6.66
+Gujarat,Green gram,Farm Operations,Harvesting,1.76
+Gujarat,Green gram,Farm Operations,Collection,0.65
+Gujarat,Green gram,Farm Operations,Threshing,1.5
+Gujarat,Green gram,Farm Operations,Drying,0.36
+Gujarat,Green gram,Farm Operations,Packaging,0.13
+Gujarat,Green gram,Farm Operations,Farm level storage,0.28
+Gujarat,Green gram,Farm Operations,Transport,0.1
+Gujarat,Green gram,Farm Operations,Total loss in farm operations,5.08
+Gujarat,Green gram,Market Operations,Godown,0.32
+Gujarat,Green gram,Market Operations,Wholesalers,0.28
+Gujarat,Green gram,Market Operations,Retailers,0.02
+Gujarat,Green gram,Market Operations,Processing unit,0.15
+Gujarat,Green gram,Market Operations,Transport,0.01
+Gujarat,Green gram,Market Operations,Total loss in market operations,0.77
+Gujarat,Green gram,Total,Overall total loss,5.85
+Gujarat,Tomato,Farm Operations,Harvesting,2.69
+Gujarat,Tomato,Farm Operations,Collection,0.44
+Gujarat,Tomato,Farm Operations,Sorting/Grading,3.24
+Gujarat,Tomato,Farm Operations,Packaging,0.26
+Gujarat,Tomato,Farm Operations,Farm level storage,0.24
+Gujarat,Tomato,Farm Operations,Transport,0.77
+Gujarat,Tomato,Farm Operations,Total loss in farm operations,7.64
+Gujarat,Tomato,Market Operations,Wholesalers,0.82
+Gujarat,Tomato,Market Operations,Retailers,1.22
+Gujarat,Tomato,Market Operations,Processing unit,0.19
+Gujarat,Tomato,Market Operations,Transport,1.11
+Gujarat,Tomato,Market Operations,Total loss in market operations,3.34
+Gujarat,Tomato,Total,Overall total loss,10.97
+Gujarat,Groundnut,Farm Operations,Harvesting,1.85
+Gujarat,Groundnut,Farm Operations,Collection,0.32
+Gujarat,Groundnut,Farm Operations,Threshing,1.24
+Gujarat,Groundnut,Farm Operations,Drying,0.14
+Gujarat,Groundnut,Farm Operations,Packaging,0.16
+Gujarat,Groundnut,Farm Operations,Farm level storage,0.06
+Gujarat,Groundnut,Farm Operations,Transport,0.11
+Gujarat,Groundnut,Farm Operations,Total loss in farm operations,4.27
+Gujarat,Groundnut,Market Operations,Godown,0.05
+Gujarat,Groundnut,Market Operations,Wholesalers,0.43
+Gujarat,Groundnut,Market Operations,Retailers,0.09
+Gujarat,Groundnut,Market Operations,Processing unit,0.29
+Gujarat,Groundnut,Market Operations,Transport,0.19
+Gujarat,Groundnut,Market Operations,Total loss in market operations,1.04
+Gujarat,Groundnut,Total,Overall total loss,5.31
+Gujarat,Sapota,Farm Operations,Harvesting,1.79
+Gujarat,Sapota,Farm Operations,Collection,0.23
+Gujarat,Sapota,Farm Operations,Sorting/Grading,1.46
+Gujarat,Sapota,Farm Operations,Packaging,0.21
+Gujarat,Sapota,Farm Operations,Farm level storage,0.02
+Gujarat,Sapota,Farm Operations,Transport,0.96
+Gujarat,Sapota,Farm Operations,Total loss in farm operations,4.67
+Gujarat,Sapota,Market Operations,Godown,0.13
+Gujarat,Sapota,Market Operations,Wholesalers,0.72
+Gujarat,Sapota,Market Operations,Retailers,0.91
+Gujarat,Sapota,Market Operations,Processing unit,0.03
+Gujarat,Sapota,Market Operations,Transport,1.01
+Gujarat,Sapota,Market Operations,Total loss in market operations,2.8
+Gujarat,Sapota,Total,Overall total loss,7.47
+Gujarat,Cauliflower,Farm Operations,Harvesting,1.85
+Gujarat,Cauliflower,Farm Operations,Collection,0.16
+Gujarat,Cauliflower,Farm Operations,Sorting/Grading,2.42
+Gujarat,Cauliflower,Farm Operations,Packaging,0.66
+Gujarat,Cauliflower,Farm Operations,Transport,1.31
+Gujarat,Cauliflower,Farm Operations,Total loss in farm operations,6.52
+Gujarat,Cauliflower,Market Operations,Godown,0.02
+Gujarat,Cauliflower,Market Operations,Wholesalers,0.47
+Gujarat,Cauliflower,Market Operations,Retailers,0.17
+Gujarat,Cauliflower,Market Operations,Processing unit,0.01
+Gujarat,Cauliflower,Market Operations,Transport,0.8
+Gujarat,Cauliflower,Market Operations,Total loss in market operations,1.47
+Gujarat,Cauliflower,Total,Overall total loss,7.99
+Gujarat,Onion,Farm Operations,Harvesting,2.94
+Gujarat,Onion,Farm Operations,Collection,0.49
+Gujarat,Onion,Farm Operations,Sorting/Grading,1.23
+Gujarat,Onion,Farm Operations,Packaging,0.15
+Gujarat,Onion,Farm Operations,Farm level storage,0.77
+Gujarat,Onion,Farm Operations,Transport,0.24
+Gujarat,Onion,Farm Operations,Total loss in farm operations,5.82
+Gujarat,Onion,Market Operations,Godown,0.22
+Gujarat,Onion,Market Operations,Wholesalers,0.49
+Gujarat,Onion,Market Operations,Retailers,0.57
+Gujarat,Onion,Market Operations,Processing unit,0.01
+Gujarat,Onion,Market Operations,Transport,0.46
+Gujarat,Onion,Market Operations,Total loss in market operations,1.75
+Gujarat,Onion,Total,Overall total loss,7.57
+Gujarat,Potato,Farm Operations,Harvesting,2.26
+Gujarat,Potato,Farm Operations,Collection,0.27
+Gujarat,Potato,Farm Operations,Sorting/Grading,1.85
+Gujarat,Potato,Farm Operations,Packaging,0.04
+Gujarat,Potato,Farm Operations,Farm level storage,0.12
+Gujarat,Potato,Farm Operations,Transport,0.57
+Gujarat,Potato,Farm Operations,Total loss in farm operations,5.11
+Gujarat,Potato,Market Operations,Godown,0.14
+Gujarat,Potato,Market Operations,Wholesalers,0.23
+Gujarat,Potato,Market Operations,Retailers,0.11
+Gujarat,Potato,Market Operations,Processing unit,0.02
+Gujarat,Potato,Market Operations,Transport,0.29
+Gujarat,Potato,Market Operations,Total loss in market operations,0.79
+Gujarat,Potato,Total,Overall total loss,5.9
+Gujarat,Maize,Farm Operations,Harvesting,0.48
+Gujarat,Maize,Farm Operations,Collection,0.65
+Gujarat,Maize,Farm Operations,Threshing,0.52
+Gujarat,Maize,Farm Operations,Drying,0.61
+Gujarat,Maize,Farm Operations,Packaging,0.51
+Gujarat,Maize,Farm Operations,Farm level storage,0.11
+Gujarat,Maize,Farm Operations,Transport,0.5
+Gujarat,Maize,Farm Operations,Total loss in farm operations,3.56
+Gujarat,Maize,Market Operations,Godown,0.002
+Gujarat,Maize,Market Operations,Wholesalers,0.35
+Gujarat,Maize,Market Operations,Retailers,0.92
+Gujarat,Maize,Market Operations,Processing unit,0.31
+Gujarat,Maize,Market Operations,Transport,0.04
+Gujarat,Maize,Market Operations,Total loss in market operations,1.62
+Gujarat,Maize,Total,Overall total loss,5.18
+Gujarat,Brinjal,Farm Operations,Harvesting,1.84
+Gujarat,Brinjal,Farm Operations,Collection,0.95
+Gujarat,Brinjal,Farm Operations,Sorting/Grading,0.46
+Gujarat,Brinjal,Farm Operations,Packaging,0.27
+Gujarat,Brinjal,Farm Operations,Farm level storage,0.32
+Gujarat,Brinjal,Farm Operations,Transport,0.59
+Gujarat,Brinjal,Farm Operations,Total loss in farm operations,4.43
+Gujarat,Brinjal,Market Operations,Wholesalers,0.98
+Gujarat,Brinjal,Market Operations,Retailers,1.22
+Gujarat,Brinjal,Market Operations,Transport,0.37
+Gujarat,Brinjal,Market Operations,Total loss in market operations,2.56
+Gujarat,Brinjal,Total,Overall total loss,6.99
+Gujarat,Black gram,Farm Operations,Harvesting,1.08
+Gujarat,Black gram,Farm Operations,Collection,0.65
+Gujarat,Black gram,Farm Operations,Threshing,0.95
+Gujarat,Black gram,Farm Operations,Drying,0.26
+Gujarat,Black gram,Farm Operations,Packaging,0.13
+Gujarat,Black gram,Farm Operations,Farm level storage,0.3
+Gujarat,Black gram,Farm Operations,Transport,0.17
+Gujarat,Black gram,Farm Operations,Total loss in farm operations,4.05
+Gujarat,Black gram,Market Operations,Godown,0.07
+Gujarat,Black gram,Market Operations,Wholesalers,0.2
+Gujarat,Black gram,Market Operations,Retailers,0.24
+Gujarat,Black gram,Market Operations,Processing unit,0.05
+Gujarat,Black gram,Market Operations,Transport,0.19
+Gujarat,Black gram,Market Operations,Total loss in market operations,0.75
+Gujarat,Black gram,Total,Overall total loss,4.8
+Gujarat,Paddy,Farm Operations,Harvesting,1.01
+Gujarat,Paddy,Farm Operations,Collection,0.45
+Gujarat,Paddy,Farm Operations,Threshing,0.72
+Gujarat,Paddy,Farm Operations,Drying,0.29
+Gujarat,Paddy,Farm Operations,Packaging,0.28
+Gujarat,Paddy,Farm Operations,Farm level storage,0.32
+Gujarat,Paddy,Farm Operations,Transport,0.41
+Gujarat,Paddy,Farm Operations,Total loss in farm operations,4.02
+Gujarat,Paddy,Market Operations,Godown,0.05
+Gujarat,Paddy,Market Operations,Wholesalers,0.27
+Gujarat,Paddy,Market Operations,Retailers,0.05
+Gujarat,Paddy,Market Operations,Processing unit,0.09
+Gujarat,Paddy,Market Operations,Transport,0.06
+Gujarat,Paddy,Market Operations,Total loss in market operations,0.52
+Gujarat,Paddy,Total,Overall total loss,4.54
+Haryana,Bajra,Farm Operations,Harvesting,0.69
+Haryana,Bajra,Farm Operations,Collection,0.29
+Haryana,Bajra,Farm Operations,Threshing,0.83
+Haryana,Bajra,Farm Operations,Winnowing/Cleaning,0.15
+Haryana,Bajra,Farm Operations,Drying,0.22
+Haryana,Bajra,Farm Operations,Packaging,0.24
+Haryana,Bajra,Farm Operations,Farm level storage,0.31
+Haryana,Bajra,Farm Operations,Transport,0.24
+Haryana,Bajra,Farm Operations,Total loss in farm operations,2.96
+Haryana,Bajra,Market Operations,Godown,0.14
+Haryana,Bajra,Market Operations,Wholesalers,0.05
+Haryana,Bajra,Market Operations,Retailers,0.16
+Haryana,Bajra,Market Operations,Processing unit,0.14
+Haryana,Bajra,Market Operations,Transport,0.32
+Haryana,Bajra,Market Operations,Total loss in market operations,0.81
+Haryana,Bajra,Total,Overall total loss,3.77
+Haryana,Cottonseed,Farm Operations,Harvesting,1.7
+Haryana,Cottonseed,Farm Operations,Collection,0.2
+Haryana,Cottonseed,Farm Operations,Drying,0.05
+Haryana,Cottonseed,Farm Operations,Packaging,0.03
+Haryana,Cottonseed,Farm Operations,Farm level storage,0.03
+Haryana,Cottonseed,Farm Operations,Transport,0.28
+Haryana,Cottonseed,Farm Operations,Total loss in farm operations,2.28
+Haryana,Cottonseed,Market Operations,Godown,0.01
+Haryana,Cottonseed,Market Operations,Wholesalers,0.16
+Haryana,Cottonseed,Market Operations,Retailers,0.02
+Haryana,Cottonseed,Market Operations,Processing unit,0.03
+Haryana,Cottonseed,Market Operations,Transport,0.05
+Haryana,Cottonseed,Market Operations,Total loss in market operations,0.27
+Haryana,Cottonseed,Total,Overall total loss,2.55
+Haryana,Meat,Market Operations,Wholesalers,0.15
+Haryana,Meat,Market Operations,Retailers,0.2
+Haryana,Meat,Market Operations,Processing unit,0.39
+Haryana,Meat,Market Operations,Transport,0.03
+Haryana,Meat,Market Operations,Total loss in market operations,0.76
+Haryana,Mushroom,Farm Operations,Harvesting,0.1
+Haryana,Mushroom,Farm Operations,Collection,0.11
+Haryana,Mushroom,Farm Operations,Sorting/Grading,4.24
+Haryana,Mushroom,Farm Operations,Trimming,0.04
+Haryana,Mushroom,Farm Operations,Winnowing/Cleaning,0.04
+Haryana,Mushroom,Farm Operations,Packaging,0.24
+Haryana,Mushroom,Farm Operations,Farm level storage,0.06
+Haryana,Mushroom,Farm Operations,Transport,0.004
+Haryana,Mushroom,Farm Operations,Total loss in farm operations,4.83
+Haryana,Mushroom,Market Operations,Wholesalers,0.32
+Haryana,Mushroom,Market Operations,Retailers,0.22
+Haryana,Mushroom,Market Operations,Transport,0.54
+Haryana,Mushroom,Market Operations,Total loss in market operations,1.08
+Haryana,Mushroom,Total,Overall total loss,5.91
+Haryana,Poultry Meat,Farm Operations,Harvesting,1.58
+Haryana,Poultry Meat,Farm Operations,Collection,0.53
+Haryana,Poultry Meat,Farm Operations,Threshing,1.33
+Haryana,Poultry Meat,Farm Operations,Winnowing/Cleaning,0.44
+Haryana,Poultry Meat,Farm Operations,Drying,0.14
+Haryana,Poultry Meat,Farm Operations,Packaging,0.12
+Haryana,Poultry Meat,Farm Operations,Farm level storage,0.01
+Haryana,Poultry Meat,Farm Operations,Transport,0.05
+Haryana,Poultry Meat,Farm Operations,Total loss in farm operations,4.2
+Haryana,Poultry Meat,Market Operations,Godown,0.02
+Haryana,Poultry Meat,Market Operations,Wholesalers,0.03
+Haryana,Poultry Meat,Market Operations,Retailers,0.03
+Haryana,Poultry Meat,Market Operations,Processing unit,0.04
+Haryana,Poultry Meat,Market Operations,Transport,0.2
+Haryana,Poultry Meat,Market Operations,Total loss in market operations,0.32
+Haryana,Sugarcane,Farm Operations,Harvesting,0.96
+Haryana,Sugarcane,Farm Operations,Collection,0.47
+Haryana,Sugarcane,Farm Operations,Winnowing/Cleaning,1.08
+Haryana,Sugarcane,Farm Operations,Transport,2.86
+Haryana,Sugarcane,Farm Operations,Total loss in farm operations,5.37
+Haryana,Sugarcane,Market Operations,Processing unit,0.32
+Haryana,Sugarcane,Market Operations,Transport,0.65
+Haryana,Sugarcane,Market Operations,Total loss in market operations,0.97
+Haryana,Sugarcane,Total,Overall total loss,6.34
+Haryana,Wheat,Farm Operations,Harvesting,1.62
+Haryana,Wheat,Farm Operations,Collection,0.56
+Haryana,Wheat,Farm Operations,Threshing,1.0
+Haryana,Wheat,Farm Operations,Winnowing/Cleaning,0.03
+Haryana,Wheat,Farm Operations,Drying,0.03
+Haryana,Wheat,Farm Operations,Packaging,0.005
+Haryana,Wheat,Farm Operations,Farm level storage,0.26
+Haryana,Wheat,Farm Operations,Transport,0.13
+Haryana,Wheat,Farm Operations,Total loss in farm operations,3.64
+Haryana,Wheat,Market Operations,Godown,0.001
+Haryana,Wheat,Market Operations,Wholesalers,0.21
+Haryana,Wheat,Market Operations,Retailers,0.14
+Haryana,Wheat,Market Operations,Processing unit,0.38
+Haryana,Wheat,Market Operations,Transport,0.004
+Haryana,Wheat,Market Operations,Total loss in market operations,0.73
+Haryana,Wheat,Total,Overall total loss,4.37
+Himachal Pradesh,Capsicum,Farm Operations,Harvesting,1.64
+Himachal Pradesh,Capsicum,Farm Operations,Collection,0.07
+Himachal Pradesh,Capsicum,Farm Operations,Sorting/Grading,0.74
+Himachal Pradesh,Capsicum,Farm Operations,Packaging,0.11
+Himachal Pradesh,Capsicum,Farm Operations,Farm level storage,0.005
+Himachal Pradesh,Capsicum,Farm Operations,Transport,0.58
+Himachal Pradesh,Capsicum,Farm Operations,Total loss in farm operations,3.14
+Himachal Pradesh,Capsicum,Market Operations,Wholesalers,1.0
+Himachal Pradesh,Capsicum,Market Operations,Retailers,0.61
+Himachal Pradesh,Capsicum,Market Operations,Transport,1.0
+Himachal Pradesh,Capsicum,Market Operations,Total loss in market operations,2.61
+Himachal Pradesh,Capsicum,Total,Overall total loss,5.74
+Himachal Pradesh,Mushroom,Farm Operations,Harvesting,0.82
+Himachal Pradesh,Mushroom,Farm Operations,Collection,0.09
+Himachal Pradesh,Mushroom,Farm Operations,Sorting/Grading,3.36
+Himachal Pradesh,Mushroom,Farm Operations,Trimming,0.39
+Himachal Pradesh,Mushroom,Farm Operations,Winnowing/Cleaning,0.08
+Himachal Pradesh,Mushroom,Farm Operations,Packaging,0.03
+Himachal Pradesh,Mushroom,Farm Operations,Farm level storage,0.1
+Himachal Pradesh,Mushroom,Farm Operations,Transport,0.11
+Himachal Pradesh,Mushroom,Farm Operations,Total loss in farm operations,4.98
+Himachal Pradesh,Mushroom,Market Operations,Wholesalers,0.36
+Himachal Pradesh,Mushroom,Market Operations,Retailers,0.26
+Himachal Pradesh,Mushroom,Market Operations,Transport,0.4
+Himachal Pradesh,Mushroom,Market Operations,Total loss in market operations,1.02
+Himachal Pradesh,Mushroom,Total,Overall total loss,6.01
+Himachal Pradesh,Maize,Farm Operations,Harvesting,0.53
+Himachal Pradesh,Maize,Farm Operations,Collection,0.07
+Himachal Pradesh,Maize,Farm Operations,Threshing,1.05
+Himachal Pradesh,Maize,Farm Operations,Winnowing/Cleaning,0.12
+Himachal Pradesh,Maize,Farm Operations,Drying,0.04
+Himachal Pradesh,Maize,Farm Operations,Packaging,0.05
+Himachal Pradesh,Maize,Farm Operations,Farm level storage,0.04
+Himachal Pradesh,Maize,Farm Operations,Transport,0.04
+Himachal Pradesh,Maize,Farm Operations,Total loss in farm operations,1.94
+Himachal Pradesh,Maize,Market Operations,Godown,0.001
+Himachal Pradesh,Maize,Market Operations,Wholesalers,0.05
+Himachal Pradesh,Maize,Market Operations,Retailers,0.05
+Himachal Pradesh,Maize,Market Operations,Processing unit,0.06
+Himachal Pradesh,Maize,Market Operations,Transport,0.18
+Himachal Pradesh,Maize,Market Operations,Total loss in market operations,0.33
+Karnataka,Beans,Farm Operations,Harvesting,1.78
+Karnataka,Beans,Farm Operations,Collection,0.58
+Karnataka,Beans,Farm Operations,Sorting/Grading,1.34
+Karnataka,Beans,Farm Operations,Packaging,0.35
+Karnataka,Beans,Farm Operations,Farm level storage,0.14
+Karnataka,Beans,Farm Operations,Transport,0.24
+Karnataka,Beans,Farm Operations,Total loss in farm operations,4.42
+Karnataka,Beans,Market Operations,Godown,0.13
+Karnataka,Beans,Market Operations,Wholesalers,0.4
+Karnataka,Beans,Market Operations,Retailers,0.91
+Karnataka,Beans,Market Operations,Transport,1.48
+Karnataka,Beans,Market Operations,Total loss in market operations,2.91
+Karnataka,Beans,Total,Overall total loss,7.33
+Karnataka,Capsicum,Farm Operations,Harvesting,1.24
+Karnataka,Capsicum,Farm Operations,Collection,0.3
+Karnataka,Capsicum,Farm Operations,Sorting/Grading,0.87
+Karnataka,Capsicum,Farm Operations,Packaging,0.37
+Karnataka,Capsicum,Farm Operations,Farm level storage,0.006
+Karnataka,Capsicum,Farm Operations,Transport,0.28
+Karnataka,Capsicum,Farm Operations,Total loss in farm operations,3.06
+Karnataka,Capsicum,Market Operations,Wholesalers,1.15
+Karnataka,Capsicum,Market Operations,Retailers,0.73
+Karnataka,Capsicum,Market Operations,Transport,0.8
+Karnataka,Capsicum,Market Operations,Total loss in market operations,2.68
+Karnataka,Capsicum,Total,Overall total loss,5.75
+Karnataka,Coconut,Farm Operations,Harvesting,1.29
+Karnataka,Coconut,Farm Operations,Collection,0.21
+Karnataka,Coconut,Farm Operations,Drying,0.36
+Karnataka,Coconut,Farm Operations,Packaging,0.18
+Karnataka,Coconut,Farm Operations,Farm level storage,0.6
+Karnataka,Coconut,Farm Operations,Transport,0.08
+Karnataka,Coconut,Farm Operations,Total loss in farm operations,3.07
+Karnataka,Coconut,Market Operations,Godown,0.04
+Karnataka,Coconut,Market Operations,Wholesalers,0.01
+Karnataka,Coconut,Market Operations,Retailers,0.07
+Karnataka,Coconut,Market Operations,Processing unit,0.13
+Karnataka,Coconut,Market Operations,Transport,0.41
+Karnataka,Coconut,Market Operations,Total loss in market operations,0.65
+Karnataka,Coconut,Total,Overall total loss,3.72
+Karnataka,Grapes,Farm Operations,Harvesting,1.8
+Karnataka,Grapes,Farm Operations,Collection,0.34
+Karnataka,Grapes,Farm Operations,Sorting/Grading,2.45
+Karnataka,Grapes,Farm Operations,Packaging,0.12
+Karnataka,Grapes,Farm Operations,Farm level storage,0.38
+Karnataka,Grapes,Farm Operations,Transport,0.65
+Karnataka,Grapes,Farm Operations,Total loss in farm operations,5.75
+Karnataka,Grapes,Market Operations,Godown,0.01
+Karnataka,Grapes,Market Operations,Wholesalers,0.55
+Karnataka,Grapes,Market Operations,Retailers,0.99
+Karnataka,Grapes,Market Operations,Processing unit,0.09
+Karnataka,Grapes,Market Operations,Transport,0.63
+Karnataka,Grapes,Market Operations,Total loss in market operations,2.28
+Karnataka,Grapes,Total,Overall total loss,8.02
+Karnataka,Maize,Farm Operations,Harvesting,0.47
+Karnataka,Maize,Farm Operations,Collection,0.06
+Karnataka,Maize,Farm Operations,Threshing,0.72
+Karnataka,Maize,Farm Operations,Drying,0.1
+Karnataka,Maize,Farm Operations,Packaging,0.02
+Karnataka,Maize,Farm Operations,Farm level storage,0.18
+Karnataka,Maize,Farm Operations,Transport,0.03
+Karnataka,Maize,Farm Operations,Total loss in farm operations,1.64
+Karnataka,Maize,Market Operations,Godown,0.003
+Karnataka,Maize,Market Operations,Wholesalers,0.23
+Karnataka,Maize,Market Operations,Retailers,1.88
+Karnataka,Maize,Market Operations,Processing unit,0.32
+Karnataka,Maize,Market Operations,Transport,0.32
+Karnataka,Maize,Market Operations,Total loss in market operations,2.76
+Karnataka,Maize,Total,Overall total loss,4.4
+Karnataka,Onion,Farm Operations,Harvesting,2.85
+Karnataka,Onion,Farm Operations,Collection,0.51
+Karnataka,Onion,Farm Operations,Sorting/Grading,1.29
+Karnataka,Onion,Farm Operations,Packaging,0.29
+Karnataka,Onion,Farm Operations,Farm level storage,1.37
+Karnataka,Onion,Farm Operations,Transport,0.68
+Karnataka,Onion,Farm Operations,Total loss in farm operations,7.0
+Karnataka,Onion,Market Operations,Godown,0.3
+Karnataka,Onion,Market Operations,Wholesalers,0.53
+Karnataka,Onion,Market Operations,Retailers,0.59
+Karnataka,Onion,Market Operations,Processing unit,0.02
+Karnataka,Onion,Market Operations,Transport,0.25
+Karnataka,Onion,Market Operations,Total loss in market operations,1.69
+Karnataka,Onion,Total,Overall total loss,8.7
+Karnataka,Pineapple,Farm Operations,Harvesting,1.19
+Karnataka,Pineapple,Farm Operations,Collection,0.04
+Karnataka,Pineapple,Farm Operations,Sorting/Grading,0.71
+Karnataka,Pineapple,Farm Operations,Packaging,0.04
+Karnataka,Pineapple,Farm Operations,Farm level storage,0.04
+Karnataka,Pineapple,Farm Operations,Transport,0.02
+Karnataka,Pineapple,Farm Operations,Total loss in farm operations,2.04
+Karnataka,Pineapple,Market Operations,Godown,0.03
+Karnataka,Pineapple,Market Operations,Wholesalers,0.63
+Karnataka,Pineapple,Market Operations,Retailers,0.45
+Karnataka,Pineapple,Market Operations,Processing unit,0.11
+Karnataka,Pineapple,Market Operations,Transport,0.47
+Karnataka,Pineapple,Market Operations,Total loss in market operations,1.69
+Karnataka,Pineapple,Total,Overall total loss,3.73
+Karnataka,Safflower,Farm Operations,Harvesting,1.04
+Karnataka,Safflower,Farm Operations,Collection,0.41
+Karnataka,Safflower,Farm Operations,Threshing,0.49
+Karnataka,Safflower,Farm Operations,Drying,0.14
+Karnataka,Safflower,Farm Operations,Packaging,0.17
+Karnataka,Safflower,Farm Operations,Farm level storage,0.01
+Karnataka,Safflower,Farm Operations,Transport,0.15
+Karnataka,Safflower,Farm Operations,Total loss in farm operations,2.68
+Karnataka,Safflower,Market Operations,Godown,0.02
+Karnataka,Safflower,Market Operations,Wholesalers,0.15
+Karnataka,Safflower,Market Operations,Retailers,0.04
+Karnataka,Safflower,Market Operations,Processing unit,0.08
+Karnataka,Safflower,Market Operations,Transport,0.13
+Karnataka,Safflower,Market Operations,Total loss in market operations,0.42
+Karnataka,Safflower,Total,Overall total loss,3.1
+Karnataka,Soybean,Farm Operations,Harvesting,2.39
+Karnataka,Soybean,Farm Operations,Collection,0.88
+Karnataka,Soybean,Farm Operations,Threshing,0.89
+Karnataka,Soybean,Farm Operations,Drying,0.13
+Karnataka,Soybean,Farm Operations,Packaging,0.24
+Karnataka,Soybean,Farm Operations,Farm level storage,0.87
+Karnataka,Soybean,Farm Operations,Transport,0.16
+Karnataka,Soybean,Farm Operations,Total loss in farm operations,5.91
+Karnataka,Soybean,Market Operations,Godown,0.21
+Karnataka,Soybean,Market Operations,Wholesalers,0.01
+Karnataka,Soybean,Market Operations,Retailers,0.22
+Karnataka,Soybean,Market Operations,Processing unit,0.11
+Karnataka,Soybean,Market Operations,Transport,0.16
+Karnataka,Soybean,Market Operations,Total loss in market operations,0.72
+Karnataka,Soybean,Total,Overall total loss,6.63
+Karnataka,Sunflower,Farm Operations,Harvesting,0.85
+Karnataka,Sunflower,Farm Operations,Collection,0.35
+Karnataka,Sunflower,Farm Operations,Threshing,1.41
+Karnataka,Sunflower,Farm Operations,Drying,0.09
+Karnataka,Sunflower,Farm Operations,Packaging,0.13
+Karnataka,Sunflower,Farm Operations,Farm level storage,0.04
+Karnataka,Sunflower,Farm Operations,Transport,0.1
+Karnataka,Sunflower,Farm Operations,Total loss in farm operations,3.16
+Karnataka,Sunflower,Market Operations,Godown,0.02
+Karnataka,Sunflower,Market Operations,Wholesalers,0.17
+Karnataka,Sunflower,Market Operations,Retailers,0.03
+Karnataka,Sunflower,Market Operations,Processing unit,0.75
+Karnataka,Sunflower,Market Operations,Transport,0.08
+Karnataka,Sunflower,Market Operations,Total loss in market operations,1.06
+Karnataka,Sunflower,Total,Overall total loss,4.22
+Kerala,Areca nut,Farm Operations,Harvesting,1.15
+Kerala,Areca nut,Farm Operations,Collection,0.27
+Kerala,Areca nut,Farm Operations,Threshing,0.44
+Kerala,Areca nut,Farm Operations,Winnowing/Cleaning,0.87
+Kerala,Areca nut,Farm Operations,Drying,0.13
+Kerala,Areca nut,Farm Operations,Packaging,0.12
+Kerala,Areca nut,Farm Operations,Farm level storage,0.19
+Kerala,Areca nut,Farm Operations,Transport,0.25
+Kerala,Areca nut,Farm Operations,Total loss in farm operations,3.41
+Kerala,Areca nut,Market Operations,Wholesalers,0.42
+Kerala,Areca nut,Market Operations,Retailers,0.01
+Kerala,Areca nut,Market Operations,Processing unit,0.16
+Kerala,Areca nut,Market Operations,Total loss in market operations,0.6
+Kerala,Areca nut,Total,Overall total loss,4.01
+Kerala,Cashew,Farm Operations,Harvesting,0.51
+Kerala,Cashew,Farm Operations,Collection,0.2
+Kerala,Cashew,Farm Operations,Threshing,0.21
+Kerala,Cashew,Farm Operations,Winnowing/Cleaning,0.03
+Kerala,Cashew,Farm Operations,Drying,0.06
+Kerala,Cashew,Farm Operations,Packaging,0.03
+Kerala,Cashew,Farm Operations,Farm level storage,0.02
+Kerala,Cashew,Farm Operations,Transport,0.01
+Kerala,Cashew,Farm Operations,Total loss in farm operations,1.07
+Kerala,Cashew,Market Operations,Godown,0.01
+Kerala,Cashew,Market Operations,Wholesalers,0.08
+Kerala,Cashew,Market Operations,Retailers,0.07
+Kerala,Cashew,Market Operations,Processing unit,0.02
+Kerala,Cashew,Market Operations,Transport,0.01
+Kerala,Cashew,Market Operations,Total loss in market operations,0.19
+Kerala,Egg,Farm Operations,Harvesting,1.71
+Kerala,Egg,Farm Operations,Sorting/Grading,1.06
+Kerala,Egg,Farm Operations,Packaging,1.06
+Kerala,Egg,Farm Operations,Farm level storage,0.02
+Kerala,Egg,Farm Operations,Transport,0.3
+Kerala,Egg,Farm Operations,Total loss in farm operations,4.15
+Kerala,Egg,Market Operations,Godown,0.05
+Kerala,Egg,Market Operations,Total loss in market operations,1.38
+Kerala,Egg,Total,Overall total loss,5.53
+Kerala,Meat,Farm Operations,Harvesting,5.46
+Kerala,Meat,Farm Operations,Collection,0.55
+Kerala,Meat,Farm Operations,Sorting/Grading,0.36
+Kerala,Meat,Farm Operations,Drying,0.16
+Kerala,Meat,Farm Operations,Packaging,0.01
+Kerala,Meat,Farm Operations,Transport,0.44
+Kerala,Meat,Farm Operations,Total loss in farm operations,6.98
+Kerala,Meat,Market Operations,Godown,0.24
+Kerala,Meat,Market Operations,Wholesalers,0.53
+Kerala,Meat,Market Operations,Retailers,0.21
+Kerala,Meat,Market Operations,Processing unit,0.3
+Kerala,Meat,Market Operations,Transport,0.49
+Kerala,Meat,Market Operations,Total loss in market operations,1.77
+Kerala,Tapioca,Farm Operations,Harvesting,1.2
+Kerala,Tapioca,Farm Operations,Collection,0.26
+Kerala,Tapioca,Farm Operations,Sorting/Grading,1.05
+Kerala,Tapioca,Farm Operations,Packaging,0.09
+Kerala,Tapioca,Farm Operations,Farm level storage,0.27
+Kerala,Tapioca,Farm Operations,Transport,0.54
+Kerala,Tapioca,Farm Operations,Total loss in farm operations,3.41
+Kerala,Tapioca,Market Operations,Wholesalers,0.35
+Kerala,Tapioca,Market Operations,Retailers,0.45
+Kerala,Tapioca,Market Operations,Processing unit,0.16
+Kerala,Tapioca,Market Operations,Transport,0.44
+Kerala,Tapioca,Market Operations,Total loss in market operations,1.4
+Kerala,Tapioca,Total,Overall total loss,4.8
+Madhya Pradesh,Bajra,Farm Operations,Harvesting,1.38
+Madhya Pradesh,Bajra,Farm Operations,Collection,0.35
+Madhya Pradesh,Bajra,Farm Operations,Threshing,0.9
+Madhya Pradesh,Bajra,Farm Operations,Winnowing/Cleaning,0.15
+Madhya Pradesh,Bajra,Farm Operations,Drying,0.21
+Madhya Pradesh,Bajra,Farm Operations,Packaging,0.26
+Madhya Pradesh,Bajra,Farm Operations,Farm level storage,0.36
+Madhya Pradesh,Bajra,Farm Operations,Transport,0.19
+Madhya Pradesh,Bajra,Farm Operations,Total loss in farm operations,3.8
+Madhya Pradesh,Bajra,Market Operations,Godown,0.11
+Madhya Pradesh,Bajra,Market Operations,Retailers,0.12
+Madhya Pradesh,Bajra,Market Operations,Processing unit,0.14
+Madhya Pradesh,Bajra,Market Operations,Transport,0.36
+Madhya Pradesh,Bajra,Market Operations,Total loss in market operations,0.73
+Madhya Pradesh,Bajra,Total,Overall total loss,4.53
+Madhya Pradesh,Bottlegourd,Farm Operations,Harvesting,1.41
+Madhya Pradesh,Bottlegourd,Farm Operations,Collection,0.94
+Madhya Pradesh,Bottlegourd,Farm Operations,Threshing,1.73
+Madhya Pradesh,Bottlegourd,Farm Operations,Winnowing/Cleaning,0.66
+Madhya Pradesh,Bottlegourd,Farm Operations,Drying,0.45
+Madhya Pradesh,Bottlegourd,Farm Operations,Packaging,0.38
+Madhya Pradesh,Bottlegourd,Farm Operations,Farm level storage,0.24
+Madhya Pradesh,Bottlegourd,Farm Operations,Transport,0.12
+Madhya Pradesh,Bottlegourd,Farm Operations,Total loss in farm operations,5.94
+Madhya Pradesh,Bottlegourd,Market Operations,Godown,0.01
+Madhya Pradesh,Bottlegourd,Market Operations,Wholesalers,0.27
+Madhya Pradesh,Bottlegourd,Market Operations,Retailers,0.23
+Madhya Pradesh,Bottlegourd,Market Operations,Processing unit,0.05
+Madhya Pradesh,Bottlegourd,Market Operations,Transport,0.24
+Madhya Pradesh,Bottlegourd,Market Operations,Total loss in market operations,0.79
+Madhya Pradesh,Cauliflower,Farm Operations,Harvesting,1.6
+Madhya Pradesh,Cauliflower,Farm Operations,Collection,0.18
+Madhya Pradesh,Cauliflower,Farm Operations,Sorting/Grading,2.42
+Madhya Pradesh,Cauliflower,Farm Operations,Packaging,0.31
+Madhya Pradesh,Cauliflower,Farm Operations,Farm level storage,0.06
+Madhya Pradesh,Cauliflower,Farm Operations,Transport,0.74
+Madhya Pradesh,Cauliflower,Farm Operations,Total loss in farm operations,5.32
+Madhya Pradesh,Cauliflower,Market Operations,Godown,0.01
+Madhya Pradesh,Cauliflower,Market Operations,Wholesalers,0.21
+Madhya Pradesh,Cauliflower,Market Operations,Retailers,0.26
+Madhya Pradesh,Cauliflower,Market Operations,Processing unit,0.01
+Madhya Pradesh,Cauliflower,Market Operations,Transport,0.65
+Madhya Pradesh,Cauliflower,Market Operations,Total loss in market operations,1.14
+Madhya Pradesh,Cauliflower,Total,Overall total loss,6.46
+Madhya Pradesh,Chilli,Farm Operations,Harvesting,1.21
+Madhya Pradesh,Chilli,Farm Operations,Collection,0.83
+Madhya Pradesh,Chilli,Farm Operations,Threshing,1.61
+Madhya Pradesh,Chilli,Farm Operations,Winnowing/Cleaning,0.24
+Madhya Pradesh,Chilli,Farm Operations,Drying,0.26
+Madhya Pradesh,Chilli,Farm Operations,Packaging,0.16
+Madhya Pradesh,Chilli,Farm Operations,Farm level storage,0.17
+Madhya Pradesh,Chilli,Farm Operations,Transport,0.29
+Madhya Pradesh,Chilli,Farm Operations,Total loss in farm operations,4.77
+Madhya Pradesh,Chilli,Market Operations,Godown,0.02
+Madhya Pradesh,Chilli,Market Operations,Wholesalers,0.31
+Madhya Pradesh,Chilli,Market Operations,Retailers,0.13
+Madhya Pradesh,Chilli,Market Operations,Processing unit,0.13
+Madhya Pradesh,Chilli,Market Operations,Transport,0.49
+Madhya Pradesh,Chilli,Market Operations,Total loss in market operations,1.08
+Madhya Pradesh,Coriander,Farm Operations,Harvesting,2.07
+Madhya Pradesh,Coriander,Farm Operations,Collection,0.86
+Madhya Pradesh,Coriander,Farm Operations,Threshing,1.11
+Madhya Pradesh,Coriander,Farm Operations,Winnowing/Cleaning,0.51
+Madhya Pradesh,Coriander,Farm Operations,Drying,0.08
+Madhya Pradesh,Coriander,Farm Operations,Packaging,0.15
+Madhya Pradesh,Coriander,Farm Operations,Farm level storage,0.06
+Madhya Pradesh,Coriander,Farm Operations,Transport,0.13
+Madhya Pradesh,Coriander,Farm Operations,Total loss in farm operations,4.97
+Madhya Pradesh,Coriander,Market Operations,Godown,0.02
+Madhya Pradesh,Coriander,Market Operations,Wholesalers,0.3
+Madhya Pradesh,Coriander,Market Operations,Retailers,0.3
+Madhya Pradesh,Coriander,Market Operations,Processing unit,0.07
+Madhya Pradesh,Coriander,Market Operations,Transport,0.33
+Madhya Pradesh,Coriander,Market Operations,Total loss in market operations,1.03
+Madhya Pradesh,Coriander,Total,Overall total loss,6.01
+Madhya Pradesh,Green Pea,Farm Operations,Harvesting,1.68
+Madhya Pradesh,Green Pea,Farm Operations,Collection,0.79
+Madhya Pradesh,Green Pea,Farm Operations,Sorting/Grading,1.43
+Madhya Pradesh,Green Pea,Farm Operations,Packaging,0.08
+Madhya Pradesh,Green Pea,Farm Operations,Farm level storage,0.005
+Madhya Pradesh,Green Pea,Farm Operations,Transport,0.62
+Madhya Pradesh,Green Pea,Farm Operations,Total loss in farm operations,4.6
+Madhya Pradesh,Green Pea,Market Operations,Wholesalers,0.57
+Madhya Pradesh,Green Pea,Market Operations,Retailers,0.66
+Madhya Pradesh,Green Pea,Market Operations,Processing unit,0.06
+Madhya Pradesh,Green Pea,Market Operations,Transport,0.38
+Madhya Pradesh,Green Pea,Market Operations,Total loss in market operations,1.67
+Madhya Pradesh,Green Pea,Total,Overall total loss,6.27
+Madhya Pradesh,Guava,Farm Operations,Harvesting,1.99
+Madhya Pradesh,Guava,Farm Operations,Collection,0.65
+Madhya Pradesh,Guava,Farm Operations,Threshing,1.43
+Madhya Pradesh,Guava,Farm Operations,Winnowing/Cleaning,0.43
+Madhya Pradesh,Guava,Farm Operations,Drying,0.14
+Madhya Pradesh,Guava,Farm Operations,Packaging,0.15
+Madhya Pradesh,Guava,Farm Operations,Farm level storage,0.09
+Madhya Pradesh,Guava,Farm Operations,Transport,0.14
+Madhya Pradesh,Guava,Farm Operations,Total loss in farm operations,5.0
+Madhya Pradesh,Guava,Market Operations,Godown,0.07
+Madhya Pradesh,Guava,Market Operations,Wholesalers,0.35
+Madhya Pradesh,Guava,Market Operations,Retailers,0.07
+Madhya Pradesh,Guava,Market Operations,Processing unit,0.41
+Madhya Pradesh,Guava,Market Operations,Transport,0.2
+Madhya Pradesh,Guava,Market Operations,Total loss in market operations,1.11
+Madhya Pradesh,Milk,Farm Operations,Harvesting,1.0
+Madhya Pradesh,Milk,Farm Operations,Collection,0.09
+Madhya Pradesh,Milk,Farm Operations,Threshing,1.82
+Madhya Pradesh,Milk,Farm Operations,Winnowing/Cleaning,0.04
+Madhya Pradesh,Milk,Farm Operations,Drying,0.01
+Madhya Pradesh,Milk,Farm Operations,Packaging,0.04
+Madhya Pradesh,Milk,Farm Operations,Farm level storage,0.07
+Madhya Pradesh,Milk,Farm Operations,Transport,0.09
+Madhya Pradesh,Milk,Farm Operations,Total loss in farm operations,3.16
+Madhya Pradesh,Milk,Market Operations,Godown,0.08
+Madhya Pradesh,Milk,Market Operations,Wholesalers,1.81
+Madhya Pradesh,Milk,Market Operations,Retailers,0.29
+Madhya Pradesh,Milk,Market Operations,Processing unit,0.81
+Madhya Pradesh,Milk,Market Operations,Transport,0.14
+Madhya Pradesh,Milk,Market Operations,Total loss in market operations,3.14
+Madhya Pradesh,Mustard,Farm Operations,Harvesting,1.46
+Madhya Pradesh,Mustard,Farm Operations,Collection,0.55
+Madhya Pradesh,Mustard,Farm Operations,Threshing,1.6
+Madhya Pradesh,Mustard,Farm Operations,Winnowing/Cleaning,0.56
+Madhya Pradesh,Mustard,Farm Operations,Drying,0.14
+Madhya Pradesh,Mustard,Farm Operations,Packaging,0.13
+Madhya Pradesh,Mustard,Farm Operations,Farm level storage,0.01
+Madhya Pradesh,Mustard,Farm Operations,Transport,0.06
+Madhya Pradesh,Mustard,Farm Operations,Total loss in farm operations,4.51
+Madhya Pradesh,Mustard,Market Operations,Godown,0.004
+Madhya Pradesh,Mustard,Market Operations,Wholesalers,0.04
+Madhya Pradesh,Mustard,Market Operations,Retailers,0.04
+Madhya Pradesh,Mustard,Market Operations,Processing unit,0.02
+Madhya Pradesh,Mustard,Market Operations,Transport,0.24
+Madhya Pradesh,Mustard,Market Operations,Total loss in market operations,0.34
+Madhya Pradesh,Mustard,Total,Overall total loss,4.86
+Madhya Pradesh,Onion,Farm Operations,Harvesting,2.67
+Madhya Pradesh,Onion,Farm Operations,Collection,0.42
+Madhya Pradesh,Onion,Farm Operations,Sorting/Grading,1.19
+Madhya Pradesh,Onion,Farm Operations,Packaging,0.08
+Madhya Pradesh,Onion,Farm Operations,Farm level storage,1.02
+Madhya Pradesh,Onion,Farm Operations,Transport,0.49
+Madhya Pradesh,Onion,Farm Operations,Total loss in farm operations,5.87
+Madhya Pradesh,Onion,Market Operations,Godown,0.36
+Madhya Pradesh,Onion,Market Operations,Wholesalers,0.99
+Madhya Pradesh,Onion,Market Operations,Retailers,0.59
+Madhya Pradesh,Onion,Market Operations,Processing unit,0.01
+Madhya Pradesh,Onion,Market Operations,Transport,0.28
+Madhya Pradesh,Onion,Market Operations,Total loss in market operations,2.24
+Madhya Pradesh,Onion,Total,Overall total loss,8.11
+Madhya Pradesh,Pigeon Pea,Farm Operations,Harvesting,1.26
+Madhya Pradesh,Pigeon Pea,Farm Operations,Collection,0.4
+Madhya Pradesh,Pigeon Pea,Farm Operations,Threshing,2.08
+Madhya Pradesh,Pigeon Pea,Farm Operations,Winnowing/Cleaning,0.55
+Madhya Pradesh,Pigeon Pea,Farm Operations,Drying,0.24
+Madhya Pradesh,Pigeon Pea,Farm Operations,Packaging,0.16
+Madhya Pradesh,Pigeon Pea,Farm Operations,Farm level storage,0.4
+Madhya Pradesh,Pigeon Pea,Farm Operations,Transport,0.16
+Madhya Pradesh,Pigeon Pea,Farm Operations,Total loss in farm operations,5.24
+Madhya Pradesh,Pigeon Pea,Market Operations,Godown,0.16
+Madhya Pradesh,Pigeon Pea,Market Operations,Wholesalers,0.12
+Madhya Pradesh,Pigeon Pea,Market Operations,Retailers,0.18
+Madhya Pradesh,Pigeon Pea,Market Operations,Processing unit,0.45
+Madhya Pradesh,Pigeon Pea,Market Operations,Transport,0.28
+Madhya Pradesh,Pigeon Pea,Market Operations,Total loss in market operations,1.19
+Madhya Pradesh,Pigeon Pea,Total,Overall total loss,6.43
+Madhya Pradesh,Sorghum,Farm Operations,Harvesting,1.95
+Madhya Pradesh,Sorghum,Farm Operations,Collection,0.36
+Madhya Pradesh,Sorghum,Farm Operations,Threshing,1.96
+Madhya Pradesh,Sorghum,Farm Operations,Winnowing/Cleaning,0.45
+Madhya Pradesh,Sorghum,Farm Operations,Drying,0.11
+Madhya Pradesh,Sorghum,Farm Operations,Packaging,0.19
+Madhya Pradesh,Sorghum,Farm Operations,Farm level storage,0.2
+Madhya Pradesh,Sorghum,Farm Operations,Transport,0.14
+Madhya Pradesh,Sorghum,Farm Operations,Total loss in farm operations,5.37
+Madhya Pradesh,Sorghum,Market Operations,Godown,0.08
+Madhya Pradesh,Sorghum,Market Operations,Wholesalers,0.94
+Madhya Pradesh,Sorghum,Market Operations,Retailers,0.15
+Madhya Pradesh,Sorghum,Market Operations,Processing unit,0.02
+Madhya Pradesh,Sorghum,Market Operations,Transport,0.21
+Madhya Pradesh,Sorghum,Market Operations,Total loss in market operations,1.39
+Madhya Pradesh,Sorghum,Total,Overall total loss,6.76
+Madhya Pradesh,Tomato,Farm Operations,Harvesting,2.62
+Madhya Pradesh,Tomato,Farm Operations,Collection,0.83
+Madhya Pradesh,Tomato,Farm Operations,Threshing,1.09
+Madhya Pradesh,Tomato,Farm Operations,Winnowing/Cleaning,0.25
+Madhya Pradesh,Tomato,Farm Operations,Drying,0.09
+Madhya Pradesh,Tomato,Farm Operations,Packaging,0.43
+Madhya Pradesh,Tomato,Farm Operations,Farm level storage,0.71
+Madhya Pradesh,Tomato,Farm Operations,Transport,0.36
+Madhya Pradesh,Tomato,Farm Operations,Total loss in farm operations,6.37
+Madhya Pradesh,Tomato,Market Operations,Godown,0.05
+Madhya Pradesh,Tomato,Market Operations,Wholesalers,0.52
+Madhya Pradesh,Tomato,Market Operations,Retailers,0.18
+Madhya Pradesh,Tomato,Market Operations,Processing unit,0.18
+Madhya Pradesh,Tomato,Market Operations,Transport,0.06
+Madhya Pradesh,Tomato,Market Operations,Total loss in market operations,0.99
+Maharashtra,Bajra,Farm Operations,Harvesting,0.97
+Maharashtra,Bajra,Farm Operations,Collection,0.3
+Maharashtra,Bajra,Farm Operations,Threshing,0.97
+Maharashtra,Bajra,Farm Operations,Winnowing/Cleaning,0.17
+Maharashtra,Bajra,Farm Operations,Drying,0.22
+Maharashtra,Bajra,Farm Operations,Packaging,0.24
+Maharashtra,Bajra,Farm Operations,Farm level storage,0.26
+Maharashtra,Bajra,Farm Operations,Transport,0.26
+Maharashtra,Bajra,Market Operations,Godown,0.11
+Maharashtra,Bajra,Market Operations,Wholesalers,0.07
+Maharashtra,Bajra,Market Operations,Retailers,0.13
+Maharashtra,Bajra,Market Operations,Processing unit,0.16
+Maharashtra,Bajra,Market Operations,Transport,0.34
+Maharashtra,Bajra,Market Operations,Total loss in market operations,0.81
+Maharashtra,Bajra,Total,Overall total loss,4.21
+Maharashtra,Black gram,Farm Operations,Harvesting,1.88
+Maharashtra,Black gram,Farm Operations,Collection,1.09
+Maharashtra,Black gram,Farm Operations,Threshing,1.55
+Maharashtra,Black gram,Farm Operations,Winnowing/Cleaning,0.72
+Maharashtra,Black gram,Farm Operations,Drying,0.46
+Maharashtra,Black gram,Farm Operations,Packaging,0.32
+Maharashtra,Black gram,Farm Operations,Farm level storage,0.51
+Maharashtra,Black gram,Farm Operations,Transport,0.14
+Maharashtra,Black gram,Market Operations,Godown,0.03
+Maharashtra,Black gram,Market Operations,Wholesalers,0.34
+Maharashtra,Black gram,Market Operations,Retailers,0.18
+Maharashtra,Black gram,Market Operations,Processing unit,0.05
+Maharashtra,Black gram,Market Operations,Transport,0.22
+Maharashtra,Black gram,Market Operations,Total loss in market operations,0.82
+Maharashtra,Black gram,Total,Overall total loss,7.48
+Maharashtra,Citrus,Farm Operations,Harvesting,1.16
+Maharashtra,Citrus,Farm Operations,Collection,0.96
+Maharashtra,Citrus,Farm Operations,Threshing,1.54
+Maharashtra,Citrus,Farm Operations,Winnowing/Cleaning,0.2
+Maharashtra,Citrus,Farm Operations,Drying,0.24
+Maharashtra,Citrus,Farm Operations,Packaging,0.16
+Maharashtra,Citrus,Farm Operations,Farm level storage,0.17
+Maharashtra,Citrus,Farm Operations,Transport,0.17
+Maharashtra,Citrus,Market Operations,Godown,0.01
+Maharashtra,Citrus,Market Operations,Wholesalers,0.1
+Maharashtra,Citrus,Market Operations,Retailers,0.12
+Maharashtra,Citrus,Market Operations,Processing unit,0.1
+Maharashtra,Citrus,Market Operations,Transport,0.48
+Maharashtra,Citrus,Market Operations,Total loss in market operations,0.8
+Maharashtra,Eggs,Farm Operations,Harvesting,1.83
+Maharashtra,Eggs,Farm Operations,Collection,0.28
+Maharashtra,Eggs,Farm Operations,Drying,0.08
+Maharashtra,Eggs,Farm Operations,Packaging,0.1
+Maharashtra,Eggs,Farm Operations,Farm level storage,0.1
+Maharashtra,Eggs,Farm Operations,Transport,0.16
+Maharashtra,Eggs,Market Operations,Godown,0.01
+Maharashtra,Eggs,Market Operations,Wholesalers,0.23
+Maharashtra,Eggs,Market Operations,Retailers,0.03
+Maharashtra,Eggs,Market Operations,Processing unit,0.03
+Maharashtra,Eggs,Market Operations,Transport,0.13
+Maharashtra,Eggs,Market Operations,Total loss in market operations,0.44
+Maharashtra,Green gram,Farm Operations,Harvesting,1.7
+Maharashtra,Green gram,Farm Operations,Collection,0.59
+Maharashtra,Green gram,Farm Operations,Threshing,1.4
+Maharashtra,Green gram,Farm Operations,Winnowing/Cleaning,0.33
+Maharashtra,Green gram,Farm Operations,Drying,0.32
+Maharashtra,Green gram,Farm Operations,Packaging,0.17
+Maharashtra,Green gram,Farm Operations,Farm level storage,0.37
+Maharashtra,Green gram,Farm Operations,Transport,0.14
+Maharashtra,Green gram,Market Operations,Godown,0.33
+Maharashtra,Green gram,Market Operations,Wholesalers,0.28
+Maharashtra,Green gram,Market Operations,Retailers,0.02
+Maharashtra,Green gram,Market Operations,Processing unit,0.12
+Maharashtra,Green gram,Market Operations,Transport,0.12
+Maharashtra,Green gram,Market Operations,Total loss in market operations,0.87
+Maharashtra,Green gram,Total,Overall total loss,5.9
+Maharashtra,Maize,Farm Operations,Harvesting,1.47
+Maharashtra,Maize,Farm Operations,Collection,0.41
+Maharashtra,Maize,Farm Operations,Threshing,1.32
+Maharashtra,Maize,Farm Operations,Winnowing/Cleaning,0.23
+Maharashtra,Maize,Farm Operations,Drying,0.34
+Maharashtra,Maize,Farm Operations,Packaging,0.04
+Maharashtra,Maize,Farm Operations,Farm level storage,0.27
+Maharashtra,Maize,Farm Operations,Transport,0.03
+Maharashtra,Maize,Market Operations,Godown,0.001
+Maharashtra,Maize,Market Operations,Wholesalers,0.52
+Maharashtra,Maize,Market Operations,Retailers,0.1
+Maharashtra,Maize,Market Operations,Processing unit,0.55
+Maharashtra,Maize,Market Operations,Transport,0.03
+Maharashtra,Maize,Market Operations,Total loss in market operations,1.2
+Maharashtra,Maize,Total,Overall total loss,5.3
+Maharashtra,Marine fish,Farm Operations,Harvesting,5.3
+Maharashtra,Marine fish,Farm Operations,Collection,0.6
+Maharashtra,Marine fish,Farm Operations,Sorting/Grading,0.33
+Maharashtra,Marine fish,Farm Operations,Drying,0.19
+Maharashtra,Marine fish,Farm Operations,Packaging,0.01
+Maharashtra,Marine fish,Farm Operations,Transport,0.48
+Maharashtra,Marine fish,Market Operations,Godown,0.2
+Maharashtra,Marine fish,Market Operations,Wholesalers,0.68
+Maharashtra,Marine fish,Market Operations,Retailers,0.19
+Maharashtra,Marine fish,Market Operations,Processing unit,0.32
+Maharashtra,Marine fish,Market Operations,Transport,0.51
+Maharashtra,Marine fish,Market Operations,Total loss in market operations,1.9
+Maharashtra,Marine fish,Total,Overall total loss,8.8
+Maharashtra,Milk,Farm Operations,Harvesting,0.16
+Maharashtra,Milk,Farm Operations,Collection,0.1
+Maharashtra,Milk,Farm Operations,Transport,0.06
+Maharashtra,Milk,Market Operations,Retailers,0.18
+Maharashtra,Milk,Market Operations,Processing unit,0.22
+Maharashtra,Milk,Market Operations,Transport,0.07
+Maharashtra,Milk,Market Operations,Total loss in market operations,0.33
+Maharashtra,Milk,Total,Overall total loss,0.65
+Maharashtra,Onion,Farm Operations,Harvesting,2.28
+Maharashtra,Onion,Farm Operations,Collection,0.34
+Maharashtra,Onion,Farm Operations,Sorting/Grading,0.87
+Maharashtra,Onion,Farm Operations,Packaging,0.08
+Maharashtra,Onion,Farm Operations,Farm level storage,0.76
+Maharashtra,Onion,Farm Operations,Transport,0.31
+Maharashtra,Onion,Market Operations,Godown,0.49
+Maharashtra,Onion,Market Operations,Wholesalers,0.75
+Maharashtra,Onion,Market Operations,Retailers,0.51
+Maharashtra,Onion,Market Operations,Processing unit,0.01
+Maharashtra,Onion,Market Operations,Transport,0.39
+Maharashtra,Onion,Market Operations,Total loss in market operations,2.15
+Maharashtra,Onion,Total,Overall total loss,6.78
+Maharashtra,Pigeon Pea,Farm Operations,Harvesting,1.56
+Maharashtra,Pigeon Pea,Farm Operations,Collection,0.37
+Maharashtra,Pigeon Pea,Farm Operations,Threshing,2.16
+Maharashtra,Pigeon Pea,Farm Operations,Winnowing/Cleaning,0.24
+Maharashtra,Pigeon Pea,Farm Operations,Drying,0.3
+Maharashtra,Pigeon Pea,Farm Operations,Packaging,0.25
+Maharashtra,Pigeon Pea,Farm Operations,Farm level storage,0.53
+Maharashtra,Pigeon Pea,Farm Operations,Transport,0.24
+Maharashtra,Pigeon Pea,Market Operations,Godown,0.16
+Maharashtra,Pigeon Pea,Market Operations,Wholesalers,0.14
+Maharashtra,Pigeon Pea,Market Operations,Retailers,0.2
+Maharashtra,Pigeon Pea,Market Operations,Processing unit,0.47
+Maharashtra,Pigeon Pea,Market Operations,Transport,0.3
+Maharashtra,Pigeon Pea,Market Operations,Total loss in market operations,1.26
+Maharashtra,Pigeon Pea,Total,Overall total loss,6.9
+Maharashtra,Poultry Meat,Farm Operations,Harvesting,1.31
+Maharashtra,Poultry Meat,Farm Operations,Collection,0.18
+Maharashtra,Poultry Meat,Farm Operations,Sorting/Grading,1.42
+Maharashtra,Poultry Meat,Farm Operations,Packaging,0.22
+Maharashtra,Poultry Meat,Farm Operations,Farm level storage,0.28
+Maharashtra,Poultry Meat,Farm Operations,Transport,0.31
+Maharashtra,Poultry Meat,Market Operations,Godown,0.13
+Maharashtra,Poultry Meat,Market Operations,Wholesalers,0.61
+Maharashtra,Poultry Meat,Market Operations,Retailers,0.7
+Maharashtra,Poultry Meat,Market Operations,Processing unit,0.09
+Maharashtra,Poultry Meat,Market Operations,Transport,0.76
+Maharashtra,Poultry Meat,Market Operations,Total loss in market operations,2.29
+Maharashtra,Sorghum,Farm Operations,Harvesting,1.71
+Maharashtra,Sorghum,Farm Operations,Collection,0.34
+Maharashtra,Sorghum,Farm Operations,Threshing,1.78
+Maharashtra,Sorghum,Farm Operations,Winnowing/Cleaning,0.38
+Maharashtra,Sorghum,Farm Operations,Drying,0.1
+Maharashtra,Sorghum,Farm Operations,Packaging,0.22
+Maharashtra,Sorghum,Farm Operations,Farm level storage,0.26
+Maharashtra,Sorghum,Farm Operations,Transport,0.13
+Maharashtra,Sorghum,Market Operations,Godown,0.04
+Maharashtra,Sorghum,Market Operations,Wholesalers,0.76
+Maharashtra,Sorghum,Market Operations,Retailers,0.21
+Maharashtra,Sorghum,Market Operations,Processing unit,0.02
+Maharashtra,Sorghum,Market Operations,Transport,0.2
+Maharashtra,Sorghum,Market Operations,Total loss in market operations,1.22
+Maharashtra,Sorghum,Total,Overall total loss,6.16
+Maharashtra,Sugarcane,Farm Operations,Harvesting,3.24
+Maharashtra,Sugarcane,Farm Operations,Collection,0.93
+Maharashtra,Sugarcane,Farm Operations,Threshing,1.44
+Maharashtra,Sugarcane,Farm Operations,Winnowing/Cleaning,0.13
+Maharashtra,Sugarcane,Farm Operations,Drying,0.15
+Maharashtra,Sugarcane,Farm Operations,Packaging,0.55
+Maharashtra,Sugarcane,Farm Operations,Farm level storage,0.86
+Maharashtra,Sugarcane,Farm Operations,Transport,0.28
+Maharashtra,Sugarcane,Market Operations,Godown,0.18
+Maharashtra,Sugarcane,Market Operations,Wholesalers,0.27
+Maharashtra,Sugarcane,Market Operations,Retailers,0.16
+Maharashtra,Sugarcane,Market Operations,Processing unit,0.51
+Maharashtra,Sugarcane,Market Operations,Transport,0.13
+Maharashtra,Sugarcane,Market Operations,Total loss in market operations,1.26
+Meghalaya,Tapioca,Farm Operations,Harvesting,1.15
+Meghalaya,Tapioca,Farm Operations,Collection,0.33
+Meghalaya,Tapioca,Farm Operations,Sorting/Grading,1.13
+Meghalaya,Tapioca,Farm Operations,Packaging,0.08
+Meghalaya,Tapioca,Farm Operations,Farm level storage,0.28
+Meghalaya,Tapioca,Farm Operations,Transport,0.53
+Meghalaya,Tapioca,Farm Operations,Total loss in farm operations,3.5
+Meghalaya,Tapioca,Market Operations,Wholesalers,0.35
+Meghalaya,Tapioca,Market Operations,Retailers,0.46
+Meghalaya,Tapioca,Market Operations,Processing unit,0.17
+Meghalaya,Tapioca,Market Operations,Transport,0.51
+Meghalaya,Tapioca,Market Operations,Total loss in market operations,1.49
+Meghalaya,Tapioca,Total,Overall total loss,4.99
+Meghalaya,Cashew,Farm Operations,Harvesting,1.79
+Meghalaya,Cashew,Farm Operations,Collection,0.3
+Meghalaya,Cashew,Farm Operations,Threshing,1.35
+Meghalaya,Cashew,Farm Operations,Drying,0.02
+Meghalaya,Cashew,Farm Operations,Farm level storage,0.07
+Meghalaya,Cashew,Farm Operations,Transport,0.02
+Meghalaya,Cashew,Farm Operations,Total loss in farm operations,3.888
+Meghalaya,Cashew,Market Operations,Godown,0.002
+Meghalaya,Cashew,Market Operations,Wholesalers,0.13
+Meghalaya,Cashew,Market Operations,Retailers,0.02
+Meghalaya,Cashew,Market Operations,Processing unit,0.28
+Meghalaya,Cashew,Market Operations,Transport,0.2
+Meghalaya,Cashew,Market Operations,Total loss in market operations,0.64
+Meghalaya,Cashew,Total,Overall total loss,4.53
+Odisha,Bottle gourd,Farm Operations,Harvesting,2.38
+Odisha,Bottle gourd,Farm Operations,Collection,0.69
+Odisha,Bottle gourd,Farm Operations,Sorting/Grading,1.66
+Odisha,Bottle gourd,Farm Operations,Packaging,0.12
+Odisha,Bottle gourd,Farm Operations,Farm level storage,0.1
+Odisha,Bottle gourd,Farm Operations,Transport,0.49
+Odisha,Bottle gourd,Farm Operations,Total loss in farm operations,5.44
+Odisha,Bottle gourd,Market Operations,Wholesalers,0.72
+Odisha,Bottle gourd,Market Operations,Retailers,0.57
+Odisha,Bottle gourd,Market Operations,Transport,0.84
+Odisha,Bottle gourd,Market Operations,Total loss in market operations,2.13
+Odisha,Bottle gourd,Total,Overall total loss,7.57
+Odisha,Cabbage,Farm Operations,Harvesting,1.35
+Odisha,Cabbage,Farm Operations,Collection,0.35
+Odisha,Cabbage,Farm Operations,Sorting/Grading,2.59
+Odisha,Cabbage,Farm Operations,Packaging,0.28
+Odisha,Cabbage,Farm Operations,Farm level storage,0.12
+Odisha,Cabbage,Farm Operations,Transport,0.74
+Odisha,Cabbage,Farm Operations,Total loss in farm operations,5.44
+Odisha,Cabbage,Market Operations,Godown,0.08
+Odisha,Cabbage,Market Operations,Wholesalers,0.78
+Odisha,Cabbage,Market Operations,Retailers,1.54
+Odisha,Cabbage,Market Operations,Processing unit,0.01
+Odisha,Cabbage,Market Operations,Transport,0.24
+Odisha,Cabbage,Market Operations,Total loss in market operations,2.65
+Odisha,Cabbage,Total,Overall total loss,8.08
+Odisha,Chickpea,Farm Operations,Harvesting,1.17
+Odisha,Chickpea,Farm Operations,Collection,0.8
+Odisha,Chickpea,Farm Operations,Threshing,1.59
+Odisha,Chickpea,Farm Operations,Winnowing/Cleaning,0.26
+Odisha,Chickpea,Farm Operations,Drying,0.55
+Odisha,Chickpea,Farm Operations,Packaging,0.16
+Odisha,Chickpea,Farm Operations,Farm level storage,0.17
+Odisha,Chickpea,Farm Operations,Transport,0.56
+Odisha,Chickpea,Farm Operations,Total loss in farm operations,5.25
+Odisha,Chickpea,Market Operations,Godown,0.02
+Odisha,Chickpea,Market Operations,Wholesalers,0.28
+Odisha,Chickpea,Market Operations,Retailers,0.12
+Odisha,Chickpea,Market Operations,Processing unit,0.13
+Odisha,Chickpea,Market Operations,Transport,0.28
+Odisha,Chickpea,Market Operations,Total loss in market operations,0.84
+Odisha,Chickpea,Total,Overall total loss,6.09
+Odisha,Greengram,Farm Operations,Harvesting,1.74
+Odisha,Greengram,Farm Operations,Collection,0.67
+Odisha,Greengram,Farm Operations,Threshing,1.45
+Odisha,Greengram,Farm Operations,Winnowing/Cleaning,0.34
+Odisha,Greengram,Farm Operations,Drying,0.31
+Odisha,Greengram,Farm Operations,Packaging,0.2
+Odisha,Greengram,Farm Operations,Transport,0.13
+Odisha,Greengram,Farm Operations,Total loss in farm operations,5.16
+Odisha,Greengram,Market Operations,Godown,0.33
+Odisha,Greengram,Market Operations,Wholesalers,0.31
+Odisha,Greengram,Market Operations,Retailers,0.02
+Odisha,Greengram,Market Operations,Processing unit,0.13
+Odisha,Greengram,Market Operations,Transport,0.16
+Odisha,Greengram,Market Operations,Total loss in market operations,0.94
+Odisha,Greengram,Total,Overall total loss,6.11
+Odisha,Marine fish,Farm Operations,Harvesting,6.47
+Odisha,Marine fish,Farm Operations,Collection,0.5
+Odisha,Marine fish,Farm Operations,Sorting/Grading,0.43
+Odisha,Marine fish,Farm Operations,Drying,0.12
+Odisha,Marine fish,Farm Operations,Packaging,0.01
+Odisha,Marine fish,Farm Operations,Transport,0.41
+Odisha,Marine fish,Market Operations,Godown,0.24
+Odisha,Marine fish,Market Operations,Wholesalers,0.61
+Odisha,Marine fish,Market Operations,Retailers,0.22
+Odisha,Marine fish,Market Operations,Processing unit,0.37
+Odisha,Marine fish,Market Operations,Transport,0.5
+Odisha,Marine fish,Market Operations,Total loss in market operations,1.94
+Odisha,Marine fish,Total,Overall total loss,9.89
+Odisha,Okra,Farm Operations,Harvesting,1.78
+Odisha,Okra,Farm Operations,Collection,0.34
+Odisha,Okra,Farm Operations,Sorting/Grading,1.08
+Odisha,Okra,Farm Operations,Packaging,0.15
+Odisha,Okra,Farm Operations,Farm level storage,0.16
+Odisha,Okra,Farm Operations,Transport,0.46
+Odisha,Okra,Market Operations,Wholesalers,0.89
+Odisha,Okra,Market Operations,Retailers,0.83
+Odisha,Okra,Market Operations,Transport,0.57
+Odisha,Okra,Market Operations,Total loss in market operations,2.29
+Odisha,Okra,Total,Overall total loss,6.25
+Odisha,Tomato,Farm Operations,Harvesting,3.99
+Odisha,Tomato,Farm Operations,Collection,0.76
+Odisha,Tomato,Farm Operations,Sorting/Grading,2.25
+Odisha,Tomato,Farm Operations,Packaging,0.24
+Odisha,Tomato,Farm Operations,Farm level storage,1.2
+Odisha,Tomato,Farm Operations,Transport,1.11
+Odisha,Tomato,Market Operations,Wholesalers,1.03
+Odisha,Tomato,Market Operations,Retailers,1.08
+Odisha,Tomato,Market Operations,Processing unit,0.25
+Odisha,Tomato,Market Operations,Transport,1.26
+Odisha,Tomato,Market Operations,Total loss in market operations,3.63
+Odisha,Tomato,Total,Overall total loss,13.19
+Punjab,Capsicum,Farm Operations,Harvesting,1.3
+Punjab,Capsicum,Farm Operations,Collection,0.02
+Punjab,Capsicum,Farm Operations,Sorting/Grading,0.03
+Punjab,Capsicum,Farm Operations,Packaging,0.03
+Punjab,Capsicum,Farm Operations,Farm level storage,0.006
+Punjab,Capsicum,Farm Operations,Transport,0.11
+Punjab,Capsicum,Farm Operations,Total loss in farm operations,1.49
+Punjab,Capsicum,Market Operations,Wholesalers,1.02
+Punjab,Capsicum,Market Operations,Retailers,1.0
+Punjab,Capsicum,Market Operations,Transport,0.8
+Punjab,Capsicum,Market Operations,Total loss in market operations,2.82
+Punjab,Capsicum,Total,Overall total loss,4.31
+Punjab,Green Pea,Farm Operations,Harvesting,2.1
+Punjab,Green Pea,Farm Operations,Collection,0.41
+Punjab,Green Pea,Farm Operations,Sorting/Grading,1.73
+Punjab,Green Pea,Farm Operations,Packaging,0.2
+Punjab,Green Pea,Farm Operations,Farm level storage,0.007
+Punjab,Green Pea,Farm Operations,Transport,0.33
+Punjab,Green Pea,Farm Operations,Total loss in farm operations,4.77
+Punjab,Green Pea,Market Operations,Wholesalers,0.37
+Punjab,Green Pea,Market Operations,Retailers,0.64
+Punjab,Green Pea,Market Operations,Transport,0.85
+Punjab,Green Pea,Market Operations,Total loss in market operations,1.89
+Punjab,Green Pea,Total,Overall total loss,6.67
+Punjab,Milk,Farm Operations,Harvesting,0.23
+Punjab,Milk,Farm Operations,Collection,0.08
+Punjab,Milk,Farm Operations,Transport,0.2
+Punjab,Milk,Farm Operations,Total loss in farm operations,0.51
+Punjab,Milk,Market Operations,Retailers,0.13
+Punjab,Milk,Market Operations,Processing unit,0.05
+Punjab,Milk,Market Operations,Transport,0.03
+Punjab,Milk,Market Operations,Total loss in market operations,0.12
+Punjab,Milk,Total,Overall total loss,0.63
+Punjab,Muskmelon,Farm Operations,Harvesting,1.2
+Punjab,Muskmelon,Farm Operations,Collection,0.24
+Punjab,Muskmelon,Farm Operations,Sorting/Grading,0.78
+Punjab,Muskmelon,Farm Operations,Packaging,0.34
+Punjab,Muskmelon,Farm Operations,Farm level storage,0.04
+Punjab,Muskmelon,Farm Operations,Transport,0.61
+Punjab,Muskmelon,Farm Operations,Total loss in farm operations,3.23
+Punjab,Muskmelon,Market Operations,Godown,0.01
+Punjab,Muskmelon,Market Operations,Wholesalers,0.51
+Punjab,Muskmelon,Market Operations,Retailers,1.14
+Punjab,Muskmelon,Market Operations,Transport,0.6
+Punjab,Muskmelon,Market Operations,Total loss in market operations,2.25
+Punjab,Muskmelon,Total,Overall total loss,5.48
+Punjab,Potato,Farm Operations,Harvesting,2.13
+Punjab,Potato,Farm Operations,Collection,0.11
+Punjab,Potato,Farm Operations,Sorting/Grading,2.1
+Punjab,Potato,Farm Operations,Packaging,0.03
+Punjab,Potato,Farm Operations,Farm level storage,0.09
+Punjab,Potato,Farm Operations,Transport,0.44
+Punjab,Potato,Farm Operations,Total loss in farm operations,4.91
+Punjab,Potato,Market Operations,Godown,0.1
+Punjab,Potato,Market Operations,Wholesalers,0.25
+Punjab,Potato,Market Operations,Retailers,0.05
+Punjab,Potato,Market Operations,Processing unit,0.03
+Punjab,Potato,Market Operations,Transport,0.24
+Punjab,Potato,Market Operations,Total loss in market operations,0.66
+Punjab,Potato,Total,Overall total loss,5.57
+Punjab,Wheat,Farm Operations,Harvesting,1.63
+Punjab,Wheat,Farm Operations,Collection,0.41
+Punjab,Wheat,Farm Operations,Winnowing/Cleaning,0.06
+Punjab,Wheat,Farm Operations,Drying,0.04
+Punjab,Wheat,Farm Operations,Packaging,0.002
+Punjab,Wheat,Farm Operations,Farm level storage,0.04
+Punjab,Wheat,Farm Operations,Transport,0.08
+Punjab,Wheat,Farm Operations,Total loss in farm operations,2.84
+Punjab,Wheat,Market Operations,Godown,4e-05
+Punjab,Wheat,Market Operations,Wholesalers,0.13
+Punjab,Wheat,Market Operations,Retailers,0.7
+Punjab,Wheat,Market Operations,Processing unit,0.86
+Punjab,Wheat,Market Operations,Transport,0.02
+Punjab,Wheat,Market Operations,Total loss in market operations,1.71
+Punjab,Wheat,Total,Overall total loss,4.55
+Rajasthan,Chickpea,Farm Operations,Harvesting,1.43
+Rajasthan,Chickpea,Farm Operations,Collection,0.88
+Rajasthan,Chickpea,Farm Operations,Threshing,1.2
+Rajasthan,Chickpea,Farm Operations,Drying,0.46
+Rajasthan,Chickpea,Farm Operations,Packaging,0.17
+Rajasthan,Chickpea,Farm Operations,Farm level storage,0.17
+Rajasthan,Chickpea,Farm Operations,Transport,0.08
+Rajasthan,Chickpea,Farm Operations,Total loss in farm operations,4.88
+Rajasthan,Chickpea,Market Operations,Godown,0.02
+Rajasthan,Chickpea,Market Operations,Wholesalers,0.4
+Rajasthan,Chickpea,Market Operations,Retailers,0.1
+Rajasthan,Chickpea,Market Operations,Processing unit,0.2
+Rajasthan,Chickpea,Market Operations,Transport,0.24
+Rajasthan,Chickpea,Market Operations,Total loss in market operations,0.95
+Rajasthan,Chickpea,Total,Overall total loss,5.83
+Rajasthan,Cottonseed,Farm Operations,Harvesting,1.91
+Rajasthan,Cottonseed,Farm Operations,Collection,0.7
+Rajasthan,Cottonseed,Farm Operations,Threshing,1.25
+Rajasthan,Cottonseed,Farm Operations,Drying,0.09
+Rajasthan,Cottonseed,Farm Operations,Packaging,0.11
+Rajasthan,Cottonseed,Farm Operations,Farm level storage,0.02
+Rajasthan,Cottonseed,Farm Operations,Transport,0.12
+Rajasthan,Cottonseed,Farm Operations,Total loss in farm operations,4.7
+Rajasthan,Cottonseed,Market Operations,Godown,0.02
+Rajasthan,Cottonseed,Market Operations,Wholesalers,0.32
+Rajasthan,Cottonseed,Market Operations,Retailers,0.26
+Rajasthan,Cottonseed,Market Operations,Processing unit,0.07
+Rajasthan,Cottonseed,Market Operations,Transport,0.33
+Rajasthan,Cottonseed,Market Operations,Total loss in market operations,1.0
+Rajasthan,Groundnut,Farm Operations,Harvesting,1.6
+Rajasthan,Groundnut,Farm Operations,Collection,0.52
+Rajasthan,Groundnut,Farm Operations,Threshing,1.17
+Rajasthan,Groundnut,Farm Operations,Drying,0.09
+Rajasthan,Groundnut,Farm Operations,Packaging,0.1
+Rajasthan,Groundnut,Farm Operations,Farm level storage,0.1
+Rajasthan,Groundnut,Farm Operations,Transport,0.1
+Rajasthan,Groundnut,Farm Operations,Total loss in farm operations,4.06
+Rajasthan,Groundnut,Market Operations,Godown,0.05
+Rajasthan,Groundnut,Market Operations,Wholesalers,0.39
+Rajasthan,Groundnut,Market Operations,Retailers,0.07
+Rajasthan,Groundnut,Market Operations,Processing unit,0.28
+Rajasthan,Groundnut,Market Operations,Transport,0.18
+Rajasthan,Groundnut,Market Operations,Total loss in market operations,0.98
+Rajasthan,Groundnut,Total,Overall total loss,5.03
+Rajasthan,Milk,Farm Operations,Harvesting,0.78
+Rajasthan,Milk,Farm Operations,Collection,0.27
+Rajasthan,Milk,Farm Operations,Threshing,1.53
+Rajasthan,Milk,Farm Operations,Drying,0.16
+Rajasthan,Milk,Farm Operations,Packaging,0.13
+Rajasthan,Milk,Farm Operations,Farm level storage,0.21
+Rajasthan,Milk,Farm Operations,Transport,0.18
+Rajasthan,Milk,Farm Operations,Total loss in farm operations,3.44
+Rajasthan,Milk,Market Operations,Godown,0.01
+Rajasthan,Milk,Market Operations,Wholesalers,0.9
+Rajasthan,Milk,Market Operations,Retailers,0.51
+Rajasthan,Milk,Market Operations,Processing unit,0.83
+Rajasthan,Milk,Market Operations,Transport,0.13
+Rajasthan,Milk,Market Operations,Total loss in market operations,2.37
+Rajasthan,Sorghum,Farm Operations,Harvesting,1.55
+Rajasthan,Sorghum,Farm Operations,Collection,0.29
+Rajasthan,Sorghum,Farm Operations,Threshing,1.84
+Rajasthan,Sorghum,Farm Operations,Drying,0.14
+Rajasthan,Sorghum,Farm Operations,Packaging,0.22
+Rajasthan,Sorghum,Farm Operations,Farm level storage,0.28
+Rajasthan,Sorghum,Farm Operations,Transport,0.2
+Rajasthan,Sorghum,Farm Operations,Total loss in farm operations,4.89
+Rajasthan,Sorghum,Market Operations,Godown,0.04
+Rajasthan,Sorghum,Market Operations,Wholesalers,0.74
+Rajasthan,Sorghum,Market Operations,Retailers,0.16
+Rajasthan,Sorghum,Market Operations,Processing unit,0.02
+Rajasthan,Sorghum,Market Operations,Transport,0.17
+Rajasthan,Sorghum,Market Operations,Total loss in market operations,1.12
+Rajasthan,Sorghum,Total,Overall total loss,6.01
+Rajasthan,Wheat,Farm Operations,Harvesting,1.83
+Rajasthan,Wheat,Farm Operations,Collection,0.38
+Rajasthan,Wheat,Farm Operations,Threshing,1.22
+Rajasthan,Wheat,Farm Operations,Drying,0.12
+Rajasthan,Wheat,Farm Operations,Packaging,0.024
+Rajasthan,Wheat,Farm Operations,Farm level storage,0.51
+Rajasthan,Wheat,Farm Operations,Transport,0.09
+Rajasthan,Wheat,Farm Operations,Total loss in farm operations,4.46
+Rajasthan,Wheat,Market Operations,Godown,0.002
+Rajasthan,Wheat,Market Operations,Wholesalers,0.34
+Rajasthan,Wheat,Market Operations,Retailers,0.55
+Rajasthan,Wheat,Market Operations,Processing unit,0.81
+Rajasthan,Wheat,Market Operations,Transport,0.08
+Rajasthan,Wheat,Market Operations,Total loss in market operations,1.78
+Rajasthan,Wheat,Total,Overall total loss,6.25
+Tamil Nadu,Banana,Farm Operations,Harvesting,1.41
+Tamil Nadu,Banana,Farm Operations,Collection,0.27
+Tamil Nadu,Banana,Farm Operations,Sorting/Grading,1.77
+Tamil Nadu,Banana,Farm Operations,Packaging,0.16
+Tamil Nadu,Banana,Farm Operations,Farm level storage,0.04
+Tamil Nadu,Banana,Farm Operations,Transport,1.38
+Tamil Nadu,Banana,Farm Operations,Total loss in farm operations,5.03
+Tamil Nadu,Banana,Market Operations,Godown,0.06
+Tamil Nadu,Banana,Market Operations,Wholesalers,1.03
+Tamil Nadu,Banana,Market Operations,Retailers,0.44
+Tamil Nadu,Banana,Market Operations,Processing unit,0.01
+Tamil Nadu,Banana,Market Operations,Transport,0.91
+Tamil Nadu,Banana,Market Operations,Total loss in market operations,2.45
+Tamil Nadu,Banana,Total,Overall total loss,7.47
+Tamil Nadu,Black gram,Farm Operations,Harvesting,0.88
+Tamil Nadu,Black gram,Farm Operations,Collection,0.97
+Tamil Nadu,Black gram,Farm Operations,Threshing,1.04
+Tamil Nadu,Black gram,Farm Operations,Winnowing/Cleaning,0.43
+Tamil Nadu,Black gram,Farm Operations,Drying,0.54
+Tamil Nadu,Black gram,Farm Operations,Packaging,0.13
+Tamil Nadu,Black gram,Farm Operations,Farm level storage,0.98
+Tamil Nadu,Black gram,Farm Operations,Transport,0.15
+Tamil Nadu,Black gram,Farm Operations,Total loss in farm operations,5.12
+Tamil Nadu,Black gram,Market Operations,Godown,0.02
+Tamil Nadu,Black gram,Market Operations,Wholesalers,0.24
+Tamil Nadu,Black gram,Market Operations,Retailers,0.22
+Tamil Nadu,Black gram,Market Operations,Processing unit,0.06
+Tamil Nadu,Black gram,Market Operations,Transport,0.27
+Tamil Nadu,Black gram,Market Operations,Total loss in market operations,0.81
+Tamil Nadu,Black gram,Total,Overall total loss,5.93
+Tamil Nadu,Groundnut,Farm Operations,Harvesting,1.66
+Tamil Nadu,Groundnut,Farm Operations,Collection,0.6
+Tamil Nadu,Groundnut,Farm Operations,Threshing,1.25
+Tamil Nadu,Groundnut,Farm Operations,Winnowing/Cleaning,0.37
+Tamil Nadu,Groundnut,Farm Operations,Drying,0.15
+Tamil Nadu,Groundnut,Farm Operations,Packaging,0.12
+Tamil Nadu,Groundnut,Farm Operations,Farm level storage,0.05
+Tamil Nadu,Groundnut,Farm Operations,Transport,0.15
+Tamil Nadu,Groundnut,Farm Operations,Total loss in farm operations,4.35
+Tamil Nadu,Groundnut,Market Operations,Godown,0.05
+Tamil Nadu,Groundnut,Market Operations,Wholesalers,0.35
+Tamil Nadu,Groundnut,Market Operations,Retailers,0.07
+Tamil Nadu,Groundnut,Market Operations,Processing unit,0.32
+Tamil Nadu,Groundnut,Market Operations,Transport,0.17
+Tamil Nadu,Groundnut,Market Operations,Total loss in market operations,0.96
+Tamil Nadu,Groundnut,Total,Overall total loss,5.31
+Tamil Nadu,Marine fish,Farm Operations,Harvesting,0.85
+Tamil Nadu,Marine fish,Farm Operations,Collection,0.2
+Tamil Nadu,Marine fish,Farm Operations,Threshing,0.73
+Tamil Nadu,Marine fish,Farm Operations,Winnowing/Cleaning,0.17
+Tamil Nadu,Marine fish,Farm Operations,Drying,0.23
+Tamil Nadu,Marine fish,Farm Operations,Packaging,0.27
+Tamil Nadu,Marine fish,Farm Operations,Farm level storage,0.24
+Tamil Nadu,Marine fish,Farm Operations,Transport,0.45
+Tamil Nadu,Marine fish,Farm Operations,Total loss in farm operations,3.14
+Tamil Nadu,Marine fish,Market Operations,Godown,0.001
+Tamil Nadu,Marine fish,Market Operations,Wholesalers,0.33
+Tamil Nadu,Marine fish,Market Operations,Retailers,0.22
+Tamil Nadu,Marine fish,Market Operations,Processing unit,0.43
+Tamil Nadu,Marine fish,Market Operations,Transport,0.27
+Tamil Nadu,Marine fish,Market Operations,Total loss in market operations,1.25
+Tamil Nadu,Mushroom,Farm Operations,Harvesting,1.04
+Tamil Nadu,Mushroom,Farm Operations,Collection,0.04
+Tamil Nadu,Mushroom,Farm Operations,Sorting/Grading,6.4
+Tamil Nadu,Mushroom,Farm Operations,Trimming,0.67
+Tamil Nadu,Mushroom,Farm Operations,Winnowing/Cleaning,0.25
+Tamil Nadu,Mushroom,Farm Operations,Packaging,0.22
+Tamil Nadu,Mushroom,Farm Operations,Farm level storage,0.74
+Tamil Nadu,Mushroom,Farm Operations,Transport,0.77
+Tamil Nadu,Mushroom,Farm Operations,Total loss in farm operations,10.12
+Tamil Nadu,Mushroom,Market Operations,Wholesalers,0.49
+Tamil Nadu,Mushroom,Market Operations,Retailers,0.33
+Tamil Nadu,Mushroom,Market Operations,Transport,0.09
+Tamil Nadu,Mushroom,Market Operations,Total loss in market operations,0.91
+Tamil Nadu,Mushroom,Total,Overall total loss,11.03
+Tamil Nadu,Poultry,Farm Operations,Harvesting,2.03
+Tamil Nadu,Poultry,Farm Operations,Collection,0.39
+Tamil Nadu,Poultry,Farm Operations,Threshing,1.55
+Tamil Nadu,Poultry,Farm Operations,Winnowing/Cleaning,0.52
+Tamil Nadu,Poultry,Farm Operations,Drying,0.13
+Tamil Nadu,Poultry,Farm Operations,Packaging,0.1
+Tamil Nadu,Poultry,Farm Operations,Farm level storage,0.45
+Tamil Nadu,Poultry,Farm Operations,Transport,0.19
+Tamil Nadu,Poultry,Farm Operations,Total loss in farm operations,5.36
+Tamil Nadu,Poultry,Market Operations,Godown,0.06
+Tamil Nadu,Poultry,Market Operations,Wholesalers,0.21
+Tamil Nadu,Poultry,Market Operations,Retailers,0.04
+Tamil Nadu,Poultry,Market Operations,Processing unit,0.17
+Tamil Nadu,Poultry,Market Operations,Transport,0.14
+Tamil Nadu,Poultry,Market Operations,Total loss in market operations,0.62
+Tamil Nadu,Meat,Farm Operations,Harvesting,2.3
+Tamil Nadu,Meat,Farm Operations,Total loss in farm operations,2.3
+Tamil Nadu,Meat,Market Operations,Wholesalers,2.18
+Tamil Nadu,Meat,Market Operations,Retailers,1.26
+Tamil Nadu,Meat,Market Operations,Processing unit,0.0
+Tamil Nadu,Meat,Market Operations,Transport,0.34
+Tamil Nadu,Meat,Market Operations,Total loss in market operations,3.78
+Tamil Nadu,Meat,Total,Overall total loss,6.08
+Tamil Nadu,Sugarcane,Farm Operations,Harvesting,1.79
+Tamil Nadu,Sugarcane,Farm Operations,Collection,0.33
+Tamil Nadu,Sugarcane,Farm Operations,Threshing,1.78
+Tamil Nadu,Sugarcane,Farm Operations,Winnowing/Cleaning,0.42
+Tamil Nadu,Sugarcane,Farm Operations,Drying,0.1
+Tamil Nadu,Sugarcane,Farm Operations,Packaging,0.23
+Tamil Nadu,Sugarcane,Farm Operations,Farm level storage,0.31
+Tamil Nadu,Sugarcane,Farm Operations,Transport,0.2
+Tamil Nadu,Sugarcane,Farm Operations,Total loss in farm operations,5.17
+Tamil Nadu,Sugarcane,Market Operations,Retailers,0.18
+Tamil Nadu,Sugarcane,Market Operations,Processing unit,0.01
+Tamil Nadu,Sugarcane,Market Operations,Transport,0.17
+Tamil Nadu,Sugarcane,Market Operations,Total loss in market operations,1.13
+Uttar Pradesh,Bajra,Farm Operations,Harvesting,0.72
+Uttar Pradesh,Bajra,Farm Operations,Collection,0.25
+Uttar Pradesh,Bajra,Farm Operations,Threshing,1.24
+Uttar Pradesh,Bajra,Farm Operations,Drying,0.22
+Uttar Pradesh,Bajra,Farm Operations,Packaging,0.25
+Uttar Pradesh,Bajra,Farm Operations,Farm level storage,0.28
+Uttar Pradesh,Bajra,Farm Operations,Transport,0.24
+Uttar Pradesh,Bajra,Farm Operations,Total loss in farm operations,3.35
+Uttar Pradesh,Bajra,Market Operations,Godown,0.09
+Uttar Pradesh,Bajra,Market Operations,Wholesalers,0.08
+Uttar Pradesh,Bajra,Market Operations,Retailers,0.14
+Uttar Pradesh,Bajra,Market Operations,Processing unit,0.14
+Uttar Pradesh,Bajra,Market Operations,Transport,0.32
+Uttar Pradesh,Bajra,Market Operations,Total loss in market operations,0.77
+Uttar Pradesh,Bajra,Total,Overall total loss,4.11
+Uttar Pradesh,Bottle,Farm Operations,Harvesting,1.91
+Uttar Pradesh,Bottle,Farm Operations,Collection,0.87
+Uttar Pradesh,Bottle,Farm Operations,Threshing,1.4
+Uttar Pradesh,Bottle,Farm Operations,Drying,0.25
+Uttar Pradesh,Bottle,Farm Operations,Packaging,0.2
+Uttar Pradesh,Bottle,Farm Operations,Farm level storage,0.39
+Uttar Pradesh,Bottle,Farm Operations,Transport,0.13
+Uttar Pradesh,Bottle,Farm Operations,Total loss in farm operations,5.36
+Uttar Pradesh,Bottle,Market Operations,Godown,0.03
+Uttar Pradesh,Bottle,Market Operations,Wholesalers,0.16
+Uttar Pradesh,Bottle,Market Operations,Retailers,0.28
+Uttar Pradesh,Bottle,Market Operations,Processing unit,0.06
+Uttar Pradesh,Bottle,Market Operations,Transport,0.22
+Uttar Pradesh,Bottle,Market Operations,Total loss in market operations,0.75
+Uttar Pradesh,Green Pea,Farm Operations,Harvesting,2.03
+Uttar Pradesh,Green Pea,Farm Operations,Collection,0.5
+Uttar Pradesh,Green Pea,Farm Operations,Sorting/Grading,1.68
+Uttar Pradesh,Green Pea,Farm Operations,Packaging,0.1
+Uttar Pradesh,Green Pea,Farm Operations,Farm level storage,0.005
+Uttar Pradesh,Green Pea,Farm Operations,Transport,0.36
+Uttar Pradesh,Green Pea,Farm Operations,Total loss in farm operations,4.68
+Uttar Pradesh,Green Pea,Market Operations,Wholesalers,0.43
+Uttar Pradesh,Green Pea,Market Operations,Retailers,0.56
+Uttar Pradesh,Green Pea,Market Operations,Transport,0.62
+Uttar Pradesh,Green Pea,Market Operations,Total loss in market operations,1.66
+Uttar Pradesh,Green Pea,Total,Overall total loss,6.34
+Uttar Pradesh,Maize,Farm Operations,Harvesting,0.99
+Uttar Pradesh,Maize,Farm Operations,Collection,0.54
+Uttar Pradesh,Maize,Farm Operations,Threshing,0.54
+Uttar Pradesh,Maize,Farm Operations,Drying,0.42
+Uttar Pradesh,Maize,Farm Operations,Packaging,0.56
+Uttar Pradesh,Maize,Farm Operations,Farm level storage,0.18
+Uttar Pradesh,Maize,Farm Operations,Transport,0.45
+Uttar Pradesh,Maize,Farm Operations,Total loss in farm operations,3.88
+Uttar Pradesh,Maize,Market Operations,Godown,0.02
+Uttar Pradesh,Maize,Market Operations,Wholesalers,0.35
+Uttar Pradesh,Maize,Market Operations,Retailers,1.09
+Uttar Pradesh,Maize,Market Operations,Processing unit,0.27
+Uttar Pradesh,Maize,Market Operations,Transport,0.16
+Uttar Pradesh,Maize,Market Operations,Total loss in market operations,1.88
+Uttar Pradesh,Maize,Total,Overall total loss,5.77
+Uttar Pradesh,Milk,Farm Operations,Harvesting,0.29
+Uttar Pradesh,Milk,Farm Operations,Collection,0.09
+Uttar Pradesh,Milk,Farm Operations,Transport,0.24
+Uttar Pradesh,Milk,Farm Operations,Total loss in farm operations,0.62
+Uttar Pradesh,Milk,Market Operations,Retailers,0.17
+Uttar Pradesh,Milk,Market Operations,Processing unit,0.14
+Uttar Pradesh,Milk,Market Operations,Transport,0.46
+Uttar Pradesh,Milk,Market Operations,Total loss in market operations,0.5
+Uttar Pradesh,Milk,Total,Overall total loss,1.12
+Uttar Pradesh,Muskmelon,Farm Operations,Harvesting,1.6
+Uttar Pradesh,Muskmelon,Farm Operations,Collection,0.28
+Uttar Pradesh,Muskmelon,Farm Operations,Sorting/Grading,1.2
+Uttar Pradesh,Muskmelon,Farm Operations,Packaging,0.34
+Uttar Pradesh,Muskmelon,Farm Operations,Farm level storage,0.06
+Uttar Pradesh,Muskmelon,Farm Operations,Transport,0.74
+Uttar Pradesh,Muskmelon,Farm Operations,Total loss in farm operations,4.22
+Uttar Pradesh,Muskmelon,Market Operations,Godown,0.01
+Uttar Pradesh,Muskmelon,Market Operations,Wholesalers,0.62
+Uttar Pradesh,Muskmelon,Market Operations,Retailers,1.49
+Uttar Pradesh,Muskmelon,Market Operations,Transport,0.91
+Uttar Pradesh,Muskmelon,Market Operations,Total loss in market operations,3.03
+Uttar Pradesh,Muskmelon,Total,Overall total loss,7.25
+Uttar Pradesh,Paddy,Farm Operations,Harvesting,1.24
+Uttar Pradesh,Paddy,Farm Operations,Collection,0.24
+Uttar Pradesh,Paddy,Farm Operations,Threshing,0.56
+Uttar Pradesh,Paddy,Farm Operations,Drying,0.3
+Uttar Pradesh,Paddy,Farm Operations,Packaging,0.04
+Uttar Pradesh,Paddy,Farm Operations,Farm level storage,0.16
+Uttar Pradesh,Paddy,Farm Operations,Transport,0.05
+Uttar Pradesh,Paddy,Farm Operations,Total loss in farm operations,3.46
+Uttar Pradesh,Paddy,Market Operations,Godown,0.06
+Uttar Pradesh,Paddy,Market Operations,Wholesalers,0.27
+Uttar Pradesh,Paddy,Market Operations,Retailers,0.04
+Uttar Pradesh,Paddy,Market Operations,Processing unit,0.07
+Uttar Pradesh,Paddy,Market Operations,Transport,0.1
+Uttar Pradesh,Paddy,Market Operations,Total loss in market operations,0.54
+Uttar Pradesh,Paddy,Total,Overall total loss,4.0
+Uttar Pradesh,Poultry Meat,Farm Operations,Harvesting,2.88
+Uttar Pradesh,Poultry Meat,Farm Operations,Total loss in farm operations,2.88
+Uttar Pradesh,Poultry Meat,Market Operations,Wholesalers,2.49
+Uttar Pradesh,Poultry Meat,Market Operations,Retailers,1.45
+Uttar Pradesh,Poultry Meat,Market Operations,Processing unit,0.4
+Uttar Pradesh,Poultry Meat,Market Operations,Transport,0.02
+Uttar Pradesh,Poultry Meat,Market Operations,Total loss in market operations,4.36
+Uttar Pradesh,Wheat,Farm Operations,Harvesting,1.15
+Uttar Pradesh,Wheat,Farm Operations,Collection,0.39
+Uttar Pradesh,Wheat,Farm Operations,Threshing,1.58
+Uttar Pradesh,Wheat,Farm Operations,Drying,0.04
+Uttar Pradesh,Wheat,Farm Operations,Packaging,0.008
+Uttar Pradesh,Wheat,Farm Operations,Farm level storage,0.05
+Uttar Pradesh,Wheat,Farm Operations,Transport,0.12
+Uttar Pradesh,Wheat,Farm Operations,Total loss in farm operations,3.48
+Uttar Pradesh,Wheat,Market Operations,Godown,0.433
+Uttar Pradesh,Wheat,Market Operations,Wholesalers,0.83
+Uttar Pradesh,Wheat,Market Operations,Retailers,0.66
+Uttar Pradesh,Wheat,Market Operations,Processing unit,0.9
+Uttar Pradesh,Wheat,Market Operations,Transport,0.06
+Uttar Pradesh,Wheat,Market Operations,Total loss in market operations,2.88
+Uttar Pradesh,Wheat,Total,Overall total loss,6.36
+West Bengal,Beans,Farm Operations,Harvesting,0.33
+West Bengal,Beans,Farm Operations,Sorting/Grading,1.29
+West Bengal,Beans,Farm Operations,Packaging,0.33
+West Bengal,Beans,Farm Operations,Farm level storage,0.39
+West Bengal,Beans,Farm Operations,Transport,0.07
+West Bengal,Beans,Farm Operations,Total loss in farm operations,2.61
+West Bengal,Beans,Market Operations,Godown,0.09
+West Bengal,Beans,Market Operations,Wholesalers,0.96
+West Bengal,Beans,Market Operations,Retailers,0.67
+West Bengal,Beans,Market Operations,Transport,1.15
+West Bengal,Beans,Market Operations,Total loss in market operations,2.87
+West Bengal,Beans,Total,Overall total loss,5.48
+West Bengal,Cabbage,Farm Operations,Harvesting,1.35
+West Bengal,Cabbage,Farm Operations,Collection,0.37
+West Bengal,Cabbage,Farm Operations,Sorting/Grading,2.54
+West Bengal,Cabbage,Farm Operations,Packaging,0.36
+West Bengal,Cabbage,Farm Operations,Farm level storage,0.16
+West Bengal,Cabbage,Farm Operations,Transport,0.76
+West Bengal,Cabbage,Farm Operations,Total loss in farm operations,5.54
+West Bengal,Cabbage,Market Operations,Godown,0.06
+West Bengal,Cabbage,Market Operations,Wholesalers,0.73
+West Bengal,Cabbage,Market Operations,Retailers,2.28
+West Bengal,Cabbage,Market Operations,Processing unit,0.01
+West Bengal,Cabbage,Market Operations,Transport,0.09
+West Bengal,Cabbage,Market Operations,Total loss in market operations,3.17
+West Bengal,Cabbage,Total,Overall total loss,8.71
+West Bengal,Eggs,Farm Operations,Harvesting,1.78
+West Bengal,Eggs,Farm Operations,Sorting/Grading,1.63
+West Bengal,Eggs,Farm Operations,Packaging,1.04
+West Bengal,Eggs,Farm Operations,Farm level storage,0.41
+West Bengal,Eggs,Farm Operations,Transport,0.38
+West Bengal,Eggs,Farm Operations,Total loss in farm operations,5.26
+West Bengal,Eggs,Total,Overall total loss,7.07
+West Bengal,Groundnut,Farm Operations,Harvesting,2.35
+West Bengal,Groundnut,Farm Operations,Collection,0.73
+West Bengal,Groundnut,Farm Operations,Threshing,2.01
+West Bengal,Groundnut,Farm Operations,Drying,0.16
+West Bengal,Groundnut,Farm Operations,Packaging,0.14
+West Bengal,Groundnut,Farm Operations,Farm level storage,0.1
+West Bengal,Groundnut,Farm Operations,Transport,0.13
+West Bengal,Groundnut,Farm Operations,Total loss in farm operations,6.15
+West Bengal,Groundnut,Market Operations,Godown,0.05
+West Bengal,Groundnut,Market Operations,Wholesalers,0.42
+West Bengal,Groundnut,Market Operations,Retailers,0.08
+West Bengal,Groundnut,Market Operations,Processing unit,0.39
+West Bengal,Groundnut,Market Operations,Transport,0.14
+West Bengal,Groundnut,Market Operations,Total loss in market operations,1.09
+West Bengal,Groundnut,Total,Overall total loss,7.24
+West Bengal,Inland fish,Farm Operations,Harvesting,1.24
+West Bengal,Inland fish,Farm Operations,Collection,0.31
+West Bengal,Inland fish,Farm Operations,Sorting/Grading,0.92
+West Bengal,Inland fish,Farm Operations,Packaging,0.13
+West Bengal,Inland fish,Farm Operations,Farm level storage,0.06
+West Bengal,Inland fish,Farm Operations,Transport,0.12
+West Bengal,Inland fish,Farm Operations,Total loss in farm operations,2.77
+West Bengal,Inland fish,Market Operations,Wholesalers,0.35
+West Bengal,Inland fish,Market Operations,Retailers,0.54
+West Bengal,Inland fish,Market Operations,Transport,0.12
+West Bengal,Inland fish,Market Operations,Total loss in market operations,1.02
+West Bengal,Inland fish,Total,Overall total loss,3.79
+West Bengal,Marine fish,Farm Operations,Harvesting,5.77
+West Bengal,Marine fish,Farm Operations,Collection,0.51
+West Bengal,Marine fish,Farm Operations,Sorting/Grading,0.42
+West Bengal,Marine fish,Farm Operations,Drying,0.17
+West Bengal,Marine fish,Farm Operations,Packaging,0.03
+West Bengal,Marine fish,Farm Operations,Transport,0.37
+West Bengal,Marine fish,Farm Operations,Total loss in farm operations,7.26
+West Bengal,Marine fish,Market Operations,Godown,0.15
+West Bengal,Marine fish,Market Operations,Wholesalers,0.57
+West Bengal,Marine fish,Market Operations,Retailers,0.2
+West Bengal,Marine fish,Market Operations,Processing unit,0.2
+West Bengal,Marine fish,Market Operations,Transport,0.56
+West Bengal,Marine fish,Market Operations,Total loss in market operations,1.68
+West Bengal,Marine fish,Total,Overall total loss,8.94
+West Bengal,Milk,Farm Operations,Harvesting,0.27
+West Bengal,Milk,Farm Operations,Collection,0.05
+West Bengal,Milk,Farm Operations,Transport,0.3
+West Bengal,Milk,Farm Operations,Total loss in farm operations,0.61
+West Bengal,Milk,Market Operations,Retailers,0.14
+West Bengal,Milk,Market Operations,Processing unit,0.4
+West Bengal,Milk,Market Operations,Transport,0.04
+West Bengal,Milk,Market Operations,Total loss in market operations,0.48
+West Bengal,Milk,Total,Overall total loss,1.09
+West Bengal,Okra,Farm Operations,Harvesting,1.48
+West Bengal,Okra,Farm Operations,Collection,0.39
+West Bengal,Okra,Farm Operations,Sorting/Grading,1.16
+West Bengal,Okra,Farm Operations,Packaging,0.16
+West Bengal,Okra,Farm Operations,Farm level storage,0.19
+West Bengal,Okra,Farm Operations,Transport,0.44
+West Bengal,Okra,Farm Operations,Total loss in farm operations,3.81
+West Bengal,Okra,Market Operations,Wholesalers,0.84
+West Bengal,Okra,Market Operations,Retailers,0.9
+West Bengal,Okra,Market Operations,Transport,0.49
+West Bengal,Okra,Market Operations,Total loss in market operations,2.24
+West Bengal,Okra,Total,Overall total loss,6.05
+West Bengal,Pineapple,Farm Operations,Harvesting,2.45
+West Bengal,Pineapple,Farm Operations,Collection,0.09
+West Bengal,Pineapple,Farm Operations,Sorting/Grading,0.96
+West Bengal,Pineapple,Farm Operations,Packaging,0.04
+West Bengal,Pineapple,Farm Operations,Farm level storage,0.08
+West Bengal,Pineapple,Farm Operations,Transport,0.2
+West Bengal,Pineapple,Farm Operations,Total loss in farm operations,3.82
+West Bengal,Pineapple,Market Operations,Godown,0.15
+West Bengal,Pineapple,Market Operations,Wholesalers,0.71
+West Bengal,Pineapple,Market Operations,Retailers,0.54
+West Bengal,Pineapple,Market Operations,Processing unit,0.1
+West Bengal,Pineapple,Market Operations,Transport,0.35
+West Bengal,Pineapple,Market Operations,Total loss in market operations,1.84
+West Bengal,Pineapple,Total,Overall total loss,5.66
+West Bengal,Poultry,Farm Operations,Harvesting,2.28
+West Bengal,Poultry,Farm Operations,Collection,0.15
+West Bengal,Poultry,Farm Operations,Sorting/Grading,1.89
+West Bengal,Poultry,Farm Operations,Packaging,0.04
+West Bengal,Poultry,Farm Operations,Farm level storage,0.11
+West Bengal,Poultry,Farm Operations,Transport,0.42
+West Bengal,Poultry,Farm Operations,Total loss in farm operations,4.89
+West Bengal,Poultry,Market Operations,Godown,0.1
+West Bengal,Poultry,Market Operations,Wholesalers,0.3
+West Bengal,Poultry,Market Operations,Retailers,0.08
+West Bengal,Poultry,Market Operations,Processing unit,0.04
+West Bengal,Poultry,Market Operations,Transport,0.31
+West Bengal,Poultry,Market Operations,Total loss in market operations,0.83
+West Bengal,Meat,Market Operations,Wholesalers,2.29
+West Bengal,Meat,Market Operations,Retailers,0.53
+West Bengal,Meat,Market Operations,Processing unit,0.02
+West Bengal,Meat,Market Operations,Transport,0.2
+West Bengal,Meat,Market Operations,Total loss in market operations,3.03
+West Bengal,Sunflower,Farm Operations,Harvesting,1.15
+West Bengal,Sunflower,Farm Operations,Collection,0.49
+West Bengal,Sunflower,Farm Operations,Threshing,1.92
+West Bengal,Sunflower,Farm Operations,Drying,0.1
+West Bengal,Sunflower,Farm Operations,Packaging,0.09
+West Bengal,Sunflower,Farm Operations,Farm level storage,0.05
+West Bengal,Sunflower,Farm Operations,Transport,0.13
+West Bengal,Sunflower,Farm Operations,Total loss in farm operations,4.17
+West Bengal,Sunflower,Market Operations,Godown,0.02
+West Bengal,Sunflower,Market Operations,Wholesalers,0.17
+West Bengal,Sunflower,Market Operations,Retailers,0.04
+West Bengal,Sunflower,Market Operations,Processing unit,0.71
+West Bengal,Sunflower,Market Operations,Transport,0.11
+West Bengal,Sunflower,Market Operations,Total loss in market operations,1.04
+West Bengal,Sunflower,Total,Overall total loss,5.21

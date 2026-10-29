@@ -1,0 +1,9 @@
+{
+  "split": "stratified 80/20; random_state=42",
+  "test_rows": 626,
+  "accuracy": 0.7987220447284346,
+  "macro_f1": 0.7565195309998912,
+  "weighted_f1": 0.7866017629435885,
+  "macro_precision": 0.7507227175927912,
+  "macro_recall": 0.7682539682539682
+}

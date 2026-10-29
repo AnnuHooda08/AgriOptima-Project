@@ -1,0 +1,19 @@
+{
+  "source_file": "DataSets/Yeild/crop_production_haryana_punjab_1997_2019.csv",
+  "source_rows": 12447,
+  "exact_duplicates_removed": 0,
+  "valid_clean_rows": 9882,
+  "excluded_rows": 2565,
+  "model_rows": 9882,
+  "year_min": 1997,
+  "year_max": 2019,
+  "target": "Yield",
+  "features": [
+    "State",
+    "District",
+    "Crop",
+    "Season",
+    "YearStart",
+    "Area"
+  ]
+}
