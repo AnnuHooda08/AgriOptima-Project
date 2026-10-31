@@ -1,0 +1,79 @@
+{
+  "target": "national monthly median maize modal price, Rs/quintal",
+  "features": [
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_12",
+    "month",
+    "year"
+  ],
+  "feature_reasoning": {
+    "lag_1_lag_2_lag_3_lag_12": "Previous observed national monthly prices; available for a rolling one-month-ahead forecast.",
+    "month": "Calendar seasonality; treated as a category with one-hot encoding.",
+    "year": "A simple long-term time trend; extrapolation beyond the observed period is uncertain.",
+    "excluded_fields": "State, district, market and commodity are not inputs because the modeled target is a national maize aggregate. Arrivals and same-month min/max prices are contemporaneous with the target and could leak information."
+  },
+  "split": {
+    "training_before": "2020-01-01",
+    "training_rows": 215,
+    "validation_from": "2020-01-01",
+    "validation_before": "2023-01-01",
+    "validation_rows": 36,
+    "final_fit_before_test": "2023-01-01",
+    "final_fit_rows": 251,
+    "test_from": "2023-01-01",
+    "test_rows": 14,
+    "test_first_month": "2023-01-01",
+    "test_last_month": "2024-02-01",
+    "test_not_used_for_preprocessing_or_fit": true,
+    "test_protocol": "Rolling one-month-ahead; the previous actual month is available before the next month's prediction."
+  },
+  "validation_metrics": [
+    {
+      "model": "previous_month_persistence",
+      "records": 36,
+      "mae_rs_per_quintal": 64.66666666666667,
+      "rmse_rs_per_quintal": 83.65139302818308,
+      "r2": 0.9227465705281932
+    },
+    {
+      "model": "same_month_previous_year",
+      "records": 36,
+      "mae_rs_per_quintal": 431.77777777777777,
+      "rmse_rs_per_quintal": 463.9421659359422,
+      "r2": -1.3762881602722228
+    },
+    {
+      "model": "linear_regression",
+      "records": 36,
+      "mae_rs_per_quintal": 51.863289656367364,
+      "rmse_rs_per_quintal": 62.87408407774286,
+      "r2": 0.9563569839569098
+    }
+  ],
+  "final_test_metrics": [
+    {
+      "model": "previous_month_persistence",
+      "records": 14,
+      "mae_rs_per_quintal": 49.214285714285715,
+      "rmse_rs_per_quintal": 71.323708741003,
+      "r2": 0.398307043445149
+    },
+    {
+      "model": "same_month_previous_year",
+      "records": 14,
+      "mae_rs_per_quintal": 122.89285714285714,
+      "rmse_rs_per_quintal": 160.29531897630164,
+      "r2": -2.0391264624184045
+    },
+    {
+      "model": "linear_regression",
+      "records": 14,
+      "mae_rs_per_quintal": 58.84376888029926,
+      "rmse_rs_per_quintal": 70.57175689281318,
+      "r2": 0.41092722609912624
+    }
+  ],
+  "interpretation": "Compare MAE/RMSE/R2 with the baselines; a larger MAE or RMSE than persistence means the learned model is worse for this evaluation."
+}

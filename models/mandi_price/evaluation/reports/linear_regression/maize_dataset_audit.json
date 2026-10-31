@@ -1,0 +1,94 @@
+{
+  "source_filename": "Maize.csv",
+  "rows": 1077217,
+  "columns": [
+    "State Name",
+    "District Name",
+    "Market Name",
+    "Variety",
+    "Group",
+    "Arrivals (Tonnes)",
+    "Min Price (Rs./Quintal)",
+    "Max Price (Rs./Quintal)",
+    "Modal Price (Rs./Quintal)",
+    "Reported Date"
+  ],
+  "missing_values_by_column": {
+    "State Name": 0,
+    "District Name": 0,
+    "Market Name": 0,
+    "Variety": 0,
+    "Group": 0,
+    "Arrivals (Tonnes)": 0,
+    "Min Price (Rs./Quintal)": 1,
+    "Max Price (Rs./Quintal)": 14,
+    "Modal Price (Rs./Quintal)": 50,
+    "Reported Date": 0
+  },
+  "date_min": "2001-01-10",
+  "date_max": "2024-02-02",
+  "invalid_dates": 0,
+  "states": 30,
+  "districts": 428,
+  "markets": 1640,
+  "varieties": 34,
+  "groups": 1,
+  "price_unit": "Rs per quintal as declared by column names",
+  "arrivals_unit": "Tonnes as declared by column name",
+  "modal_price_nonpositive": 4152,
+  "exact_duplicate_rows": 978,
+  "duplicate_market_variety_date_rows": 2153,
+  "duplicate_market_variety_date_extra_rows": 1080,
+  "modal_price_valid_distribution": {
+    "count": 1073015,
+    "min": 1.0,
+    "max": 148300.0,
+    "mean": 1287.417541152733,
+    "median": 1275.0,
+    "std": 520.6832033783935,
+    "p01": 452.0,
+    "p25": 940.0,
+    "p75": 1560.0,
+    "p99": 2396.0,
+    "iqr_outside_count": 7662
+  },
+  "minimum_price_invalid_count": 1,
+  "maximum_price_invalid_count": 14,
+  "modal_price_invalid_count": 50,
+  "price_column_distributions_positive_values": {
+    "Min Price (Rs./Quintal)": {
+      "missing_or_non_numeric": 1,
+      "nonpositive": 22170,
+      "positive_count": 1055046,
+      "positive_min": 0.2,
+      "positive_max": 141700.0,
+      "positive_mean": 1221.204783772461,
+      "positive_median": 1200.0
+    },
+    "Max Price (Rs./Quintal)": {
+      "missing_or_non_numeric": 14,
+      "nonpositive": 20424,
+      "positive_count": 1056779,
+      "positive_min": 1.0,
+      "positive_max": 6750650.0,
+      "positive_mean": 1344.5025833026584,
+      "positive_median": 1310.0
+    },
+    "Modal Price (Rs./Quintal)": {
+      "missing_or_non_numeric": 50,
+      "nonpositive": 4152,
+      "positive_count": 1073015,
+      "positive_min": 1.0,
+      "positive_max": 148300.0,
+      "positive_mean": 1287.417541152733,
+      "positive_median": 1275.0
+    }
+  },
+  "min_modal_max_order_violations": 22226,
+  "monthly_median_range": {
+    "first_observed_month": "2001-01-01",
+    "last_observed_month": "2024-02-01",
+    "observed_months": 277,
+    "missing_calendar_months": 1
+  }
+}

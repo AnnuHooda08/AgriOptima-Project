@@ -1,0 +1,26 @@
+{
+  "name": "Random Forest",
+  "selected_by": "validation macro F1, accuracy tie-breaker",
+  "training_rows": 2503,
+  "feature_columns": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "test_metrics": {
+    "accuracy": 0.835725677830941,
+    "macro_precision": 0.811134902532752,
+    "macro_recall": 0.8109370053814499,
+    "macro_f1": 0.8016044216194618,
+    "weighted_f1": 0.8256976000849297
+  },
+  "source_dataset_sha256": "066f5d62e982cbc4621b8915cbba6a0865a1a4f11344bc0bc89881cc15bf9158",
+  "artifact_path": "models/crop_suitability/artifacts/crop_suitability_grouped_split_challenger_040c3feeea2b.joblib",
+  "production_artifact_changed": false,
+  "test_data_used_for_selection": false,
+  "challenger_artifact_saved_this_run": false
+}

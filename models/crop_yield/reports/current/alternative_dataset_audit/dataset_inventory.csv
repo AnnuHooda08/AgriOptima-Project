@@ -1,0 +1,5 @@
+filename,format,rows,columns_count,year_range,states,districts,crops,seasons,size_bytes,sha256
+ICRISAT-District Level Data.csv,CSV,16146,80,"[1966, 2017]",20,311,,,9263222,7857decb1a196a54aac71a0f841af43c3bac98b3b90744aadca18b1859cea6f3
+crop_production_haryana_punjab_1997_2014.csv,CSV,9048,7,"[1997, 2014]",2,43,43.0,3.0,482165,f575b82f71fa66aa25b5c6326540aeb2ce36fcf1519011044deddad855f7f042
+crop_production_haryana_punjab_1997_2019.csv,CSV,12447,10,"[1997, 2019]",2,45,39.0,3.0,1021067,04a9a41fc47c78bdcf9952b45318bb2ac6be6557d6f2444be5bc0c07f99126f4
+district_wise_season_wise_crop_production_1997.csv,CSV,246091,7,"[1997, 2015]",33,646,124.0,6.0,14588881,acd1d3809f50e5027ed2adb7baa4708fd219beaf35272942f4e66180f5755e56

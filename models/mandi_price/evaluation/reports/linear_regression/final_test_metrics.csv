@@ -1,0 +1,4 @@
+model,records,mae_rs_per_quintal,rmse_rs_per_quintal,r2,split
+previous_month_persistence,14,49.214285714285715,71.323708741003,0.398307043445149,final_test
+same_month_previous_year,14,122.89285714285714,160.29531897630164,-2.0391264624184045,final_test
+linear_regression,14,58.84376888029926,70.57175689281318,0.41092722609912624,final_test

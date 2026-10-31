@@ -1,0 +1,125 @@
+{
+  "source_path": "DataSets/crop_suitability.csv",
+  "rows": 3130,
+  "columns": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall",
+    "label"
+  ],
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "target": "label",
+  "class_count": 27,
+  "missing_by_column": {
+    "N": 0,
+    "P": 0,
+    "K": 0,
+    "temperature": 0,
+    "humidity": 0,
+    "ph": 0,
+    "rainfall": 0,
+    "label": 0
+  },
+  "exact_duplicate_rows": 0,
+  "exact_duplicate_feature_vectors": 354,
+  "unique_feature_profiles": 2776,
+  "conflicting_feature_profiles": 354,
+  "rows_in_conflicting_profiles": 708,
+  "near_profile_distance_rule": "connected components at Euclidean distance <= 0.005 after dividing by fixed broad input-range spans",
+  "near_profile_connected_groups": 2264,
+  "near_profile_non_singleton_groups": 836,
+  "near_profile_largest_group_size": 3,
+  "near_profile_groups_with_conflicting_labels": 500,
+  "near_profile_pairs_with_different_labels": 530,
+  "valid_finite_feature_and_label_rows": 3130,
+  "invalid_feature_or_label_rows": 0,
+  "broad_physical_range_or_missing_flags": 0,
+  "statistical_iqr_flags_not_automatically_removed": 550,
+  "class_count_min": 100,
+  "class_count_max": 176,
+  "class_imbalance_ratio_max_over_min": 1.76,
+  "feature_describe": {
+    "N": {
+      "count": 3130.0,
+      "mean": 48.8996805112,
+      "std": 36.3282788991,
+      "min": 0.0,
+      "25%": 21.0,
+      "50%": 36.0,
+      "75%": 83.0,
+      "max": 140.0
+    },
+    "P": {
+      "count": 3130.0,
+      "mean": 54.889456869,
+      "std": 31.4086446202,
+      "min": 5.0,
+      "25%": 35.0,
+      "50%": 54.0,
+      "75%": 69.0,
+      "max": 145.0
+    },
+    "K": {
+      "count": 3130.0,
+      "mean": 47.2626198083,
+      "std": 49.5090828979,
+      "min": 5.0,
+      "25%": 20.0,
+      "50%": 30.0,
+      "75%": 49.0,
+      "max": 205.0
+    },
+    "temperature": {
+      "count": 3130.0,
+      "mean": 25.2925592484,
+      "std": 5.0373493666,
+      "min": 8.825674745,
+      "25%": 22.17931888,
+      "50%": 25.40059227,
+      "75%": 28.4308875625,
+      "max": 43.67549305
+    },
+    "humidity": {
+      "count": 3130.0,
+      "mean": 67.3981033704,
+      "std": 24.4995301044,
+      "min": 14.25803981,
+      "25%": 52.82101558,
+      "50%": 77.679535765,
+      "75%": 86.89934108,
+      "max": 99.98187601
+    },
+    "ph": {
+      "count": 3130.0,
+      "mean": 6.4813637438,
+      "std": 0.8500182255,
+      "min": 3.504752314,
+      "25%": 5.9278940195,
+      "50%": 6.4188975915,
+      "75%": 6.962386495,
+      "max": 9.93509073
+    },
+    "rainfall": {
+      "count": 3130.0,
+      "mean": 100.4898182578,
+      "std": 54.1161120258,
+      "min": 5.31450727,
+      "25%": 63.502502595,
+      "50%": 91.6389565,
+      "75%": 120.586041,
+      "max": 298.5601175
+    }
+  }
+}

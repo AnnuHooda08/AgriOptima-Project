@@ -1,0 +1,6 @@
+feature_set,features,validation_mae_t_ha,validation_rmse_t_ha
+Crop and Season only,"Crop, Season",2.8992599211565806,6.774048350814315
+without Area,"State, District, Crop, Season, YearStart",3.3267714478457506,6.939302593992853
+all six inputs,"State, District, Crop, Season, YearStart, Area",3.328381760938536,6.93959877921666
+without Area and YearStart,"State, District, Crop, Season",3.3812953652888353,6.990303680516728
+without YearStart,"State, District, Crop, Season, Area",3.3827985258816344,6.99023956403439

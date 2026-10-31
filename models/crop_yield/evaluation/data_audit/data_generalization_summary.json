@@ -1,0 +1,350 @@
+{
+  "accepted_rows": 9882,
+  "periods": {
+    "Training 1997-2011": 5769,
+    "Validation 2012-2014": 1401,
+    "Test 2015-2019": 2712,
+    "Earlier validation 2006-2008": 1204,
+    "Earlier validation 2009-2011": 1120
+  },
+  "target_distribution": [
+    {
+      "period": "Training 1997-2011",
+      "records": 5769,
+      "mean_t_ha": 7.404137495757912,
+      "median_t_ha": 1.639344262295082,
+      "std_t_ha": 32.15435245114311,
+      "min_t_ha": 0.0017182130584192,
+      "max_t_ha": 2150.0,
+      "p01_t_ha": 0.16761904761904758,
+      "p05_t_ha": 0.3333333333333333,
+      "p25_t_ha": 0.9966777408637874,
+      "p50_t_ha": 1.639344262295082,
+      "p75_t_ha": 4.005262954220038,
+      "p90_t_ha": 19.058319957196353,
+      "p95_t_ha": 52.12104066683495,
+      "p99_t_ha": 70.17243841332116
+    },
+    {
+      "period": "Validation 2012-2014",
+      "records": 1401,
+      "mean_t_ha": 9.182976197418753,
+      "median_t_ha": 2.4446833795484126,
+      "std_t_ha": 18.636491819370534,
+      "min_t_ha": 0.05,
+      "max_t_ha": 113.68015414258188,
+      "p01_t_ha": 0.3,
+      "p05_t_ha": 0.4990439770554493,
+      "p25_t_ha": 1.0,
+      "p50_t_ha": 2.4446833795484126,
+      "p75_t_ha": 5.176470588235294,
+      "p90_t_ha": 23.23636363636364,
+      "p95_t_ha": 67.0,
+      "p99_t_ha": 86.0
+    },
+    {
+      "period": "Test 2015-2019",
+      "records": 2712,
+      "mean_t_ha": 9.612508204461843,
+      "median_t_ha": 2.478221415607986,
+      "std_t_ha": 19.438129568714167,
+      "min_t_ha": 0.0510708401976935,
+      "max_t_ha": 103.0,
+      "p01_t_ha": 0.2857142857142857,
+      "p05_t_ha": 0.5,
+      "p25_t_ha": 1.0,
+      "p50_t_ha": 2.478221415607986,
+      "p75_t_ha": 5.345456761493155,
+      "p90_t_ha": 24.910191602119852,
+      "p95_t_ha": 72.93124999999998,
+      "p99_t_ha": 88.9633333333333
+    },
+    {
+      "period": "Earlier validation 2006-2008",
+      "records": 1204,
+      "mean_t_ha": 7.771223411401975,
+      "median_t_ha": 1.7456340264263033,
+      "std_t_ha": 63.23405155331659,
+      "min_t_ha": 0.0991080277502477,
+      "max_t_ha": 2150.0,
+      "p01_t_ha": 0.2330813953488372,
+      "p05_t_ha": 0.39009708737864085,
+      "p25_t_ha": 1.0,
+      "p50_t_ha": 1.7456340264263033,
+      "p75_t_ha": 4.03948926818936,
+      "p90_t_ha": 16.104753119583187,
+      "p95_t_ha": 25.436548343555337,
+      "p99_t_ha": 70.35705664170519
+    },
+    {
+      "period": "Earlier validation 2009-2011",
+      "records": 1120,
+      "mean_t_ha": 5.508904967319238,
+      "median_t_ha": 2.0,
+      "std_t_ha": 12.01124061662648,
+      "min_t_ha": 0.0047564687975646,
+      "max_t_ha": 91.30913091309132,
+      "p01_t_ha": 0.17643441342545851,
+      "p05_t_ha": 0.4283292978208232,
+      "p25_t_ha": 1.0,
+      "p50_t_ha": 2.0,
+      "p75_t_ha": 4.364325407906039,
+      "p90_t_ha": 10.901442307692308,
+      "p95_t_ha": 21.622100824228482,
+      "p99_t_ha": 74.6445
+    }
+  ],
+  "crop_composition_test": {
+    "comparison": "disjoint train, validation, and test periods",
+    "rare_crop_rule": "Crop classes with fewer than 50 total accepted rows pooled as Other for the chi-square test.",
+    "periods": [
+      "train_1997_2011",
+      "validation_2012_2014",
+      "test_2015_2019"
+    ],
+    "crop_groups": [
+      "Arhar/Tur",
+      "Bajra",
+      "Barley",
+      "Castor seed",
+      "Coriander",
+      "Dry chillies",
+      "Garlic",
+      "Gram",
+      "Groundnut",
+      "Guar seed",
+      "Jowar",
+      "Maize",
+      "Masoor",
+      "Moong(Green Gram)",
+      "Moth",
+      "Onion",
+      "Other (crop total < 30)",
+      "Peas & beans (Pulses)",
+      "Potato",
+      "Rapeseed &Mustard",
+      "Rice",
+      "Sesamum",
+      "Sugarcane",
+      "Sunflower",
+      "Turmeric",
+      "Urad",
+      "Wheat"
+    ],
+    "contingency_counts": {
+      "train_1997_2011": {
+        "Arhar/Tur": 381,
+        "Bajra": 313,
+        "Barley": 311,
+        "Castor seed": 20,
+        "Coriander": 5,
+        "Dry chillies": 129,
+        "Garlic": 41,
+        "Gram": 335,
+        "Groundnut": 153,
+        "Guar seed": 56,
+        "Jowar": 119,
+        "Maize": 258,
+        "Masoor": 221,
+        "Moong(Green Gram)": 270,
+        "Moth": 52,
+        "Onion": 180,
+        "Other (crop total < 30)": 131,
+        "Peas & beans (Pulses)": 150,
+        "Potato": 200,
+        "Rapeseed &Mustard": 480,
+        "Rice": 551,
+        "Sesamum": 239,
+        "Sugarcane": 401,
+        "Sunflower": 68,
+        "Turmeric": 3,
+        "Urad": 134,
+        "Wheat": 568
+      },
+      "validation_2012_2014": {
+        "Arhar/Tur": 68,
+        "Bajra": 60,
+        "Barley": 60,
+        "Castor seed": 9,
+        "Coriander": 47,
+        "Dry chillies": 13,
+        "Garlic": 50,
+        "Gram": 45,
+        "Groundnut": 23,
+        "Guar seed": 38,
+        "Jowar": 23,
+        "Maize": 54,
+        "Masoor": 43,
+        "Moong(Green Gram)": 60,
+        "Moth": 8,
+        "Onion": 53,
+        "Other (crop total < 30)": 26,
+        "Peas & beans (Pulses)": 79,
+        "Potato": 54,
+        "Rapeseed &Mustard": 115,
+        "Rice": 126,
+        "Sesamum": 48,
+        "Sugarcane": 90,
+        "Sunflower": 19,
+        "Turmeric": 31,
+        "Urad": 30,
+        "Wheat": 129
+      },
+      "test_2015_2019": {
+        "Arhar/Tur": 123,
+        "Bajra": 110,
+        "Barley": 129,
+        "Castor seed": 27,
+        "Coriander": 95,
+        "Dry chillies": 0,
+        "Garlic": 102,
+        "Gram": 94,
+        "Groundnut": 37,
+        "Guar seed": 76,
+        "Jowar": 56,
+        "Maize": 121,
+        "Masoor": 58,
+        "Moong(Green Gram)": 174,
+        "Moth": 17,
+        "Onion": 107,
+        "Other (crop total < 30)": 50,
+        "Peas & beans (Pulses)": 199,
+        "Potato": 107,
+        "Rapeseed &Mustard": 211,
+        "Rice": 213,
+        "Sesamum": 81,
+        "Sugarcane": 168,
+        "Sunflower": 42,
+        "Turmeric": 48,
+        "Urad": 49,
+        "Wheat": 218
+      }
+    },
+    "chi_square": 765.8323404704158,
+    "degrees_of_freedom": 52,
+    "p_value": 1.3116119507883441e-127,
+    "cramers_v": 0.19684728470253013,
+    "minimum_expected_cell_count": 7.939283545840923,
+    "interpretation": "Crop composition differs statistically across periods; Cramer's V describes effect size."
+  },
+  "unseen_validation_test_crop_support": {
+    "validation_2012_2014": {
+      "unseen_crop_labels": [
+        "other oilseeds"
+      ],
+      "records_with_unseen_crop_label": 3,
+      "unseen_crop_season_combinations": [
+        [
+          "Ginger",
+          "Whole Year"
+        ],
+        [
+          "Peas & beans (Pulses)",
+          "Kharif"
+        ],
+        [
+          "Sannhamp",
+          "Kharif"
+        ],
+        [
+          "other oilseeds",
+          "Rabi"
+        ]
+      ],
+      "records_with_unseen_crop_season_combination": 54
+    },
+    "test_2015_2019": {
+      "unseen_crop_labels": [
+        "other oilseeds"
+      ],
+      "records_with_unseen_crop_label": 28,
+      "unseen_crop_season_combinations": [
+        [
+          "Ginger",
+          "Whole Year"
+        ],
+        [
+          "Moong(Green Gram)",
+          "Rabi"
+        ],
+        [
+          "Peas & beans (Pulses)",
+          "Kharif"
+        ],
+        [
+          "other oilseeds",
+          "Rabi"
+        ]
+      ],
+      "records_with_unseen_crop_season_combination": 213
+    }
+  },
+  "extreme_influence_sensitivity": {
+    "highest_training_yield_t_ha": 2150.0,
+    "training_mean_all_rows": 7.404137495757912,
+    "training_std_all_rows": 32.15435245114311,
+    "training_mean_without_one_max_for_sensitivity_only": 7.032674967584499,
+    "training_std_without_one_max_for_sensitivity_only": 15.424382256907966,
+    "2006_2008_mean_all_rows": 7.771223411401975,
+    "2006_2008_std_all_rows": 63.23405155331659,
+    "2006_2008_mean_without_one_max_for_sensitivity_only": 5.9904846112452015,
+    "2006_2008_std_without_one_max_for_sensitivity_only": 13.44524502291686,
+    "note": "The record is not removed from any dataset or model; this is a descriptive influence check only."
+  },
+  "sugarcane_period_rows": [
+    {
+      "period": "Training 1997-2011",
+      "crop": "Sugarcane",
+      "records": 401,
+      "period_records": 5769,
+      "proportion": 0.06950944704454845
+    },
+    {
+      "period": "Validation 2012-2014",
+      "crop": "Sugarcane",
+      "records": 90,
+      "period_records": 1401,
+      "proportion": 0.06423982869379015
+    },
+    {
+      "period": "Test 2015-2019",
+      "crop": "Sugarcane",
+      "records": 168,
+      "period_records": 2712,
+      "proportion": 0.061946902654867256
+    },
+    {
+      "period": "Earlier validation 2006-2008",
+      "crop": "Sugarcane",
+      "records": 48,
+      "period_records": 1204,
+      "proportion": 0.03986710963455149
+    },
+    {
+      "period": "Earlier validation 2009-2011",
+      "crop": "Sugarcane",
+      "records": 71,
+      "period_records": 1120,
+      "proportion": 0.06339285714285714
+    }
+  ],
+  "extreme_records_reviewed": 100,
+  "short_district_labels": [
+    {
+      "State": "Punjab",
+      "District": "S",
+      "records": 127,
+      "first_year": 2006,
+      "last_year": 2019,
+      "crops": 15
+    }
+  ],
+  "extreme_source_class_counts": {
+    "Arithmetic/unit consistent; agricultural value not independently verified": 94,
+    "Requires source-owner follow-up: crop-specific IQR outlier, arithmetic still matches": 4,
+    "Suspicious screening flag: extreme yield with very small area; arithmetic still matches": 2
+  },
+  "validation_group_metrics_minimum_n": 30,
+  "validation_metrics_do_not_cover_final_test": true,
+  "artifact_files_written": []
+}

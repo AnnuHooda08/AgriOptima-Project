@@ -1,13 +1,42 @@
 {
   "source_file": "DataSets/Yeild/crop_production_haryana_punjab_1997_2019.csv",
   "source_rows": 12447,
+  "source_columns": [
+    "State",
+    "District",
+    "Crop",
+    "Year",
+    "Season",
+    "Area",
+    "Area Units",
+    "Production",
+    "Production Units",
+    "Yield"
+  ],
+  "source_missing_cells": 1418,
   "exact_duplicates_removed": 0,
   "valid_clean_rows": 9882,
   "excluded_rows": 2565,
+  "exclusion_reason_counts": {
+    "nonpositive_yield": 2057,
+    "incompatible_production_units": 626
+  },
   "model_rows": 9882,
   "year_min": 1997,
   "year_max": 2019,
+  "category_counts": {
+    "State": 2,
+    "District": 45,
+    "Crop": 34,
+    "Season": 3
+  },
+  "yield_matches_tonnes_divided_by_hectares": {
+    "comparable_source_rows": 10492,
+    "matching_rows": 10492,
+    "all_match": true
+  },
   "target": "Yield",
+  "target_units": "tonnes per hectare",
   "features": [
     "State",
     "District",
@@ -15,5 +44,8 @@
     "Season",
     "YearStart",
     "Area"
-  ]
+  ],
+  "feature_units": {
+    "Area": "hectares"
+  }
 }

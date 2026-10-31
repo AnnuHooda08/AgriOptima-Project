@@ -1,0 +1,4 @@
+model,records,mae_rs_per_quintal,rmse_rs_per_quintal,r2,split
+previous_month_persistence,36,64.66666666666667,83.65139302818308,0.9227465705281932,validation
+same_month_previous_year,36,431.77777777777777,463.9421659359422,-1.3762881602722228,validation
+linear_regression,36,51.863289656367364,62.87408407774286,0.9563569839569098,validation

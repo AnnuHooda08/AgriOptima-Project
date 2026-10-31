@@ -1,0 +1,3 @@
+source_csv_row,State,District,Crop,Season,Year,Area,Area Units,Production,Production Units,Yield,production_area_ratio_t_ha,tonnes_per_hectare_match,unit_consistency,crop_iqr_upper_fence_t_ha,crop_iqr_flag,source_check_class
+3993,Haryana,KARNAL,Onion,Whole Year,2008-09,2.0,Hectare,4300.0,Tonnes,2150.0,2150.0,True,tonnes / hectares,32.931884151176575,True,Suspicious screening flag: extreme yield with very small area; arithmetic still matches
+11309,Haryana,JHAJJAR,Potato,Whole Year,1999-00,1.0,Hectare,100.0,Tonnes,100.0,100.0,True,tonnes / hectares,35.262113515361705,True,Suspicious screening flag: extreme yield with very small area; arithmetic still matches

@@ -1,0 +1,58 @@
+_State_Name,_crop_key,matched_candidate_keys,area_equal_rows,production_equal_rows,current_units
+Haryana,arhar/tur,284,284,230,Tonnes
+Haryana,bajra,316,316,290,Tonnes
+Haryana,banana,8,8,8,Tonnes
+Haryana,barley,307,307,225,Tonnes
+Haryana,castor seed,34,34,25,Tonnes
+Haryana,coriander,31,31,10,Tonnes
+Haryana,cotton(lint),292,292,204,Bales
+Haryana,dry chillies,207,207,161,Tonnes
+Haryana,garlic,87,87,57,Tonnes
+Haryana,gram,305,305,198,Tonnes
+Haryana,groundnut,174,174,126,Tonnes
+Haryana,guar seed,16,16,16,Tonnes
+Haryana,horse-gram,50,50,26,Tonnes
+Haryana,jowar,200,200,147,Tonnes
+Haryana,jute,1,1,0,Bales
+Haryana,maize,267,267,148,Tonnes
+Haryana,masoor,216,216,159,Tonnes
+Haryana,moong(green gram),246,246,159,Tonnes
+Haryana,moth,95,95,66,Tonnes
+Haryana,onion,212,212,194,Tonnes
+Haryana,other kharif pulses,38,38,27,Tonnes
+Haryana,other oilseeds,4,4,0,Tonnes
+Haryana,peas & beans (pulses),182,182,122,Tonnes
+Haryana,potato,222,222,216,Tonnes
+Haryana,rapeseed &mustard,277,277,272,Tonnes
+Haryana,rice,305,305,300,Tonnes
+Haryana,sannhamp,127,127,53,Tonnes
+Haryana,sesamum,282,282,174,Tonnes
+Haryana,soyabean,2,2,0,Tonnes
+Haryana,sugarcane,306,306,259,Tonnes
+Haryana,sunflower,84,84,72,Tonnes
+Haryana,sweet potato,71,71,53,Tonnes
+Haryana,tobacco,3,3,0,Tonnes
+Haryana,turmeric,33,33,18,Tonnes
+Haryana,urad,169,169,111,Tonnes
+Haryana,wheat,317,317,317,Tonnes
+Punjab,arhar/tur,206,182,182,Tonnes
+Punjab,bajra,60,60,60,Tonnes
+Punjab,barley,161,161,161,Tonnes
+Punjab,cotton(lint),186,186,186,Bales
+Punjab,gram,205,153,153,Tonnes
+Punjab,groundnut,76,72,71,Tonnes
+Punjab,guar seed,72,53,53,Tonnes
+Punjab,jowar,4,4,4,Tonnes
+Punjab,linseed,17,16,15,Tonnes
+Punjab,maize,210,210,210,Tonnes
+Punjab,masoor,110,89,87,Tonnes
+Punjab,moong(green gram),215,181,181,Tonnes
+Punjab,moth,16,16,16,Tonnes
+Punjab,peas & beans (pulses),86,55,53,Tonnes
+Punjab,rapeseed &mustard,284,284,284,Tonnes
+Punjab,rice,329,329,329,Tonnes
+Punjab,sesamum,186,161,154,Tonnes
+Punjab,sugarcane,211,185,211,Tonnes
+Punjab,sunflower,17,17,17,Tonnes
+Punjab,urad,83,71,64,Tonnes
+Punjab,wheat,329,329,329,Tonnes

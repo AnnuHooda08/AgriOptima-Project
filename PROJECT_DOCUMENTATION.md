@@ -71,19 +71,14 @@ In accordance with strict ML engineering principles, **only one selected model i
 
 ---
 
-### Module B: Crop Yield Prediction — Random Forest Regressor
-- **Artifact Path:** `models/crop_yield/artifacts/random_forest.joblib`
-- **Architecture:**
-  - Categorical Preprocessor: `OneHotEncoder(handle_unknown='ignore')` + `SimpleImputer(strategy='most_frequent')` on `['State', 'District', 'Crop', 'Season']`
-  - Numerical Preprocessor: `StandardScaler()` + `SimpleImputer(strategy='median')` on `['YearStart', 'Area']`
-  - Regressor: `RandomForestRegressor(n_estimators=200, max_depth=15, min_samples_leaf=3, random_state=42)`
-- **Target Variable:** Yield in **Tonnes per Hectare**.
-- **Model Selection Rationale:**
-  - In the recorded evaluation report (`models/crop_yield/reports/legacy/model_comparison.csv`), Random Forest achieved the **lowest recorded Mean Absolute Error (MAE) of 2.10 tonnes/hectare** (compared to Decision Tree MAE 2.99, Linear Regression MAE 3.04, Ridge MAE 3.06, and Lasso MAE 3.12).
-  - While Linear Regression achieved higher $R^2$ on aggregate variance, Random Forest was selected because minimizing average absolute error ($\text{MAE} = \frac{1}{n}\sum |y - \hat{y}|$) is critical to prevent severe financial miscalculations for individual farmers.
-- **Current reproducible evaluation:** `models/crop_yield/evaluation/holdout_metrics.json` records the 2015–2019 holdout: MAE 2.0995 t/ha, RMSE 9.2745, R² 0.7723; the training-median baseline MAE is 8.4960. The saved inference artifact is refit on all 9,882 cleaned rows after this evaluation.
-- **Preserved Archive:** Non-selected models (`decision_tree.joblib`, `linear_regression.joblib`, `ridge_regression.joblib`, `lasso_regression.joblib`) are safely preserved in `archive/models/` and not loaded at runtime.
-
+### Module B: Crop Yield Prediction — Random Forest production artifact; Decision Tree challenger under review
+- **Production Artifact:** `models/crop_yield/artifacts/random_forest.joblib` (kept in place pending review).
+- **Challenger Artifact:** `models/crop_yield/artifacts/challenger_decision_tree_crop_season.joblib` (validation-selected; not wired into the API).
+- **Production inputs:** State, District, Crop, Season, YearStart, and Area (hectares). The selected challenger uses Crop and Season only. Production is excluded to prevent target leakage.
+- **Target:** Yield in tonnes per hectare.
+- **Current chronological comparison:** `models/crop_yield/evaluation/model_comparison.csv` reports five candidates selected using 2012–2014 validation, then refit on all pre-2015 records and tested on 2015–2019. Crop-season-only Decision Tree led validation MAE (2.5300 t/ha); on the final test its MAE/RMSE/R² were 2.4032/6.2134/0.8978. The existing Random Forest test metrics were 2.0995/9.2745/0.7723. These trade-offs and temporal instability are documented in `models/crop_yield/README.md` and `models/crop_yield/reports/current/academic_evaluation.md`.
+- **Review status:** The production artifact has not been replaced. Review the Decision Tree challenger and dataset limitations before promoting it.
+- **Preserved Archive:** Prior candidate artifacts/reports remain archived for reproducibility and are not loaded at runtime.
 ---
 
 ### Module C: Mandi Price Forecasting — Experimental HistGradientBoosting Benchmark

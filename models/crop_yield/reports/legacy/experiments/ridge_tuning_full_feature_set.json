@@ -1,0 +1,6 @@
+{
+  "search": "Ridge alpha in [0.01, 0.1, 1, 10, 100]",
+  "selection": "minimum 2012-2014 validation MAE; RMSE tie-break",
+  "chosen_alpha": 10.0,
+  "final_test_used_for_tuning": false
+}

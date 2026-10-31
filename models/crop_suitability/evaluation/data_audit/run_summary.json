@@ -1,0 +1,362 @@
+{
+  "audit": {
+    "source_path": "DataSets/crop_suitability.csv",
+    "rows": 3130,
+    "columns": [
+      "N",
+      "P",
+      "K",
+      "temperature",
+      "humidity",
+      "ph",
+      "rainfall",
+      "label"
+    ],
+    "features": [
+      "N",
+      "P",
+      "K",
+      "temperature",
+      "humidity",
+      "ph",
+      "rainfall"
+    ],
+    "target": "label",
+    "class_count": 27,
+    "missing_by_column": {
+      "N": 0,
+      "P": 0,
+      "K": 0,
+      "temperature": 0,
+      "humidity": 0,
+      "ph": 0,
+      "rainfall": 0,
+      "label": 0
+    },
+    "exact_duplicate_rows": 0,
+    "exact_duplicate_feature_vectors": 354,
+    "unique_feature_profiles": 2776,
+    "conflicting_feature_profiles": 354,
+    "rows_in_conflicting_profiles": 708,
+    "near_profile_distance_rule": "connected components at Euclidean distance <= 0.005 after dividing by fixed broad input-range spans",
+    "near_profile_connected_groups": 2264,
+    "near_profile_non_singleton_groups": 836,
+    "near_profile_largest_group_size": 3,
+    "near_profile_groups_with_conflicting_labels": 500,
+    "near_profile_pairs_with_different_labels": 530,
+    "valid_finite_feature_and_label_rows": 3130,
+    "invalid_feature_or_label_rows": 0,
+    "broad_physical_range_or_missing_flags": 0,
+    "statistical_iqr_flags_not_automatically_removed": 550,
+    "class_count_min": 100,
+    "class_count_max": 176,
+    "class_imbalance_ratio_max_over_min": 1.76,
+    "feature_describe": {
+      "N": {
+        "count": 3130.0,
+        "mean": 48.8996805112,
+        "std": 36.3282788991,
+        "min": 0.0,
+        "25%": 21.0,
+        "50%": 36.0,
+        "75%": 83.0,
+        "max": 140.0
+      },
+      "P": {
+        "count": 3130.0,
+        "mean": 54.889456869,
+        "std": 31.4086446202,
+        "min": 5.0,
+        "25%": 35.0,
+        "50%": 54.0,
+        "75%": 69.0,
+        "max": 145.0
+      },
+      "K": {
+        "count": 3130.0,
+        "mean": 47.2626198083,
+        "std": 49.5090828979,
+        "min": 5.0,
+        "25%": 20.0,
+        "50%": 30.0,
+        "75%": 49.0,
+        "max": 205.0
+      },
+      "temperature": {
+        "count": 3130.0,
+        "mean": 25.2925592484,
+        "std": 5.0373493666,
+        "min": 8.825674745,
+        "25%": 22.17931888,
+        "50%": 25.40059227,
+        "75%": 28.4308875625,
+        "max": 43.67549305
+      },
+      "humidity": {
+        "count": 3130.0,
+        "mean": 67.3981033704,
+        "std": 24.4995301044,
+        "min": 14.25803981,
+        "25%": 52.82101558,
+        "50%": 77.679535765,
+        "75%": 86.89934108,
+        "max": 99.98187601
+      },
+      "ph": {
+        "count": 3130.0,
+        "mean": 6.4813637438,
+        "std": 0.8500182255,
+        "min": 3.504752314,
+        "25%": 5.9278940195,
+        "50%": 6.4188975915,
+        "75%": 6.962386495,
+        "max": 9.93509073
+      },
+      "rainfall": {
+        "count": 3130.0,
+        "mean": 100.4898182578,
+        "std": 54.1161120258,
+        "min": 5.31450727,
+        "25%": 63.502502595,
+        "50%": 91.6389565,
+        "75%": 120.586041,
+        "max": 298.5601175
+      }
+    }
+  },
+  "benchmark": {
+    "split": {
+      "train": {
+        "rows": 1877,
+        "unique_profile_groups": 1358,
+        "class_counts": {
+          "rice": 105,
+          "maize": 89,
+          "banana": 87,
+          "coffee": 86,
+          "watermelon": 81,
+          "apple": 80,
+          "Soyabeans": 78,
+          "mango": 78,
+          "orange": 78,
+          "cotton": 78,
+          "grapes": 77,
+          "beans": 60,
+          "peas": 60,
+          "groundnuts": 60,
+          "cowpeas": 60,
+          "chickpea": 60,
+          "kidneybeans": 60,
+          "pigeonpeas": 60,
+          "mothbeans": 60,
+          "mungbean": 60,
+          "blackgram": 60,
+          "lentil": 60,
+          "pomegranate": 60,
+          "muskmelon": 60,
+          "papaya": 60,
+          "coconut": 60,
+          "jute": 60
+        }
+      },
+      "validation": {
+        "rows": 626,
+        "unique_profile_groups": 452,
+        "class_counts": {
+          "rice": 35,
+          "maize": 30,
+          "banana": 29,
+          "coffee": 29,
+          "apple": 27,
+          "Soyabeans": 26,
+          "mango": 26,
+          "grapes": 26,
+          "watermelon": 26,
+          "orange": 26,
+          "cotton": 26,
+          "beans": 20,
+          "peas": 20,
+          "groundnuts": 20,
+          "cowpeas": 20,
+          "chickpea": 20,
+          "kidneybeans": 20,
+          "pigeonpeas": 20,
+          "mothbeans": 20,
+          "mungbean": 20,
+          "blackgram": 20,
+          "lentil": 20,
+          "pomegranate": 20,
+          "muskmelon": 20,
+          "papaya": 20,
+          "coconut": 20,
+          "jute": 20
+        }
+      },
+      "test": {
+        "rows": 627,
+        "unique_profile_groups": 454,
+        "class_counts": {
+          "rice": 36,
+          "maize": 30,
+          "banana": 29,
+          "coffee": 29,
+          "watermelon": 27,
+          "apple": 27,
+          "Soyabeans": 26,
+          "mango": 26,
+          "orange": 26,
+          "cotton": 26,
+          "grapes": 25,
+          "beans": 20,
+          "peas": 20,
+          "groundnuts": 20,
+          "cowpeas": 20,
+          "chickpea": 20,
+          "kidneybeans": 20,
+          "pigeonpeas": 20,
+          "mothbeans": 20,
+          "mungbean": 20,
+          "blackgram": 20,
+          "lentil": 20,
+          "pomegranate": 20,
+          "muskmelon": 20,
+          "papaya": 20,
+          "coconut": 20,
+          "jute": 20
+        }
+      }
+    },
+    "comparison": [
+      {
+        "model": "Random Forest",
+        "train_rows": 1877,
+        "validation_rows": 626,
+        "train_metrics": {
+          "accuracy": 0.840170484816196,
+          "macro_precision": 0.8175925925925925,
+          "macro_recall": 0.8160968660968662,
+          "macro_f1": 0.8119113550019608,
+          "weighted_f1": 0.8347585773301178
+        },
+        "validation_metrics": {
+          "accuracy": 0.8306709265175719,
+          "macro_precision": 0.8045534712201379,
+          "macro_recall": 0.8069393569393569,
+          "macro_f1": 0.7958253476829328,
+          "weighted_f1": 0.8196463720850707
+        }
+      },
+      {
+        "model": "K-Nearest Neighbors",
+        "train_rows": 1877,
+        "validation_rows": 626,
+        "train_metrics": {
+          "accuracy": 0.8897176345231753,
+          "macro_precision": 0.9270647976733373,
+          "macro_recall": 0.8722222222222222,
+          "macro_f1": 0.8552897606579516,
+          "weighted_f1": 0.8731077354142146
+        },
+        "validation_metrics": {
+          "accuracy": 0.8130990415335463,
+          "macro_precision": 0.7868891294647441,
+          "macro_recall": 0.7916429249762584,
+          "macro_f1": 0.7845567236604984,
+          "weighted_f1": 0.80677748311717
+        }
+      },
+      {
+        "model": "SVM (RBF, current design)",
+        "train_rows": 1877,
+        "validation_rows": 626,
+        "train_metrics": {
+          "accuracy": 0.8284496537027171,
+          "macro_precision": 0.7851803964487692,
+          "macro_recall": 0.8029643196309864,
+          "macro_f1": 0.7914474379462987,
+          "weighted_f1": 0.816291867279897
+        },
+        "validation_metrics": {
+          "accuracy": 0.8194888178913738,
+          "macro_precision": 0.77439246774614,
+          "macro_recall": 0.7955026455026455,
+          "macro_f1": 0.7807251042061386,
+          "weighted_f1": 0.8052822808090517
+        }
+      },
+      {
+        "model": "Decision Tree",
+        "train_rows": 1877,
+        "validation_rows": 626,
+        "train_metrics": {
+          "accuracy": 0.840170484816196,
+          "macro_precision": 0.7246376811594203,
+          "macro_recall": 0.8148148148148148,
+          "macro_f1": 0.7551440329218105,
+          "weighted_f1": 0.786006038003907
+        },
+        "validation_metrics": {
+          "accuracy": 0.8178913738019169,
+          "macro_precision": 0.6987223770269748,
+          "macro_recall": 0.792846616984548,
+          "macro_f1": 0.7319527615408296,
+          "weighted_f1": 0.763122335904556
+        }
+      },
+      {
+        "model": "Logistic Regression",
+        "train_rows": 1877,
+        "validation_rows": 626,
+        "train_metrics": {
+          "accuracy": 0.7890250399573788,
+          "macro_precision": 0.693667094852804,
+          "macro_recall": 0.7648304393622746,
+          "macro_f1": 0.7145865736009505,
+          "weighted_f1": 0.7412753395071352
+        },
+        "validation_metrics": {
+          "accuracy": 0.7955271565495208,
+          "macro_precision": 0.7014433879772044,
+          "macro_recall": 0.7681522181522182,
+          "macro_f1": 0.7174913047332333,
+          "weighted_f1": 0.7461036227035353
+        }
+      }
+    ],
+    "selected_model": "Random Forest",
+    "test_results": {
+      "Random Forest": {
+        "metrics": {
+          "accuracy": 0.835725677830941,
+          "macro_precision": 0.811134902532752,
+          "macro_recall": 0.8109370053814499,
+          "macro_f1": 0.8016044216194618,
+          "weighted_f1": 0.8256976000849297
+        },
+        "chickpea": {
+          "precision": 0.5,
+          "recall": 0.1,
+          "f1-score": 0.16666666666666666,
+          "support": 20.0
+        }
+      },
+      "SVM (RBF, current design) reference": {
+        "metrics": {
+          "accuracy": 0.8309409888357256,
+          "macro_precision": 0.7878514199030412,
+          "macro_recall": 0.8061728395061729,
+          "macro_f1": 0.7918178381050701,
+          "weighted_f1": 0.8165880066918428
+        },
+        "chickpea": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 20.0
+        }
+      }
+    },
+    "challenger_artifact": "models/crop_suitability/artifacts/crop_suitability_grouped_split_challenger_040c3feeea2b.joblib",
+    "challenger_artifact_saved_this_run": false
+  }
+}

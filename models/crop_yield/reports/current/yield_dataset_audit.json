@@ -1,0 +1,11 @@
+{
+  "primary_dataset": "DataSets/Yeild/crop_production_haryana_punjab_1997_2019.csv",
+  "weather_files_found_by_filename": [],
+  "weather_integration": "A NASA POWER climatology endpoint exists in backend/app/services/weather_service.py with district baseline fallbacks. It returns climatological/annual summaries, not historical year- and season-aligned weather for 1997-2019, so it cannot be joined to training rows.",
+  "weather_service_path": "backend/app/services/weather_service.py",
+  "dataset_count_audited": 38,
+  "candidate_decisions": {
+    "primary": "Explicit yield in tonnes/ha plus area, crop, season, year, district, state, and Haryana/Punjab coverage.",
+    "not_combined": "The remaining files have incompatible geography/time/schema, are overlapping/shorter extracts, or require source semantics/spatial matching not provided by the repository."
+  }
+}

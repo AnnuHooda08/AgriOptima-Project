@@ -1,0 +1,121 @@
+{
+  "sugarcane_records": 90,
+  "other_records": 1311,
+  "sugarcane_actual_mean_t_ha": 75.35246460955982,
+  "sugarcane_predicted_mean_t_ha": 55.36536440566765,
+  "sugarcane_mae_t_ha": 20.4636326416947,
+  "other_crop_mae_t_ha": 1.298849127536944,
+  "sugarcane_p95_absolute_error_t_ha": 36.433163965635586,
+  "sugarcane_largest_errors": [
+    {
+      "State": "Haryana",
+      "District": "PANCHKULA",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2012,
+      "Yield": 113.68015414258188,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 58.31478973691423,
+      "absolute_error_t_ha": 58.31478973691423
+    },
+    {
+      "State": "Haryana",
+      "District": "FARIDABAD",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2012,
+      "Yield": 110.77844311377244,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 55.413078708104784,
+      "absolute_error_t_ha": 55.413078708104784
+    },
+    {
+      "State": "Haryana",
+      "District": "KAITHAL",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2012,
+      "Yield": 99.40187980632298,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 44.036515400655325,
+      "absolute_error_t_ha": 44.036515400655325
+    },
+    {
+      "State": "Punjab",
+      "District": "PATIALA",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2013,
+      "Yield": 93.66666666666669,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 38.30130226099903,
+      "absolute_error_t_ha": 38.30130226099903
+    },
+    {
+      "State": "Punjab",
+      "District": "PATIALA",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2012,
+      "Yield": 92.0,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 36.634635594332345,
+      "absolute_error_t_ha": 36.634635594332345
+    },
+    {
+      "State": "Haryana",
+      "District": "PANIPAT",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2012,
+      "Yield": 91.55228526956276,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 36.186920863895104,
+      "absolute_error_t_ha": 36.186920863895104
+    },
+    {
+      "State": "Punjab",
+      "District": "PATIALA",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2014,
+      "Yield": 90.66666666666669,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 35.30130226099903,
+      "absolute_error_t_ha": 35.30130226099903
+    },
+    {
+      "State": "Punjab",
+      "District": "BARNALA",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2013,
+      "Yield": 90.0,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 34.634635594332345,
+      "absolute_error_t_ha": 34.634635594332345
+    },
+    {
+      "State": "Punjab",
+      "District": "SANGRUR",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2014,
+      "Yield": 88.33333333333333,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 32.96796892766567,
+      "absolute_error_t_ha": 32.96796892766567
+    },
+    {
+      "State": "Haryana",
+      "District": "HISAR",
+      "Crop": "Sugarcane",
+      "Season": "Whole Year",
+      "YearStart": 2013,
+      "Yield": 88.0,
+      "predicted_yield_t_ha": 55.365364405667655,
+      "residual_t_ha": 32.634635594332345,
+      "absolute_error_t_ha": 32.634635594332345
+    }
+  ]
+}

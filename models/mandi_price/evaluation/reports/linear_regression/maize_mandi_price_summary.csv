@@ -1,0 +1,1633 @@
+Market Name,observations,median_modal_price,state
+Dahod,10858,1300.0,Gujarat
+Vadodara,7518,1300.0,Gujarat
+Fatehnagar,7088,1170.0,Rajasthan
+Bhilwara,6503,1265.0,Rajasthan
+Udaipur,5926,1260.0,Rajasthan
+Kota,5553,1200.0,Rajasthan
+Kondagoan,5501,1050.0,Chattisgarh
+Bangalore,5117,1280.0,Karnataka
+Nawarangpur,4971,1300.0,Odisha
+Chhindwara,4965,1020.0,Madhya Pradesh
+Davangere,4921,1115.0,Karnataka
+Keshkal,4863,1050.0,Chattisgarh
+Betul,4694,1100.0,Madhya Pradesh
+Himatnagar,4581,1225.0,Gujarat
+Pratapgarh,4574,1340.0,Rajasthan
+Kasganj,4368,1315.0,Uttar Pradesh
+Etah,4359,1250.0,Uttar Pradesh
+Gondal,4271,1255.0,Gujarat
+Jalana,4250,1100.0,Maharashtra
+Gonda,4245,1330.0,Uttar Pradesh
+Mandsaur,4219,1220.0,Madhya Pradesh
+Bundi,4141,1246.0,Rajasthan
+Bellary,4121,1318.0,Karnataka
+Kallakurichi,4069,1302.0,Tamil Nadu
+Rajkot,3983,1250.0,Gujarat
+Buland Shahr,3939,1150.0,Uttar Pradesh
+Burhanpur,3860,1100.0,Madhya Pradesh
+Jaunpur,3858,1020.0,Uttar Pradesh
+Saharanpur,3813,1550.0,Uttar Pradesh
+Honnali,3809,1150.0,Karnataka
+Divai,3806,1240.0,Uttar Pradesh
+Khargone,3803,1219.0,Madhya Pradesh
+Amreli,3799,1055.0,Gujarat
+Kamareddy,3701,1310.0,Telangana
+Ramaganj Mandi,3690,1260.0,Rajasthan
+Modasa,3662,1200.0,Gujarat
+Aligarh,3658,1350.0,Uttar Pradesh
+Kottur,3630,1146.5,Karnataka
+Shimoga,3627,1150.0,Karnataka
+Mainpuri,3611,1231.0,Uttar Pradesh
+Bijay Nagar,3607,1450.0,Rajasthan
+Kekri,3594,1240.0,Rajasthan
+Anjad,3575,1310.0,Madhya Pradesh
+Dewas,3553,1230.0,Madhya Pradesh
+Deoli,3550,1325.0,Rajasthan
+Neemuch,3524,1274.0,Madhya Pradesh
+Kannauj,3495,1380.0,Uttar Pradesh
+Bagalakot,3476,1237.0,Karnataka
+Madanganj Kishanganj,3464,1574.5,Rajasthan
+Bhiloda,3435,1275.0,Gujarat
+Ghaziabad,3414,1275.0,Uttar Pradesh
+Gowribidanoor,3408,1100.0,Karnataka
+Jagtial,3393,1228.0,Telangana
+Lucknow,3380,1300.0,Uttar Pradesh
+Dhansura,3365,1365.0,Gujarat
+Gadag,3297,1000.0,Karnataka
+Warangal,3292,1200.0,Telangana
+Bijapur,3256,900.0,Karnataka
+Mundaragi,3238,1251.0,Karnataka
+Malegaon,3227,1111.0,Maharashtra
+Karimnagar,3206,1121.0,Telangana
+Shikaripura,3199,1100.0,Karnataka
+Ulundurpettai,3175,1212.0,Tamil Nadu
+Hassan,3162,1095.0,Karnataka
+Harappana Halli,3156,1210.0,Karnataka
+Dondaicha,3124,1175.0,Maharashtra
+Aurangabad,3108,1050.0,Maharashtra
+H.B. Halli,3034,1200.0,Karnataka
+Lakhimpur,3018,1480.0,Uttar Pradesh
+Chinnasalem,3008,1350.0,Tamil Nadu
+Bhikangaon,2981,1311.0,Madhya Pradesh
+Ratlam,2970,896.0,Madhya Pradesh
+Choppadandi,2970,1277.0,Telangana
+Chalisgaon,2959,1050.0,Maharashtra
+Manawar,2946,1320.0,Madhya Pradesh
+Athani,2942,1125.0,Karnataka
+Badepalli,2934,1245.0,Telangana
+Gorakhpur,2931,1390.0,Madhya Pradesh
+Mysore (Bandipalya),2911,937.0,Karnataka
+Dhule,2905,1250.0,Maharashtra
+Nizamabad,2897,1100.0,Telangana
+Kudchi,2889,1200.0,Karnataka
+Amalner,2889,1301.0,Maharashtra
+Sillod,2870,1350.0,Maharashtra
+Madhoganj,2868,1450.0,Uttar Pradesh
+Nimbahera,2862,950.0,Rajasthan
+Sangli,2857,885.0,Maharashtra
+Sambalpur,2833,1100.0,Odisha
+Dhamnod,2830,1300.0,Madhya Pradesh
+Khammam,2824,930.0,Telangana
+Lasalgaon,2814,1273.0,Maharashtra
+Siddipet,2807,1156.0,Telangana
+Chaurai,2800,1300.0,Madhya Pradesh
+Agar,2797,1020.0,Madhya Pradesh
+Malpura,2791,1490.0,Rajasthan
+Malkapur,2769,1240.0,Maharashtra
+Sangarapuram,2748,1315.0,Tamil Nadu
+Thirukovilur,2729,1389.0,Tamil Nadu
+Chintalapudi,2729,1300.0,Andhra Pradesh
+Hanagal,2726,1208.5,Karnataka
+Jhalarapatan,2704,1130.0,Rajasthan
+Beawar,2702,1525.0,Rajasthan
+Yeola,2680,1185.0,Maharashtra
+Ahmedabad,2663,700.0,Gujarat
+Jasdan,2663,1300.0,Gujarat
+Farukhabad,2644,1230.0,Uttar Pradesh
+Lasur Station,2631,1225.0,Maharashtra
+Manmad,2627,1250.0,Maharashtra
+Nandurbar,2626,1480.0,Maharashtra
+Kustagi,2605,1371.0,Karnataka
+Agra,2601,1420.0,Uttar Pradesh
+Hardoi,2551,1500.0,Uttar Pradesh
+Guna,2546,1225.0,Madhya Pradesh
+Jamakhandi,2536,850.0,Karnataka
+Pusapatirega,2534,1310.0,Andhra Pradesh
+Chhibramau(Kannuj),2533,1400.0,Uttar Pradesh
+Baran,2526,1175.0,Rajasthan
+Nandgaon,2517,1327.0,Maharashtra
+Vijay Nagar(Gulabpura),2514,1450.0,Rajasthan
+Bhawani Mandi,2504,1137.5,Rajasthan
+Kopargaon,2500,1220.0,Maharashtra
+Dharwar,2493,1128.0,Karnataka
+Vijayanagaram,2486,1330.0,Andhra Pradesh
+Hapur,2451,1565.0,Uttar Pradesh
+Ranebennur,2448,1385.0,Karnataka
+Holenarsipura,2444,1140.5,Karnataka
+Savarkundla,2432,1325.0,Gujarat
+Nawanshahar,2427,897.0,Punjab
+Sehore,2399,851.0,Madhya Pradesh
+Pandharpur,2386,800.0,Maharashtra
+Rona,2381,1129.0,Karnataka
+Soundati,2339,1323.0,Karnataka
+Devala,2335,1240.0,Maharashtra
+Faizabad,2332,1485.0,Uttar Pradesh
+Muradabad,2329,1540.0,Uttar Pradesh
+Rajula,2326,1293.0,Gujarat
+Bangarmau,2321,1300.0,Uttar Pradesh
+Narayanpur,2320,850.0,Chattisgarh
+Khamgaon,2306,1047.5,Maharashtra
+Shadnagar,2297,1235.0,Telangana
+Jamner,2294,1310.0,Maharashtra
+Biaora,2272,1110.0,Madhya Pradesh
+Chopada,2265,1161.0,Maharashtra
+Piriya Pattana,2258,1070.0,Karnataka
+Sirsaganj,2254,1360.0,Uttar Pradesh
+Bandhabazar,2249,1200.0,Chattisgarh
+Nabarangpur(Umerkote),2245,1310.0,Odisha
+Deoulgaon Raja,2223,925.0,Maharashtra
+Bahraich,2220,1720.0,Uttar Pradesh
+Pune,2208,1025.0,Maharashtra
+Gandhari,2206,1365.0,Telangana
+Khandwa,2186,1250.0,Madhya Pradesh
+Haveri,2185,1365.0,Karnataka
+Lasalgaon(Niphad),2184,1349.0,Maharashtra
+Ashta,2174,1130.0,Madhya Pradesh
+Badwaha,2169,1270.0,Madhya Pradesh
+Charra,2164,1680.0,Uttar Pradesh
+Godhra,2153,950.0,Gujarat
+Ariyalur Market,2132,1409.0,Tamil Nadu
+Parlakhemundi,2117,900.0,Odisha
+Shirpur,2110,1200.0,Maharashtra
+Bhiknoor,2090,1175.0,Telangana
+Seoni,2083,1106.0,Madhya Pradesh
+Haathras,2079,1400.0,Uttar Pradesh
+Shikohabad,2063,1425.0,Uttar Pradesh
+Nandura,2061,1200.0,Maharashtra
+Talod,2053,1190.0,Gujarat
+Khilchipur,2040,1250.0,Madhya Pradesh
+Sangli(Miraj),2035,1410.0,Maharashtra
+Nargunda,2030,1300.0,Karnataka
+Shrirampur,2030,1050.0,Maharashtra
+Dhar,2021,1148.0,Madhya Pradesh
+Hirekerur,2021,1200.0,Karnataka
+Siyana,2015,1360.0,Uttar Pradesh
+Imphal,2001,1800.0,Manipur
+Bhokardan,2001,1050.0,Maharashtra
+Harihara,1995,1040.0,Karnataka
+Gangapur,1985,1180.0,Maharashtra
+Hubli (Amaragol),1983,1277.0,Karnataka
+Virudhachalam,1982,1425.5,Tamil Nadu
+Kumbhraj,1970,1225.0,Madhya Pradesh
+Ujjain,1969,850.0,Madhya Pradesh
+Chitradurga,1948,1282.5,Karnataka
+Kurnool,1937,1359.0,Andhra Pradesh
+Kollegal,1933,1100.0,Karnataka
+Indore,1915,1401.0,Madhya Pradesh
+Khair,1914,1320.0,Uttar Pradesh
+Atmakur,1892,1700.0,Andhra Pradesh
+Challakere,1885,1060.0,Karnataka
+Mundgod,1884,1380.0,Karnataka
+Choubepur,1882,1795.0,Uttar Pradesh
+Meerut,1877,1620.0,Uttar Pradesh
+A lot,1871,960.0,Madhya Pradesh
+Kanpur(Grain),1864,1840.0,Uttar Pradesh
+Jalgaon,1856,841.0,Maharashtra
+Begu,1848,1350.0,Rajasthan
+Shahada,1847,1300.0,Maharashtra
+Nandikotkur,1845,1250.0,Andhra Pradesh
+Timarni,1844,1300.0,Madhya Pradesh
+Chhabra,1842,1168.0,Rajasthan
+Jamner(Neri),1839,1310.0,Maharashtra
+Bichhiya,1839,1365.0,Madhya Pradesh
+Hoovinahadagali,1834,1060.0,Karnataka
+Khedbrahma,1833,1312.0,Gujarat
+Lalitpur,1833,1290.0,Uttar Pradesh
+Mandalgarh,1829,1370.0,Rajasthan
+Sanawad,1811,1215.0,Madhya Pradesh
+Barshi,1810,1200.0,Maharashtra
+Kamlaganj,1806,1450.0,Uttar Pradesh
+Mohamadabad,1806,1640.0,Uttar Pradesh
+Jahangirabad,1798,1700.0,Uttar Pradesh
+Balrampur,1794,1725.0,Uttar Pradesh
+Giridih,1789,1050.0,Jharkhand
+Jetpur(Dist.Rajkot),1786,870.0,Gujarat
+Indore(F&V),1780,776.0,Madhya Pradesh
+Kalvan,1766,1193.0,Maharashtra
+Devgadhbaria,1755,1285.0,Gujarat
+Somvarpet,1750,1000.0,Karnataka
+Mhow,1746,1263.0,Madhya Pradesh
+Idar,1743,1222.0,Gujarat
+Aklera,1741,1275.0,Rajasthan
+Hunsur,1734,900.0,Karnataka
+Modasa(Tintoi),1716,1250.0,Gujarat
+Pharasgaon,1713,1250.0,Chattisgarh
+Narsampet,1713,1275.0,Telangana
+Kayamganj,1704,1770.0,Uttar Pradesh
+Ichhawar,1698,1320.0,Madhya Pradesh
+Badami,1697,1162.0,Karnataka
+Ajmer (Grain),1690,1065.0,Rajasthan
+Harda,1677,1296.0,Madhya Pradesh
+Gangavalli,1677,1410.0,Tamil Nadu
+Aliganj,1665,1560.0,Uttar Pradesh
+Kothavalasa,1662,1330.0,Andhra Pradesh
+Medchal,1655,1700.0,Telangana
+Doddaballa Pur,1645,1130.0,Karnataka
+Satana,1619,1307.0,Maharashtra
+Kalamb(Osmanabad),1615,1135.0,Maharashtra
+Naanpara,1607,1770.0,Uttar Pradesh
+Gogamba,1605,1435.0,Gujarat
+Khurja,1601,1380.0,Uttar Pradesh
+Khirakiya,1598,1307.0,Madhya Pradesh
+Manasa,1587,1335.0,Madhya Pradesh
+Badwani,1576,1300.0,Madhya Pradesh
+Ahmednagar,1573,1200.0,Maharashtra
+Jammikunta,1567,957.0,Telangana
+Bhadravathi,1564,1240.0,Karnataka
+Belur,1553,1200.0,Karnataka
+Varanasi(Grain),1551,1765.0,Uttar Pradesh
+Nagarkurnool,1548,1251.0,Telangana
+Pargi,1548,1440.0,Telangana
+Udumalpet,1543,1130.0,Tamil Nadu
+Jaora,1543,637.0,Madhya Pradesh
+Kasrawad,1532,1225.0,Madhya Pradesh
+Karmala,1517,1400.0,Maharashtra
+Dindori,1509,1425.0,Madhya Pradesh
+Koppal,1503,1107.0,Karnataka
+Atru,1502,1071.5,Rajasthan
+Arasikere,1487,1150.0,Karnataka
+Allahabad,1473,1500.0,Uttar Pradesh
+Thalaivasal,1472,1330.0,Tamil Nadu
+Kalagategi,1464,1300.0,Karnataka
+Baramati,1456,1460.0,Maharashtra
+Mangal Wedha,1449,1281.0,Maharashtra
+Ramdurga,1439,1330.0,Karnataka
+Pachora,1437,1227.0,Maharashtra
+Alwar,1437,1200.0,Rajasthan
+Jambusar,1432,1700.0,Gujarat
+Karhi,1400,1334.5,Madhya Pradesh
+Jeerapur,1396,1205.0,Madhya Pradesh
+Haliyala,1395,1290.0,Karnataka
+Santhesargur,1392,900.0,Karnataka
+Kalapipal,1389,1100.0,Madhya Pradesh
+Jambusar(Kaavi),1386,1700.0,Gujarat
+Kurdwadi,1384,1320.0,Maharashtra
+Kesamudram,1377,1403.0,Telangana
+Rura,1348,1420.0,Uttar Pradesh
+Sinner,1347,1250.0,Maharashtra
+Mandla,1320,1250.0,Madhya Pradesh
+Makdi,1319,1250.0,Chattisgarh
+Jobat,1319,1100.0,Madhya Pradesh
+Sendhwa,1316,1400.0,Madhya Pradesh
+Sonkatch,1315,1115.0,Madhya Pradesh
+Khategaon,1311,1190.0,Madhya Pradesh
+Visavadar,1303,1020.0,Gujarat
+Sahebganj,1302,950.0,Jharkhand
+Jagdalpur,1298,1014.0,Chattisgarh
+K.R.Nagar,1297,1038.0,Karnataka
+Dhing,1296,1360.0,Assam
+Davgadbaria(Piplod),1294,1365.0,Gujarat
+Bhopal,1290,1346.5,Madhya Pradesh
+Parchur,1284,1150.0,Andhra Pradesh
+Ramanujganj,1280,1370.0,Chattisgarh
+Banswada,1275,1310.0,Telangana
+Bijolia,1264,1220.0,Rajasthan
+Sankeshwar,1259,1200.0,Karnataka
+Bilsi,1251,1720.0,Uttar Pradesh
+Alur,1251,1360.0,Andhra Pradesh
+Gopalavaram,1241,980.0,Andhra Pradesh
+Badayoun,1238,1330.0,Uttar Pradesh
+Tonk,1233,1100.0,Rajasthan
+Vaijpur,1229,1375.0,Maharashtra
+Sandila,1220,1850.0,Uttar Pradesh
+Mumbai,1219,2500.0,Maharashtra
+Chickkaballapura,1199,1500.0,Karnataka
+Pandhana,1192,1230.0,Madhya Pradesh
+Shamgarh,1192,1180.0,Madhya Pradesh
+Bewar,1187,1760.0,Uttar Pradesh
+Piplya,1183,1080.0,Madhya Pradesh
+Tumkur,1182,1620.0,Karnataka
+Ajuha,1182,1560.0,Uttar Pradesh
+Vishrampur,1178,1650.0,Chattisgarh
+Segaon,1177,1365.0,Madhya Pradesh
+Solapur,1174,700.0,Maharashtra
+Jabalpur,1163,1425.0,Madhya Pradesh
+Khanna,1162,1050.0,Punjab
+Ujhani,1158,1450.0,Uttar Pradesh
+Jhijhank,1151,1600.0,Uttar Pradesh
+Dound,1134,1115.5,Maharashtra
+Gamhari,1133,1650.0,Chattisgarh
+Rajnandgaon,1131,791.0,Chattisgarh
+Vaduj,1125,1300.0,Maharashtra
+Narela,1123,891.0,NCT of Delhi
+Ganjdudwara,1120,1587.5,Uttar Pradesh
+Dhanora,1116,1650.0,Chattisgarh
+Karjat(Raigad),1116,1650.0,Maharashtra
+Narsinghgarh,1115,1115.0,Madhya Pradesh
+Shujalpur,1110,671.5,Madhya Pradesh
+Naraingarh,1109,1190.0,Haryana
+Chikali,1108,870.0,Maharashtra
+Achalda,1102,1900.0,Uttar Pradesh
+Annigeri,1098,840.0,Karnataka
+Gundlupet,1096,1109.0,Karnataka
+Vikasnagar,1096,800.0,Uttrakhand
+Atru(Kawai Salpura),1092,1325.5,Rajasthan
+Lakhnadon,1090,1365.0,Madhya Pradesh
+Lunavada,1087,1142.0,Gujarat
+Muzzafarnagar,1076,1600.0,Uttar Pradesh
+Achampet,1073,1169.0,Telangana
+Junagadh,1070,875.0,Gujarat
+Binaganj,1068,1150.0,Madhya Pradesh
+Badnawar,1063,1151.0,Madhya Pradesh
+Pandhurna,1057,1190.0,Madhya Pradesh
+Petlawad,1042,1250.0,Madhya Pradesh
+Chhpara,1042,1327.0,Madhya Pradesh
+Jalgaon(Masawat),1038,1200.0,Maharashtra
+Channarayapatna,1036,1200.0,Karnataka
+Mahbubnagar,1036,1260.0,Telangana
+Javad,1036,1325.0,Madhya Pradesh
+Jhabua,1031,1250.0,Madhya Pradesh
+Ambikapur,1027,1370.0,Chattisgarh
+Kapasan,1022,1500.0,Rajasthan
+Rahata,1019,1350.0,Maharashtra
+Zaheerabad,1019,1400.0,Telangana
+Nagari,1018,1000.0,Andhra Pradesh
+Jaipur(Grain)(Chandpole),1017,1450.0,Rajasthan
+Pakur,1006,925.0,Jharkhand
+Atrauli,1006,1468.0,Uttar Pradesh
+Multai,1003,1310.0,Madhya Pradesh
+Huzzurabad,1000,1700.0,Telangana
+Taal,995,1120.0,Madhya Pradesh
+Gandhwani,993,1511.0,Madhya Pradesh
+Dausa,993,1483.0,Rajasthan
+Shamli,992,2052.5,Uttar Pradesh
+Kaij,987,1191.0,Maharashtra
+Nawabganj,982,1620.0,Uttar Pradesh
+Harsood,981,1300.0,Madhya Pradesh
+Kannad,977,1300.0,Maharashtra
+Risia,973,1620.0,Uttar Pradesh
+Susner,968,1230.0,Madhya Pradesh
+Yawal,959,1200.0,Maharashtra
+Banapura,956,1365.0,Madhya Pradesh
+Jamkhed,953,1250.0,Maharashtra
+Chandvad,948,1320.5,Maharashtra
+Kukshi,945,1750.0,Madhya Pradesh
+Haatpipliya,945,1210.0,Madhya Pradesh
+Pachaur,944,1100.0,Madhya Pradesh
+Yellareddy,943,1200.0,Telangana
+Saluru,942,880.0,Andhra Pradesh
+Uttaripura,939,1200.0,Uttar Pradesh
+Keolari,935,1370.0,Madhya Pradesh
+Katni,934,1235.0,Madhya Pradesh
+Kurawar,928,1150.0,Madhya Pradesh
+Buldhana,928,1350.0,Maharashtra
+Latur,927,1050.0,Maharashtra
+Hosadurga,923,1172.0,Karnataka
+Kadur,923,1250.0,Karnataka
+Holalkere,920,1407.0,Karnataka
+Ballia,919,1665.0,Uttar Pradesh
+Raver,916,1239.5,Maharashtra
+Sadasivpet,914,1378.5,Telangana
+Pipariya,908,1270.0,Madhya Pradesh
+Sikandraraau,903,1185.0,Uttar Pradesh
+Dammapet,903,1300.0,Telangana
+Jangaon,898,1375.5,Telangana
+Bhehjoi,891,1125.0,Uttar Pradesh
+Devbhog,889,1410.0,Chattisgarh
+Wanaparthy town,885,1185.0,Telangana
+Saunsar,882,1310.0,Madhya Pradesh
+Vellore,872,1600.0,Tamil Nadu
+Bharthna,869,1650.0,Uttar Pradesh
+Achalpur,868,1200.0,Maharashtra
+Chandausi,866,730.0,Uttar Pradesh
+Husnabad,866,1397.5,Telangana
+Channagiri,855,1100.0,Karnataka
+Villupuram,853,1229.0,Tamil Nadu
+Kolhapur(Laxmipuri),851,1450.0,Maharashtra
+Hoshiarpur,850,1232.25,Punjab
+Shiggauv,840,1325.5,Karnataka
+Tarikere,835,1000.0,Karnataka
+Khetia,833,1280.0,Madhya Pradesh
+Mahuva,833,990.0,Gujarat
+Limkheda,828,1350.0,Gujarat
+Sakri,823,1280.0,Maharashtra
+Sillod(Bharadi),823,1340.0,Maharashtra
+Itarsi,813,1584.0,Madhya Pradesh
+Akluj,810,1040.0,Maharashtra
+Morva Hafad,807,1625.0,Gujarat
+Jasvantnagar,807,1250.0,Uttar Pradesh
+Rahuri(Vambori),806,1240.5,Maharashtra
+Amarwda,806,1863.5,Madhya Pradesh
+Maksudangarh,804,1373.0,Madhya Pradesh
+Narsapur,803,1280.0,Telangana
+Mahidpur,803,912.0,Madhya Pradesh
+Bagli,798,1325.0,Madhya Pradesh
+Sandi,798,1210.0,Uttar Pradesh
+Bareilly,789,1450.0,Uttar Pradesh
+Sorabha,786,1242.5,Karnataka
+Gulavati,783,1400.0,Uttar Pradesh
+Amarawati,781,1100.0,Maharashtra
+Ghiraur,780,1992.5,Uttar Pradesh
+Pethappampatti,778,1547.5,Tamil Nadu
+Obedullaganj,775,1425.0,Madhya Pradesh
+Chamaraj Nagar,774,1000.0,Karnataka
+Indapur,773,711.0,Maharashtra
+Wazirganj,772,1600.0,Uttar Pradesh
+Narsinghpur,770,1475.0,Madhya Pradesh
+Bandikui,769,1540.0,Rajasthan
+Palitana,768,950.0,Gujarat
+Yellandu,767,1300.0,Telangana
+Tasgaon,765,1500.0,Maharashtra
+Madhugiri,762,1200.0,Karnataka
+Parola,761,1112.0,Maharashtra
+Kille Dharur,761,1051.0,Maharashtra
+Gokak,761,1386.0,Karnataka
+Nagda,756,1001.5,Madhya Pradesh
+Navapur,754,1275.5,Maharashtra
+Rajasamand,753,1375.0,Rajasthan
+Kannod,746,1275.5,Madhya Pradesh
+Mahuva(Station Road),742,1240.0,Gujarat
+Savner,740,1550.0,Maharashtra
+Sattupalli,736,1450.0,Telangana
+Gevrai,734,1149.5,Maharashtra
+Sawai Madhopur,730,1144.0,Rajasthan
+Unnao,729,1990.0,Uttar Pradesh
+Gajapathinagaram,727,1310.0,Andhra Pradesh
+Yalburga,723,1050.0,Karnataka
+Dadri,707,2030.0,Uttar Pradesh
+Dhadgaon,706,1250.0,Maharashtra
+Mahabubabad,705,1362.0,Telangana
+Badrisadri,702,1377.0,Rajasthan
+Sambhal,701,1050.0,Uttar Pradesh
+Armoor,701,1000.0,Telangana
+Boraee,700,1310.0,Chattisgarh
+Shirur,698,1300.0,Maharashtra
+Badod,696,1197.5,Madhya Pradesh
+Jogipet,694,1237.5,Telangana
+Jagalur,691,1050.0,Karnataka
+Loharda,690,1563.5,Madhya Pradesh
+Kurali,690,817.5,Punjab
+Kusmee,687,1770.0,Chattisgarh
+Anthiyur,687,1361.0,Tamil Nadu
+Bagepalli,686,1350.0,Karnataka
+Bhawani Mandi(Choumehla),685,1305.0,Rajasthan
+Bhainsa,682,1710.0,Telangana
+Ambejaogai,678,750.0,Maharashtra
+Arakalgud,673,1300.0,Karnataka
+Sardarnagar,672,1450.0,Telangana
+Madhupur,670,2100.0,Jharkhand
+Lasalgaon(Vinchur),669,1800.0,Maharashtra
+Antagarh,668,1000.0,Chattisgarh
+Bayad,667,1287.0,Gujarat
+Pratappur,667,1700.0,Chattisgarh
+Kurdwadi(Modnimb),664,1530.0,Maharashtra
+Tirumalagiri,663,1362.0,Telangana
+Barshi(Vairag),661,1100.0,Maharashtra
+Jaipur (Grain),655,1260.0,Rajasthan
+Ambad (Vadigodri),655,1020.0,Maharashtra
+Sindagi,653,900.0,Karnataka
+Savanur,650,824.0,Karnataka
+Daloda,646,1870.0,Madhya Pradesh
+Dondaicha(Sindhkheda),646,1076.0,Maharashtra
+Jagraon,646,1100.0,Punjab
+Lohardaga,642,1335.0,Jharkhand
+Bhawani Mandi(Raipur),642,1220.5,Rajasthan
+Pathalgaon,639,1700.0,Chattisgarh
+Samsi,638,1200.0,West Bengal
+Pakhanjur,636,1430.0,Chattisgarh
+Chikkamagalore,634,1275.5,Karnataka
+Nippani,633,1200.0,Karnataka
+Derol,632,1365.0,Gujarat
+Shahpura,623,1425.0,Madhya Pradesh
+Lateri,622,1225.0,Madhya Pradesh
+Etawah,619,1370.0,Uttar Pradesh
+Mohol,617,1550.0,Maharashtra
+Palanpur,614,1774.0,Gujarat
+Auraiya,613,1250.0,Uttar Pradesh
+Kuchinapudi,612,1000.0,Andhra Pradesh
+Nainpur,610,1450.0,Madhya Pradesh
+Badnagar,610,860.0,Madhya Pradesh
+Derol(Vejalpur),601,1370.0,Gujarat
+Chhapiheda,595,1295.0,Madhya Pradesh
+Sira,594,1233.5,Karnataka
+Kalburgi,589,1500.0,Karnataka
+Bhanupratappur,586,1550.0,Chattisgarh
+Samrala,581,850.0,Punjab
+Khagaria,580,500.0,Bihar
+Shahdara,577,400.0,NCT of Delhi
+Shahabad(New Mandi),575,1850.0,Uttar Pradesh
+Sitmau,574,1500.0,Madhya Pradesh
+Rahuri,571,1100.0,Maharashtra
+Pukhrayan,570,1870.0,Uttar Pradesh
+Taloda,570,1280.0,Maharashtra
+Raghogarh,570,1412.5,Madhya Pradesh
+Balwadi,568,1327.5,Madhya Pradesh
+Godda,567,825.0,Jharkhand
+Khanpur,566,1311.5,Rajasthan
+Ghansour,564,1500.0,Madhya Pradesh
+Tuljapur,563,1293.0,Maharashtra
+Khujner,560,1515.0,Madhya Pradesh
+Panruti,559,1366.0,Tamil Nadu
+Kareli,559,1551.0,Madhya Pradesh
+Visoli,559,1610.0,Uttar Pradesh
+Sailana,559,1475.0,Madhya Pradesh
+Danapur,558,555.0,Bihar
+Gollapally,558,1200.0,Telangana
+Charla,556,1360.0,Telangana
+Dharangaon,556,1246.5,Maharashtra
+Ganjbasoda,553,1375.0,Madhya Pradesh
+Hirapur,549,1250.0,Chattisgarh
+Anoop Shahar,548,1145.0,Uttar Pradesh
+Hazaribagh,543,700.0,Jharkhand
+Shahzadpur,541,1120.0,Haryana
+Muzaffarpur,541,540.0,Bihar
+Bededonger,535,1340.0,Chattisgarh
+Surat,534,750.0,Gujarat
+Suvasra,532,1215.0,Madhya Pradesh
+Nalkehda,531,1030.0,Madhya Pradesh
+Jhalod,529,845.0,Gujarat
+Mylavaram,528,1365.0,Andhra Pradesh
+Jalandhar City,527,1258.0,Punjab
+Akola,526,1600.0,Maharashtra
+Tittakudi,525,1259.0,Tamil Nadu
+Sangamner,522,1315.0,Maharashtra
+Tiruvuru,521,950.0,Andhra Pradesh
+Korar,517,1550.0,Chattisgarh
+Vadali,514,1362.25,Gujarat
+Gogamba(Similiya),512,1900.0,Gujarat
+DEI(Bundi),510,1629.5,Rajasthan
+Ashoknagar,507,1460.0,Madhya Pradesh
+Kesinga,507,700.0,Odisha
+Medipally,506,2000.0,Telangana
+Nasrullaganj,505,1430.0,Madhya Pradesh
+Aron,504,1490.0,Madhya Pradesh
+Gangavathi,504,1175.0,Karnataka
+Bhokardan(Pimpalgaon Renu),503,1285.0,Maharashtra
+Vikarabad,502,1435.0,Telangana
+Kalimpong,502,1550.0,West Bengal
+Gotegaon,499,1800.0,Madhya Pradesh
+Umariya,494,1325.5,Madhya Pradesh
+Bhokar,488,911.5,Maharashtra
+Gajwel,488,1300.0,Telangana
+Shrirampur(Belapur),488,1200.0,Maharashtra
+Dongargaon,485,1389.0,Chattisgarh
+Mehekar,484,1000.0,Maharashtra
+Rehati,483,1360.0,Madhya Pradesh
+Arreria,483,540.0,Bihar
+Bowenpally,480,1000.0,Telangana
+Manalurpet,478,1551.5,Tamil Nadu
+Buldhana(Dhad),470,1050.0,Maharashtra
+Shrigonda,470,1785.0,Maharashtra
+Bailahongal,470,1200.0,Karnataka
+Jaspur,470,1500.0,Chattisgarh
+Tosham,469,2000.0,Haryana
+Jhansi,469,1050.0,Uttar Pradesh
+Firozabad,465,2120.0,Uttar Pradesh
+Tamkuhi Road,463,1425.0,Uttar Pradesh
+Gariyaband,463,1370.0,Chattisgarh
+Shajapur,460,1050.0,Madhya Pradesh
+Utraula,460,1680.0,Uttar Pradesh
+Dhekiajuli,453,1600.0,Assam
+Palthan,450,1270.0,Maharashtra
+Tadipatri,449,850.0,Andhra Pradesh
+Shahaswan,449,1235.0,Uttar Pradesh
+Yemmiganur,449,1146.0,Andhra Pradesh
+Jalgaon(Jamod),447,865.0,Maharashtra
+Annur,445,1380.0,Tamil Nadu
+Baikunthpur,440,1710.0,Madhya Pradesh
+Thandla,440,1800.0,Madhya Pradesh
+Bobbili,440,1340.0,Andhra Pradesh
+Sikarpur,439,1120.0,Uttar Pradesh
+Paatan,436,1775.0,Madhya Pradesh
+Koratla,435,1325.0,Telangana
+Bichkunda,432,1962.0,Telangana
+Mhalingapur,431,1270.0,Karnataka
+Gidam,427,1250.0,Chattisgarh
+Nizar,426,950.0,Gujarat
+Nagpur,424,1550.0,Maharashtra
+Haldwani,422,1354.0,Uttrakhand
+Rajgarh,421,1300.0,Madhya Pradesh
+Jalgaon Jamod(Aasalgaon),421,1100.0,Maharashtra
+Ausa,417,1085.0,Maharashtra
+Manendragarh,413,1450.0,Chattisgarh
+Begusarai,413,520.0,Bihar
+Garhshankar(Saila Khurd),410,900.0,Punjab
+Gajol,410,1327.5,West Bengal
+Chintamani,408,1250.0,Karnataka
+Charama,408,1000.0,Chattisgarh
+Derol(Adadara),407,1365.0,Gujarat
+Tanduru,405,1561.0,Telangana
+Najafgarh,405,1500.0,NCT of Delhi
+Gangadhara,402,1300.0,Telangana
+Thammampati,402,1985.0,Tamil Nadu
+Kundagol,400,1275.0,Karnataka
+Chomu,400,840.0,Rajasthan
+Sirali,399,1385.0,Madhya Pradesh
+Shegaon,397,675.0,Maharashtra
+Chintapally,397,950.0,Andhra Pradesh
+Hospet,397,860.0,Karnataka
+Dudhani,395,1355.0,Maharashtra
+Karpawand,394,1250.0,Chattisgarh
+Parvathipuram,393,1320.0,Andhra Pradesh
+Moodigere,393,1000.0,Karnataka
+Jalandhar City(Kartar Pur Dana mandi),389,1100.0,Punjab
+Pudur,389,1400.0,Telangana
+Beed,387,1400.0,Maharashtra
+Newasa,386,840.0,Maharashtra
+Shevgaon,384,1312.5,Maharashtra
+Nagarkurnool(Talkapalli),382,1962.0,Telangana
+Alirajpur,381,1350.0,Madhya Pradesh
+Sitapur,380,1307.5,Chattisgarh
+Nasvadi,376,755.0,Gujarat
+Balachaur,375,700.0,Punjab
+Kolar,373,1500.0,Karnataka
+Amirgadh,368,1525.0,Gujarat
+Surajpur,367,1320.0,Chattisgarh
+Chhinari,366,1250.0,Chattisgarh
+Pitlam,362,1400.0,Telangana
+Gunpur,361,900.0,Odisha
+Anuppur,360,1400.0,Madhya Pradesh
+Malpura(Todaraisingh),359,1010.0,Rajasthan
+Sidhi,359,1405.0,Madhya Pradesh
+Mahbubnagar(Nawabpet),358,1349.5,Telangana
+Koraput,358,1330.0,Odisha
+Sumerpur,357,1700.0,Rajasthan
+Rudrapur,357,1296.0,Uttrakhand
+Katol,356,1350.0,Maharashtra
+Bijnaur,354,1520.0,Uttar Pradesh
+Vankaner,354,675.0,Gujarat
+Sindagi(Hendi),353,1250.0,Karnataka
+Jaisinagar,350,1832.5,Madhya Pradesh
+Bhusaval,350,750.0,Maharashtra
+Salem,350,1250.0,Tamil Nadu
+Dharmaram,349,1250.0,Telangana
+Dharni,348,1350.0,Maharashtra
+Jeypore,344,1700.0,Odisha
+Gadarwada,343,1250.0,Madhya Pradesh
+Nampur,341,1526.0,Maharashtra
+Laxmeshwar,340,1091.5,Karnataka
+Suthalia,337,1200.0,Madhya Pradesh
+Sheopurkalan,334,1500.5,Madhya Pradesh
+Polavaram,330,860.0,Andhra Pradesh
+Chhabra(Chhipabadod),329,1210.0,Rajasthan
+Bhimadole,329,1050.0,Andhra Pradesh
+Alangeyam,328,2164.5,Tamil Nadu
+Kovilpatti,328,950.0,Tamil Nadu
+Singroli,328,1400.0,Madhya Pradesh
+Vikkiravandi,324,1767.0,Tamil Nadu
+Madathukulam,324,1245.0,Tamil Nadu
+Wyra,324,860.0,Telangana
+Keshoraipatan,321,1419.0,Rajasthan
+Ahmedpur,321,1210.0,Maharashtra
+Aatpadi,321,895.0,Maharashtra
+Indapur(Bhigwan),320,1385.5,Maharashtra
+Aheri,320,800.0,Maharashtra
+Jhagadiya,320,1520.0,Gujarat
+Rajpura,319,1010.0,Punjab
+Chaksu,319,1450.0,Rajasthan
+Sikanderabad,316,807.5,Uttar Pradesh
+Nirmal,315,1310.0,Telangana
+Dehgam,315,750.0,Gujarat
+Koraput(Semilguda),313,1325.0,Odisha
+Pipli,311,1170.0,Haryana
+Ichapuram,310,1500.0,Andhra Pradesh
+Ballabhgarh,309,750.0,Haryana
+Deori,306,1700.0,Madhya Pradesh
+Bageecha,304,1200.0,Chattisgarh
+Narsampet(Nekonda),304,1220.5,Telangana
+Jalandhar City(Jalandhar),302,802.5,Punjab
+Muli,301,1245.0,Chattisgarh
+Dhoraji,300,1125.0,Gujarat
+Tinsukia,299,1450.0,Assam
+Paithan,299,1000.0,Maharashtra
+Shahkot,298,1050.0,Punjab
+Sarangpur,297,1000.0,Madhya Pradesh
+Gopalpatti,295,1600.0,Tamil Nadu
+Nuzvid,293,1250.0,Andhra Pradesh
+Dibiapur,293,1200.0,Uttar Pradesh
+Cuddapah,293,734.0,Andhra Pradesh
+Lohandiguda,293,1250.0,Chattisgarh
+Thattanchavady,292,642.5,Pondicherry
+Rayagada,291,900.0,Odisha
+Pongalur,290,1500.0,Tamil Nadu
+Ghanpur,289,1230.0,Telangana
+Sangrampur(Varvatbakal),287,1050.0,Maharashtra
+Shrimushnam,287,1525.0,Tamil Nadu
+Babain,284,1081.0,Haryana
+Namagiripettai,284,1450.0,Tamil Nadu
+Dubbak,283,840.0,Telangana
+Uchhal,282,1200.0,Gujarat
+Kharupetia,281,1325.0,Assam
+Jaitgiri,280,1225.0,Chattisgarh
+Bankhedi,279,1520.0,Madhya Pradesh
+Nandigama,275,1150.0,Andhra Pradesh
+Khanapur,274,1310.0,Telangana
+Maddur,274,1100.0,Karnataka
+Metpally,274,880.0,Telangana
+Mardapal,273,1200.0,Chattisgarh
+Digapahandi,272,1320.0,Odisha
+Sumerganj,271,1330.0,Rajasthan
+Chandur Bazar,271,1600.0,Maharashtra
+Mullana,270,1151.0,Haryana
+Devda,270,1250.0,Chattisgarh
+Akkalkuwa,270,1352.5,Maharashtra
+Thoubal,263,1800.0,Manipur
+Bhavnagar,263,960.0,Gujarat
+Thalavadi,262,1200.0,Tamil Nadu
+Madhira,261,1150.0,Telangana
+Narayankhed,261,1310.0,Telangana
+Mallial(Cheppial),261,1520.0,Telangana
+Gubbi,261,2000.0,Karnataka
+Jawar,260,1745.5,Madhya Pradesh
+Ahmedgarh,260,992.5,Punjab
+Khachrod,258,894.5,Madhya Pradesh
+Bastar,258,1250.0,Chattisgarh
+Sindhanur,257,1115.0,Karnataka
+Boothapadi,256,1350.0,Tamil Nadu
+Tokapal,255,1250.0,Chattisgarh
+Dooni,254,1995.0,Rajasthan
+Bidar,252,1300.0,Karnataka
+Sagar,252,1800.0,Madhya Pradesh
+Khurai,251,3347.0,Madhya Pradesh
+Kallur,249,1300.0,Telangana
+Kothagudem,249,1290.0,Telangana
+Sathur,246,2150.0,Tamil Nadu
+Meghraj,246,730.0,Gujarat
+Godhra(Timbaroad),245,1280.0,Gujarat
+Babra,243,820.0,Gujarat
+Hungund,239,1100.0,Karnataka
+Kolhapur,239,550.0,Maharashtra
+Pachora(Bhadgaon),238,1101.0,Maharashtra
+Ladwa,235,1100.0,Haryana
+Kada,233,1150.0,Maharashtra
+Suryapeta,230,1049.0,Telangana
+Jalalabad,230,1225.0,Uttar Pradesh
+Bangarpet,229,1500.0,Karnataka
+Gairatganj,229,1451.0,Madhya Pradesh
+Devariya,228,2125.0,Uttar Pradesh
+Katghora,227,1400.0,Chattisgarh
+Gattasilli,227,1150.0,Chattisgarh
+Vagodiya,227,1240.0,Gujarat
+Asifabad,225,2000.0,Telangana
+Bhensdehi,225,1800.0,Madhya Pradesh
+Umarga,225,1100.0,Maharashtra
+Godhra(Kakanpur),225,910.0,Gujarat
+Bagru,225,1550.0,Rajasthan
+Banswara,223,630.0,Rajasthan
+Lingasugur,223,1300.0,Karnataka
+Gharghoda,221,1750.0,Chattisgarh
+Devarkonda(Mallepalli),221,1282.0,Telangana
+Nagamangala,219,1330.0,Karnataka
+Indapur(Nimgaon Ketki),217,1670.0,Maharashtra
+Robertsganj,215,1475.0,Uttar Pradesh
+Akot,215,1000.0,Maharashtra
+Rani,215,821.0,Rajasthan
+Lonand,213,1400.0,Maharashtra
+Pollachi,213,1450.0,Tamil Nadu
+Semriharchand,212,1282.5,Madhya Pradesh
+Machalpur,211,1280.0,Madhya Pradesh
+Pendraroad,211,1350.0,Chattisgarh
+Chipurupalli,211,1375.0,Andhra Pradesh
+Rehli,211,1800.0,Madhya Pradesh
+Ramayampet,211,1310.0,Telangana
+Bhadrachalam,209,1500.0,Telangana
+Forbesganj,208,525.0,Bihar
+Roorkee,204,750.0,Uttrakhand
+Thirthahalli,202,1310.0,Karnataka
+Ambagarh Chowki,202,1200.0,Chattisgarh
+Kalawad,201,1250.0,Gujarat
+Bilagi,201,1200.0,Karnataka
+Akodia,200,900.0,Madhya Pradesh
+Sangola,200,867.5,Maharashtra
+Namakkal,197,1440.0,Tamil Nadu
+Dharapuram,196,1210.0,Tamil Nadu
+Rajapalayam,196,750.0,Tamil Nadu
+Palari,196,1617.5,Madhya Pradesh
+Nasvadi(Thalkala),196,727.5,Gujarat
+Achampet(Amrabad),196,889.0,Telangana
+Zalod(Sanjeli),194,1850.0,Gujarat
+Lashkar,194,1050.0,Madhya Pradesh
+Khultabad,193,1010.0,Maharashtra
+Thiryagadurgam,192,1704.0,Tamil Nadu
+Sajapur,192,900.0,Madhya Pradesh
+Berasia,190,1250.0,Madhya Pradesh
+Lalsot,189,980.0,Rajasthan
+Bayad(Sadamba),189,1470.0,Gujarat
+Shahabad,187,1100.0,Haryana
+Uniyara,184,928.5,Rajasthan
+Banaganapalli,183,1200.0,Andhra Pradesh
+Soyatkalan,181,1575.0,Madhya Pradesh
+Darjeeling(Klimpong),181,1700.0,West Bengal
+Jalna(Badnapur),180,750.0,Maharashtra
+Banga,178,625.0,Punjab
+Kunigal,177,1490.0,Karnataka
+Chotila,174,1250.0,Gujarat
+Rayadurg,173,1550.0,Andhra Pradesh
+Shahdol,173,1310.0,Madhya Pradesh
+Jamnagar,173,1075.0,Gujarat
+Kesli,172,1700.0,Madhya Pradesh
+Bina,171,1215.0,Madhya Pradesh
+Javera,171,1670.0,Madhya Pradesh
+Kolaras,170,1597.5,Madhya Pradesh
+Morshi,169,1635.0,Maharashtra
+Shahpura(Jabalpur),169,1700.0,Madhya Pradesh
+Makthal,169,2340.0,Telangana
+Karnailganj,169,1260.0,Uttar Pradesh
+Awagarh,168,950.0,Uttar Pradesh
+Sironj,168,1660.0,Madhya Pradesh
+Thondamuthur,168,1200.0,Tamil Nadu
+Lonar,167,975.0,Maharashtra
+Jodhpur (Grain)(Mandor),166,1500.0,Rajasthan
+Rajpur,166,1855.0,Chattisgarh
+Balasinor,164,660.0,Gujarat
+Murim,163,1133.0,Maharashtra
+Pothgal,161,850.0,Telangana
+Chura,160,1330.0,Chattisgarh
+Paranda,160,1700.0,Maharashtra
+Berachha,160,836.0,Madhya Pradesh
+Sirhind,159,500.0,Punjab
+Gehri,158,950.0,Punjab
+Thiruppur,158,1500.0,Tamil Nadu
+Narnaund,155,1100.0,Haryana
+Penugonda,154,1280.0,Andhra Pradesh
+Shamshabad,154,1090.5,Madhya Pradesh
+Baraut,153,1450.0,Uttar Pradesh
+Mullanpur,151,1165.0,Punjab
+Kurupam,150,1310.0,Andhra Pradesh
+Palladam,150,1325.0,Tamil Nadu
+Kanker,148,1150.0,Chattisgarh
+Sankarankovil,148,1350.0,Tamil Nadu
+Songadh,147,1312.0,Gujarat
+Sakaleshpura,146,912.5,Karnataka
+Telhara,144,710.0,Maharashtra
+Sengoan,143,900.0,Maharashtra
+Wardhannapet,143,1310.0,Telangana
+Sarangapur,142,1365.0,Telangana
+Marapally,139,1260.0,Telangana
+Beohari,139,1325.0,Madhya Pradesh
+Channapatana,138,990.0,Karnataka
+Mahasamund,136,1606.5,Chattisgarh
+Sindkhed Raja,135,775.0,Maharashtra
+Chhibramau,135,1150.0,Uttar Pradesh
+Momanbadodiya,134,875.5,Madhya Pradesh
+Attur,132,1605.5,Tamil Nadu
+Gauripur,132,972.5,Assam
+Tarana,132,890.0,Madhya Pradesh
+Mihipurwa,132,1225.0,Uttar Pradesh
+"New Grain Market , Panchkula",131,1150.0,Haryana
+Raigarh,131,1400.0,Chattisgarh
+Balugaon,130,1100.0,Odisha
+Kapurthala,130,1087.5,Punjab
+Kurinchipadi,128,1269.0,Tamil Nadu
+Vemulawada,128,1250.0,Telangana
+Nawan Shahar(MandiRaho),127,750.0,Punjab
+Bakswaha,126,1675.0,Madhya Pradesh
+Oddunchairum,125,2000.0,Tamil Nadu
+Kollapur,123,1962.0,Telangana
+Kilpennathur,122,2129.0,Tamil Nadu
+Kapadvanj,122,775.0,Gujarat
+Hindol,122,1300.0,Odisha
+Belargaon,120,1375.0,Chattisgarh
+Nira,119,580.0,Maharashtra
+Raipur Rai,119,700.0,Haryana
+Rayagada(Muniguda),118,2000.0,Odisha
+Akole,117,1350.0,Maharashtra
+Vidisha,117,1600.0,Madhya Pradesh
+Darbhanga,115,550.0,Bihar
+Osmanabad,115,925.0,Maharashtra
+Fulmbri,115,1600.0,Maharashtra
+Nawan Shahar(Mandi Jadla),114,825.0,Punjab
+Pandariya,114,850.0,Chattisgarh
+Sulur,114,800.0,Tamil Nadu
+Mullana(saha),114,1600.5,Haryana
+Bhesan,113,1250.0,Gujarat
+Alampur,113,1900.0,Telangana
+Tundla,112,1865.0,Uttar Pradesh
+Sultanabad,111,1300.0,Telangana
+Kammarpally,111,1360.0,Telangana
+Payagpur,110,1550.0,Uttar Pradesh
+Jafrabad,110,1475.0,Maharashtra
+Chengeri,109,880.0,Tamil Nadu
+Bodhan,109,1365.0,Telangana
+Bohorihat,108,1150.0,Assam
+Banda,107,1825.0,Madhya Pradesh
+Bahadurgarh,107,1000.0,Haryana
+Nandagada,106,1320.0,Karnataka
+Rajam,106,1325.0,Andhra Pradesh
+Bhongir,106,1150.0,Telangana
+Ramgang Mandi(Bapawarkala),106,930.0,Rajasthan
+Amangal,106,902.5,Telangana
+Varud,103,1425.0,Maharashtra
+Shrigonda(Gogargaon),103,2050.0,Maharashtra
+Goalpara,102,800.0,Assam
+Senjeri,101,1510.0,Tamil Nadu
+Visnagar,100,1110.0,Gujarat
+Varipaal,100,1675.0,Uttar Pradesh
+Konta,100,1100.0,Chattisgarh
+Khaniadhana,100,1100.0,Madhya Pradesh
+T. Narasipura,98,1210.0,Karnataka
+Gehri(Jandiala mandi),98,1230.0,Punjab
+Cuddalore,97,1364.0,Tamil Nadu
+Abu Road,97,800.0,Rajasthan
+Panchkula,96,800.0,Haryana
+Arang,96,1325.0,Chattisgarh
+Boath,95,1962.0,Telangana
+Hiriyur,94,1661.0,Karnataka
+Rasipuram,91,1150.0,Tamil Nadu
+Vazhapadi,91,2060.0,Tamil Nadu
+Shyampur,90,1400.0,Madhya Pradesh
+Shankarapally,90,990.0,Telangana
+Khatora,90,1919.5,Madhya Pradesh
+Gadwal(Lezza),90,1950.0,Telangana
+Saidpurhat,90,2050.0,Bihar
+Sultanpur,89,1095.0,Punjab
+Birkur,89,1425.0,Telangana
+Raipur,88,1430.5,Chattisgarh
+Lalru,88,663.0,Punjab
+Majalgaon,87,1211.0,Maharashtra
+Bhogpur,87,830.0,Punjab
+Mulabagilu,87,600.0,Karnataka
+Malout,87,900.0,Punjab
+Hoskote,87,1400.0,Karnataka
+Babrala,86,1707.5,Uttar Pradesh
+Hosanagar,86,1200.0,Karnataka
+Sidhwan Bet,85,1180.0,Punjab
+Longleng,85,3600.0,Nagaland
+Jainath,85,2260.0,Telangana
+Laxettipet,85,890.0,Telangana
+Limdi,84,700.0,Gujarat
+Raichur,84,1656.5,Karnataka
+Sadhaura,84,1005.0,Haryana
+Nanded,83,600.0,Maharashtra
+Panposh,83,850.0,Odisha
+Ramgang Mandi(Samod),80,925.0,Rajasthan
+Talikot,80,845.0,Karnataka
+Indravelly(Utnoor),79,2000.0,Telangana
+Pali,77,1250.0,Rajasthan
+Hoshangabad,77,1365.0,Madhya Pradesh
+Andimadom,77,2123.0,Tamil Nadu
+Anta,75,2301.0,Rajasthan
+Bhawanipatna,75,1200.0,Odisha
+Dhilwan,75,1100.0,Punjab
+Sehjanwa,75,1865.0,Uttar Pradesh
+Botad,75,670.0,Gujarat
+Tindivanam,75,1256.0,Tamil Nadu
+Ambala City,75,915.0,Haryana
+Khuzama,74,800.0,Nagaland
+Gingee,74,1018.5,Tamil Nadu
+Dataganj,74,1680.0,Uttar Pradesh
+Syopurkalan(F&V),74,1050.0,Madhya Pradesh
+Bharuch,74,450.0,Gujarat
+K.R. Pet,74,1000.0,Karnataka
+Abohar,74,1222.5,Punjab
+Mangalagiri,73,940.0,Andhra Pradesh
+Chittorgarh,73,1200.0,Rajasthan
+Virudhunagar,72,2210.0,Tamil Nadu
+Gangoh,72,1725.0,Uttar Pradesh
+Bhind,72,1146.0,Madhya Pradesh
+Adampur,72,850.0,Haryana
+Hasanpur,71,1240.0,Uttar Pradesh
+Gautampura,71,1251.0,Madhya Pradesh
+Idar(Jadar),71,1442.0,Gujarat
+Kagaznagar,71,2000.0,Telangana
+Datia,70,851.0,Madhya Pradesh
+Bhuna,70,300.0,Haryana
+Nanjangud,70,1187.5,Karnataka
+Taleja,69,1250.0,Gujarat
+Amritsar,69,1200.0,Punjab
+Mohgaon,69,1380.0,Madhya Pradesh
+Nelakondapally,69,1475.0,Telangana
+Dankaur,69,1865.0,Uttar Pradesh
+Bhanpura,69,1250.0,Madhya Pradesh
+Thorrur,69,1870.0,Telangana
+Om Chaitanya Multistate Agro Purpose CoOp Society,68,2100.0,Maharashtra
+Tuensang,68,5250.0,Nagaland
+Anaimalai,67,1020.0,Tamil Nadu
+Koderma,67,700.0,Jharkhand
+Mansa,67,1175.0,Punjab
+Lamlong Bazaar,67,1800.0,Manipur
+Chanderi,67,1905.0,Madhya Pradesh
+Chechat,66,800.0,Rajasthan
+Sangrampur,65,520.0,Maharashtra
+Velpur,65,1390.0,Telangana
+Denduluru,65,840.0,Andhra Pradesh
+Barghat,64,1337.5,Madhya Pradesh
+Malpur,64,1450.0,Gujarat
+Dhone,63,1250.0,Andhra Pradesh
+Vessue,63,585.0,Jammu and Kashmir
+Bayad(Demai),63,1370.0,Gujarat
+Motala,62,1000.0,Maharashtra
+Damoh,62,1900.0,Madhya Pradesh
+Jaysingpur,61,700.0,Maharashtra
+Akkalkot,61,1400.0,Maharashtra
+Lakshar,60,1350.0,Uttrakhand
+Sultanpur Lodhi (Tibba),60,1100.0,Punjab
+Belarbahara,60,1400.0,Chattisgarh
+Garoth,60,1450.0,Madhya Pradesh
+Dhanbad,59,1050.0,Jharkhand
+J S K Agro Market,59,1949.0,Maharashtra
+Garhakota,59,1800.0,Madhya Pradesh
+Ramnagar,59,1040.0,Madhya Pradesh
+Rapur,58,1500.0,Andhra Pradesh
+Devband,58,1050.0,Uttar Pradesh
+Kunkuri,58,1500.0,Chattisgarh
+Togguta,58,845.0,Telangana
+Jayas,57,2080.0,Uttar Pradesh
+Bariya,57,2000.0,Chattisgarh
+Tiruchengode,56,1900.0,Tamil Nadu
+Jalandhar City(Faintan Ganj),55,900.0,Punjab
+Mustafabad,55,980.0,Haryana
+Nawada,55,750.0,Bihar
+Pichhour,54,1016.5,Madhya Pradesh
+Chinnoar,54,580.0,Telangana
+Karjat(Rashin),54,1400.0,Maharashtra
+Baripada,54,1000.0,Odisha
+Manakodur,54,1700.0,Telangana
+Maksi,53,870.0,Madhya Pradesh
+Tapa(Tapa Mandi),53,935.0,Punjab
+Chhindwara(F&V),53,500.0,Madhya Pradesh
+Sojat Road,53,860.0,Rajasthan
+Ch. Dadri,53,400.0,Haryana
+Javer,53,1140.0,Uttar Pradesh
+Pillukhera,52,1150.0,Haryana
+Shakot (Malsian),52,1300.0,Punjab
+Jowai,52,750.0,Meghalaya
+Tikabali,50,500.0,Odisha
+Koilkunta,50,1100.0,Andhra Pradesh
+Malur,50,1657.5,Karnataka
+Bodwad,50,1050.0,Maharashtra
+Mancharial,49,575.0,Telangana
+Sitarganj,49,1045.0,Uttrakhand
+Porbandar,49,1325.0,Gujarat
+Vadhvan,48,1250.0,Gujarat
+Bihta,48,580.0,Bihar
+Raisen,48,1209.5,Madhya Pradesh
+Dudhi,47,400.0,Uttar Pradesh
+Srirampur,46,950.0,Assam
+Bishenpur,46,1500.0,Manipur
+Pavagada,46,1162.5,Karnataka
+Sriganganagar,45,1376.0,Rajasthan
+Garh Shankar,45,580.0,Punjab
+Shekhpura,45,1750.0,Bihar
+Kuber,44,2000.0,Telangana
+Kaswa,44,642.5,Bihar
+Srinivasapur,44,550.0,Karnataka
+Kotma,44,1462.5,Madhya Pradesh
+Golagokarnath,44,2080.0,Uttar Pradesh
+Parkal,43,540.0,Telangana
+Cherial,43,540.0,Telangana
+Bhatapara,43,1600.0,Chattisgarh
+Punganur,42,1000.0,Andhra Pradesh
+Fazilka,42,150.0,Punjab
+Isagarh,42,1815.0,Madhya Pradesh
+Rahatgarh,42,1862.5,Madhya Pradesh
+Narharpur,41,1100.0,Chattisgarh
+Dehradoon,41,680.0,Uttrakhand
+Shadora,41,1890.0,Madhya Pradesh
+Pimpalgaon,40,515.0,Maharashtra
+Partur,40,545.0,Maharashtra
+Sarona,40,1150.0,Chattisgarh
+Chutmalpur,40,880.0,Uttar Pradesh
+Jayamkondam,39,2120.0,Tamil Nadu
+Niuland,39,4600.0,Nagaland
+Barara,39,1021.0,Haryana
+Kanchekacherla,39,1025.0,Andhra Pradesh
+Halia,39,1700.0,Telangana
+Koregaon,39,913.0,Maharashtra
+Dharamkot,39,500.0,Punjab
+Nakodar,39,1100.0,Punjab
+Pudupalayam,38,1975.0,Tamil Nadu
+Omalur,38,1636.0,Tamil Nadu
+Faridabad,38,250.0,Haryana
+Kalwakurthy,38,1180.5,Telangana
+Vadnagar,37,1340.0,Gujarat
+Kianthukadavu,37,990.0,Tamil Nadu
+Gonikappal,37,1360.0,Karnataka
+Dholpur,37,1900.0,Rajasthan
+Humanabad,37,955.0,Karnataka
+Phagwara,36,522.5,Punjab
+Haridwar Union,36,900.0,Uttrakhand
+Sivagiri,35,1304.0,Tamil Nadu
+Bazpur,35,700.0,Uttrakhand
+Kotadwara,35,2000.0,Uttrakhand
+Patharia,35,1960.0,Madhya Pradesh
+Budhar,35,1250.0,Madhya Pradesh
+Chhatarpur,34,1192.5,Madhya Pradesh
+Kolathur,34,2050.0,Tamil Nadu
+Wokha Town,34,6550.0,Nagaland
+Amoda,33,1200.0,Chattisgarh
+Pataudi,33,600.0,Haryana
+Betnoti,33,1800.0,Odisha
+Latur(Murud),33,1151.0,Maharashtra
+Dhanotu (Mandi),33,900.0,Himachal Pradesh
+Mullanpur Dakha (Sawadi),33,1200.0,Punjab
+Peddapalli,32,1310.0,Telangana
+Ramanagara,32,800.0,Karnataka
+Nira(Saswad),32,1453.0,Maharashtra
+Nadiyad(Piplag),32,1750.0,Gujarat
+Solan,31,460.0,Himachal Pradesh
+Lakhnadon(F&V),31,1180.0,Madhya Pradesh
+Burgampadu,31,1300.0,Telangana
+Barwala,31,800.0,Haryana
+Dudhawa,31,1150.0,Chattisgarh
+Katni(F&V),31,600.0,Madhya Pradesh
+Sironcha,30,2000.0,Maharashtra
+Tseminyu,30,7000.0,Nagaland
+Dharmapuri,30,1250.0,Telangana
+Prantij(Salala),29,1013.0,Gujarat
+Shevgaon(Bodhegaon),29,1250.0,Maharashtra
+Nabha,29,550.0,Punjab
+Kotba,29,1800.0,Chattisgarh
+Hata,29,3800.0,Madhya Pradesh
+Bindki,29,2200.0,Uttar Pradesh
+Jaithari,29,1370.0,Madhya Pradesh
+Parali Vaijyanath,28,1333.0,Maharashtra
+Jaipur(Grain)(Sodala),28,790.0,Rajasthan
+Palwal,28,690.5,Haryana
+Durg,28,1332.0,Chattisgarh
+Baghry,28,5050.0,Nagaland
+Gaurella,27,1320.0,Chattisgarh
+Basava Kalayana,27,1200.0,Karnataka
+Khanina,27,1280.0,Haryana
+Shivpuri,27,1061.0,Madhya Pradesh
+Tarantaran,27,1200.0,Punjab
+Gadhwah,27,1702.0,Jharkhand
+Karumanturai,27,2000.0,Tamil Nadu
+Mehar,26,1234.5,Madhya Pradesh
+Niwai,26,750.0,Rajasthan
+Bilga,26,1682.5,Punjab
+Avalurpet,26,1354.5,Tamil Nadu
+Amrawati(Frui & Veg. Market),26,1562.5,Maharashtra
+Puttur,25,690.0,Karnataka
+Gulabbagh,25,2150.0,Bihar
+Neora,25,1120.0,Chattisgarh
+Varud(Rajura Bazar),25,1216.0,Maharashtra
+Ajaygarh,25,1320.0,Madhya Pradesh
+Tulsipur,25,1075.0,Uttar Pradesh
+Machhiwara,25,950.0,Punjab
+Shahagarh,25,1340.0,Madhya Pradesh
+Koppa,24,1457.5,Karnataka
+Aruppukottai,23,600.0,Tamil Nadu
+Chevella,23,905.0,Telangana
+Mulugu,23,1310.0,Telangana
+Shahpur,23,1840.0,Uttar Pradesh
+Dungurapalli,22,595.0,Odisha
+Alangudi,22,1430.0,Tamil Nadu
+Porsa(F&V),22,600.0,Madhya Pradesh
+Ibrahimpatnam,22,1850.0,Telangana
+Pathardi,22,1755.0,Maharashtra
+Coimbatore,22,550.0,Tamil Nadu
+Pasighat,22,550.0,Arunachal Pradesh
+Chakur,22,1510.0,Maharashtra
+Sihora,22,1500.0,Madhya Pradesh
+Bareli,21,1233.0,Madhya Pradesh
+Kicchha,21,1000.0,Uttrakhand
+Karera,21,900.0,Madhya Pradesh
+Jam Jodhpur,21,1500.0,Gujarat
+Mahavir Agri Market,21,1980.0,Maharashtra
+Bayana,21,2230.0,Rajasthan
+Thanesar,21,1700.0,Haryana
+Theni,20,1732.5,Tamil Nadu
+Medak,20,1310.0,Telangana
+Narkhed,20,1700.0,Maharashtra
+Kishangarh Renwal,20,1000.0,Rajasthan
+Negamam,20,1405.0,Tamil Nadu
+Dabra,19,1310.0,Madhya Pradesh
+Vettavalam,19,1901.0,Tamil Nadu
+Pohari,19,1745.0,Madhya Pradesh
+Khariar,19,2000.0,Odisha
+Rishikesh,19,1330.0,Uttrakhand
+Rayya,19,1650.0,Punjab
+Dindigul,18,1970.0,Tamil Nadu
+Ambala City(Subji Mandi),18,1915.0,Haryana
+Punchaipuliyampatti,18,1084.0,Tamil Nadu
+Manthani,18,1300.0,Telangana
+Ratia,18,597.5,Haryana
+Kanakapura,18,1180.5,Karnataka
+Gumla,17,900.0,Jharkhand
+Huliyar,17,800.0,Karnataka
+Bhattu Kalan,17,1398.0,Haryana
+Karamadai,17,875.0,Tamil Nadu
+Yashika Agro Marketing,17,1725.0,Maharashtra
+Halol,17,1480.0,Gujarat
+Kishan Renwal(Sambhar),17,1225.0,Rajasthan
+Natham,17,2300.0,Tamil Nadu
+Barnala,17,525.0,Punjab
+Nadiad,17,250.0,Gujarat
+Gobichettipalayam,17,1400.0,Tamil Nadu
+Moongilthuraipattu,16,1678.5,Tamil Nadu
+Moolanur,16,1525.0,Tamil Nadu
+Kada(Ashti),16,1200.0,Maharashtra
+Mandya,16,1503.0,Karnataka
+Bardewri,16,1150.0,Chattisgarh
+Bongiagaon,16,1115.0,Assam
+Penamaluru,16,1290.0,Andhra Pradesh
+Ambala Cantt.,16,1185.0,Haryana
+Manvi,16,1361.0,Karnataka
+Badamalhera,15,1900.0,Madhya Pradesh
+Bagbahra,15,1790.0,Chattisgarh
+Kendupatna,15,1358.0,Odisha
+Kailaras,15,4040.0,Madhya Pradesh
+Kipheri,15,3200.0,Nagaland
+Gangapur City,15,410.0,Rajasthan
+P.O. Uparhali Guwahati,15,1400.0,Assam
+Shajapur(F&V),15,500.0,Madhya Pradesh
+Jodhpur(Grain)(Bhagat Ki Kothi),14,1187.5,Rajasthan
+Palus,14,1675.0,Maharashtra
+Kataram,14,1497.5,Telangana
+Lalsot(Mandabari),14,710.0,Rajasthan
+Jammalamadugu,14,512.5,Andhra Pradesh
+Kamalapuram,14,598.5,Andhra Pradesh
+Praswada,14,1350.0,Madhya Pradesh
+Loha,14,1182.0,Maharashtra
+Aler,14,540.0,Telangana
+Savli,13,1775.0,Gujarat
+Sathyamangalam,13,1900.0,Tamil Nadu
+Sircilla,13,540.0,Telangana
+Ichoda,13,1310.0,Telangana
+Zira,13,1680.0,Punjab
+Balapur,13,600.0,Maharashtra
+Shahpura Bhitoni (F&V),13,1950.0,Madhya Pradesh
+Talwandi Bhai,13,500.0,Punjab
+Babai,13,1606.0,Madhya Pradesh
+Khateema,13,750.0,Uttrakhand
+Kathalapur,13,1960.0,Telangana
+Palani,13,2250.0,Tamil Nadu
+Daltenganj,13,750.0,Jharkhand
+Pathapatnam,12,1350.0,Andhra Pradesh
+Chhapra,12,777.5,Bihar
+Maur,12,450.0,Punjab
+Dhuri,12,616.0,Punjab
+Darjeeling,12,1600.0,West Bengal
+LavKush Nagar(Laundi),12,875.0,Madhya Pradesh
+Sadashivnagar,12,1395.0,Telangana
+Uklana,12,711.0,Haryana
+Konganapuram,12,1100.0,Tamil Nadu
+Kinwat,12,1850.0,Maharashtra
+Badarwas,12,1155.0,Madhya Pradesh
+Gandai,11,1325.0,Chattisgarh
+Dhari,11,2500.0,Gujarat
+Selu,11,575.0,Maharashtra
+Rampura Phul,11,730.0,Punjab
+Lakhanpuri,11,1300.0,Chattisgarh
+Jamkandorna,11,590.0,Gujarat
+Shakti,11,1500.0,Chattisgarh
+Batala,11,185.0,Punjab
+Jasra,11,1930.0,Uttar Pradesh
+Balaghat,11,1313.0,Madhya Pradesh
+Sethiathoppu,10,2000.0,Tamil Nadu
+Jatara,10,3550.0,Madhya Pradesh
+Sulya,10,800.0,Karnataka
+Siddout,10,555.5,Andhra Pradesh
+Kota (FV),10,400.0,Rajasthan
+Ateli,10,2000.0,Haryana
+Santrampur,10,620.0,Gujarat
+Nambiyur,9,1400.0,Tamil Nadu
+Silvani,9,1205.0,Madhya Pradesh
+Meham,9,500.0,Haryana
+Tura,9,2700.0,Meghalaya
+Udgir(Devanibud),9,720.0,Maharashtra
+Deedwana,9,640.0,Rajasthan
+Sirsi,9,1300.0,Karnataka
+Lormi,9,1200.0,Chattisgarh
+Jaipur(Bassi),9,835.0,Rajasthan
+Doranpal,9,1500.0,Chattisgarh
+Kaithal,9,625.0,Haryana
+Kovvur,9,860.0,Andhra Pradesh
+Mylampadi,9,2150.0,Tamil Nadu
+Pathari,9,851.0,Maharashtra
+Brahmpur,9,1200.0,Bihar
+Hanumangarh Town,9,1661.0,Rajasthan
+Jajpur,9,1176.0,Odisha
+Takhatpur,8,1000.0,Chattisgarh
+Nilanga,8,1130.0,Maharashtra
+Naila,8,452.5,Chattisgarh
+Raver(Sauda),8,1390.0,Maharashtra
+Bhoring,8,232.5,Chattisgarh
+Latehar,8,650.0,Jharkhand
+Sringeri,8,729.0,Karnataka
+Ghanaur,8,500.0,Punjab
+Pandavapura,8,879.0,Karnataka
+Sirguppa,8,600.0,Karnataka
+Anajngaon,8,1075.0,Maharashtra
+Malerkotla,8,1387.5,Punjab
+Madagadipet,8,1590.5,Pondicherry
+Ghathashi,8,3350.0,Nagaland
+Barabanki,8,555.0,Uttar Pradesh
+Tilhar,8,875.0,Uttar Pradesh
+Mokokchung Town,8,6400.0,Nagaland
+Soygaon,7,1370.0,Maharashtra
+Silachhari,7,2200.0,Tripura
+Vedachandur,7,1550.0,Tamil Nadu
+Visakhapatnam,7,1250.0,Andhra Pradesh
+Tiruvennainallur,7,976.0,Tamil Nadu
+Ungatur,7,550.0,Andhra Pradesh
+Thiruvannamalai,7,1962.0,Tamil Nadu
+4th Mile Dimapur,7,1100.0,Nagaland
+Chithode,7,2250.0,Tamil Nadu
+Eluru,7,840.0,Andhra Pradesh
+Bhaisma,7,1760.0,Chattisgarh
+Lathi,7,605.0,Gujarat
+Hiramandalam,7,1300.0,Andhra Pradesh
+Patiala,7,1650.0,Punjab
+Dahivadi,7,550.0,Maharashtra
+Dasuya,7,1250.0,Punjab
+Pusad,7,880.0,Maharashtra
+"New Grain Market , Ambala",7,1325.0,Haryana
+Niwadi,7,1305.0,Madhya Pradesh
+Kukanar,7,1500.0,Chattisgarh
+Giddarbaha,7,400.0,Punjab
+Sarangarh,7,1050.0,Chattisgarh
+Samana,7,1050.0,Punjab
+Howly,7,1650.0,Assam
+Dabwali,6,1455.0,Haryana
+Jintur,6,587.5,Maharashtra
+Bodwad(Varangaon),6,900.0,Maharashtra
+Munguli,6,900.0,Chattisgarh
+Unhel,6,1230.5,Madhya Pradesh
+Mantha,6,850.0,Maharashtra
+Malkanagiri,6,1340.0,Odisha
+Gurur,6,1955.0,Chattisgarh
+Panchpedwa,6,1270.0,Uttar Pradesh
+Dharamjaygarh,6,1310.0,Chattisgarh
+Talala,6,906.5,Gujarat
+Dondi,6,1200.0,Chattisgarh
+Varni,6,1325.0,Telangana
+kalanwali,6,500.0,Haryana
+Amloh,6,1685.0,Punjab
+Khadur Sahib,6,698.75,Punjab
+Washim,6,1000.0,Maharashtra
+Zunheboto,6,4100.0,Nagaland
+Kodumudi,6,646.0,Tamil Nadu
+Amarpatan,6,1045.0,Madhya Pradesh
+Saja,6,1250.0,Chattisgarh
+Srirangapattana,6,1100.0,Karnataka
+Bapatla,6,650.0,Andhra Pradesh
+Baktara,6,1185.5,Madhya Pradesh
+Sukma,6,1500.0,Chattisgarh
+Kotputli,5,800.0,Rajasthan
+Malkangiri(Korakunda),5,628.0,Odisha
+Kangeyam,5,1850.0,Tamil Nadu
+Anand,5,1900.0,Gujarat
+Dungarpur,5,760.0,Rajasthan
+Suragana,5,900.0,Maharashtra
+Faridkot,5,450.0,Punjab
+Mangkolemba,5,1900.0,Nagaland
+Namhol(Bilaspur),5,1400.0,Himachal Pradesh
+Mukhiguda,5,1165.0,Odisha
+Washi(Osmanabad),5,1410.0,Maharashtra
+Rongram,5,2700.0,Meghalaya
+Karanja,5,571.0,Maharashtra
+Vani,5,1595.0,Maharashtra
+Jarar,5,1725.0,Uttar Pradesh
+Paonta Sahib,5,400.0,Himachal Pradesh
+Bilga (Talwan ),5,2060.0,Punjab
+Banthara,5,990.0,Uttar Pradesh
+Lanka,5,520.0,Assam
+Majitha,5,2000.0,Punjab
+Vijaypur,5,1150.0,Madhya Pradesh
+Jangipur,4,480.0,West Bengal
+Kawardha,4,1475.0,Chattisgarh
+Kundapura,4,1315.0,Karnataka
+Tenning,4,3700.0,Nagaland
+Sargipali,4,900.0,Odisha
+Jaykissan Krushi Uttpan Khajgi Bazar,4,1850.0,Maharashtra
+Jaspur(UC),4,850.0,Uttrakhand
+Jalandhar Cantt.,4,1882.5,Punjab
+Madnoor,4,1710.0,Telangana
+Mahuwa Mandawar,4,1476.5,Rajasthan
+Kherli,4,2630.0,Rajasthan
+Hodal,4,900.0,Haryana
+Dongargarh,4,1395.0,Chattisgarh
+Kotputli(Pawla),4,800.0,Rajasthan
+Venkateswarnagar(Chintapalli),4,870.0,Telangana
+Vellakkoil,4,1400.0,Tamil Nadu
+Bharwari,4,650.0,Uttar Pradesh
+Bijawar,4,1818.5,Madhya Pradesh
+Bemetara,4,1400.0,Chattisgarh
+Peddapuram,4,925.0,Andhra Pradesh
+Hanumangarh,4,1030.0,Rajasthan
+Udgir,4,1412.5,Maharashtra
+Barad,4,1795.0,Madhya Pradesh
+Dindori(Vani),4,1200.0,Maharashtra
+Shantilal Jain Agro,4,1650.0,Maharashtra
+Dondilohara,4,1200.0,Chattisgarh
+Balod,4,1575.0,Chattisgarh
+Tohana,4,500.0,Haryana
+Bagasara,4,2465.0,Gujarat
+Avalpoonthurai,4,659.5,Tamil Nadu
+Garh Shankar(Mahalpur),4,640.0,Punjab
+Naharlagun,4,1075.0,Arunachal Pradesh
+Allagadda,4,1275.0,Andhra Pradesh
+Sanwer,4,1375.0,Madhya Pradesh
+Hanumana,4,1525.0,Madhya Pradesh
+Bhandara,4,1250.0,Maharashtra
+Banki,3,750.0,Odisha
+Kishan Renwal(Fulera),3,1041.0,Rajasthan
+Zalod(Zalod),3,1800.0,Gujarat
+Hingoli,3,550.0,Maharashtra
+Vadgaonpeth,3,480.0,Maharashtra
+Dhamtari,3,1249.0,Chattisgarh
+Dharmabad,3,980.0,Maharashtra
+Dornakal,3,1360.0,Telangana
+Tiruchengode(Agri. Coop. Marketing Society),3,800.0,Tamil Nadu
+Jairamnagar,3,1850.0,Chattisgarh
+Jagadhri,3,200.0,Haryana
+Islampur,3,900.0,West Bengal
+Tendukheda,3,2001.0,Madhya Pradesh
+Tikonia,3,1200.0,Uttar Pradesh
+Dadengiri,3,2300.0,Meghalaya
+Jaitaran,3,2000.0,Rajasthan
+Rannod,3,1300.0,Madhya Pradesh
+Sevur,3,1550.0,Tamil Nadu
+Sahnewal,3,1660.0,Punjab
+Lohara,3,1152.0,Maharashtra
+Martur,3,855.0,Andhra Pradesh
+Sampla,3,1000.0,Haryana
+Maddipadu,3,1390.0,Andhra Pradesh
+Madikeri,3,562.0,Karnataka
+Pimpalgaon Baswant(Saykheda),3,900.0,Maharashtra
+Narwana,3,930.0,Haryana
+Kunnathur,3,800.0,Tamil Nadu
+Muthur,3,1500.0,Tamil Nadu
+Risgaon,3,1050.0,Chattisgarh
+Israna,2,1462.0,Haryana
+Mehta,2,1355.0,Punjab
+Prantij,2,575.0,Gujarat
+Itawa,2,785.0,Rajasthan
+Manwat,2,755.5,Maharashtra
+Iamailabad,2,1695.5,Haryana
+Kotkapura,2,760.0,Punjab
+Jaggayyapeta,2,540.0,Andhra Pradesh
+Jahanabad,2,1205.0,Uttar Pradesh
+Baghapurana,2,1097.5,Punjab
+Himatnagar(Gambhoi),2,987.5,Gujarat
+Bihariganj,2,1375.0,Bihar
+Valathi,2,583.0,Tamil Nadu
+Ramgarh,2,1125.0,Jharkhand
+Harippad,2,1400.0,Kerala
+Thirumangalam,2,1295.0,Tamil Nadu
+Muradnagar,2,850.0,Uttar Pradesh
+Gurgaon,2,510.0,Haryana
+Velur,2,1747.0,Tamil Nadu
+Fatehabad,2,1430.0,Haryana
+Tikamgarh,2,857.5,Madhya Pradesh
+Nadwai,2,3850.5,Rajasthan
+Narkatiaganj,2,698.0,Bihar
+Bhagalpur,2,1975.0,Bihar
+Manapparai,2,1000.0,Tamil Nadu
+Rohtak,2,1150.0,Haryana
+Malthone,2,1322.5,Madhya Pradesh
+Dahod(Himalaya),2,1177.5,Gujarat
+Komakhan,2,1850.0,Chattisgarh
+Sonpeth,2,1000.0,Maharashtra
+Undi,2,560.0,Andhra Pradesh
+Cherthdla,2,2450.0,Kerala
+"Sangli(Phale, Bhajipura Market)",2,872.5,Maharashtra
+Botad(Bhabarkot),2,541.0,Gujarat
+Khandwa(F&V),2,1061.0,Madhya Pradesh
+Lakhisarai,2,650.0,Bihar
+Khairthal,2,3500.0,Rajasthan
+Borsad,2,1050.0,Gujarat
+Sirsa,2,1242.5,Haryana
+Samalkha,2,775.0,Haryana
+Puwaha,2,1762.5,Uttar Pradesh
+Sadasivpet(Sangareddy),2,738.0,Telangana
+Devarakadra,2,970.0,Telangana
+Talcher,2,1000.0,Odisha
+Ponduru,2,1357.5,Andhra Pradesh
+Jorhat,2,862.5,Assam
+Jalukie,2,3375.0,Nagaland
+Jora,2,1000.0,Madhya Pradesh
+Maanachar,2,1520.0,Maharashtra
+Bishnupur(Bankura),2,1800.0,West Bengal
+Pune(Khadiki),1,1437.0,Maharashtra
+Bhanjanagar,1,1050.0,Odisha
+Burhanpur(F&V),1,1200.0,Madhya Pradesh
+Budalada,1,3300.0,Punjab
+Birpur,1,640.0,Bihar
+Shadabad,1,700.0,Uttar Pradesh
+Bilaspur,1,900.0,Haryana
+Pune(Pimpri),1,698.0,Maharashtra
+Purna,1,651.0,Maharashtra
+Bhavani,1,1635.0,Tamil Nadu
+Piprai,1,1110.0,Madhya Pradesh
+Bikaner (Grain),1,4213.0,Rajasthan
+Sevda,1,750.0,Madhya Pradesh
+Bhulath,1,880.0,Punjab
+Vadodara(Sayajipura),1,700.0,Gujarat
+Bodinayakkanur,1,2560.0,Tamil Nadu
+Vathlagundu,1,1350.0,Tamil Nadu
+Somala,1,850.0,Andhra Pradesh
+Berla,1,1210.0,Chattisgarh
+Ajmer(F&V),1,1050.0,Rajasthan
+Savli(Desar),1,950.0,Gujarat
+Atmakur(SPS),1,1380.0,Andhra Pradesh
+Arwal,1,4500.0,Bihar
+Armori,1,875.0,Maharashtra
+Yamuna Nagar,1,1030.0,Haryana
+Safidon,1,525.0,Haryana
+Ahwa-Dang,1,1242.0,Gujarat
+Badvel,1,500.0,Andhra Pradesh
+Yeotmal,1,581.0,Maharashtra
+Adoni,1,2049.0,Andhra Pradesh
+Adilabad,1,840.0,Telangana
+Abhanpur,1,1425.0,Chattisgarh
+Ziro,1,350.0,Arunachal Pradesh
+Sasaram,1,750.0,Bihar
+Sadulshahar,1,2153.0,Rajasthan
+Wanaparthy Road(Prbbair),1,825.0,Telangana
+Rahuri(Songaon),1,700.0,Maharashtra
+Ramachandrapuram,1,950.0,Andhra Pradesh
+Vijapur,1,1330.0,Gujarat
+Begamganj,1,2800.0,Madhya Pradesh
+Basti,1,640.0,Uttar Pradesh
+Rajampet,1,950.0,Andhra Pradesh
+Basana,1,1425.0,Chattisgarh
+Baramkela,1,2500.0,Chattisgarh
+Virpur,1,1675.0,Gujarat
+Wanaparthy Road,1,515.0,Telangana
+Patran,1,1175.0,Punjab
+Repalli,1,950.0,Andhra Pradesh
+Bandikui(Geejgarh),1,1400.0,Rajasthan
+Selemba,1,1350.0,Gujarat
+Bahedi,1,950.0,Uttar Pradesh
+Bahadurganj,1,2100.0,Bihar
+Pilli Banga,1,1295.0,Rajasthan
+Noor Mehal(Kot Badal Khan),1,1590.0,Punjab
+Chowmanu,1,17500.0,Tripura
+Malegaon(Umarane),1,530.0,Maharashtra
+Jalkot,1,950.0,Maharashtra
+Jalandhar Cantt (Jamshedpur Dana Mandi),1,1840.0,Punjab
+Mangalore,1,1800.0,Karnataka
+Tanakpur,1,1220.0,Uttrakhand
+Markapur,1,1310.0,Andhra Pradesh
+Taura,1,1700.0,Haryana
+Tellarevu,1,1050.0,Andhra Pradesh
+Tenali,1,1175.0,Andhra Pradesh
+Sidhwan Bet (Lodhiwala),1,1655.0,Punjab
+Meghraj(Radlavada),1,1450.0,Gujarat
+Mehmadabad,1,710.0,Gujarat
+Miryalaguda,1,502.0,Telangana
+Hinganghat,1,843.0,Maharashtra
+Thanjavur,1,590.0,Tamil Nadu
+Harpalpur,1,1325.0,Madhya Pradesh
+Jalore,1,650.0,Rajasthan
+Sindholi,1,900.0,Uttar Pradesh
+Hajipur,1,1440.0,Bihar
+Mahua Mandabar(Mahua),1,1265.0,Rajasthan
+Kolhapur(Malkapur),1,800.0,Maharashtra
+Kuchaman City,1,891.0,Rajasthan
+Siwani,1,1500.0,Haryana
+Khedbrahma(Posina),1,1675.0,Gujarat
+Kharsiya,1,1400.0,Chattisgarh
+Khariar Road,1,1200.0,Odisha
+Lakkireddipally,1,875.0,Andhra Pradesh
+Khaga,1,500.0,Uttar Pradesh
+Lalbarra,1,2250.0,Madhya Pradesh
+Kavunthapadi,1,1270.0,Tamil Nadu
+Karimganj,1,1275.0,Assam
+Lohian Khas,1,925.0,Punjab
+Lunkaransar,1,1300.0,Rajasthan
+Kalpi,1,660.0,Uttar Pradesh
+Kalanaur,1,4450.0,Punjab
+Mudkhed,1,1272.0,Maharashtra
+Murtizapur,1,405.0,Maharashtra
+Una,1,545.0,Himachal Pradesh
+Shehra,1,1400.0,Gujarat
+Digras,1,480.0,Maharashtra
+Nuh,1,900.0,Haryana
+Turvekere,1,1250.0,Karnataka
+Paderu,1,1750.0,Andhra Pradesh
+Palakonda,1,1200.0,Andhra Pradesh
+Deogarh,1,1200.0,Odisha
+Deeg,1,3515.0,Rajasthan
+Deedwana(Choti Khatu),1,700.0,Rajasthan
+Palam,1,1050.0,Maharashtra
+Ulhasnagar,1,1300.0,Maharashtra
+Panichowki,1,2600.0,Tripura
+Patan,1,475.0,Maharashtra
+Patiala(New Anaj Mandi),1,1671.0,Punjab
+Umarked(Danki),1,1175.0,Maharashtra
+Umreth,1,450.0,Gujarat
+Nongstoin,1,2750.0,Meghalaya
+Nidamanoor,1,595.0,Telangana
+Thoothukudi,1,550.0,Tamil Nadu
+Sheopurbadod,1,1401.0,Madhya Pradesh
+Guntakal,1,880.0,Andhra Pradesh
+Gulabganj,1,1168.0,Madhya Pradesh
+Thungathurthy,1,445.0,Telangana
+Gopalganj,1,1300.0,Bihar
+Gaya,1,2400.0,Bihar
+Narayanpet,1,498.0,Telangana
+Gangakhed,1,1400.0,Maharashtra
+Firozepur City,1,350.0,Punjab
+Narsipatnam,1,860.0,Andhra Pradesh
+Enkoor,1,840.0,Telangana
+Ellanabad,1,1200.0,Haryana
+Naugarh,1,885.0,Uttar Pradesh
+Neem Ka Thana,1,1150.0,Rajasthan
+Duggirala,1,2011.0,Andhra Pradesh
+New Market Aizawl,1,950.0,Mizoram
+Saraskana,1,1500.0,Odisha

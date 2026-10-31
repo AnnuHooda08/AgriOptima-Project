@@ -1,0 +1,22 @@
+{
+  "folder": "DataSets/india_mandi_prices_2000_2024",
+  "csv_entries": 325,
+  "statuses": {
+    "available": 306,
+    "empty_placeholder": 10,
+    "git_lfs_pointer_data_not_present": 9
+  },
+  "total_bytes": 3172759813,
+  "commodity_labels": 325,
+  "available_records": 38080449,
+  "price_units_declared_in_header": {
+    "Rs/quintal": 285,
+    "unit not stated in column name": 21
+  },
+  "notes": [
+    "Each commodity is stored in a separate CSV; the folder is not a single homogeneous table.",
+    "Git LFS pointers do not contain the referenced data in this checkout.",
+    "Ten one-byte placeholders contain no CSV header or observations.",
+    "The maize model uses its own explicit Rs./Quintal columns; rows from other commodities are not combined into its target."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "search": "max_depth in [None, 5, 10]; min_samples_leaf in [3, 5, 10, 20]",
+  "selection": "minimum 2012-2014 validation MAE; RMSE tie-break",
+  "features": [
+    "Crop",
+    "Season"
+  ],
+  "chosen_parameters": {
+    "max_depth": null,
+    "min_samples_leaf": 3
+  },
+  "final_test_used_for_tuning": false
+}

@@ -1,0 +1,26 @@
+{
+  "source_file": "DataSets/india_mandi_prices_2000_2024/Maize.csv",
+  "raw_records": 1077217,
+  "exact_duplicate_rows_logged_and_excluded": 978,
+  "invalid_or_missing_date_rows": 0,
+  "missing_or_non_numeric_modal_price_rows": 50,
+  "nonpositive_modal_price_rows": 4151,
+  "rejected_rows_written": 5179,
+  "accepted_daily_market_rows": 1072038,
+  "observed_months": 277,
+  "calendar_months_in_range": 278,
+  "missing_calendar_months_not_filled": 1,
+  "model_rows_after_calendar_lags": 265,
+  "model_first_month": "2002-01-01",
+  "model_last_month": "2024-02-01",
+  "target": "monthly median of market modal prices, Rs per quintal",
+  "feature_columns": [
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_12",
+    "month",
+    "year"
+  ],
+  "future_arrivals_or_same_month_minimum_maximum_prices_used": false
+}

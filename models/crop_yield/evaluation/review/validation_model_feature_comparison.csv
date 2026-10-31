@@ -1,0 +1,16 @@
+feature_config,features,model,mae_t_ha,rmse_t_ha,r2
+A_crop_season,"Crop, Season",Decision Tree,2.5299915374400115,6.438471906553442,0.8805606630853406
+A_crop_season,"Crop, Season",Linear Regression,2.5456878000804126,6.444753581429622,0.8803274881654115
+A_crop_season,"Crop, Season",Lasso,2.5694919314021383,6.458319275683332,0.8798231556746685
+A_crop_season,"Crop, Season",Random Forest,2.6286933213761667,6.527162447779388,0.8772474234461103
+A_crop_season,"Crop, Season",Ridge,2.8992599211565806,6.774048350814315,0.8677857219475238
+B_all_six,"State, District, Crop, Season, YearStart, Area",Ridge,3.328381760938536,6.93959877921666,0.8612444071050565
+B_all_six,"State, District, Crop, Season, YearStart, Area",Lasso,3.568497107982294,7.074102823850878,0.8558135298986299
+B_all_six,"State, District, Crop, Season, YearStart, Area",Linear Regression,3.7483706132405445,7.340406202905158,0.8447534489607346
+B_all_six,"State, District, Crop, Season, YearStart, Area",Random Forest,8.71295367910428,48.103224321657734,-5.666995302423758
+B_all_six,"State, District, Crop, Season, YearStart, Area",Decision Tree,11.083192846206297,74.66289819633688,-15.061698210165702
+C_crop_season_year_area,"Crop, Season, YearStart, Area",Linear Regression,2.52154135880721,6.409262086542348,0.8816419406466899
+C_crop_season_year_area,"Crop, Season, YearStart, Area",Lasso,2.543511545555684,6.414394138373432,0.8814523204143215
+C_crop_season_year_area,"Crop, Season, YearStart, Area",Ridge,2.891288412581322,6.734499507229654,0.8693250253469884
+C_crop_season_year_area,"Crop, Season, YearStart, Area",Random Forest,8.187845146400365,47.14700559903114,-5.4045703971421695
+C_crop_season_year_area,"Crop, Season, YearStart, Area",Decision Tree,10.513023165407226,74.35381824990375,-14.92899311692795

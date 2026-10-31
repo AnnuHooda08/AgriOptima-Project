@@ -70,17 +70,48 @@ def prepare():
     clean.to_csv(DATA_DIR / "crop_yield_cleaned.csv", index=False)
     model_data.to_csv(DATA_DIR / "crop_yield_model_data.csv", index=False)
     rejected.to_csv(REPORT_DIR / "excluded_rows_audit.csv", index=False)
+    # Confirm the recorded target matches production divided by area where units permit it.
+    ratio_rows = (
+        original["Production"].notna()
+        & original["Area"].gt(0)
+        & original["Production Units"].astype("string").str.lower().eq("tonnes")
+        & original["Yield"].notna()
+    )
+    calculated_yield = original.loc[ratio_rows, "Production"] / original.loc[ratio_rows, "Area"]
+    ratio_match = np.isclose(
+        calculated_yield.to_numpy(dtype=float),
+        original.loc[ratio_rows, "Yield"].to_numpy(dtype=float),
+        rtol=1e-6,
+        atol=1e-8,
+    )
     summary = {
         "source_file": str(RAW_FILE.relative_to(ROOT)),
         "source_rows": int(source_rows),
+        "source_columns": list(original.columns),
+        "source_missing_cells": int(original.isna().sum().sum()),
         "exact_duplicates_removed": int(duplicate_count),
         "valid_clean_rows": int(len(clean)),
         "excluded_rows": int(len(rejected)),
+        "exclusion_reason_counts": {
+            reason: int(reasons.str.contains(reason, regex=False).sum())
+            for reason in ["nonpositive_yield", "incompatible_production_units"]
+        },
         "model_rows": int(len(model_data)),
         "year_min": int(model_data["YearStart"].min()),
         "year_max": int(model_data["YearStart"].max()),
+        "category_counts": {
+            column: int(model_data[column].nunique())
+            for column in ["State", "District", "Crop", "Season"]
+        },
+        "yield_matches_tonnes_divided_by_hectares": {
+            "comparable_source_rows": int(ratio_rows.sum()),
+            "matching_rows": int(ratio_match.sum()),
+            "all_match": bool(ratio_match.all()),
+        },
         "target": TARGET,
+        "target_units": "tonnes per hectare",
         "features": FEATURES,
+        "feature_units": {"Area": "hectares"},
     }
     (REPORT_DIR / "preprocessing_summary.json").write_text(json.dumps(summary, indent=2) + "\n")
     profile = pd.DataFrame({

@@ -1,0 +1,65 @@
+model,feature_config,group_type,group,records
+Decision Tree,Crop + Season,District,AMRITSAR,29
+Decision Tree,Crop + Season,District,BARNALA,22
+Decision Tree,Crop + Season,District,BATHINDA,23
+Decision Tree,Crop + Season,District,CHARKI DADRI,2
+Decision Tree,Crop + Season,District,FARIDKOT,12
+Decision Tree,Crop + Season,District,FATEHGARH SAHIB,17
+Decision Tree,Crop + Season,District,FAZILKA,21
+Decision Tree,Crop + Season,District,FIROZEPUR,20
+Decision Tree,Crop + Season,District,GURDASPUR,23
+Decision Tree,Crop + Season,District,JALANDHAR,26
+Decision Tree,Crop + Season,District,KAPURTHALA,16
+Decision Tree,Crop + Season,District,LUDHIANA,29
+Decision Tree,Crop + Season,District,MANSA,22
+Decision Tree,Crop + Season,District,MOGA,18
+Decision Tree,Crop + Season,District,MUKTSAR,22
+Decision Tree,Crop + Season,District,NAWANSHAHR,20
+Decision Tree,Crop + Season,District,PATHANKOT,25
+Decision Tree,Crop + Season,District,PATIALA,21
+Decision Tree,Crop + Season,District,RUPNAGAR,20
+Decision Tree,Crop + Season,District,S,25
+Decision Tree,Crop + Season,District,TARN TARAN,26
+Decision Tree,Crop + Season,Crop,Castor seed,9
+Decision Tree,Crop + Season,Crop,Dry chillies,13
+Decision Tree,Crop + Season,Crop,Ginger,6
+Decision Tree,Crop + Season,Crop,Groundnut,23
+Decision Tree,Crop + Season,Crop,Horse-gram,7
+Decision Tree,Crop + Season,Crop,Jowar,23
+Decision Tree,Crop + Season,Crop,Moth,8
+Decision Tree,Crop + Season,Crop,Sannhamp,4
+Decision Tree,Crop + Season,Crop,Sunflower,19
+Decision Tree,Crop + Season,Crop,Sweet potato,6
+Decision Tree,Crop + Season,Crop,other oilseeds,3
+Random Forest,All six production inputs,District,AMRITSAR,29
+Random Forest,All six production inputs,District,BARNALA,22
+Random Forest,All six production inputs,District,BATHINDA,23
+Random Forest,All six production inputs,District,CHARKI DADRI,2
+Random Forest,All six production inputs,District,FARIDKOT,12
+Random Forest,All six production inputs,District,FATEHGARH SAHIB,17
+Random Forest,All six production inputs,District,FAZILKA,21
+Random Forest,All six production inputs,District,FIROZEPUR,20
+Random Forest,All six production inputs,District,GURDASPUR,23
+Random Forest,All six production inputs,District,JALANDHAR,26
+Random Forest,All six production inputs,District,KAPURTHALA,16
+Random Forest,All six production inputs,District,LUDHIANA,29
+Random Forest,All six production inputs,District,MANSA,22
+Random Forest,All six production inputs,District,MOGA,18
+Random Forest,All six production inputs,District,MUKTSAR,22
+Random Forest,All six production inputs,District,NAWANSHAHR,20
+Random Forest,All six production inputs,District,PATHANKOT,25
+Random Forest,All six production inputs,District,PATIALA,21
+Random Forest,All six production inputs,District,RUPNAGAR,20
+Random Forest,All six production inputs,District,S,25
+Random Forest,All six production inputs,District,TARN TARAN,26
+Random Forest,All six production inputs,Crop,Castor seed,9
+Random Forest,All six production inputs,Crop,Dry chillies,13
+Random Forest,All six production inputs,Crop,Ginger,6
+Random Forest,All six production inputs,Crop,Groundnut,23
+Random Forest,All six production inputs,Crop,Horse-gram,7
+Random Forest,All six production inputs,Crop,Jowar,23
+Random Forest,All six production inputs,Crop,Moth,8
+Random Forest,All six production inputs,Crop,Sannhamp,4
+Random Forest,All six production inputs,Crop,Sunflower,19
+Random Forest,All six production inputs,Crop,Sweet potato,6
+Random Forest,All six production inputs,Crop,other oilseeds,3

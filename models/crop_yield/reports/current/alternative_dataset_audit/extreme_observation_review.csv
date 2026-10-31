@@ -1,0 +1,540 @@
+_source_row,State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,area_crop_percentile,production_crop_percentile,review_note
+238,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Groundnut,755200.0,867800.0,0.9992076069730587,0.999429874572406,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+296,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Groundnut,791559.0,884963.0,0.9994340049807562,0.9995438996579248,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+344,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Groundnut,758700.0,333828.0,0.9993208059769074,0.9949828962371722,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+490,Andhra Pradesh,ANANTAPUR,2003,Whole Year ,Pome Fruit,1466.0,83767.0,0.9831649831649831,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+500,Andhra Pradesh,ANANTAPUR,2004,Kharif     ,Groundnut,857823.0,684543.0,0.9997736019923025,0.9980615735461802,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+542,Andhra Pradesh,ANANTAPUR,2005,Kharif     ,Groundnut,877029.0,362213.0,1.0,0.9952109464082098,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+622,Andhra Pradesh,ANANTAPUR,2007,Kharif     ,Groundnut,876000.0,1102000.0,0.9998868009961512,0.9998859749144812,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+642,Andhra Pradesh,ANANTAPUR,2008,Kharif     ,Groundnut,853577.0,75115.0,0.9996604029884537,0.966818700114025,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+718,Andhra Pradesh,ANANTAPUR,2010,Kharif     ,Groundnut,814077.0,446928.0,0.999547203984605,0.9964652223489168,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+759,Andhra Pradesh,ANANTAPUR,2011,Kharif     ,Groundnut,733960.0,174682.0,0.9990944079692099,0.9897377423033067,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+823,Andhra Pradesh,ANANTAPUR,2012,Kharif     ,Sapota,2106.0,41876.0,0.8717948717948718,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+881,Andhra Pradesh,ANANTAPUR,2013,Kharif     ,Pome Granet,1450.0,23722.0,0.9848484848484849,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+952,Andhra Pradesh,ANANTAPUR,2014,Kharif     ,Pome Granet,1572.0,16416.0,1.0,0.9696969696969697,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+1674,Andhra Pradesh,CHITTOOR,2013,Kharif     ,Mango,66615.0,588344.0,1.0,0.9977728285077951,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2055,Andhra Pradesh,EAST GODAVARI,2003,Whole Year ,Brinjal,2783.0,66647.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2546,Andhra Pradesh,EAST GODAVARI,2014,Whole Year ,Rice,394117.0,1563229.0,0.9957627118644068,0.9996684789815674,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2572,Andhra Pradesh,GUNTUR,1997,Rabi       ,Urad,153000.0,75400.0,0.9990862944162436,0.9974253347064882,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2655,Andhra Pradesh,GUNTUR,2000,Rabi       ,Urad,165179.0,128840.0,0.9997969543147208,0.9993820803295571,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2692,Andhra Pradesh,GUNTUR,2001,Rabi       ,Urad,154060.0,118164.0,0.9991878172588833,0.9988671472708548,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2733,Andhra Pradesh,GUNTUR,2002,Rabi       ,Urad,176210.0,116827.0,1.0,0.9987641606591143,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2737,Andhra Pradesh,GUNTUR,2002,Whole Year ,Bottle Gourd,316.0,0.0,1.0,0.44047619047619047,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2747,Andhra Pradesh,GUNTUR,2002,Whole Year ,other fibres,6268.0,0.0,1.0,0.55,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2761,Andhra Pradesh,GUNTUR,2003,Kharif     ,Dry chillies,67122.0,338429.0,0.9996917860995531,0.9996885220370659,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2800,Andhra Pradesh,GUNTUR,2003,Whole Year ,Cucumber,1888.0,0.0,1.0,0.5053763440860215,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2923,Andhra Pradesh,GUNTUR,2007,Kharif     ,Dry chillies,63000.0,312000.0,0.9990753582986592,0.9992213050926647,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2943,Andhra Pradesh,GUNTUR,2008,Kharif     ,Dry chillies,61236.0,305935.0,0.9986130374479889,0.9990655661111977,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2957,Andhra Pradesh,GUNTUR,2008,Rabi       ,Maize,95547.0,950884.0,0.9863769986376999,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+2976,Andhra Pradesh,GUNTUR,2009,Kharif     ,Dry chillies,61837.0,341340.0,0.9989212513484358,0.999844261018533,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3030,Andhra Pradesh,GUNTUR,2010,Rabi       ,Maize,80083.0,904377.0,0.9820749982074998,0.9999274679045478,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3050,Andhra Pradesh,GUNTUR,2011,Kharif     ,Dry chillies,74418.0,319402.0,0.9998458930497766,0.9993770440741317,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3065,Andhra Pradesh,GUNTUR,2011,Rabi       ,Maize,70965.0,627331.0,0.9789918978991898,0.999419743236382,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3117,Andhra Pradesh,GUNTUR,2012,Rabi       ,Maize,82043.0,662579.0,0.9830070983007099,0.9996373395227388,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3138,Andhra Pradesh,GUNTUR,2013,Kharif     ,Dry chillies,63406.0,325717.0,0.9992294652488827,0.9995327830555988,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3166,Andhra Pradesh,GUNTUR,2013,Rabi       ,Maize,85535.0,643394.0,0.9838674983867498,0.9995648074272866,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3191,Andhra Pradesh,GUNTUR,2014,Kharif     ,Dry chillies,61140.0,398021.0,0.9984589304977655,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3219,Andhra Pradesh,GUNTUR,2014,Rabi       ,Maize,63701.0,611020.0,0.9743313974331398,0.9993472111409298,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3220,Andhra Pradesh,GUNTUR,2014,Rabi       ,Moong(Green Gram),47589.0,61199.0,0.9787749563868967,0.9991094399366713,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+3467,Andhra Pradesh,KADAPA,2002,Whole Year ,Papaya,3132.0,408557.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4230,Andhra Pradesh,KRISHNA,2002,Rabi       ,Urad,161327.0,145033.0,0.9995939086294416,0.9996910401647786,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4403,Andhra Pradesh,KRISHNA,2006,Rabi       ,Urad,114076.0,121035.0,0.9978680203045686,0.9990731204943357,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4485,Andhra Pradesh,KRISHNA,2009,Rabi       ,Urad,110269.0,144783.0,0.9976649746192894,0.9995880535530381,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4552,Andhra Pradesh,KRISHNA,2011,Rabi       ,Urad,173354.0,155325.0,0.9998984771573604,0.9998970133882595,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4602,Andhra Pradesh,KRISHNA,2012,Rabi       ,Urad,163558.0,161867.0,0.9996954314720812,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4661,Andhra Pradesh,KRISHNA,2014,Kharif     ,Mango,58445.0,663468.0,0.9910913140311804,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4691,Andhra Pradesh,KRISHNA,2014,Rabi       ,Urad,124853.0,145703.0,0.9983756345177665,0.9997940267765191,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4728,Andhra Pradesh,KURNOOL,1998,Kharif     ,Korra,27500.0,19600.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4855,Andhra Pradesh,KURNOOL,2001,Kharif     ,Sunflower,133400.0,106830.0,0.9978459881529348,0.999270472369141,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4900,Andhra Pradesh,KURNOOL,2002,Kharif     ,Sunflower,192119.0,151230.0,0.9992819960509782,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4922,Andhra Pradesh,KURNOOL,2002,Whole Year ,Bhindi,6908.0,51451.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4940,Andhra Pradesh,KURNOOL,2002,Whole Year ,Tomato,21469.0,142009.0,1.0,0.9864130434782609,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+4959,Andhra Pradesh,KURNOOL,2003,Kharif     ,Sunflower,216637.0,142013.0,1.0,0.9998176180922852,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5001,Andhra Pradesh,KURNOOL,2003,Whole Year ,Tomato,19358.0,293269.0,0.9945652173913043,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5018,Andhra Pradesh,KURNOOL,2004,Kharif     ,Sunflower,201629.0,106527.0,0.9994614970382337,0.9990880904614262,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5134,Andhra Pradesh,KURNOOL,2006,Whole Year ,Sunflower,174126.0,112494.0,0.998743493089212,0.9994528542768557,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5153,Andhra Pradesh,KURNOOL,2007,Rabi       ,Gram,236000.0,412000.0,0.9985056378209483,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5183,Andhra Pradesh,KURNOOL,2008,Rabi       ,Gram,224086.0,327390.0,0.9979622333922021,0.9997232599972325,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5202,Andhra Pradesh,KURNOOL,2008,Whole Year ,Sunflower,144534.0,113086.0,0.9982049901274457,0.9996352361845705,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5224,Andhra Pradesh,KURNOOL,2009,Rabi       ,Gram,239387.0,335860.0,0.9986414889281348,0.9998616299986163,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5266,Andhra Pradesh,KURNOOL,2010,Rabi       ,Gram,217475.0,265102.0,0.9972829778562695,0.9990314099903141,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+5434,Andhra Pradesh,KURNOOL,2013,Rabi       ,Gram,201345.0,277856.0,0.9955169134628448,0.9993081499930815,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6064,Andhra Pradesh,PRAKASAM,2009,Whole Year ,Tobacco,94292.0,157105.0,1.0,0.9992415623814941,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6166,Andhra Pradesh,PRAKASAM,2012,Kharif     ,Sapota,2561.0,26220.0,1.0,0.9743589743589743,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6258,Andhra Pradesh,PRAKASAM,2013,Rabi       ,Tobacco,83416.0,158600.0,0.9988880652335063,0.999620781190747,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6324,Andhra Pradesh,PRAKASAM,2014,Rabi       ,Tobacco,78761.0,167264.0,0.9962935507783544,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6580,Andhra Pradesh,SPSR NELLORE,2003,Whole Year ,Citrus Fruit,23819.0,136822.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6918,Andhra Pradesh,SPSR NELLORE,2013,Kharif     ,Lemon,14051.0,94029.0,0.9743589743589743,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+6972,Andhra Pradesh,SPSR NELLORE,2014,Kharif     ,Lemon,14883.0,64696.0,1.0,0.9487179487179487,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+8521,Andhra Pradesh,VIZIANAGARAM,1997,Kharif     ,Mesta,60300.0,390200.0,0.9994404029099049,0.9971751412429378,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+8607,Andhra Pradesh,VIZIANAGARAM,2000,Kharif     ,Mesta,58199.0,539957.0,0.9983212087297146,0.9994350282485875,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+8647,Andhra Pradesh,VIZIANAGARAM,2001,Kharif     ,Mesta,59501.0,541459.0,0.9988808058198098,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+8685,Andhra Pradesh,VIZIANAGARAM,2002,Kharif     ,Mesta,61520.0,502413.0,1.0,0.9988700564971752,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+9346,Andhra Pradesh,WEST GODAVARI,2000,Whole Year ,Cashewnut,42702.0,8824.0,1.0,0.9288389513108615,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+9418,Andhra Pradesh,WEST GODAVARI,2002,Whole Year ,Cashewnut,42464.0,2482.0,0.9990749306197965,0.7837078651685393,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+9805,Andhra Pradesh,WEST GODAVARI,2014,Kharif     ,other oilseeds,36494.0,795569.0,0.981042654028436,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+9832,Andhra Pradesh,WEST GODAVARI,2014,Whole Year ,Rice,409286.0,1624324.0,0.9960275423728814,0.9998010873889405,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+12921,Assam,BARPETA,2003,Rabi       ,other misc. pulses,1785.0,1785.0,0.9714285714285714,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+17670,Assam,DIMA HASAO,2014,Rabi       ,Ginger,4363.0,39258.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+17674,Assam,DIMA HASAO,2014,Rabi       ,Pineapple,3507.0,67243.0,0.9878542510121457,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+29379,Bihar,BHAGALPUR,1998,Kharif     ,Blackgram,6682.0,5025.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+39384,Bihar,PATNA,1998,Rabi       ,Other  Rabi pulses,56102.0,83142.0,0.9927672955974842,0.9993517017828201,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+49221,Chhattisgarh,DURG,2004,Rabi       ,Khesari,151434.0,42394.0,1.0,0.9822878228782288,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+49260,Chhattisgarh,DURG,2005,Rabi       ,Khesari,150476.0,68474.0,0.9992647058823529,0.9948339483394834,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+49341,Chhattisgarh,DURG,2007,Rabi       ,Khesari,140531.0,366818.0,0.9970588235294118,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+49382,Chhattisgarh,DURG,2008,Rabi       ,Khesari,114034.0,131019.0,0.9955882352941177,0.9992619926199262,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54647,Chhattisgarh,RAIPUR,2000,Kharif     ,Rice,513066.0,208356.0,0.9991393008474576,0.8284047208593025,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54686,Chhattisgarh,RAIPUR,2001,Kharif     ,Rice,517577.0,616749.0,0.999271716101695,0.9761304866728551,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54725,Chhattisgarh,RAIPUR,2002,Kharif     ,Rice,516328.0,386465.0,0.9992055084745762,0.9340273173319188,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54767,Chhattisgarh,RAIPUR,2003,Kharif     ,Rice,520847.0,711370.0,0.9994041313559322,0.9815011271714627,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54810,Chhattisgarh,RAIPUR,2004,Kharif     ,Rice,521744.0,626563.0,0.9994703389830508,0.9768598329134067,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54850,Chhattisgarh,RAIPUR,2005,Kharif     ,Rice,518561.0,804924.0,0.9993379237288136,0.9873358970958759,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54893,Chhattisgarh,RAIPUR,2006,Kharif     ,Rice,534394.0,785967.0,0.9996689618644068,0.9860761172258321,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54936,Chhattisgarh,RAIPUR,2007,Kharif     ,Rice,539878.0,805433.0,0.9997351694915254,0.9874685055032489,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+54978,Chhattisgarh,RAIPUR,2008,Kharif     ,Rice,529148.0,691851.0,0.9996027542372882,0.9805728683198515,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+55019,Chhattisgarh,RAIPUR,2009,Kharif     ,Rice,521918.0,753589.0,0.9995365466101694,0.9842859037262962,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+55062,Chhattisgarh,RAIPUR,2010,Kharif     ,Rice,545965.0,771395.0,0.9998675847457628,0.9852141625779074,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+57040,Goa,NORTH GOA,2013,Whole Year ,Other Fresh Fruits,2258.0,24312.0,0.9414634146341463,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+58125,Gujarat,ANAND,2012,Whole Year ,Banana,9800.0,775100.0,0.9780305391087566,0.999042451324609,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+58471,Gujarat,BANAS KANTHA,2011,Kharif     ,Castor seed,179000.0,367000.0,0.9994075829383886,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+58501,Gujarat,BANAS KANTHA,2012,Kharif     ,Castor seed,127700.0,308200.0,0.9967417061611374,0.9996941896024465,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59085,Gujarat,BHAVNAGAR,2003,Whole Year ,Onion,30800.0,880400.0,0.9967199087278951,0.9994272623138603,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59126,Gujarat,BHAVNAGAR,2005,Whole Year ,Onion,47900.0,1304400.0,0.9998573873359954,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59169,Gujarat,BHAVNAGAR,2007,Whole Year ,Onion,35700.0,1188700.0,0.9980034227039362,0.9998568155784651,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59184,Gujarat,BHAVNAGAR,2008,Rabi       ,Onion,32300.0,922700.0,0.9970051340559042,0.9995704467353952,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59233,Gujarat,BHAVNAGAR,2010,Whole Year ,Onion,36100.0,982300.0,0.9981460353679407,0.9997136311569301,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59247,Gujarat,BHAVNAGAR,2011,Rabi       ,Onion,21000.0,630200.0,0.9940102681118084,0.9991408934707904,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+59622,Gujarat,DOHAD,2007,Rabi       ,Other Cereals & Millets,33400.0,45100.0,0.9984076433121019,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60207,Gujarat,JAMNAGAR,2003,Kharif     ,Groundnut,436600.0,940900.0,0.9976228209191759,0.9997719498289623,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60462,Gujarat,JUNAGADH,1998,Kharif     ,Groundnut,425800.0,847400.0,0.9971700249037808,0.9992018244013683,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60577,Gujarat,JUNAGADH,2003,Kharif     ,Groundnut,415200.0,1163500.0,0.9963776318768395,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60620,Gujarat,JUNAGADH,2005,Kharif     ,Groundnut,399900.0,830400.0,0.9955852388498981,0.9990877993158495,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60634,Gujarat,JUNAGADH,2005,Whole Year ,Garlic,11000.0,106500.0,0.9948312557008209,0.9996899224806202,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60676,Gujarat,JUNAGADH,2007,Whole Year ,Garlic,19400.0,149100.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60726,Gujarat,JUNAGADH,2010,Kharif     ,Groundnut,402100.0,885300.0,0.9956984378537469,0.9996579247434435,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+60793,Gujarat,JUNAGADH,2012,Summer     ,Sesamum,1100.0,55900.0,0.6431571965509617,0.9993198050107698,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+61074,Gujarat,KACHCHH,2011,Kharif     ,Castor seed,139000.0,275400.0,0.9982227488151659,0.999388379204893,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+61095,Gujarat,KACHCHH,2012,Kharif     ,Castor seed,129100.0,244500.0,0.9970379146919431,0.9990825688073395,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+62422,Gujarat,PANCH MAHALS,1997,Whole Year ,Maize,190300.0,273500.0,0.99956979995698,0.9915137448320882,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+62435,Gujarat,PANCH MAHALS,1998,Kharif     ,Maize,201800.0,305400.0,0.99978489997849,0.9937622397911076,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+62465,Gujarat,PANCH MAHALS,1999,Kharif     ,Maize,183700.0,204500.0,0.99921129992113,0.9832450859505331,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+62493,Gujarat,PANCH MAHALS,2000,Kharif     ,Maize,184300.0,103500.0,0.9992829999282999,0.9519112207151664,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+62519,Gujarat,PANCH MAHALS,2001,Kharif     ,Maize,204300.0,379900.0,0.99992829999283,0.9963733952273881,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+62547,Gujarat,PANCH MAHALS,2002,Kharif     ,Maize,219200.0,422100.0,1.0,0.9970261840864583,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+63375,Gujarat,RAJKOT,2003,Kharif     ,Groundnut,369200.0,855900.0,0.9941136517998641,0.9993158494868871,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+63436,Gujarat,RAJKOT,2006,Kharif     ,Cotton(lint),310000.0,1538800.0,0.983842408145197,0.9990871748060246,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+63525,Gujarat,RAJKOT,2010,Kharif     ,Cotton(lint),356900.0,1657900.0,0.9878264718902169,0.9995435874030123,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+63549,Gujarat,RAJKOT,2011,Kharif     ,Cotton(lint),387100.0,1823100.0,0.9911465250110668,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+64519,Gujarat,SURENDRANAGAR,2003,Kharif     ,Sesamum,113900.0,74900.0,0.999557815609109,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+64537,Gujarat,SURENDRANAGAR,2004,Kharif     ,Sesamum,101500.0,35300.0,0.999115631218218,0.9975059517061557,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+64559,Gujarat,SURENDRANAGAR,2005,Kharif     ,Sesamum,101600.0,32200.0,0.9992261773159408,0.996372293390772,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+64654,Gujarat,SURENDRANAGAR,2010,Kharif     ,Cotton(lint),499100.0,1620400.0,0.9991146525011066,0.9993153811045185,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+64678,Gujarat,SURENDRANAGAR,2011,Kharif     ,Cotton(lint),477200.0,1714900.0,0.9984506418769367,0.9997717937015062,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+70943,Haryana,SONIPAT,2002,Whole Year ,Other Vegetables,6555.0,73500.0,0.9868766404199475,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+74222,Jammu and Kashmir ,BARAMULLA,2003,Whole Year ,Other Fresh Fruits,20570.0,0.0,1.0,0.3146341463414634,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+74588,Jammu and Kashmir ,KARGIL,2003,Whole Year ,Turnip,311.0,123.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+75340,Jammu and Kashmir ,SRINAGAR,1999,Rabi       ,Cond-spcs other,646.0,394.7,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+77875,Karnataka,BANGALORE RURAL,2004,Kharif     ,Ragi,135894.0,346941.0,0.9944511459589868,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+80214,Karnataka,BENGALURU URBAN,1997,Kharif     ,Ragi,178931.0,309672.0,0.9980699638118214,0.999271137026239,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+81894,Karnataka,BIJAPUR,2003,Rabi       ,Sunflower,213421.0,30700.0,0.9996409980254891,0.9875980302753967,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+81940,Karnataka,BIJAPUR,2004,Rabi       ,Sunflower,186167.0,53765.0,0.9991024950637228,0.9959875980302754,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+81980,Karnataka,BIJAPUR,2005,Rabi       ,Sunflower,214078.0,98845.0,0.9998204990127446,0.9987233266459967,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+84340,Karnataka,CHIKMAGALUR,2014,Whole Year ,Black pepper,7788.0,77795.0,0.8854389721627409,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+85284,Karnataka,DAKSHIN KANNAD,2002,Whole Year ,Arcanut (Processed),27070.0,48292.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+85285,Karnataka,DAKSHIN KANNAD,2002,Whole Year ,Atcanut (Raw),27070.0,226588.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+85290,Karnataka,DAKSHIN KANNAD,2002,Whole Year ,Cashewnut Processed,29196.0,4451.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+85291,Karnataka,DAKSHIN KANNAD,2002,Whole Year ,Cashewnut Raw,29196.0,17747.0,1.0,0.9428571428571428,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+85528,Karnataka,DAKSHIN KANNAD,2013,Whole Year ,Cashewnut,31288.0,38316.0,0.9602220166512488,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+85546,Karnataka,DAKSHIN KANNAD,2014,Whole Year ,Arecanut,35183.0,447929.0,0.9949270767279645,0.9993498049414824,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86173,Karnataka,DAVANGERE,2010,Kharif     ,Maize,177510.0,640248.0,0.99813579981358,0.9994922753318344,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86341,Karnataka,DAVANGERE,2013,Kharif     ,Maize,180515.0,664178.0,0.99885279988528,0.999709871618191,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86395,Karnataka,DAVANGERE,2014,Kharif     ,Maize,179496.0,576021.0,0.99849429984943,0.9992746790454776,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86444,Karnataka,DHARWAD,1997,Kharif     ,Dry chillies,130292.0,76481.0,1.0,0.9959507864818564,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86589,Karnataka,DHARWAD,2000,Whole Year ,Dry chillies,64299.0,54236.0,0.9993835721991062,0.9931474848154493,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86629,Karnataka,DHARWAD,2001,Whole Year ,Dry chillies,65992.0,30865.0,0.9995376791493297,0.9833359289830245,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86858,Karnataka,DHARWAD,2006,Whole Year ,Onion,43015.0,182949.0,0.9992869366799771,0.9929839633447881,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86871,Karnataka,DHARWAD,2007,Kharif     ,Onion,43194.0,260937.0,0.9994295493439818,0.9962772050400917,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+86963,Karnataka,DHARWAD,2009,Kharif     ,Onion,42879.0,100330.0,0.9991443240159726,0.9819587628865979,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+87756,Karnataka,GADAG,2009,Kharif     ,Onion,47235.0,153601.0,0.9997147746719909,0.9905498281786942,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+87804,Karnataka,GADAG,2010,Kharif     ,Onion,43374.0,244224.0,0.9995721620079863,0.995561282932417,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+87985,Karnataka,GADAG,2014,Kharif     ,Onion,40943.0,155350.0,0.999001711351968,0.9906930126002291,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88088,Karnataka,GULBARGA,1999,Kharif     ,Arhar/Tur,311666.0,181795.0,0.9980205859065716,0.9990636704119851,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88134,Karnataka,GULBARGA,2000,Kharif     ,Arhar/Tur,366678.0,164418.0,0.9990762734230668,0.9985286249331193,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88144,Karnataka,GULBARGA,2000,Kharif     ,Moong(Green Gram),159057.0,71170.0,0.9990308199263424,0.9993073421729666,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88380,Karnataka,GULBARGA,2005,Kharif     ,Arhar/Tur,382765.0,273447.0,0.9998680390604381,0.9997324772605671,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88431,Karnataka,GULBARGA,2006,Kharif     ,Arhar/Tur,382521.0,163528.0,0.9997360781208762,0.9983948635634029,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88478,Karnataka,GULBARGA,2007,Kharif     ,Arhar/Tur,429589.0,302817.0,1.0,0.9998662386302836,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88529,Karnataka,GULBARGA,2008,Kharif     ,Arhar/Tur,379769.0,187606.0,0.9996041171813144,0.9991974317817014,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88631,Karnataka,GULBARGA,2010,Kharif     ,Arhar/Tur,377775.0,206718.0,0.9994721562417525,0.9993311931514178,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88678,Karnataka,GULBARGA,2011,Kharif     ,Arhar/Tur,370523.0,175998.0,0.9993401953021905,0.9987961476725522,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88726,Karnataka,GULBARGA,2012,Kharif     ,Arhar/Tur,340119.0,250736.0,0.9986803906043811,0.9995987158908507,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88772,Karnataka,GULBARGA,2013,Kharif     ,Arhar/Tur,369537.0,394592.0,0.9992082343626286,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+88815,Karnataka,GULBARGA,2014,Kharif     ,Arhar/Tur,315343.0,210003.0,0.9981525468461335,0.9994649545211343,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+89424,Karnataka,HASSAN,2008,Whole Year ,Dry ginger,13844.0,464481.0,0.9986702127659575,0.9993304318714429,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+89475,Karnataka,HASSAN,2009,Whole Year ,Dry ginger,34005.0,1070882.0,0.9996675531914894,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+89531,Karnataka,HASSAN,2010,Whole Year ,Dry ginger,34073.0,119749.6,1.0,0.9966521593572146,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+89588,Karnataka,HASSAN,2011,Whole Year ,Dry ginger,13873.0,44141.9,0.9990026595744681,0.9892869099430867,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+89744,Karnataka,HASSAN,2014,Whole Year ,Dry ginger,15736.0,510979.0,0.9993351063829787,0.9996652159357214,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+91231,Karnataka,KOLAR,2002,Whole Year ,Beans & Mutter(Vegetable),2575.0,23457.0,0.9940119760479041,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+92741,Karnataka,MANDYA,2006,Rabi       ,Horse-gram,66900.0,9597.0,0.9994874423372629,0.9816897724300288,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+93298,Karnataka,MYSORE,2001,Kharif     ,Horse-gram,35698.0,29538.0,0.9964120963608406,0.9992152759612869,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+93762,Karnataka,MYSORE,2010,Whole Year ,Tobacco,88280.0,93343.0,0.9996293550778355,0.9943117178612059,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+93767,Karnataka,MYSORE,2011,Kharif     ,Cowpea(Lobia),25791.0,11638.0,0.9982964224872232,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+93817,Karnataka,MYSORE,2012,Kharif     ,Cowpea(Lobia),26432.0,4846.0,1.0,0.9834862385321101,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+93910,Karnataka,MYSORE,2013,Whole Year ,Tobacco,84544.0,61282.0,0.9992587101556709,0.9863481228668942,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+94971,Karnataka,SHIMOGA,1997,Kharif     ,Paddy,162939.0,555483.0,0.9812108559498957,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+95736,Karnataka,SHIMOGA,2013,Whole Year ,Arecanut,48401.0,538587.0,0.9993658845909955,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+95778,Karnataka,SHIMOGA,2014,Whole Year ,Arecanut,51689.0,386605.0,1.0,0.9980494148244473,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+95831,Karnataka,TUMKUR,1998,Kharif     ,Ragi,205777.0,294692.0,1.0,0.9978134110787172,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+95921,Karnataka,TUMKUR,2000,Kharif     ,Ragi,198361.0,308091.0,0.9997587454764777,0.9990281827016521,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96131,Karnataka,TUMKUR,2004,Kharif     ,Ragi,190048.0,321090.0,0.9987937273823885,0.999514091350826,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96182,Karnataka,TUMKUR,2005,Kharif     ,Ragi,192991.0,290027.0,0.9990349819059108,0.9975704567541303,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96291,Karnataka,TUMKUR,2007,Kharif     ,Ragi,195661.0,306575.0,0.9992762364294331,0.9987852283770651,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96343,Karnataka,TUMKUR,2008,Kharif     ,Ragi,196385.0,207853.0,0.9995174909529554,0.9944120505344995,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96605,Karnataka,TUMKUR,2012,Whole Year ,Coconut ,147539.0,1393593.0,0.9994962216624685,0.593973442288049,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96682,Karnataka,TUMKUR,2014,Kharif     ,Ragi,170691.0,323016.0,0.9968636911942099,0.999757045675413,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+96716,Karnataka,TUMKUR,2014,Whole Year ,Coconut ,149419.0,1283692.0,1.0,0.5903983656792645,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98389,Kerala,ERNAKULAM,2003,Whole Year ,Pineapple,6696.0,57669.0,1.0,0.9919028340080972,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98639,Kerala,IDUKKI,2001,Whole Year ,Tea,24792.0,46439.0,0.9838709677419355,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98650,Kerala,IDUKKI,2002,Whole Year ,Bitter Gourd,586.0,0.0,1.0,0.45108695652173914,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98673,Kerala,IDUKKI,2002,Whole Year ,Tea,24953.0,39854.0,1.0,0.9838709677419355,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98805,Kerala,IDUKKI,2009,Whole Year ,Cardamom,33083.0,7077.0,1.0,0.9715909090909091,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98819,Kerala,IDUKKI,2010,Whole Year ,Black pepper,87273.78,30919.38,1.0,0.9900442477876106,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98853,Kerala,IDUKKI,2012,Whole Year ,Jack Fruit,14631.0,,1.0,,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98894,Kerala,IDUKKI,2014,Whole Year ,Cardamom,31810.0,15000.0,0.9707259953161592,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98913,Kerala,KANNUR,1997,Whole Year ,Cashewnut,30111.0,37909.0,0.9444958371877891,0.9990636704119851,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+98988,Kerala,KANNUR,2002,Whole Year ,Cashewnut Raw,27123.0,25474.0,0.9714285714285714,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+99541,Kerala,KOLLAM,1997,Whole Year ,Tapioca,31028.0,619474.0,0.9993694829760403,0.9779040404040404,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+99922,Kerala,KOTTAYAM,2002,Whole Year ,Rubber,111776.0,143244.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+99923,Kerala,KOTTAYAM,2002,Whole Year ,Snak Guard,310.0,0.0,1.0,0.5060975609756098,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+100516,Kerala,MALAPPURAM,2003,Whole Year ,Drum Stick,3232.0,3361.0,1.0,0.9642857142857143,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+100852,Kerala,PALAKKAD,2003,Whole Year ,Other Vegetables,11483.0,0.0,1.0,0.3766404199475066,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+101047,Kerala,PALAKKAD,2013,Whole Year ,Banana,17427.0,147292.0,0.9993767528825179,0.916693265240983,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+101054,Kerala,PALAKKAD,2013,Whole Year ,Drum Stick,2003.0,4110.0,0.8928571428571429,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+101077,Kerala,PALAKKAD,2014,Whole Year ,Banana,18628.0,175132.0,0.999688376441259,0.9300989466964571,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+101390,Kerala,THIRUVANANTHAPURAM,1997,Whole Year ,Tapioca,39434.0,730475.0,1.0,0.9835858585858586,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+102000,Kerala,WAYANAD,2001,Whole Year ,Coffee,67510.0,54110.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+103268,Madhya Pradesh,BALAGHAT,2003,Rabi       ,Linseed,20569.0,9872.0,0.9975028376844495,0.9995403355550448,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+103562,Madhya Pradesh,BALAGHAT,2011,Rabi       ,Linseed,14886.0,9710.0,0.9866061293984109,0.9993105033325672,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+103799,Madhya Pradesh,BARWANI,2002,Whole Year ,Turmeric,50785.0,25646.0,0.9992860542598763,0.9731285988483686,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+105816,Madhya Pradesh,BURHANPUR,2013,Whole Year ,Banana,17000.0,1414642.0,0.9984418822062948,0.999680817108203,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+106541,Madhya Pradesh,CHHINDWARA,2003,Whole Year ,Cauliflower,1348.0,0.0,1.0,0.430327868852459,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+107568,Madhya Pradesh,DATIA,2003,Rabi       ,other misc. pulses,2970.0,0.01,1.0,0.19285714285714287,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+108005,Madhya Pradesh,DEWAS,2002,Whole Year ,Turmeric,32784.0,22488.0,0.9990480723465016,0.9690499040307101,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+108488,Madhya Pradesh,DHAR,2002,Whole Year ,Turmeric,94477.0,75148.0,0.9995240361732508,0.9956813819577736,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+109272,Madhya Pradesh,DINDORI,2013,Kharif     ,Small millets,38274.0,33811.0,0.9858125537403267,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+112128,Madhya Pradesh,JHABUA,1999,Kharif     ,Other Kharif pulses,102775.0,20205.0,1.0,0.9949281487743026,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+112155,Madhya Pradesh,JHABUA,2000,Kharif     ,Other Kharif pulses,96699.0,18789.0,0.9997267012845039,0.9938010707241477,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+112179,Madhya Pradesh,JHABUA,2001,Kharif     ,Other Kharif pulses,92184.0,29863.0,0.9991801038535119,0.9983093829247676,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+112249,Madhya Pradesh,JHABUA,2003,Kharif     ,Other Kharif pulses,88862.0,39310.0,0.9986335064225198,0.9997182304874612,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+113225,Madhya Pradesh,KHANDWA,2002,Whole Year ,Turmeric,107639.0,61390.0,0.9997620180866255,0.9925623800383877,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+113788,Madhya Pradesh,KHARGONE,2002,Whole Year ,Turmeric,178680.0,121715.0,1.0,0.9990403071017274,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+114155,Madhya Pradesh,MANDLA,1997,Kharif     ,Small millets,101300.0,12800.0,0.9997850386930353,0.9865011974744176,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+114682,Madhya Pradesh,MANDSAUR,1999,Whole Year ,Garlic,14576.0,71668.0,0.9993919124353907,0.9953488372093023,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+115082,Madhya Pradesh,MANDSAUR,2013,Whole Year ,Garlic,11388.0,104550.0,0.9963514746123442,0.9993798449612403,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+116916,Madhya Pradesh,RAISEN,1999,Rabi       ,Linseed,10118.0,9299.0,0.9711691259931896,0.9990806711100896,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+116917,Madhya Pradesh,RAISEN,1999,Rabi       ,Other  Rabi pulses,80586.0,84407.0,0.9996855345911949,0.9996758508914101,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+116945,Madhya Pradesh,RAISEN,2000,Rabi       ,Other  Rabi pulses,76077.0,46811.0,0.9990566037735849,0.9974068071312804,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+117366,Madhya Pradesh,RAJGARH,1997,Kharif     ,Paddy,419700.0,342600.0,1.0,0.9895615866388309,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+118272,Madhya Pradesh,RATLAM,2012,Whole Year ,Garlic,11921.0,97666.0,0.9969595621769535,0.9990697674418605,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+118304,Madhya Pradesh,RATLAM,2013,Whole Year ,Garlic,13970.0,74395.0,0.9990878686530861,0.9962790697674418,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+118862,Madhya Pradesh,SAGAR,1999,Rabi       ,Other  Rabi pulses,77376.0,32444.0,0.9993710691823899,0.993517017828201,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+119067,Madhya Pradesh,SAGAR,2005,Rabi       ,Masoor,77147.0,33229.0,0.9992897727272727,0.9898843930635838,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+120857,Madhya Pradesh,SHAHDOL,1997,Kharif     ,Small millets,78600.0,22500.0,0.9995700773860705,0.9967341606792945,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+122746,Madhya Pradesh,SIDHI,2000,Kharif     ,Small millets,73926.0,19356.0,0.9993551160791058,0.9936860439799695,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+122773,Madhya Pradesh,SIDHI,2001,Kharif     ,Small millets,69049.0,19613.0,0.999140154772141,0.9943392118441106,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+123316,Madhya Pradesh,SINGRAULI,2012,Rabi       ,Linseed,6365.0,11119.0,0.9425652667423382,0.9997701677775224,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+123342,Madhya Pradesh,SINGRAULI,2013,Kharif     ,Small millets,27117.0,25887.0,0.9778589853826312,0.999346832135859,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124015,Madhya Pradesh,UJJAIN,2003,Whole Year ,Beans & Mutter(Vegetable),2593.0,0.0,1.0,0.19760479041916168,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124195,Madhya Pradesh,UJJAIN,2009,Whole Year ,Soyabean,453838.0,673042.0,0.99906600249066,0.9996856334486011,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124238,Madhya Pradesh,UJJAIN,2011,Kharif     ,Soyabean,456653.0,632921.0,0.9993773349937733,0.9990569003458032,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124261,Madhya Pradesh,UJJAIN,2012,Kharif     ,Soyabean,458822.0,673092.0,0.9996886674968867,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124285,Madhya Pradesh,UJJAIN,2013,Kharif     ,Soyabean,464666.0,363369.0,1.0,0.9839673058786546,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124404,Madhya Pradesh,UMARIA,2002,Kharif     ,Small millets,209146.0,4168.0,1.0,0.9209666884389288,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124965,Madhya Pradesh,VIDISHA,2005,Rabi       ,Masoor,78807.0,49791.0,0.9995265151515151,0.9995183044315993,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+124989,Madhya Pradesh,VIDISHA,2006,Rabi       ,Masoor,74167.0,48218.0,0.9990530303030303,0.9992774566473989,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+125016,Madhya Pradesh,VIDISHA,2007,Rabi       ,Masoor,79187.0,40605.0,0.9997632575757576,0.9954238921001927,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+125038,Madhya Pradesh,VIDISHA,2008,Rabi       ,Gram,223770.0,265167.0,0.9978263822850156,0.9991697799916978,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+125041,Madhya Pradesh,VIDISHA,2008,Rabi       ,Masoor,81627.0,47835.0,1.0,0.9990366088631984,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+125555,Maharashtra,AHMEDNAGAR,2009,Rabi       ,Jowar,520500.0,350600.0,0.9974522292993631,0.9991416309012876,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+125653,Maharashtra,AHMEDNAGAR,2013,Rabi       ,Jowar,503900.0,354500.0,0.9967445152158528,0.9995708154506437,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+125709,Maharashtra,AKOLA,1998,Kharif     ,Moong(Green Gram),121400.0,93600.0,0.9986431478968792,0.9996041955274094,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+126840,Maharashtra,AURANGABAD,2013,Kharif     ,Maize,167900.0,759800.0,0.99663009966301,0.9997824037136432,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+126861,Maharashtra,AURANGABAD,2014,Kharif     ,Maize,191700.0,175800.0,0.99964149996415,0.977732646696163,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+127783,Maharashtra,BULDHANA,2003,Kharif     ,Moong(Green Gram),95800.0,61000.0,0.9963171157201008,0.9990104888185236,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+128057,Maharashtra,CHANDRAPUR,1998,Rabi       ,Linseed,30700.0,7500.0,0.9997729852440409,0.9972420133302689,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+128082,Maharashtra,CHANDRAPUR,1999,Rabi       ,Linseed,29200.0,8800.0,0.9995459704880817,0.9986210066651344,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+128164,Maharashtra,CHANDRAPUR,2003,Rabi       ,Linseed,28400.0,6900.0,0.9993189557321226,0.9952884394392094,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+128222,Maharashtra,CHANDRAPUR,2006,Rabi       ,Linseed,28100.0,6900.0,0.9990919409761635,0.9952884394392094,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+129851,Maharashtra,JALGAON,2003,Whole Year ,Banana,35900.0,2390840.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+129989,Maharashtra,JALGAON,2010,Kharif     ,Cotton(lint),509700.0,1097100.0,0.99933598937583,0.9965769055225924,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+130008,Maharashtra,JALGAON,2011,Kharif     ,Cotton(lint),548600.0,1040400.0,0.9995573262505534,0.9947512551346417,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+130032,Maharashtra,JALGAON,2012,Kharif     ,Cotton(lint),558800.0,853300.0,0.9998893315626384,0.991556366955728,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+130051,Maharashtra,JALGAON,2013,Kharif     ,Cotton(lint),558800.0,1504000.0,0.9998893315626384,0.9988589685075308,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+131358,Maharashtra,LATUR,2013,Kharif     ,Soyabean,308400.0,670400.0,0.9825653798256538,0.9993712668972021,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+132688,Maharashtra,NASHIK,1999,Kharif     ,Small millets,37400.0,26800.0,0.9851676698194325,0.9995645547572393,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+132720,Maharashtra,NASHIK,2000,Kharif     ,Small millets,42100.0,24800.0,0.9881771281169389,0.9991291095144785,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+132821,Maharashtra,NASHIK,2003,Whole Year ,Grapes,24992.0,733515.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+132823,Maharashtra,NASHIK,2003,Whole Year ,Onion,60611.0,793741.0,1.0,0.9992840778923253,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+132974,Maharashtra,NASHIK,2010,Kharif     ,Maize,164100.0,535600.0,0.99648669964867,0.9990570827591209,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+132994,Maharashtra,NASHIK,2011,Kharif     ,Maize,173800.0,554000.0,0.99756219975622,0.9991296148545732,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+133042,Maharashtra,NASHIK,2013,Kharif     ,Maize,144200.0,556700.0,0.9948375994837599,0.9992021469500254,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+133594,Maharashtra,PARBHANI,1998,Rabi       ,Safflower,48200.0,22400.0,1.0,0.9938697318007663,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+133680,Maharashtra,PARBHANI,2001,Rabi       ,Safflower,34200.0,26300.0,0.9850187265917603,0.9992337164750957,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+133821,Maharashtra,PARBHANI,2006,Rabi       ,Safflower,42800.0,27400.0,0.9992509363295881,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136114,Maharashtra,SOLAPUR,1997,Rabi       ,Jowar,726300.0,156700.0,1.0,0.9778969957081545,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136166,Maharashtra,SOLAPUR,1999,Rabi       ,Jowar,699900.0,353800.0,0.9995753715498938,0.9992846924177397,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136220,Maharashtra,SOLAPUR,2001,Rabi       ,Jowar,712900.0,313800.0,0.9998584571832979,0.9975679542203147,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136249,Maharashtra,SOLAPUR,2002,Rabi       ,Jowar,672100.0,225400.0,0.9991507430997877,0.990414878397711,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136309,Maharashtra,SOLAPUR,2004,Rabi       ,Jowar,686900.0,302600.0,0.9992922859164898,0.9971387696709585,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136357,Maharashtra,SOLAPUR,2006,Rabi       ,Jowar,711300.0,342200.0,0.9997169143665959,0.9988555078683834,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136406,Maharashtra,SOLAPUR,2008,Rabi       ,Jowar,687500.0,406000.0,0.9994338287331918,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136427,Maharashtra,SOLAPUR,2009,Rabi       ,Jowar,657600.0,400700.0,0.9990092002830856,0.999856938483548,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136449,Maharashtra,SOLAPUR,2010,Rabi       ,Jowar,641200.0,380600.0,0.9988676574663836,0.9997138769670959,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136551,Maharashtra,SOLAPUR,2014,Rabi       ,Jowar,622800.0,354100.0,0.9985845718329794,0.9994277539341917,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+136560,Maharashtra,SOLAPUR,2014,Whole Year ,Sugarcane,205500.0,20049700.0,0.9948238858729959,0.9993611856394532,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+138358,Manipur,IMPHAL EAST,2003,Whole Year ,Bottle Gourd,15.0,108.0,0.6666666666666666,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+138483,Manipur,IMPHAL WEST,2003,Whole Year ,Bitter Gourd,13.0,70.0,0.30978260869565216,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+138868,Manipur,THOUBAL,2002,Whole Year ,Carrot,55.0,548.0,0.7678571428571429,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+138869,Manipur,THOUBAL,2002,Whole Year ,Cauliflower,345.0,3622.0,0.9262295081967213,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+138908,Manipur,THOUBAL,2003,Whole Year ,Redish,47.0,418.0,0.8524590163934426,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+141166,Meghalaya,WEST GARO HILLS,2000,Kharif     ,Kapas,4366.0,3958.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+142947,Nagaland,DIMAPUR,2001,Kharif     ,Niger seed,50000.0,25000.0,1.0,0.9995044598612488,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+143873,Nagaland,KOHIMA,2013,Kharif     ,Jobster,210.0,220.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+143879,Nagaland,KOHIMA,2013,Kharif     ,Perilla,400.0,250.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+143882,Nagaland,KOHIMA,2013,Kharif     ,Ricebean (nagadal),810.0,900.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+143901,Nagaland,KOHIMA,2014,Kharif     ,Bean,340.0,470.0,0.975,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+144892,Nagaland,MON,2013,Kharif     ,Colocosia,880.0,8380.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+145918,Nagaland,TUENSANG,2013,Rabi       ,Rajmash Kholar,3260.0,4100.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+146017,Nagaland,WOKHA,2001,Kharif     ,Niger seed,18000.0,43000.0,0.9637681159420289,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+147403,Odisha,BALANGIR,1999,Whole Year ,Sannhamp,2900.0,7560.0,0.998329853862213,0.9990838295923041,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+147435,Odisha,BALANGIR,2000,Whole Year ,Sannhamp,2940.0,10620.0,0.9987473903966597,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+147756,Odisha,BALANGIR,2012,Summer     ,Rice,623000.0,10000.0,0.9999337923728814,0.3321509083675905,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+148601,Odisha,BARGARH,2012,Summer     ,Rice,687000.0,265000.0,1.0,0.8691486540246651,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+151494,Odisha,GANJAM,2000,Whole Year ,Sannhamp,2670.0,9350.0,0.9979123173277662,0.9995419147961521,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+151560,Odisha,GANJAM,2002,Whole Year ,Sweet potato,8670.0,71980.0,0.9997617913292044,0.999757399320718,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+151590,Odisha,GANJAM,2003,Whole Year ,Sweet potato,8740.0,73740.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+151623,Odisha,GANJAM,2004,Whole Year ,Sweet potato,8534.0,71963.0,0.9995235826584088,0.9995147986414362,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+153479,Odisha,KALAHANDI,2012,Summer     ,Rice,542000.0,113000.0,0.999801377118644,0.7160853998143483,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+155350,Odisha,KORAPUT,1999,Kharif     ,Niger seed,46430.0,12540.0,0.9995169082125603,0.9990089197224975,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+155393,Odisha,KORAPUT,2000,Kharif     ,Niger seed,44770.0,10830.0,0.9990338164251208,0.9975222993062438,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+155484,Odisha,KORAPUT,2002,Whole Year ,Sweet potato,5490.0,44990.0,0.9990471653168176,0.9968461911693353,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+162000,Punjab,FIROZEPUR,1997,Rabi       ,Wheat,422000.0,1677000.0,1.0,0.9975247524752475,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+162131,Punjab,FIROZEPUR,2008,Rabi       ,Wheat,395000.0,1849000.0,0.9988606152677554,0.9993653211474993,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+162152,Punjab,FIROZEPUR,2010,Rabi       ,Wheat,397000.0,1850000.0,0.9994936067856691,0.9994922569179995,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+162162,Punjab,FIROZEPUR,2011,Rabi       ,Wheat,394000.0,1969000.0,0.9984808203570072,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+162873,Punjab,LUDHIANA,1998,Rabi       ,Wheat,413000.0,1823000.0,0.9998734016964173,0.9992383853769993,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164149,Punjab,SANGRUR,1997,Rabi       ,Wheat,401000.0,1732000.0,0.9997468033928345,0.9982228992129982,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164175,Punjab,SANGRUR,1999,Rabi       ,Wheat,394000.0,1902000.0,0.9984808203570072,0.9997461284589998,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164184,Punjab,SANGRUR,2000,Kharif     ,Rice,357000.0,1342000.0,0.994968220338983,0.9992706537594483,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164188,Punjab,SANGRUR,2000,Rabi       ,Wheat,393000.0,1921000.0,0.9981643245980504,0.9998730642294998,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164195,Punjab,SANGRUR,2001,Kharif     ,Rice,349000.0,1362000.0,0.9944385593220338,0.9994695663705079,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164199,Punjab,SANGRUR,2001,Rabi       ,Wheat,392000.0,1890000.0,0.9979744271426763,0.9996191926884996,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164207,Punjab,SANGRUR,2002,Kharif     ,Rice,352000.0,1429000.0,0.9946371822033898,0.9996021747778809,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164212,Punjab,SANGRUR,2002,Rabi       ,Wheat,394000.0,1805000.0,0.9984808203570072,0.9991114496064991,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164221,Punjab,SANGRUR,2003,Kharif     ,Rice,366000.0,1566000.0,0.9952992584745762,0.999734783185254,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164225,Punjab,SANGRUR,2003,Rabi       ,Wheat,397000.0,1720000.0,0.9994936067856691,0.9980959634424981,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164234,Punjab,SANGRUR,2004,Kharif     ,Rice,367000.0,1710000.0,0.9953985699152542,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164238,Punjab,SANGRUR,2004,Rabi       ,Wheat,397000.0,1782000.0,0.9994936067856691,0.9988575780654989,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164247,Punjab,SANGRUR,2005,Kharif     ,Rice,367000.0,1625000.0,0.9953985699152542,0.9998673915926269,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164252,Punjab,SANGRUR,2005,Rabi       ,Wheat,396000.0,1677000.0,0.9991771110267123,0.9975247524752475,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164261,Punjab,SANGRUR,2006,Kharif     ,Rice,362000.0,1637000.0,0.9951006355932204,0.9999336957963135,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164266,Punjab,SANGRUR,2006,Rabi       ,Wheat,396000.0,1755000.0,0.9991771110267123,0.9987306422949987,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+164828,Rajasthan,AJMER,2010,Kharif     ,Moong(Green Gram),83408.0,62759.0,0.994572591587517,0.999208391054819,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165090,Rajasthan,ALWAR,2004,Rabi       ,Rapeseed &Mustard,293746.0,365872.0,0.9992096944151738,0.9985397583963892,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165121,Rajasthan,ALWAR,2005,Rabi       ,Rapeseed &Mustard,290252.0,305392.0,0.9990779768177028,0.9974777645028541,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165212,Rajasthan,ALWAR,2008,Rabi       ,Rapeseed &Mustard,269865.0,448122.0,0.9986828240252897,0.9998672507633081,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165243,Rajasthan,ALWAR,2009,Rabi       ,Rapeseed &Mustard,251375.0,392953.0,0.9978925184404637,0.9992035045798486,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165274,Rajasthan,ALWAR,2010,Rabi       ,Rapeseed &Mustard,252730.0,426074.0,0.9980242360379347,0.9996017522899243,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165830,Rajasthan,BARAN,2001,Whole Year ,Coriander,80943.0,121869.0,0.9976254081329772,0.9996981587684878,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+165894,Rajasthan,BARAN,2003,Whole Year ,Coriander,84147.0,131438.0,0.9982190560997328,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166054,Rajasthan,BARAN,2008,Whole Year ,Coriander,90683.0,110647.0,0.9994063520332442,0.9993963175369756,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166186,Rajasthan,BARMER,2001,Kharif     ,Bajra,957673.0,249075.0,0.9992629445365764,0.9869864287042202,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166229,Rajasthan,BARMER,2003,Kharif     ,Bajra,1020181.0,563591.0,1.0,0.9992563673545268,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166236,Rajasthan,BARMER,2003,Kharif     ,Moth,246825.0,217192.0,0.979498861047836,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166312,Rajasthan,BARMER,2007,Kharif     ,Bajra,960403.0,166442.0,0.9994472084024323,0.9665365309537088,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166332,Rajasthan,BARMER,2008,Kharif     ,Bajra,1011401.0,131202.0,0.9998157361341441,0.9466443576873025,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166353,Rajasthan,BARMER,2009,Kharif     ,Bajra,967622.0,18402.0,0.9996314722682882,0.7678007064510132,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+166371,Rajasthan,BARMER,2010,Kharif     ,Bajra,955029.0,534595.0,0.9990786806707205,0.9988845510317903,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+167114,Rajasthan,BHILWARA,2006,Kharif     ,Maize,181445.0,299942.0,0.99906789990679,0.9934721114092986,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+167148,Rajasthan,BHILWARA,2007,Kharif     ,Maize,182170.0,337330.0,0.99913959991396,0.9952854137956045,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+167211,Rajasthan,BHILWARA,2009,Kharif     ,Maize,187259.0,129248.0,0.99935469993547,0.9639515485602379,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+167242,Rajasthan,BHILWARA,2010,Kharif     ,Maize,202328.0,371547.0,0.99985659998566,0.9961557989410315,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+167555,Rajasthan,BIKANER,2008,Whole Year ,Guar seed,884618.0,340294.0,1.0,0.9976133651551312,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+167600,Rajasthan,BIKANER,2010,Whole Year ,Guar seed,876113.0,403368.0,0.9992277992277993,0.9984089101034208,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168359,Rajasthan,CHITTORGARH,2007,Kharif     ,Maize,187640.0,459143.0,0.99942639994264,0.9976789729455284,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168486,Rajasthan,CHURU,1997,Rabi       ,Gram,384000.0,309000.0,0.999728297785627,0.9995848899958489,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168502,Rajasthan,CHURU,1998,Rabi       ,Gram,545286.0,183069.0,1.0,0.9952954199529542,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168633,Rajasthan,CHURU,2004,Rabi       ,Gram,281882.0,107658.0,0.9990490422496944,0.9755776947557769,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168689,Rajasthan,CHURU,2007,Rabi       ,Gram,292026.0,26232.0,0.9993207444640674,0.8417047184170472,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168707,Rajasthan,CHURU,2008,Rabi       ,Gram,287902.0,144495.0,0.9991848933568809,0.9881001798810018,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168739,Rajasthan,CHURU,2010,Kharif     ,Moth,422419.0,142649.0,1.0,0.9949109414758269,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+168743,Rajasthan,CHURU,2010,Rabi       ,Gram,358725.0,222812.0,0.9994565955712539,0.9980628199806282,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170099,Rajasthan,GANGANAGAR,2003,Rabi       ,Rapeseed &Mustard,259695.0,404003.0,0.9982876712328768,0.9993362538165406,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170136,Rajasthan,GANGANAGAR,2004,Rabi       ,Rapeseed &Mustard,390577.0,382987.0,1.0,0.9990707553431568,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170164,Rajasthan,GANGANAGAR,2005,Rabi       ,Rapeseed &Mustard,297139.0,427207.0,0.9994731296101159,0.9997345015266162,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170192,Rajasthan,GANGANAGAR,2006,Rabi       ,Rapeseed &Mustard,298668.0,407458.0,0.9996048472075869,0.9994690030532325,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170242,Rajasthan,GANGANAGAR,2008,Rabi       ,Barley,58315.0,209838.0,0.9995236961181234,0.999757045675413,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170305,Rajasthan,GANGANAGAR,2010,Rabi       ,Rapeseed &Mustard,281408.0,565310.0,0.9989462592202318,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170325,Rajasthan,HANUMANGARH,1997,Rabi       ,Gram,367100.0,263300.0,0.9995924466784404,0.9988930399889304,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170345,Rajasthan,HANUMANGARH,1998,Rabi       ,Gram,419425.0,306345.0,0.9998641488928135,0.9994465199944652,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170457,Rajasthan,HANUMANGARH,2002,Rabi       ,Rapeseed &Mustard,323388.0,199485.0,0.9997365648050579,0.9899110580114164,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170519,Rajasthan,HANUMANGARH,2004,Rabi       ,Rapeseed &Mustard,333394.0,199241.0,0.999868282402529,0.9897783087747245,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170620,Rajasthan,HANUMANGARH,2008,Rabi       ,Barley,39152.0,151752.0,0.9961895689449869,0.999271137026239,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170691,Rajasthan,JAIPUR,1997,Rabi       ,Barley,56500.0,121600.0,0.9992855441771851,0.9978134110787172,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170773,Rajasthan,JAIPUR,2000,Rabi       ,Barley,58447.0,106103.0,0.9997618480590617,0.9965986394557823,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170837,Rajasthan,JAIPUR,2002,Rabi       ,Barley,53506.0,144902.0,0.9990473922362467,0.9985422740524781,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170859,Rajasthan,JAIPUR,2003,Kharif     ,Bajra,330319.0,552514.0,0.9872857932559425,0.9990704591931586,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+170892,Rajasthan,JAIPUR,2003,Whole Year ,Water Melon,3097.0,0.0,1.0,0.5058823529411764,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+171020,Rajasthan,JAIPUR,2008,Rabi       ,Barley,51563.0,152963.0,0.9983329364134318,0.999514091350826,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+171049,Rajasthan,JAIPUR,2009,Rabi       ,Barley,49582.0,150768.0,0.9978566325315551,0.9990281827016521,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+171076,Rajasthan,JAIPUR,2010,Rabi       ,Barley,65146.0,241202.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+171937,Rajasthan,JHALAWAR,2003,Whole Year ,Coriander,88563.0,95648.0,0.9991095280498664,0.9984907938424389,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+172092,Rajasthan,JHALAWAR,2008,Whole Year ,Coriander,96940.0,92187.0,0.9997031760166222,0.9981889526109267,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+172120,Rajasthan,JHALAWAR,2009,Whole Year ,Coriander,97940.0,107542.0,1.0,0.9990944763054633,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+172630,Rajasthan,JODHPUR,2003,Kharif     ,Bajra,709268.0,826816.0,0.9976045697438732,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+172796,Rajasthan,JODHPUR,2010,Kharif     ,Bajra,635173.0,621315.0,0.9970517781463055,0.9994422755158952,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+172802,Rajasthan,JODHPUR,2010,Kharif     ,Moong(Green Gram),101279.0,71378.0,0.9969955417716612,0.9994062932911142,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173624,Rajasthan,NAGAUR,1998,Kharif     ,Moong(Green Gram),175017.0,21165.0,0.9993215739484396,0.9848604789234119,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173702,Rajasthan,NAGAUR,2001,Kharif     ,Moong(Green Gram),171510.0,38146.0,0.9991277379337081,0.9954482485652087,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173756,Rajasthan,NAGAUR,2003,Kharif     ,Bajra,561044.0,683082.0,0.9957619310853142,0.9996281836772635,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173762,Rajasthan,NAGAUR,2003,Kharif     ,Moong(Green Gram),177627.0,103477.0,0.9994184919558053,0.9997031466455572,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173796,Rajasthan,NAGAUR,2004,Kharif     ,Moong(Green Gram),172800.0,47138.0,0.9992246559410739,0.9977241242826044,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173820,Rajasthan,NAGAUR,2005,Kharif     ,Moong(Green Gram),233661.0,46758.0,0.9996123279705369,0.9976251731644568,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173844,Rajasthan,NAGAUR,2006,Kharif     ,Moong(Green Gram),211791.0,83921.0,0.9995154099631711,0.9995052444092618,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173870,Rajasthan,NAGAUR,2007,Kharif     ,Moong(Green Gram),272548.0,140788.0,0.9999030819926342,0.9999010488818524,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173893,Rajasthan,NAGAUR,2008,Kharif     ,Moong(Green Gram),246687.0,130487.0,0.9997092459779027,0.9998020977637048,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173918,Rajasthan,NAGAUR,2009,Kharif     ,Moong(Green Gram),272043.0,16650.0,0.9998061639852684,0.9774391450623392,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173937,Rajasthan,NAGAUR,2010,Kharif     ,Bajra,517838.0,744634.0,0.9953934033536024,0.9998140918386317,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173943,Rajasthan,NAGAUR,2010,Kharif     ,Moong(Green Gram),286299.0,192276.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+173952,Rajasthan,NAGAUR,2010,Rabi       ,other oilseeds,309906.0,131769.0,1.0,0.9915824915824916,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+174183,Rajasthan,PALI,2004,Kharif     ,Sesamum,148944.0,49832.0,0.9998894539022772,0.9989797075161546,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+174211,Rajasthan,PALI,2005,Kharif     ,Sesamum,154219.0,14487.0,1.0,0.9809545403015532,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+174295,Rajasthan,PALI,2008,Kharif     ,Sesamum,141969.0,31594.0,0.9996683617068317,0.9960321958961569,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+174323,Rajasthan,PALI,2009,Kharif     ,Sesamum,146665.0,2021.0,0.9997789078045545,0.8850470468200884,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+174347,Rajasthan,PALI,2010,Kharif     ,Sesamum,107074.0,47049.0,0.9994472695113863,0.9987529758530779,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+175634,Rajasthan,SIKAR,2010,Kharif     ,Other Kharif pulses,51911.0,30962.0,0.9948073244055753,0.9994364609749226,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+176331,Rajasthan,TONK,2005,Rabi       ,Rapeseed &Mustard,296889.0,298267.0,0.9993414120126449,0.9972122660294703,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+176798,Rajasthan,UDAIPUR,2006,Kharif     ,Maize,188466.0,149858.0,0.99949809994981,0.9715674185827229,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+176831,Rajasthan,UDAIPUR,2007,Kharif     ,Maize,193466.0,356209.0,0.99971319997132,0.9957931384637703,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178014,Tamil Nadu,COIMBATORE,2003,Whole Year ,Beet Root,290.0,0.0,1.0,0.53125,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178042,Tamil Nadu,COIMBATORE,2003,Whole Year ,Pump Kin,387.0,0.0,1.0,0.5098039215686274,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178275,Tamil Nadu,COIMBATORE,2011,Whole Year ,Coconut ,82704.0,1250800000.0,0.9516372795969773,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178333,Tamil Nadu,COIMBATORE,2013,Whole Year ,Coconut ,84531.0,1212000000.0,0.9546599496221663,0.9994892747701737,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178364,Tamil Nadu,CUDDALORE,1997,Whole Year ,Sugarcane,23826.0,28322000.0,0.8983714177502841,0.9998722371278906,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178415,Tamil Nadu,CUDDALORE,1999,Whole Year ,Guar seed,38500.0,408093.0,0.8625482625482626,0.9992044550517104,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178832,Tamil Nadu,DHARMAPURI,1997,Whole Year ,Sugarcane,18938.0,18100000.0,0.876530741068047,0.9991056598952345,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178844,Tamil Nadu,DHARMAPURI,1998,Kharif     ,Horse-gram,65963.0,32322.0,0.9992311635058944,0.999738425320429,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178877,Tamil Nadu,DHARMAPURI,1999,Kharif     ,Horse-gram,71795.0,31803.0,0.9997437211686314,0.999476850640858,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178890,Tamil Nadu,DHARMAPURI,1999,Rabi       ,Samai,40014.0,33456.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178908,Tamil Nadu,DHARMAPURI,2000,Kharif     ,Horse-gram,93837.0,41945.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178912,Tamil Nadu,DHARMAPURI,2000,Kharif     ,Other Cereals & Millets,48593.0,40573.0,1.0,0.9967105263157895,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+178974,Tamil Nadu,DHARMAPURI,2002,Whole Year ,Cabbage,1113.0,58583.0,1.0,0.9950980392156863,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+179000,Tamil Nadu,DHARMAPURI,2002,Whole Year ,Redish,434.0,0.0,1.0,0.3524590163934426,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+179585,Tamil Nadu,DINDIGUL,2003,Whole Year ,Apple,4.0,0.0,1.0,0.625,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+179610,Tamil Nadu,DINDIGUL,2003,Whole Year ,Lab-Lab,1648.0,0.0,1.0,0.5104166666666666,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+179618,Tamil Nadu,DINDIGUL,2003,Whole Year ,Peach,21.0,0.0,1.0,0.625,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+179621,Tamil Nadu,DINDIGUL,2003,Whole Year ,Plums,413.0,0.0,1.0,0.5833333333333334,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+179976,Tamil Nadu,ERODE,1997,Whole Year ,Sugarcane,24112.0,26930000.0,0.899633884610529,0.9997444742557813,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+180155,Tamil Nadu,ERODE,2002,Whole Year ,Yam,375.0,0.0,1.0,0.5138888888888888,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+180999,Tamil Nadu,KANNIYAKUMARI,2002,Whole Year ,Jack Fruit,779.0,8819.0,0.625,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+182003,Tamil Nadu,MADURAI,1997,Whole Year ,Sugarcane,8108.0,18223000.0,0.7896730210831966,0.9992334227673438,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+182194,Tamil Nadu,MADURAI,2003,Whole Year ,Litchi,14.0,0.0,1.0,0.5833333333333334,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+183130,Tamil Nadu,NAMAKKAL,2006,Whole Year ,Tapioca,25520.0,1236457.0,0.9861286254728878,0.9993686868686869,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+183190,Tamil Nadu,NAMAKKAL,2008,Whole Year ,Tapioca,28312.0,1237518.0,0.9955863808322825,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+183395,Tamil Nadu,PERAMBALUR,1999,Kharif     ,Varagu,5973.0,8492.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+183464,Tamil Nadu,PERAMBALUR,2002,Whole Year ,Ash Gourd,489.0,0.0,1.0,0.5113636363636364,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+184664,Tamil Nadu,SALEM,1998,Kharif     ,Small millets,59900.0,28000.0,0.998280309544282,0.9997822773786197,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+184785,Tamil Nadu,SALEM,2002,Whole Year ,Ber,70.0,0.0,1.0,0.5454545454545454,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+184811,Tamil Nadu,SALEM,2002,Whole Year ,Ribed Guard,111.0,0.0,1.0,0.5131578947368421,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+186123,Tamil Nadu,THE NILGIRIS,2002,Whole Year ,Cabbage,905.0,59879.0,0.9951219512195122,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+186124,Tamil Nadu,THE NILGIRIS,2002,Whole Year ,Carrot,1541.0,0.0,1.0,0.17857142857142858,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+187601,Tamil Nadu,TIRUCHIRAPPALLI,1998,Whole Year ,Banana,13372.0,847531.0,0.9931442817076971,0.999361634216406,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+188294,Tamil Nadu,TIRUNELVELI,2003,Whole Year ,Other Citrus Fruit,603.0,0.0,1.0,0.5072463768115942,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+188760,Tamil Nadu,TIRUVANNAMALAI,1997,Whole Year ,Sugarcane,27636.0,23914000.0,0.9111223330387578,0.9996167113836719,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+189733,Tamil Nadu,VELLORE,1997,Whole Year ,Sugarcane,29072.0,22069000.0,0.914783486933468,0.9994889485115626,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+190251,Tamil Nadu,VILLUPURAM,1997,Whole Year ,Sugarcane,33175.0,37158000.0,0.921979548036864,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+190309,Tamil Nadu,VILLUPURAM,1999,Whole Year ,Guar seed,42884.0,454026.0,0.8648648648648649,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+190311,Tamil Nadu,VILLUPURAM,1999,Whole Year ,Sannhamp,3065.0,2234.0,0.9991649269311065,0.9903802107191938,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+190339,Tamil Nadu,VILLUPURAM,2000,Whole Year ,Sannhamp,4725.0,3445.0,1.0,0.994502977553825,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+192202,Telangana ,KARIMNAGAR,2005,Whole Year ,Turmeric,20020.0,181101.0,0.9980961446930033,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+192236,Telangana ,KARIMNAGAR,2006,Whole Year ,Turmeric,15765.0,126388.0,0.9969062351261304,0.9995201535508638,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+192281,Telangana ,KARIMNAGAR,2008,Whole Year ,Turmeric,19163.0,133010.0,0.9978581627796288,0.9997600767754319,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+192348,Telangana ,KARIMNAGAR,2010,Whole Year ,Turmeric,17873.0,124021.0,0.9973821989528796,0.9992802303262955,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+193138,Telangana ,MAHBUBNAGAR,2000,Kharif     ,Castor seed,231033.0,88024.0,1.0,0.9847094801223242,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+193188,Telangana ,MAHBUBNAGAR,2001,Kharif     ,Castor seed,165340.0,48775.0,0.9991113744075829,0.9678899082568807,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+193386,Telangana ,MAHBUBNAGAR,2005,Kharif     ,Castor seed,179190.0,78844.0,0.9997037914691943,0.9834862385321101,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+193644,Telangana ,MAHBUBNAGAR,2013,Kharif     ,Maize,161171.0,762178.0,0.99619989961999,0.9998549358090956,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+194599,Telangana ,NALGONDA,2002,Whole Year ,Orange,12535.0,245178.0,0.985239852398524,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+194647,Telangana ,NALGONDA,2003,Whole Year ,Orange,14927.0,94251.0,1.0,0.981549815498155,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+195176,Telangana ,NIZAMABAD,2002,Whole Year ,Peas  (vegetable),42.0,0.0,1.0,0.5454545454545454,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+195831,Telangana ,RANGAREDDI,2002,Whole Year ,Pome Fruit,1962.0,14273.0,1.0,0.98989898989899,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+195886,Telangana ,RANGAREDDI,2003,Whole Year ,Other Dry Fruit,7.0,0.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+197670,Tripura,SOUTH TRIPURA,2001,Kharif     ,Jute & mesta,970.0,8370.0,0.85,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+198009,Tripura,WEST TRIPURA,1999,Kharif     ,Jute & mesta,1023.0,7695.0,1.0,0.8,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+205729,Uttar Pradesh,BIJNOR,2011,Kharif     ,Sugarcane,233294.0,13458264.0,0.9994950132559021,0.9938673821387505,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+208355,Uttar Pradesh,ETAH,2004,Whole Year ,Sweet potato,5546.0,64457.0,0.9992853739876132,0.9992721979621543,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+208425,Uttar Pradesh,ETAH,2007,Kharif     ,Sweet potato,4393.0,59142.0,0.9966650786088613,0.9990295972828724,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+213790,Uttar Pradesh,HARDOI,1997,Kharif     ,Total foodgrain,523164.0,1069462.0,1.0,0.9893617021276596,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+214778,Uttar Pradesh,JALAUN,1997,Rabi       ,Peas & beans (Pulses),79603.0,66946.0,0.9991158267020336,0.9948279739149989,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+214801,Uttar Pradesh,JALAUN,1998,Rabi       ,Peas & beans (Pulses),87465.0,73383.0,0.9997789566755084,0.9959523274117382,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+214869,Uttar Pradesh,JALAUN,2001,Rabi       ,Masoor,43604.0,51845.0,0.9888731060606061,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+214915,Uttar Pradesh,JALAUN,2003,Rabi       ,Peas & beans (Pulses),60315.0,121535.0,0.9962422634836428,0.9993253879019564,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215059,Uttar Pradesh,JALAUN,2009,Rabi       ,Masoor,57724.0,51605.0,0.9959753787878788,0.9997591522157996,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215118,Uttar Pradesh,JALAUN,2011,Rabi       ,Peas & beans (Pulses),69134.0,127690.0,0.9982316534040672,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215147,Uttar Pradesh,JALAUN,2012,Rabi       ,Peas & beans (Pulses),62909.0,115375.0,0.9969053934571176,0.9991005172026085,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215175,Uttar Pradesh,JALAUN,2013,Rabi       ,Peas & beans (Pulses),79474.0,123503.0,0.998894783377542,0.9995502586013042,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215740,Uttar Pradesh,JHANSI,1998,Rabi       ,Peas & beans (Pulses),80261.0,75205.0,0.9993368700265252,0.9966269395097819,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215864,Uttar Pradesh,JHANSI,2003,Rabi       ,Peas & beans (Pulses),81950.0,124482.0,0.9995579133510168,0.9997751293006522,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215922,Uttar Pradesh,JHANSI,2006,Kharif     ,Other Kharif pulses,73774.0,30704.0,0.9983602077070238,0.9991546914623838,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+215934,Uttar Pradesh,JHANSI,2006,Rabi       ,Other  Rabi pulses,100185.0,98782.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+216067,Uttar Pradesh,JHANSI,2011,Kharif     ,Sesamum,97306.0,34154.0,0.9990050851204952,0.9968257567169255,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+216099,Uttar Pradesh,JHANSI,2012,Kharif     ,Sesamum,106791.0,23067.0,0.9993367234136635,0.9921777576238522,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+216175,Uttar Pradesh,JHANSI,2014,Rabi       ,Peas & beans (Pulses),94681.0,62395.0,1.0,0.9941533618169552,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+218666,Uttar Pradesh,KHERI,2010,Kharif     ,Sugarcane,232123.0,12982175.0,0.999242519883853,0.9927175162897662,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+218729,Uttar Pradesh,KHERI,2012,Kharif     ,Sugarcane,238233.0,14359732.0,0.999747506627951,0.9960393509646097,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+218763,Uttar Pradesh,KHERI,2013,Kharif     ,Sugarcane,240036.0,15040656.0,0.9998737533139755,0.9969336910693752,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+218798,Uttar Pradesh,KHERI,2014,Kharif     ,Sugarcane,268653.0,17757963.0,1.0,0.9987223712789064,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+219545,Uttar Pradesh,LALITPUR,2006,Kharif     ,Other Kharif pulses,94139.0,75110.0,0.9994534025690079,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+219558,Uttar Pradesh,LALITPUR,2006,Rabi       ,Other  Rabi pulses,58071.0,64285.0,0.9930817610062893,0.9990275526742302,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+219660,Uttar Pradesh,LALITPUR,2010,Kharif     ,Urad,157281.0,138722.0,0.9993908629441625,0.9994850669412977,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+219686,Uttar Pradesh,LALITPUR,2011,Kharif     ,Urad,156051.0,124529.0,0.9992893401015228,0.9992790937178166,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+219715,Uttar Pradesh,LALITPUR,2012,Kharif     ,Urad,158317.0,122221.0,0.999492385786802,0.9991761071060762,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+221391,Uttar Pradesh,MAINPURI,2004,Whole Year ,Garlic,15317.0,66336.0,0.9996959562176954,0.994108527131783,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+224146,Uttar Pradesh,MUZAFFARNAGAR,2006,Kharif     ,Sugarcane,232610.0,16087308.0,0.9993687665698775,0.9980835569183595,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+224220,Uttar Pradesh,MUZAFFARNAGAR,2009,Kharif     ,Sugarcane,233825.0,16421997.0,0.9996212599419265,0.9984668455346877,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+224273,Uttar Pradesh,MUZAFFARNAGAR,2011,Kharif     ,Sugarcane,232053.0,15464940.0,0.9991162731978286,0.9973169796857033,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+227654,Uttar Pradesh,SHAHJAHANPUR,1997,Kharif     ,Total foodgrain,413893.0,1121727.0,0.9574468085106383,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+235030,Uttarakhand,PITHORAGARH,2014,Rabi       ,Lentil,4017.0,3105.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+235793,Uttarakhand,UDAM SINGH NAGAR,2002,Rabi       ,Linseed,37345.0,16151.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+235811,Uttarakhand,UDAM SINGH NAGAR,2002,Whole Year ,Sannhamp,4007.0,1262.0,0.9995824634655532,0.9738891433806688,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+238307,West Bengal,BARDHAMAN,2005,Winter     ,Rice,417180.0,1365492.0,0.9964909957627118,0.9995358705741944,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+238535,West Bengal,BARDHAMAN,2012,Winter     ,Rice,420798.0,1301195.0,0.9969544491525424,0.9990054369447023,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+238567,West Bengal,BARDHAMAN,2013,Winter     ,Rice,418616.0,1323049.0,0.9966896186440678,0.9992043495557619,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+238599,West Bengal,BARDHAMAN,2014,Winter     ,Rice,419814.0,1361138.0,0.996822033898305,0.9994032621668214,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241551,West Bengal,HOOGHLY,2006,Whole Year ,Potato,96680.0,1065693.0,0.999422882700909,0.9898756146948221,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241578,West Bengal,HOOGHLY,2007,Whole Year ,Potato,94824.0,2465212.0,0.9992786033761362,0.9992768296210587,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241605,West Bengal,HOOGHLY,2008,Whole Year ,Potato,94759.0,881590.0,0.9991343240513635,0.986404396875904,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241618,West Bengal,HOOGHLY,2009,Rabi       ,Potato,91290.0,3434459.0,0.9985572067522724,0.9997107318484235,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241639,West Bengal,HOOGHLY,2010,Rabi       ,Potato,100409.0,3530571.0,0.9998557206752272,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241680,West Bengal,HOOGHLY,2012,Rabi       ,Potato,100155.0,3246422.0,0.9997114413504545,0.9995660977726353,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241701,West Bengal,HOOGHLY,2013,Rabi       ,Potato,99830.0,2077513.0,0.9995671620256817,0.9979751229389644,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+241722,West Bengal,HOOGHLY,2014,Rabi       ,Potato,100745.0,3506137.0,1.0,0.9998553659242118,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+243996,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Sesamum,64910.0,63130.0,0.9962414326774265,0.9997732683369233,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+243999,West Bengal,MEDINIPUR WEST,2006,Winter     ,Rice,513019.0,1281080.0,0.999073093220339,0.9987402201299562,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244029,West Bengal,MEDINIPUR WEST,2007,Summer     ,Sesamum,69480.0,65298.0,0.996462524872872,0.9998866341684616,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244076,West Bengal,MEDINIPUR WEST,2008,Winter     ,Rice,503293.0,1313474.0,0.9990068855932204,0.9990717411483888,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244096,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Potato,62679.0,2448136.0,0.9961044582311355,0.9991321955452704,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244131,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Potato,64683.0,2482395.0,0.9966815755302265,0.9994214636968469,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244140,West Bengal,MEDINIPUR WEST,2010,Summer     ,Sesamum,60938.0,61102.0,0.9953570638956445,0.9996599025053848,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244174,West Bengal,MEDINIPUR WEST,2011,Summer     ,Sesamum,60587.0,53459.0,0.9950254256024762,0.9992064391792314,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244208,West Bengal,MEDINIPUR WEST,2012,Summer     ,Sesamum,63039.0,53266.0,0.9957992482865354,0.999093073347693,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244210,West Bengal,MEDINIPUR WEST,2012,Winter     ,Rice,486172.0,1315911.0,0.9986096398305084,0.9991380453520753,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244242,West Bengal,MEDINIPUR WEST,2013,Summer     ,Sesamum,73284.0,58334.0,0.996904709263763,0.9994331708423081,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244278,West Bengal,MEDINIPUR WEST,2014,Summer     ,Sesamum,74080.0,58514.0,0.9970152553614857,0.9995465366738465,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244280,West Bengal,MEDINIPUR WEST,2014,Winter     ,Rice,496134.0,1348329.0,0.998874470338983,0.9993369579631348,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244307,West Bengal,MURSHIDABAD,1997,Whole Year ,Pulses total,4307200.0,3632200.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244689,West Bengal,MURSHIDABAD,2009,Kharif     ,Jute,171999.0,2589591.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244720,West Bengal,MURSHIDABAD,2010,Kharif     ,Jute,157701.0,2343257.0,0.9986235375086029,0.9992897727272727,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244782,West Bengal,MURSHIDABAD,2012,Kharif     ,Jute,159497.0,2176807.0,0.9993117687543015,0.9964488636363636,Extreme by within-crop percentile; units and source context need review; not presumed erroneous
+244880,West Bengal,NADIA,1997,Rabi       ,Oilseeds total,8580100.0,7556300.0,1.0,1.0,Extreme by within-crop percentile; units and source context need review; not presumed erroneous

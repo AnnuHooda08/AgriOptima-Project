@@ -1,0 +1,36 @@
+{
+  "feature_config": "A_crop_season",
+  "features": [
+    "Crop",
+    "Season"
+  ],
+  "parameters": {
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": null,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "random_state": 42,
+    "splitter": "best"
+  },
+  "tree_depth": 20,
+  "tree_nodes": 71,
+  "tree_leaves": 36,
+  "train_rows": 5769,
+  "validation_rows": 1401,
+  "train_metrics": {
+    "mae_t_ha": 2.3371569862165895,
+    "rmse_t_ha": 28.660791993417433,
+    "r2": 0.20535688297361265
+  },
+  "validation_metrics": {
+    "mae_t_ha": 2.5299915374400115,
+    "rmse_t_ha": 6.438471906553442,
+    "r2": 0.8805606630853406
+  }
+}
