@@ -5,6 +5,7 @@ from pydantic import BaseModel, Field
 class MandiAnalysisRequest(BaseModel):
     crop: str = Field(..., description="Crop name for mandi analysis")
     state: Optional[str] = Field("All", description="State filter or 'All'")
+    district: Optional[str] = None
     user_price_override: Optional[float] = Field(
         None, gt=0, description="Farmer user-entered custom price (Rs./quintal)"
     )
@@ -34,4 +35,7 @@ class MandiAnalysisResponse(BaseModel):
     date_range: str
     sample_size: int
     is_user_override: bool
-    experimental_forecast: ExperimentalForecastMetric
+    experimental_forecast: Optional[ExperimentalForecastMetric] = None
+    market_scope: Optional[str] = None
+    forecast_price_quintal: Optional[float] = None
+    forecast_note: Optional[str] = None

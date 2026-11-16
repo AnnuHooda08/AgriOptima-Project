@@ -72,8 +72,9 @@ def test_api_mandi_analysis_endpoint():
     assert response.status_code == 200
     data = response.json()
     assert data["selected_price_quintal"] > 0
-    assert data["experimental_forecast"]["chronological_baseline_mae"] == 161.09
-    assert data["experimental_forecast"]["hgb_test_mae"] == 389.71
+    assert data["sample_size"] > 0
+    assert data["forecast_price_quintal"] > 0
+    assert "Historical" in data["price_source"]
 
 
 def test_api_plan_endpoint():
@@ -138,3 +139,18 @@ def test_api_what_if_endpoint():
 ])
 def test_plan_rejects_out_of_range_inputs(patch):
     assert client.post('/api/plan', json=patch).status_code == 422
+
+
+def test_dataset_price_location_override_and_forecast():
+    from app.services.mandi_service import mandi_service, dataset_prices
+    result = mandi_service.get_mandi_analysis('Maize', 'Haryana', district='Ambala')
+    raw = dataset_prices('Maize')
+    local = raw[raw['State Name'].eq('Haryana') & raw['District Name'].str.upper().eq('AMBALA')]
+    recent = local[local.date.dt.to_period('M').eq(local.date.max().to_period('M'))]
+    assert result.selected_price_quintal == round(float(recent.price.median()), 2)
+    assert result.market_scope == 'Ambala, Haryana'
+    assert result.forecast_price_quintal > 0
+    override = mandi_service.get_mandi_analysis('Maize', 'Haryana', 7777, 'Ambala')
+    assert override.selected_price_quintal == 7777
+    assert override.historical_median == result.historical_median
+    assert override.is_user_override

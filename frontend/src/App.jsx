@@ -878,6 +878,7 @@ export default function App() {
               )}
               {activeTab === "market" && (
                 <MarketStorageSection
+                  profile={field}
                   selectedPlan={p}
                   customPrice={customPrice}
                   setCustomPrice={setCustomPrice}
@@ -942,7 +943,7 @@ export default function App() {
                       ],
                       [
                         "Market prices",
-                        "Planning uses reference prices or your entered price. They are not live mandi quotes. The separate maize notebook forecast is not connected to these price cards.",
+                        "Planning uses historical dataset prices or your local offer. A separate maize research estimate is available on the market page. Neither is a live quote.",
                       ],
                       [
                         "Post-harvest and costs",

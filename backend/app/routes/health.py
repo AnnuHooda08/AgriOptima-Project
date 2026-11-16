@@ -39,8 +39,8 @@ def get_health():
                 "supported_seasons": model_service.supported_seasons,
             },
             "mandi_forecasting": {
-                "experimental_model": "HistGradientBoostingRegressor",
-                "status": "Experimental only (Excluded from production planning; persistence baseline outperformed it with MAE 161.09 vs 389.71 Rs./qtl)",
+                "experimental_model": "Linear Regression (maize research)",
+                "status": "Historical national maize forecast shown separately; dataset prices drive planning.",
             },
         },
         "metadata": {

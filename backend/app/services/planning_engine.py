@@ -253,6 +253,7 @@ class PlanningEngine:
         mandi_res = mandi_service.get_mandi_analysis(
             crop=yield_crop_name,
             state=profile.state,
+            district=profile.district,
             user_price_override=profile.user_price_override,
         )
         applicable_price = mandi_res.selected_price_quintal

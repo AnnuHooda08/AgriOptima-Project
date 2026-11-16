@@ -13,7 +13,7 @@ def get_mandi_analysis(req: MandiAnalysisRequest):
     """
     try:
         return mandi_service.get_mandi_analysis(
-            crop=req.crop, state=req.state, user_price_override=req.user_price_override
+            crop=req.crop, state=req.state, user_price_override=req.user_price_override, district=req.district
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Mandi analysis failed: {str(e)}")

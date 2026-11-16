@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import {
   Store,
   ShieldAlert,
@@ -10,11 +10,21 @@ import {
 
 export default function MarketStorageSection({
   selectedPlan,
+  profile,
   customPrice,
   setCustomPrice,
   onRecalculatePlan,
   loading,
 }) {
+  const [market, setMarket] = useState(null);
+  useEffect(() => {
+    let active = true;
+    setMarket(null);
+    if (selectedPlan) fetch("/api/mandi-analysis", {method: "POST", headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({crop: selectedPlan.crop, state: profile?.state, district: profile?.district})})
+      .then(r => r.ok ? r.json() : null).then(data => {if(active) setMarket(data);}).catch(() => {});
+    return () => {active = false;};
+  }, [selectedPlan?.crop, profile?.state, profile?.district]);
   if (!selectedPlan) {
     return (
       <div className="card">
@@ -47,9 +57,7 @@ export default function MarketStorageSection({
         <div>
           <strong>Use a price you can actually get.</strong>
           <p>
-            These are planning reference prices, not live mandi quotes. Enter a
-            local offer below to recalculate. The separate maize research
-            forecast is not used here.
+            Historical prices are read from the crop dataset for your location, with a wider-area fallback when needed. These are not live quotes. Enter a local offer to recalculate.
           </p>
         </div>
       </div>
@@ -67,7 +75,7 @@ export default function MarketStorageSection({
             }}
           >
             <PackageCheck size={18} color="#059669" />
-            Planning price reference
+            Historical market price
           </h3>
 
           <div
@@ -81,6 +89,8 @@ export default function MarketStorageSection({
             <div className="metric-sub">{selectedPlan.price_source}</div>
           </div>
 
+          {market && <p>Dataset median: ₹{market.historical_median}/quintal · {market.market_scope} · {market.sample_size} reports</p>}
+          {market?.forecast_price_quintal != null && <div className="alert alert-info"><div><strong>Maize model estimate: ₹{market.forecast_price_quintal}/quintal</strong><p>{market.forecast_note}</p><p>This estimate is shown separately and does not replace your planning price.</p></div></div>}
           <div className="form-group">
             <label
               htmlFor="custom-price"
