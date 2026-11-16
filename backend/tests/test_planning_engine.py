@@ -161,3 +161,38 @@ def test_zero_shock_preserves_a_low_entered_price_and_net_return():
 def test_invalid_state_district_pair_is_rejected():
     with pytest.raises(ValueError, match='district'):
         planning_engine.generate_full_plan(FarmProfile(state='Punjab', district='Ambala'))
+
+
+def test_loss_comes_from_state_crop_study_totals():
+    from app.services.planning_engine import dataset_loss
+    haryana, _, source = dataset_loss('Wheat', 'Haryana')
+    punjab, _, _ = dataset_loss('Wheat', 'Punjab')
+    assert haryana == 4.37
+    assert punjab == 4.55
+    assert 'NABCONS' in source
+
+
+def test_user_cost_rates_and_loss_survive_simulation():
+    profile = FarmProfile(cultivation_cost_per_ha=12345, transport_cost_per_quintal=11,
+        storage_cost_per_quintal_month=7, packaging_cost_per_quintal=3,
+        loss_override_pct=0, storage_months=2)
+    base = planning_engine.generate_full_plan(profile).selected_plan
+    assert base.total_loss_percentage == 0
+    assert base.cultivation_cost_rs == 24690
+    assert base.transport_cost_rs == round(base.marketable_production_quintals * 11, 2)
+    assert base.storage_cost_rs == round(base.marketable_production_quintals * 2 * 7, 2)
+    scenario = planning_engine.simulate_what_if(WhatIfRequest(base_plan=base, storage_months=2))
+    assert scenario.simulated_plan.total_costs_rs == base.total_costs_rs
+    assert scenario.simulated_plan.net_return_rs == base.net_return_rs
+    assert scenario.simulated_plan.loss_source == base.loss_source
+
+
+def test_model_loss_is_used_when_selected_and_manual_override_wins():
+    from app.services.loss_service import model_loss
+    profile = FarmProfile(loss_estimation_method='model')
+    plan = planning_engine.generate_full_plan(profile).selected_plan
+    assert plan.total_loss_percentage == model_loss(plan.crop, profile.state)
+    assert 'Random Forest' in plan.loss_source
+    manual = planning_engine.generate_full_plan(profile.model_copy(update={'loss_override_pct': 2})).selected_plan
+    assert manual.total_loss_percentage == 2
+    assert manual.loss_source.startswith('User-entered')

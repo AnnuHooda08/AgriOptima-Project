@@ -8,6 +8,7 @@ from app.schemas.plan import FarmProfile, CropPlan, PlanResponse
 from app.schemas.what_if import WhatIfRequest, WhatIfResponse
 from app.services.model_service import model_service, SUITABILITY_TO_YIELD_MAP
 from app.services.mandi_service import mandi_service
+from app.services.loss_service import model_loss
 
 logger = logging.getLogger(__name__)
 
@@ -28,178 +29,35 @@ def recorded_field_locations():
                      for state, district in records.dropna().itertuples(index=False, name=None))
 
 
-# Post-harvest loss stages & percentages based on ICAR-CIPHET 2022 study
-# (DataSets/post_harvest_loss_2022_haryana_punjab.csv)
-POST_HARVEST_LOSS_PROFILES: Dict[str, Dict[str, Any]] = {
-    "Bajra": {
-        "total": 3.77,
-        "stages": {
-            "Harvesting": 0.69,
-            "Collection": 0.29,
-            "Threshing": 0.83,
-            "Drying": 0.22,
-            "Storage": 0.45,
-            "Transport": 0.56,
-            "Market": 0.73,
-        },
-    },
-    "Wheat": {
-        "total": 4.37,
-        "stages": {
-            "Harvesting": 0.85,
-            "Collection": 0.35,
-            "Threshing": 0.95,
-            "Drying": 0.30,
-            "Storage": 0.62,
-            "Transport": 0.50,
-            "Market": 0.80,
-        },
-    },
-    "Cotton": {
-        "total": 2.55,
-        "stages": {
-            "Harvesting": 1.70,
-            "Collection": 0.20,
-            "Drying": 0.05,
-            "Storage": 0.04,
-            "Transport": 0.33,
-            "Market": 0.23,
-        },
-    },
-    "Cotton(lint)": {
-        "total": 2.55,
-        "stages": {
-            "Harvesting": 1.70,
-            "Collection": 0.20,
-            "Drying": 0.05,
-            "Storage": 0.04,
-            "Transport": 0.33,
-            "Market": 0.23,
-        },
-    },
-    "Sugarcane": {
-        "total": 6.34,
-        "stages": {
-            "Harvesting": 2.10,
-            "Field Handling": 1.14,
-            "Transport": 1.50,
-            "Milling Delay": 1.60,
-        },
-    },
-    "Potato": {
-        "total": 5.57,
-        "stages": {
-            "Digging/Harvest": 1.80,
-            "Sorting/Grading": 1.20,
-            "Storage": 1.45,
-            "Transport": 1.12,
-        },
-    },
-    "Rice": {
-        "total": 4.20,
-        "stages": {
-            "Harvesting": 0.90,
-            "Threshing": 0.85,
-            "Drying": 0.45,
-            "Storage": 0.75,
-            "Transport": 0.55,
-            "Milling": 0.70,
-        },
-    },
-    "Maize": {
-        "total": 4.65,
-        "stages": {
-            "Harvesting": 1.10,
-            "Shelling": 0.95,
-            "Drying": 0.60,
-            "Storage": 0.80,
-            "Transport": 0.60,
-            "Handling": 0.60,
-        },
-    },
-    "Mustard": {
-        "total": 3.80,
-        "stages": {
-            "Harvesting": 1.05,
-            "Threshing": 0.90,
-            "Winnowing": 0.35,
-            "Storage": 0.50,
-            "Transport": 0.40,
-            "Handling": 0.60,
-        },
-    },
-    "Rapeseed &Mustard": {
-        "total": 3.80,
-        "stages": {
-            "Harvesting": 1.05,
-            "Threshing": 0.90,
-            "Winnowing": 0.35,
-            "Storage": 0.50,
-            "Transport": 0.40,
-            "Handling": 0.60,
-        },
-    },
-    "Soyabean": {
-        "total": 4.10,
-        "stages": {
-            "Harvesting": 1.20,
-            "Threshing": 0.90,
-            "Drying": 0.40,
-            "Storage": 0.60,
-            "Transport": 0.40,
-            "Handling": 0.60,
-        },
-    },
-    "Gram": {
-        "total": 4.50,
-        "stages": {
-            "Harvesting": 1.10,
-            "Threshing": 0.90,
-            "Winnowing": 0.40,
-            "Storage": 0.90,
-            "Transport": 0.50,
-            "Handling": 0.70,
-        },
-    },
-    "Default": {
-        "total": 4.00,
-        "stages": {
-            "Harvesting": 1.00,
-            "Handling": 0.80,
-            "Drying": 0.50,
-            "Storage": 0.70,
-            "Transport": 0.50,
-            "Market": 0.50,
-        },
-    },
-}
+@lru_cache(maxsize=1)
+def published_loss_data():
+    data = pd.read_csv(DATASETS_DIR / "Food Loss" / "post_harvest_loss_2022_state_stage.csv")
+    data["loss_percentage"] = pd.to_numeric(data["loss_percentage"], errors="coerce")
+    return data[data.loss_percentage.between(0, 100)].copy()
 
-# Cultivation operational costs per hectare (CACP Agricultural Price Commission Reports)
-CULTIVATION_COST_PER_HA: Dict[str, float] = {
-    "Rice": 45000.0,
-    "Wheat": 35000.0,
-    "Maize": 30000.0,
-    "Cotton(lint)": 48000.0,
-    "Cotton": 48000.0,
-    "Bajra": 22000.0,
-    "Rapeseed &Mustard": 25000.0,
-    "Mustard": 25000.0,
-    "Gram": 26000.0,
-    "Soyabean": 28000.0,
-    "Moong(Green Gram)": 24000.0,
-    "Urad": 24000.0,
-    "Arhar/Tur": 27000.0,
-    "Barley": 26000.0,
-    "Sugarcane": 85000.0,
-    "Potato": 90000.0,
-    "Onion": 75000.0,
-    "Default": 30000.0,
-}
 
-# Standard logistics and post-harvest operational unit rates
-TRANSPORT_COST_PER_QUINTAL = 35.0  # Rs./quintal local farm-to-mandi cartage
-STORAGE_COST_PER_QUINTAL_MONTH = 45.0  # Rs./quintal/month warehousing/cold-storage
-PACKAGING_COST_PER_QUINTAL = 20.0  # Rs./quintal bagging and handling
+def dataset_loss(crop, state):
+    aliases = {"Rice": "Paddy", "Gram": "Chickpea", "Arhar/Tur": "Pigeon Pea",
+        "Moong(Green Gram)": "Green gram", "Urad": "Black gram", "Cotton(lint)": "Cottonseed",
+        "Rapeseed &Mustard": "Mustard", "Soyabean": "Soybean", "Peas & beans (Pulses)": "Green Pea"}
+    data = published_loss_data()
+    data = data[~data.crop.str.contains("fish|meat|milk|poultry|egg", case=False, regex=True)]
+    crop_rows = data[data.crop.str.casefold().eq(aliases.get(crop, crop).casefold())]
+    local = crop_rows[crop_rows.state.str.casefold().eq(state.casefold())]
+    scope, rows = state + ", " + crop, local
+    totals = rows[rows.stage.eq("Overall total loss")]
+    if totals.empty:
+        rows, scope = crop_rows, crop + " across available study states"
+        totals = rows[rows.stage.eq("Overall total loss")]
+    if totals.empty:
+        rows = data
+        totals = data[data.stage.eq("Overall total loss")]
+        scope = "Cross-crop study median proxy; no crop-specific overall total available"
+    # Overall totals already include stages. Never add subtotal records again.
+    stage_rows = rows[~rows.stage.str.contains("total", case=False)]
+    stages = stage_rows.groupby(["loss_type", "stage"]).loss_percentage.median()
+    return float(totals.loss_percentage.median()), {f"{kind}: {stage}": round(float(value), 2)
+        for (kind, stage), value in stages.items()}, "Published NABCONS study extract: " + scope + ". Stage medians are reference values, not additive totals."
 
 
 class PlanningEngine:
@@ -240,11 +98,17 @@ class PlanningEngine:
         gross_prod_quintals = round(gross_prod_tonnes * 10.0, 2)
 
         # 3. Post-harvest loss
-        loss_profile = POST_HARVEST_LOSS_PROFILES.get(
-            yield_crop_name, POST_HARVEST_LOSS_PROFILES.get("Default")
-        )
-        loss_pct = float(loss_profile["total"])
-        loss_stages = {k: round(float(v), 2) for k, v in loss_profile["stages"].items()}
+        loss_pct, loss_stages, loss_source = dataset_loss(yield_crop_name, profile.state)
+        if profile.loss_estimation_method == "model":
+            estimate = model_loss(yield_crop_name, profile.state)
+            if estimate is not None:
+                loss_pct, loss_stages = estimate, {}
+                loss_source = "Random Forest estimate of the published overall loss. Historical research model, not a measured farm loss."
+            else:
+                loss_source += " Model input unsupported; using the published reference instead."
+        if profile.loss_override_pct is not None:
+            loss_pct, loss_stages = profile.loss_override_pct, {}
+            loss_source = "User-entered expected loss percentage."
 
         # Marketable quintals after deducting physical loss
         marketable_quintals = round(gross_prod_quintals * (1.0 - (loss_pct / 100.0)), 2)
@@ -264,24 +128,22 @@ class PlanningEngine:
         gross_revenue = round(marketable_quintals * applicable_price, 2)
 
         # Cultivation cost
-        cult_rate = CULTIVATION_COST_PER_HA.get(
-            yield_crop_name, CULTIVATION_COST_PER_HA.get("Default", 30000.0)
-        )
+        cult_rate = profile.cultivation_cost_per_ha
         cultivation_cost = round(cult_rate * profile.area_ha, 2)
 
         # Transport cost
-        transport_cost = round(marketable_quintals * TRANSPORT_COST_PER_QUINTAL, 2)
+        transport_cost = round(marketable_quintals * profile.transport_cost_per_quintal, 2)
 
-        # Storage cost (0 if sold at harvest; Rs. 45/qtl/mo if held)
+        # Storage cost (0 if sold at harvest; entered storage rate if held)
         storage_cost = round(
             marketable_quintals
             * profile.storage_months
-            * STORAGE_COST_PER_QUINTAL_MONTH,
+            * profile.storage_cost_per_quintal_month,
             2,
         )
 
         # Packaging cost
-        packaging_cost = round(marketable_quintals * PACKAGING_COST_PER_QUINTAL, 2)
+        packaging_cost = round(marketable_quintals * profile.packaging_cost_per_quintal, 2)
 
         # Total costs
         total_costs = round(
@@ -309,7 +171,7 @@ class PlanningEngine:
             )
         if profile.storage_months > 0:
             feasibility_notes.append(
-                f"Storage held for {profile.storage_months} months: storage cost is Rs. {storage_cost} (Rs. 45/qtl/month)."
+                f"Storage held for {profile.storage_months} months: storage cost is Rs. {storage_cost} (user-entered rate per quintal per month)."
             )
 
         return CropPlan(
@@ -320,6 +182,11 @@ class PlanningEngine:
             cultivated_area_ha=profile.area_ha,
             gross_production_tonnes=gross_prod_tonnes,
             gross_production_quintals=gross_prod_quintals,
+            loss_source=loss_source,
+            cultivation_cost_per_ha=profile.cultivation_cost_per_ha,
+            transport_cost_per_quintal=profile.transport_cost_per_quintal,
+            storage_cost_per_quintal_month=profile.storage_cost_per_quintal_month,
+            packaging_cost_per_quintal=profile.packaging_cost_per_quintal,
             loss_stage_breakdown=loss_stages,
             total_loss_percentage=loss_pct,
             marketable_production_quintals=marketable_quintals,
@@ -403,10 +270,10 @@ class PlanningEngine:
             "Quintals Conversion": "Production (Tonnes) × 10 (1 tonne = 10 quintals)",
             "Marketable Production (Quintals)": "Gross Quintals × (1 - Total Post-Harvest Loss % / 100)",
             "Gross Revenue (Rs.)": "Marketable Production (Quintals) × Mandi Price per Quintal (Rs.)",
-            "Total Costs (Rs.)": "Cultivation Cost (Rs./ha × Area) + Transport (Rs. 35/qtl) + Storage (Rs. 45/qtl/mo × months) + Packaging (Rs. 20/qtl)",
+            "Total Costs (Rs.)": "Cultivation Cost (Rs./ha × Area) + Transport (entered transport rate) + Storage (entered storage rate × months) + Packaging (entered packaging rate)",
             "Net Return (Rs.)": "Gross Revenue - Total Costs",
             "ROI (%)": "(Net Return / Total Costs) × 100",
-            "Data Sources": "Suitability: SVM (79.9% acc); Yield: Random Forest (2.10 MAE); Losses: ICAR-CIPHET 2022 survey; Prices: AGMARKNET historical median & MSP reference.",
+            "Data Sources": "Suitability: SVM (79.9% acc); Yield: Random Forest (2.10 MAE); Losses: published NABCONS extract or user override; Costs: editable user inputs; Prices: historical crop dataset or user offer.",
         }
 
         return PlanResponse(
@@ -458,15 +325,13 @@ class PlanningEngine:
         sim_revenue = round(sim_marketable_q * sim_price, 2)
 
         # Costs
-        cult_rate = CULTIVATION_COST_PER_HA.get(
-            base.crop, CULTIVATION_COST_PER_HA.get("Default", 30000.0)
-        )
+        cult_rate = base.cultivation_cost_per_ha
         sim_cult_cost = round(cult_rate * area, 2)
-        sim_trans_cost = round(sim_marketable_q * TRANSPORT_COST_PER_QUINTAL, 2)
+        sim_trans_cost = round(sim_marketable_q * base.transport_cost_per_quintal, 2)
         sim_storage_cost = round(
-            sim_marketable_q * req.storage_months * STORAGE_COST_PER_QUINTAL_MONTH, 2
+            sim_marketable_q * req.storage_months * base.storage_cost_per_quintal_month, 2
         )
-        sim_pack_cost = round(sim_marketable_q * PACKAGING_COST_PER_QUINTAL, 2)
+        sim_pack_cost = round(sim_marketable_q * base.packaging_cost_per_quintal, 2)
         sim_total_costs = round(
             sim_cult_cost + sim_trans_cost + sim_storage_cost + sim_pack_cost, 2
         )
@@ -489,6 +354,11 @@ class PlanningEngine:
             cultivated_area_ha=area,
             gross_production_tonnes=sim_prod_t,
             gross_production_quintals=sim_prod_q,
+            loss_source=base.loss_source,
+            cultivation_cost_per_ha=base.cultivation_cost_per_ha,
+            transport_cost_per_quintal=base.transport_cost_per_quintal,
+            storage_cost_per_quintal_month=base.storage_cost_per_quintal_month,
+            packaging_cost_per_quintal=base.packaging_cost_per_quintal,
             loss_stage_breakdown=base.loss_stage_breakdown,
             total_loss_percentage=base.total_loss_percentage,
             marketable_production_quintals=sim_marketable_q,

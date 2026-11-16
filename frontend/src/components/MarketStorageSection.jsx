@@ -16,6 +16,7 @@ export default function MarketStorageSection({
   onRecalculatePlan,
   loading,
 }) {
+  const [loss, setLoss] = useState(null);
   const [market, setMarket] = useState(null);
   useEffect(() => {
     let active = true;
@@ -25,6 +26,13 @@ export default function MarketStorageSection({
       .then(r => r.ok ? r.json() : null).then(data => {if(active) setMarket(data);}).catch(() => {});
     return () => {active = false;};
   }, [selectedPlan?.crop, profile?.state, profile?.district]);
+  useEffect(() => {
+    let active = true;
+    setLoss(null);
+    if (selectedPlan) fetch("/api/loss-analysis", {method: "POST", headers: {"Content-Type":"application/json"}, body: JSON.stringify({crop: selectedPlan.crop,state: profile?.state})})
+      .then(r => r.ok ? r.json() : null).then(data => {if(active) setLoss(data);}).catch(() => {});
+    return () => {active = false;};
+  }, [selectedPlan?.crop,profile?.state]);
   if (!selectedPlan) {
     return (
       <div className="card">
@@ -140,9 +148,16 @@ export default function MarketStorageSection({
             }}
           >
             <ShieldAlert size={18} color="#d97706" />
-            Illustrative post-harvest loss assumptions
+            Crop lost before sale
           </h3>
 
+          <p>Some produce may be lost during handling, transport or storage. We estimate this automatically when calculating how much you can sell.</p>
+          <p>This is an estimate. Actual losses on your farm may be different.</p>
+          <details>
+            <summary>How is this estimated?</summary>
+            <p>{selectedPlan.loss_source}</p>
+            {loss && <div><p>Study reference: <strong>{loss.published_loss_pct}%</strong></p><p>Model estimate: <strong>{loss.model_available ? `${loss.model_loss_pct}%` : "Not available for this crop or state"}</strong></p><small>{loss.note}</small></div>}
+          </details>
           <div
             style={{
               display: "flex",
@@ -151,7 +166,7 @@ export default function MarketStorageSection({
               borderBottom: "1px solid var(--border)",
             }}
           >
-            <span style={{ fontSize: "0.875rem" }}>Gross Production:</span>
+            <span style={{ fontSize: "0.875rem" }}>Expected harvest:</span>
             <strong>{grossQtl} Quintals</strong>
           </div>
           <div
@@ -164,7 +179,7 @@ export default function MarketStorageSection({
             }}
           >
             <span style={{ fontSize: "0.875rem" }}>
-              Total Physical Loss ({lossPct}%):
+              Estimated crop lost ({lossPct}%):
             </span>
             <strong>-{(grossQtl - marketableQtl).toFixed(2)} Quintals</strong>
           </div>
@@ -178,7 +193,7 @@ export default function MarketStorageSection({
               fontWeight: 700,
             }}
           >
-            <span>Net Marketable Quantity:</span>
+            <span>Amount left to sell:</span>
             <span>{marketableQtl} Quintals</span>
           </div>
 
@@ -191,8 +206,9 @@ export default function MarketStorageSection({
                 marginBottom: "0.4rem",
               }}
             >
-              Stage-wise Loss Percentages:
+              {Object.keys(stages).length ? "Published stage reference percentages" : "Overall estimate only"}
             </h4>
+            {!Object.keys(stages).length && <p>This estimate covers the total crop lost before sale. A separate estimate for each handling step is not available.</p>}
             <div
               style={{
                 display: "grid",

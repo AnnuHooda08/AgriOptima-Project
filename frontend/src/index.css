@@ -1708,3 +1708,17 @@ main {
     display: block;
   }
 }
+
+.optional-costs {
+  margin-top: 1.5rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.optional-costs summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: .25rem 0;
+}
+.optional-costs[open] summary { margin-bottom: .75rem; }
+.optional-costs .form-group > small { color: var(--text-muted); line-height: 1.5; }

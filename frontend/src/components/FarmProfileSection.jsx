@@ -240,12 +240,32 @@ export default function FarmProfileSection({
             requires separate seasonal data.
           </div>
         )}
+        {step === 2 && (
+          <details className="optional-costs">
+            <summary>Add your farming expenses (optional)</summary>
+            <p>Know your costs? Enter them here for a better estimate of your earnings. The amounts below are examples, not local rates.</p>
+            <div className="grid-2">
+              {[
+                ["cultivation_cost_per_ha", "Growing the crop", "₹ per hectare", "Seeds, fertiliser, labour and other growing expenses.", 10000000],
+                ["transport_cost_per_quintal", "Taking the crop to market", "₹ per quintal", "What you pay to transport 100 kg of produce.", 100000],
+                ["storage_cost_per_quintal_month", "Keeping the crop in storage", "₹ per quintal each month", "What you pay to store 100 kg for one month.", 100000],
+                ["packaging_cost_per_quintal", "Bags and packing", "₹ per quintal", "What you pay to pack 100 kg of produce.", 100000],
+              ].map(([key, label, unit, help, max]) => (
+                <label className="form-group" key={key}>
+                  <span className="form-label">{label}<small>{unit}</small></span>
+                  <input className="form-control" aria-label={label} type="number" min="0" max={max} step="0.01" required value={profile[key]} onChange={e => change(key, e.target.value === "" ? "" : Number(e.target.value))} />
+                  <small>{help}</small>
+                </label>
+              ))}
+            </div>
+          </details>
+        )}
         <div className="field-note">
           {step === 0
-            ? "One hectare is approximately 2.47 acres. Supported locations follow the training data."
+            ? "One hectare is about 2.47 acres."
             : step === 1
               ? "Enter the N, P and K values in the source dataset’s scale. Check the units on your soil report before using them."
-              : "These are user-entered seasonal inputs, not live weather. Daily rain is not equivalent to seasonal rainfall."}
+              : "Enter the expected weather for the growing season. For rainfall, enter the total for the season, not just today’s rain."}
         </div>
         <div className="form-footer">
           <span>Step {step + 1} of 3 · Saved on this browser</span>

@@ -165,7 +165,7 @@ export default function FinalPlanSection({
               <tr>
                 <td>Transportation & Cartage</td>
                 <td>{p.marketable_production_quintals} Quintals</td>
-                <td>₹35 / quintal</td>
+                <td>₹{p.transport_cost_per_quintal} / quintal</td>
                 <td style={{ color: "#b91c1c" }}>
                   -₹
                   {p.transport_cost_rs.toLocaleString("en-IN", {
@@ -177,7 +177,7 @@ export default function FinalPlanSection({
                 <tr>
                   <td>Storage / Warehousing</td>
                   <td>{p.marketable_production_quintals} Quintals</td>
-                  <td>₹45 / quintal / month</td>
+                  <td>₹{p.storage_cost_per_quintal_month} / quintal / month</td>
                   <td style={{ color: "#b91c1c" }}>
                     -₹
                     {p.storage_cost_rs.toLocaleString("en-IN", {
@@ -189,7 +189,7 @@ export default function FinalPlanSection({
               <tr>
                 <td>Packaging & Handling</td>
                 <td>{p.marketable_production_quintals} Quintals</td>
-                <td>₹20 / quintal</td>
+                <td>₹{p.packaging_cost_per_quintal} / quintal</td>
                 <td style={{ color: "#b91c1c" }}>
                   -₹
                   {p.packaging_cost_rs.toLocaleString("en-IN", {

@@ -3,7 +3,7 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.routes import health, weather, crop, yield_pred, mandi, plan, what_if
+from app.routes import health, weather, crop, yield_pred, mandi, plan, what_if, loss
 
 app = FastAPI(
     title="AgriOptima API",
@@ -28,6 +28,7 @@ app.add_middleware(
 )
 
 # Register routes with /api prefix
+app.include_router(loss.router, prefix="/api", tags=["Post-Harvest Loss"])
 app.include_router(health.router, prefix="/api", tags=["System Health"])
 app.include_router(weather.router, prefix="/api", tags=["Weather Integration"])
 app.include_router(crop.router, prefix="/api", tags=["Crop Suitability"])

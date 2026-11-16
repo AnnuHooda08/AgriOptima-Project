@@ -20,7 +20,7 @@ frontend/dist/
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 
-# Recreated by the six notebooks
+# Recreated by the model notebooks
 /saved_models/
 
 # Local submission documents and study material

@@ -1,0 +1,4 @@
+method,mae
+Constant training median,0.9937020408163265
+Training stage median,0.3555897959183673
+Validation-tuned Random Forest,0.3441911016326531

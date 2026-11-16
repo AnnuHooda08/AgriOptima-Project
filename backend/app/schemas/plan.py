@@ -18,6 +18,12 @@ class FarmProfile(BaseModel):
     storage_months: int = Field(
         0, ge=0, le=12, description="Delayed sale storage duration in months"
     )
+    cultivation_cost_per_ha: float = Field(45000, ge=0, le=10000000)
+    transport_cost_per_quintal: float = Field(35, ge=0, le=100000)
+    storage_cost_per_quintal_month: float = Field(45, ge=0, le=100000)
+    packaging_cost_per_quintal: float = Field(20, ge=0, le=100000)
+    loss_estimation_method: Literal["published", "model"] = "published"
+    loss_override_pct: Optional[float] = Field(None, ge=0, le=100)
     user_price_override: Optional[float] = Field(
         None, ge=0.01, description="User custom mandi price (Rs/quintal)"
     )
@@ -25,6 +31,11 @@ class FarmProfile(BaseModel):
 
 class CropPlan(BaseModel):
     model_config = ConfigDict(allow_inf_nan=False)
+    cultivation_cost_per_ha: float = Field(45000, ge=0, le=10000000)
+    transport_cost_per_quintal: float = Field(35, ge=0, le=100000)
+    storage_cost_per_quintal_month: float = Field(45, ge=0, le=100000)
+    packaging_cost_per_quintal: float = Field(20, ge=0, le=100000)
+    loss_source: str = ""
     crop: str
     suitable: bool
     suitability_rank: int

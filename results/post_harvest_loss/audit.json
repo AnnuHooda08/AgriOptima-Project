@@ -1,0 +1,27 @@
+{
+  "raw_rows": 1865,
+  "training_rows": 1375,
+  "historical_test_rows": 490,
+  "source_sha256": "b0cc99ad8c8d60335eaf1d00145bf272a5b8ebfcc06f57924f867a5143cc1cca",
+  "source_years": [
+    2022
+  ],
+  "state_crop_group_overlap": 0,
+  "contradictory_input_groups": 0,
+  "validation_selected_parameters": {
+    "mae": 0.40577113273809523,
+    "criterion": "absolute_error",
+    "leaf": 1,
+    "depth": null
+  },
+  "strong_baseline_validation_mae": 0.5101011904761904,
+  "new_training_rows_added": 0,
+  "additional_data_review": {
+    "fao_india_rows": 1399,
+    "fao_references": 21,
+    "fao_status": "Excluded from this training table: different years, geography, stages and study definitions",
+    "farm_workbook_status": "No compatible post-harvest loss target"
+  },
+  "evaluation_scope": "Reused historical benchmark; not independent farm validation",
+  "website_bundle": "backend/saved_models/post_harvest_loss.joblib"
+}

@@ -33,6 +33,12 @@ import FinalPlanSection from "./components/FinalPlanSection";
 import WhatIfSection from "./components/WhatIfSection";
 import { fetchHealth, generatePlan, fetchCropRecommendation } from "./api";
 const DEFAULT = {
+  cultivation_cost_per_ha: 45000,
+  transport_cost_per_quintal: 35,
+  storage_cost_per_quintal_month: 45,
+  packaging_cost_per_quintal: 20,
+  loss_override_pct: null,
+  loss_estimation_method: "model",
   state: "Haryana",
   district: "AMBALA",
   area_ha: 2,
@@ -197,7 +203,8 @@ export default function App() {
     setLoading(true);
     setError("");
     setNotice("");
-    const snapshot = { ...profile };
+    // Choose the loss estimate automatically; farmers do not need to select a model.
+    const snapshot = { ...profile, loss_estimation_method: "model", loss_override_pct: null };
     try {
       const [planRes, cropRes] = await Promise.all([
         generatePlan({
@@ -947,7 +954,7 @@ export default function App() {
                       ],
                       [
                         "Post-harvest and costs",
-                        "Loss rates come from published study figures and planning rules. Cultivation, transport and storage costs are assumptions; update a scenario to explore their effect.",
+                        "Loss rates are read from the published study extract, with clearly labelled proxies when needed. Costs are editable estimates under My field.",
                       ],
                     ].map(([h, d]) => (
                       <article className="source-item" key={h}>
@@ -958,9 +965,8 @@ export default function App() {
                   </div>
                   <h3>Keep the scope in mind</h3>
                   <p>
-                    Soil clustering and anomaly detection remain separate
-                    research notebooks. No verified field outcome is implied by
-                    a model prediction. Saved plans stay in this browser and can
+                    Predictions are estimates and should be checked against local
+                    growing conditions. Saved plans stay in this browser and can
                     be deleted or exported. Field photos are illustrative, not
                     satellite images of your land.
                   </p>

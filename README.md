@@ -29,8 +29,6 @@ planning, yield estimates and market scenarios.
 | `02_crop_yield.ipynb` | Compare Linear Regression, Ridge, Decision Tree and Random Forest |
 | `03_mandi_price.ipynb` | Forecast next-month national maize median prices |
 | `04_post_harvest_loss.ipynb` | Estimate published loss percentages with Random Forest |
-| `05_soil_clustering.ipynb` | Group similar soil records with K-means |
-| `06_soil_anomalies.ipynb` | Flag unusual soil records with Isolation Forest |
 
 Run notebook cells from top to bottom with the project root or `models/` as
 the working directory. Research outputs are saved separately and do not
@@ -71,7 +69,7 @@ npm run build
 
 Classification and yield use separate training, validation and test groups.
 Price forecasts use only earlier months, and grouped splits keep related loss
-and soil records together. Preprocessing is fitted inside model pipelines.
+records together. Preprocessing is fitted inside model pipelines.
 
 The extended price experiment reports 2025 MAE of Rs 47.61/quintal versus
 Rs 76.67 for repeating the previous month. The baseline performs better during
@@ -80,8 +78,8 @@ full-year and coverage-screened results. This experiment forecasts a national
 maize aggregate, rather than a live quote for each mandi.
 
 Crop labels and yield estimates require local agronomic verification. Published
-loss values are study aggregates. Soil anomaly flags request review and do not
-prove measurement errors. Notebook evaluation results and the application’s
+loss values are study aggregates.
+Notebook evaluation results and the application’s
 original pipeline metrics describe different model versions.
 
 Study materials, submission reports and presentation files are not included.

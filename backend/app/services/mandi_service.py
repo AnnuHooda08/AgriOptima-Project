@@ -87,7 +87,7 @@ class MandiService:
             price_source=source, historical_min=float(recent.price.min()), historical_median=median,
             historical_max=float(recent.price.max()), date_range=str(latest), sample_size=len(recent),
             is_user_override=user_price_override is not None, market_scope=scope,
-            forecast_price_quintal=maize_forecast() if crop.casefold() == "maize" else None,
+            forecast_price_quintal=maize_forecast(),
             forecast_note="Historical one-month-ahead research estimate for national maize. Not a local or current quote. Validation favoured the previous-month baseline.")
 
 mandi_service = MandiService()

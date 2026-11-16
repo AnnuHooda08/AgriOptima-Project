@@ -154,3 +154,15 @@ def test_dataset_price_location_override_and_forecast():
     assert override.selected_price_quintal == 7777
     assert override.historical_median == result.historical_median
     assert override.is_user_override
+
+
+def test_loss_endpoint_separates_reference_model_and_unsupported_crop():
+    response = client.post('/api/loss-analysis', json={'crop': 'Wheat', 'state': 'Haryana'})
+    assert response.status_code == 200
+    data = response.json()
+    assert data['published_loss_pct'] == 4.37
+    assert data['model_available']
+    assert 0 <= data['model_loss_pct'] <= 100
+    unknown = client.post('/api/loss-analysis', json={'crop': 'Unknown crop', 'state': 'Haryana'}).json()
+    assert unknown['model_available'] is False
+    assert unknown['model_loss_pct'] is None
