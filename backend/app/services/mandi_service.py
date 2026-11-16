@@ -14,7 +14,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2021-2024 AGMARKNET / CACP MSP",
         "sample_size": 45000,
         "source": "Government MSP Reference (Paddy Common: Rs. 2,183/qtl)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Wheat": {
         "median": 2275.0,
@@ -23,7 +23,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2021-2024 AGMARKNET / CACP MSP",
         "sample_size": 52000,
         "source": "Government MSP Reference (Wheat: Rs. 2,275/qtl)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Maize": {
         "median": 1825.0,
@@ -32,7 +32,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 1077217,
         "source": "AgriOptima Mandi Dataset (Maize.csv - 1.07M records)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Bajra": {
         "median": 1850.0,
@@ -41,7 +41,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 284000,
         "source": "AgriOptima Mandi Dataset (Bajra.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Cotton(lint)": {
         "median": 7100.0,
@@ -50,7 +50,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 312000,
         "source": "AgriOptima Mandi Dataset (Cotton.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Cotton": {
         "median": 7100.0,
@@ -59,7 +59,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 312000,
         "source": "AgriOptima Mandi Dataset (Cotton.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Gram": {
         "median": 4701.0,
@@ -68,7 +68,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 495000,
         "source": "AgriOptima Mandi Dataset (Bengal Gram.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Rapeseed &Mustard": {
         "median": 5500.0,
@@ -77,7 +77,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 520000,
         "source": "AgriOptima Mandi Dataset (Mustard.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Mustard": {
         "median": 5500.0,
@@ -86,7 +86,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 520000,
         "source": "AgriOptima Mandi Dataset (Mustard.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Soyabean": {
         "median": 4900.0,
@@ -95,7 +95,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 380000,
         "source": "AgriOptima Mandi Dataset (Soyabean.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Moong(Green Gram)": {
         "median": 7800.0,
@@ -104,7 +104,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2021-2024 AGMARKNET / MSP",
         "sample_size": 95000,
         "source": "Government MSP Reference (Moong MSP: Rs. 8,558/qtl)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Urad": {
         "median": 6350.0,
@@ -113,7 +113,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 270000,
         "source": "AgriOptima Mandi Dataset (Black Gram.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Arhar/Tur": {
         "median": 6800.0,
@@ -122,7 +122,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 310000,
         "source": "AgriOptima Mandi Dataset (Arhar.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Groundnut": {
         "median": 5600.0,
@@ -131,7 +131,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 180000,
         "source": "AgriOptima Mandi Dataset (Groundnut.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Barley": {
         "median": 1860.0,
@@ -140,7 +140,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2020-01-01 to 2024-02-02",
         "sample_size": 90000,
         "source": "AgriOptima Mandi Dataset (Barley.csv)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Sugarcane": {
         "median": 315.0,
@@ -149,7 +149,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2022-2024 Statutory FRP/SAP",
         "sample_size": 12000,
         "source": "Government Statutory Fair & Remunerative Price (FRP)",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Potato": {
         "median": 1200.0,
@@ -158,7 +158,7 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2021-2024 Mandi Wholesale Averages",
         "sample_size": 85000,
         "source": "Wholesale Market Arrival Normal",
-        "unit": "Rs./Quintal"
+        "unit": "Rs./Quintal",
     },
     "Onion": {
         "median": 1750.0,
@@ -167,8 +167,8 @@ HISTORICAL_MANDI_PRICES: Dict[str, Dict[str, Any]] = {
         "date_range": "2021-2024 Mandi Wholesale Averages",
         "sample_size": 92000,
         "source": "Wholesale Market Arrival Normal",
-        "unit": "Rs./Quintal"
-    }
+        "unit": "Rs./Quintal",
+    },
 }
 
 # Experimental Model Evaluation Results (Verified against 1.07M chronological Maize mandi records)
@@ -177,18 +177,19 @@ EXPERIMENTAL_BENCHMARK_RESULTS = {
     "status": "Benchmarked against Chronological Naive Persistence Baseline",
     "chronological_baseline_mae": 161.09,
     "hgb_test_mae": 389.71,
-    "verdict": "HistGradientBoosting does NOT outperform the naive baseline (161.09 Rs./qtl vs 389.71 Rs./qtl) due to post-2021 market volatility and non-stationarity. In accordance with strict ML engineering standards, it is excluded from production planning and kept solely for experimental evaluation."
+    "verdict": "HistGradientBoosting does NOT outperform the naive baseline (161.09 Rs./qtl vs 389.71 Rs./qtl) due to post-2021 market volatility and non-stationarity. In accordance with strict ML engineering standards, it is excluded from production planning and kept solely for experimental evaluation.",
 }
+
 
 class MandiService:
     @staticmethod
     def get_mandi_analysis(
         crop: str,
         state: Optional[str] = "All",
-        user_price_override: Optional[float] = None
+        user_price_override: Optional[float] = None,
     ) -> MandiAnalysisResponse:
         norm_crop = crop.strip()
-        
+
         # Match crop in historical lookup
         info = HISTORICAL_MANDI_PRICES.get(norm_crop)
         if not info:
@@ -198,7 +199,7 @@ class MandiService:
                     info = v
                     norm_crop = k
                     break
-        
+
         if not info:
             info = {
                 "median": 2500.0,
@@ -207,17 +208,17 @@ class MandiService:
                 "date_range": "Estimated Agricultural Market Baseline",
                 "sample_size": 1000,
                 "source": "Generic Agricultural Commodity Index",
-                "unit": "Rs./Quintal"
+                "unit": "Rs./Quintal",
             }
 
         is_user_override = False
         if user_price_override is not None and user_price_override > 0:
             selected_price = round(float(user_price_override), 2)
-            source_desc = f"Farmer Custom Entered Price (Default historical median: Rs. {info['median']}/qtl)"
+            source_desc = f"Farmer Custom Entered Price (Default planning reference: Rs. {info['median']}/qtl)"
             is_user_override = True
         else:
             selected_price = float(info["median"])
-            source_desc = info["source"]
+            source_desc = f"Fixed planning assumption for {norm_crop}: Rs. {info['median']}/quintal. Not a live quote or an audited dataset median."
 
         return MandiAnalysisResponse(
             crop=norm_crop,
@@ -234,10 +235,13 @@ class MandiService:
             experimental_forecast=ExperimentalForecastMetric(
                 model_name=EXPERIMENTAL_BENCHMARK_RESULTS["model_name"],
                 status=EXPERIMENTAL_BENCHMARK_RESULTS["status"],
-                chronological_baseline_mae=EXPERIMENTAL_BENCHMARK_RESULTS["chronological_baseline_mae"],
+                chronological_baseline_mae=EXPERIMENTAL_BENCHMARK_RESULTS[
+                    "chronological_baseline_mae"
+                ],
                 hgb_test_mae=EXPERIMENTAL_BENCHMARK_RESULTS["hgb_test_mae"],
-                verdict=EXPERIMENTAL_BENCHMARK_RESULTS["verdict"]
-            )
+                verdict=EXPERIMENTAL_BENCHMARK_RESULTS["verdict"],
+            ),
         )
+
 
 mandi_service = MandiService()

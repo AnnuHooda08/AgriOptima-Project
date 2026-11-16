@@ -4,6 +4,7 @@ from app.core.config import CROP_SUITABILITY_MODEL_PATH, YIELD_RANDOM_FOREST_MOD
 
 router = APIRouter()
 
+
 @router.get("/health")
 def get_health():
     """
@@ -22,8 +23,10 @@ def get_health():
                 "pipeline_loaded": crop_loaded,
                 "file_path": str(CROP_SUITABILITY_MODEL_PATH),
                 "historical_accuracy": "79.87%",
-                "supported_crops_count": len(model_service.crop_pipeline.classes_) if crop_loaded else 0,
-                "probability_calibration": False
+                "supported_crops_count": (
+                    len(model_service.crop_pipeline.classes_) if crop_loaded else 0
+                ),
+                "probability_calibration": False,
             },
             "crop_yield": {
                 "selected_model": "Random Forest Regressor (200 trees, max_depth=15)",
@@ -33,16 +36,16 @@ def get_health():
                 "supported_states": model_service.supported_states,
                 "supported_districts_count": len(model_service.supported_districts),
                 "supported_crops_count": len(model_service.supported_crops),
-                "supported_seasons": model_service.supported_seasons
+                "supported_seasons": model_service.supported_seasons,
             },
             "mandi_forecasting": {
                 "experimental_model": "HistGradientBoostingRegressor",
-                "status": "Experimental only (Excluded from production planning; persistence baseline outperformed it with MAE 161.09 vs 389.71 Rs./qtl)"
-            }
+                "status": "Experimental only (Excluded from production planning; persistence baseline outperformed it with MAE 161.09 vs 389.71 Rs./qtl)",
+            },
         },
         "metadata": {
             "supported_districts": model_service.supported_districts,
             "supported_crops": model_service.supported_crops,
-            "supported_seasons": model_service.supported_seasons
-        }
+            "supported_seasons": model_service.supported_seasons,
+        },
     }

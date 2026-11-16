@@ -1,22 +1,30 @@
-from typing import List, Dict, Optional, Any
-from pydantic import BaseModel, Field
+from typing import List, Dict, Optional, Any, Literal
+from pydantic import BaseModel, Field, ConfigDict
+
 
 class FarmProfile(BaseModel):
-    state: str = Field("Haryana", description="State name")
+    model_config = ConfigDict(allow_inf_nan=False)
+    state: Literal["Haryana", "Punjab"] = Field("Haryana", description="State name")
     district: str = Field("Ambala", description="District name")
-    area_ha: float = Field(2.0, gt=0, description="Cultivated land area in hectares")
+    area_ha: float = Field(2.0, gt=0, le=1000, description="Cultivated land area in hectares")
     season: str = Field("Kharif", description="Season (Kharif, Rabi, Whole Year)")
     N: float = Field(90.0, ge=0, le=300, description="Nitrogen (kg/ha)")
     P: float = Field(42.0, ge=0, le=300, description="Phosphorus (kg/ha)")
     K: float = Field(43.0, ge=0, le=300, description="Potassium (kg/ha)")
-    temperature: float = Field(25.0, description="Temperature (°C)")
+    temperature: float = Field(25.0, ge=-10, le=60, description="Temperature (°C)")
     humidity: float = Field(80.0, ge=0, le=100, description="Relative humidity (%)")
     ph: float = Field(6.5, ge=0, le=14, description="Soil pH")
-    rainfall: float = Field(200.0, ge=0, description="Rainfall (mm)")
-    storage_months: int = Field(0, ge=0, le=12, description="Delayed sale storage duration in months")
-    user_price_override: Optional[float] = Field(None, gt=0, description="User custom mandi price (Rs/quintal)")
+    rainfall: float = Field(200.0, ge=0, le=2000, description="Rainfall (mm)")
+    storage_months: int = Field(
+        0, ge=0, le=12, description="Delayed sale storage duration in months"
+    )
+    user_price_override: Optional[float] = Field(
+        None, ge=0.01, description="User custom mandi price (Rs/quintal)"
+    )
+
 
 class CropPlan(BaseModel):
+    model_config = ConfigDict(allow_inf_nan=False)
     crop: str
     suitable: bool
     suitability_rank: int
@@ -40,7 +48,9 @@ class CropPlan(BaseModel):
     roi_percentage: float
     feasibility_notes: List[str]
 
+
 class PlanResponse(BaseModel):
+    seasonal_suitability_labels: List[str] = Field(default_factory=list)
     primary_crop: str
     selected_plan: CropPlan
     alternative_plans: List[CropPlan]

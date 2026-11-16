@@ -3,16 +3,21 @@ from app.schemas.plan import FarmProfile
 from app.schemas.what_if import WhatIfRequest
 from app.services.planning_engine import planning_engine
 
+
 def test_full_plan_generation_math():
     profile = FarmProfile(
         state="Haryana",
         district="Ambala",
         area_ha=3.0,
         season="Kharif",
-        N=90.0, P=42.0, K=43.0,
-        temperature=25.0, humidity=80.0,
-        ph=6.5, rainfall=250.0,
-        storage_months=0
+        N=90.0,
+        P=42.0,
+        K=43.0,
+        temperature=25.0,
+        humidity=80.0,
+        ph=6.5,
+        rainfall=250.0,
+        storage_months=0,
     )
 
     plan_res = planning_engine.generate_full_plan(profile)
@@ -28,16 +33,24 @@ def test_full_plan_generation_math():
 
     # 3. Post-harvest loss applied exactly once
     loss_fraction = plan.total_loss_percentage / 100.0
-    expected_marketable = round(plan.gross_production_quintals * (1.0 - loss_fraction), 2)
+    expected_marketable = round(
+        plan.gross_production_quintals * (1.0 - loss_fraction), 2
+    )
     assert abs(plan.marketable_production_quintals - expected_marketable) < 0.05
 
     # 4. Gross revenue
-    expected_revenue = round(plan.marketable_production_quintals * plan.applicable_price_per_quintal, 2)
+    expected_revenue = round(
+        plan.marketable_production_quintals * plan.applicable_price_per_quintal, 2
+    )
     assert abs(plan.gross_revenue_rs - expected_revenue) < 0.05
 
     # 5. Cost summation
     expected_total_costs = round(
-        plan.cultivation_cost_rs + plan.transport_cost_rs + plan.storage_cost_rs + plan.packaging_cost_rs, 2
+        plan.cultivation_cost_rs
+        + plan.transport_cost_rs
+        + plan.storage_cost_rs
+        + plan.packaging_cost_rs,
+        2,
     )
     assert abs(plan.total_costs_rs - expected_total_costs) < 0.05
 
@@ -49,16 +62,21 @@ def test_full_plan_generation_math():
     expected_roi = round((plan.net_return_rs / plan.total_costs_rs) * 100.0, 1)
     assert abs(plan.roi_percentage - expected_roi) < 0.1
 
+
 def test_what_if_price_and_yield_shocks():
     profile = FarmProfile(
         state="Haryana",
         district="Ambala",
         area_ha=2.0,
         season="Kharif",
-        N=90.0, P=42.0, K=43.0,
-        temperature=25.0, humidity=80.0,
-        ph=6.5, rainfall=250.0,
-        storage_months=0
+        N=90.0,
+        P=42.0,
+        K=43.0,
+        temperature=25.0,
+        humidity=80.0,
+        ph=6.5,
+        rainfall=250.0,
+        storage_months=0,
     )
     base_plan = planning_engine.generate_full_plan(profile).selected_plan
 
@@ -67,19 +85,79 @@ def test_what_if_price_and_yield_shocks():
         base_plan=base_plan,
         price_change_pct=20.0,
         yield_shock_pct=0.0,
-        storage_months=2
+        storage_months=2,
     )
 
     sim_res = planning_engine.simulate_what_if(req)
-    
+
     # Simulated price should be exactly 1.20 * base price
     expected_sim_price = round(base_plan.applicable_price_per_quintal * 1.20, 2)
     assert abs(sim_res.simulated_price_quintal - expected_sim_price) < 0.05
 
     # Storage cost should reflect 2 months of warehousing
     assert sim_res.simulated_plan.storage_cost_rs > 0
-    assert sim_res.simulated_plan.storage_cost_rs == round(sim_res.simulated_marketable_quintals * 2 * 45.0, 2)
+    assert sim_res.simulated_plan.storage_cost_rs == round(
+        sim_res.simulated_marketable_quintals * 2 * 45.0, 2
+    )
 
     # Net return diff should equal simulated net return - original net return
     expected_diff = round(sim_res.simulated_net_return - base_plan.net_return_rs, 2)
     assert abs(sim_res.diff_net_return - expected_diff) < 0.05
+
+
+def test_plan_never_invents_generic_yields_for_unsupported_crop_labels():
+    from app.services.model_service import model_service
+
+    response = planning_engine.generate_full_plan(FarmProfile())
+    plans = [response.selected_plan, *response.alternative_plans]
+    assert len({plan.crop for plan in plans}) == len(plans)
+    assert all(plan.crop in model_service.supported_crops for plan in plans)
+    assert all('generic benchmark' not in note.lower()
+               for plan in plans for note in plan.feasibility_notes)
+
+
+@pytest.mark.parametrize('state', ['Haryana', 'Punjab'])
+def test_rice_is_not_recommended_for_rabi(state):
+    from app.services.planning_engine import recorded_crop_seasons
+    rabi = planning_engine.generate_full_plan(FarmProfile(state=state, district='Amritsar' if state == 'Punjab' else 'Ambala', season='Rabi'))
+    kharif = planning_engine.generate_full_plan(FarmProfile(state=state, district='Amritsar' if state == 'Punjab' else 'Ambala', season='Kharif'))
+    assert kharif.selected_plan.crop == 'Rice'
+    assert rabi.selected_plan.crop != 'Rice'
+    for plan in [rabi.selected_plan, *rabi.alternative_plans]:
+        assert (state.lower(), plan.crop.lower(), 'rabi') in recorded_crop_seasons()
+    assert 'rice' not in rabi.seasonal_suitability_labels
+
+
+@pytest.mark.parametrize('state', ['Punjab', 'Haryana'])
+def test_ambiguous_source_moong_labels_do_not_make_it_a_winter_crop(state):
+    # Inputs that strongly predict mungbean must not bypass seasonal screening.
+    profile = FarmProfile(state=state, district='Amritsar' if state == 'Punjab' else 'Ambala', season='Rabi', N=20, P=20, K=20,
+                          temperature=27, humidity=85, rainfall=100, ph=6.5)
+    result = planning_engine.generate_full_plan(profile)
+    assert all(plan.crop != 'Moong(Green Gram)'
+               for plan in [result.selected_plan, *result.alternative_plans])
+    assert 'mungbean' not in result.seasonal_suitability_labels
+
+
+def test_whole_year_reporting_label_is_not_a_third_planting_season():
+    with pytest.raises(ValueError, match='reporting category'):
+        planning_engine.generate_full_plan(FarmProfile(state='Punjab', season='Whole Year'))
+
+
+def test_custom_offer_is_not_reused_for_other_crops():
+    response = planning_engine.generate_full_plan(FarmProfile(user_price_override=7777))
+    assert response.selected_plan.applicable_price_per_quintal == 7777
+    assert response.alternative_plans
+    assert all(plan.applicable_price_per_quintal != 7777 for plan in response.alternative_plans)
+
+
+def test_zero_shock_preserves_a_low_entered_price_and_net_return():
+    base = planning_engine.generate_full_plan(FarmProfile(user_price_override=50)).selected_plan
+    result = planning_engine.simulate_what_if(WhatIfRequest(base_plan=base))
+    assert result.simulated_price_quintal == 50
+    assert result.diff_net_return == 0
+
+
+def test_invalid_state_district_pair_is_rejected():
+    with pytest.raises(ValueError, match='district'):
+        planning_engine.generate_full_plan(FarmProfile(state='Punjab', district='Ambala'))

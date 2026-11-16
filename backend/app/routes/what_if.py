@@ -4,6 +4,7 @@ from app.services.planning_engine import planning_engine
 
 router = APIRouter()
 
+
 @router.post("/what-if", response_model=WhatIfResponse)
 def simulate_what_if_scenario(req: WhatIfRequest):
     """
@@ -14,4 +15,6 @@ def simulate_what_if_scenario(req: WhatIfRequest):
     try:
         return planning_engine.simulate_what_if(req)
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"What-If simulation failed: {str(e)}")
+        raise HTTPException(
+            status_code=500, detail=f"What-If simulation failed: {str(e)}"
+        )

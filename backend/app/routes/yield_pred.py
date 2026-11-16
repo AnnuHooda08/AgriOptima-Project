@@ -4,6 +4,7 @@ from app.services.model_service import model_service
 
 router = APIRouter()
 
+
 @router.post("/yield-prediction", response_model=YieldPredictionResponse)
 def predict_crop_yield(req: YieldPredictionRequest):
     """
@@ -17,7 +18,9 @@ def predict_crop_yield(req: YieldPredictionRequest):
             crop=req.crop,
             season=req.season,
             year=req.year,
-            area=req.area
+            area=req.area,
         )
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Yield prediction failed: {str(e)}")
+        raise HTTPException(
+            status_code=500, detail=f"Yield prediction failed: {str(e)}"
+        )

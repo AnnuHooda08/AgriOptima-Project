@@ -4,6 +4,7 @@ from app.services.model_service import model_service
 
 router = APIRouter()
 
+
 @router.post("/crop-recommendation", response_model=CropRecommendationResponse)
 def recommend_crop(req: CropRecommendationRequest):
     """
@@ -18,7 +19,9 @@ def recommend_crop(req: CropRecommendationRequest):
             temperature=req.temperature,
             humidity=req.humidity,
             ph=req.ph,
-            rainfall=req.rainfall
+            rainfall=req.rainfall,
         )
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Crop suitability evaluation failed: {str(e)}")
+        raise HTTPException(
+            status_code=500, detail=f"Crop suitability evaluation failed: {str(e)}"
+        )

@@ -4,6 +4,7 @@ from app.services.planning_engine import planning_engine
 
 router = APIRouter()
 
+
 @router.post("/plan", response_model=PlanResponse)
 def generate_connected_plan(profile: FarmProfile):
     """
@@ -13,5 +14,9 @@ def generate_connected_plan(profile: FarmProfile):
     """
     try:
         return planning_engine.generate_full_plan(profile)
+    except ValueError as e:
+        raise HTTPException(status_code=422, detail=str(e)) from e
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Planning generation failed: {str(e)}")
+        raise HTTPException(
+            status_code=500, detail=f"Planning generation failed: {str(e)}"
+        )

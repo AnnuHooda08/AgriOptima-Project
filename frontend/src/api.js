@@ -1,92 +1,72 @@
-// API client for AgriOptima Backend
-
-const API_BASE = '/api';
-
-export async function fetchHealth() {
-  const res = await fetch(`${API_BASE}/health`);
-  if (!res.ok) throw new Error(`Health check failed: ${res.statusText}`);
-  return res.json();
-}
-
-export async function fetchWeather(lat, lon, district) {
-  const params = new URLSearchParams({ latitude: lat, longitude: lon });
-  if (district) params.append('district', district);
-  const res = await fetch(`${API_BASE}/weather?${params.toString()}`);
-  if (!res.ok) throw new Error(`Weather fetch failed: ${res.statusText}`);
-  return res.json();
-}
-
-export async function fetchCropRecommendation(features) {
-  const res = await fetch(`${API_BASE}/crop-recommendation`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(features),
-  });
-  if (!res.ok) {
-    const err = await res.json().catch(() => ({}));
-    throw new Error(err.detail || 'Crop recommendation failed');
+const API_BASE = "/api";
+async function request(path, payload) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 30000);
+  try {
+    const response = await fetch(`${API_BASE}${path}`, {
+      signal: controller.signal,
+      ...(payload === undefined
+        ? {}
+        : {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+          }),
+    });
+    const data = await response.json().catch(() => null);
+    if (!response.ok) {
+      const detail = data?.detail;
+      throw new Error(
+        Array.isArray(detail)
+          ? detail
+              .map((item) => `${item.loc?.slice(1).join(".")}: ${item.msg}`)
+              .join("; ")
+          : typeof detail === "string"
+            ? detail
+            : `Request failed (${response.status}). Please try again.`,
+      );
+    }
+    if (!data)
+      throw new Error(
+        "The server returned an empty response. Please try again.",
+      );
+    return data;
+  } catch (error) {
+    if (error.name === "AbortError")
+      throw new Error(
+        "The request took too long. Check the connection and try again.",
+      );
+    throw error;
+  } finally {
+    clearTimeout(timeout);
   }
-  return res.json();
 }
-
-export async function fetchYieldPrediction(payload) {
-  const res = await fetch(`${API_BASE}/yield-prediction`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
+export const fetchHealth = () => request("/health");
+export const fetchWeather = (lat, lon, district) =>
+  request(
+    `/weather?${new URLSearchParams({ latitude: lat, longitude: lon, district })}`,
+  );
+export const fetchCropRecommendation = (features) =>
+  request("/crop-recommendation", features);
+export const fetchYieldPrediction = (payload) =>
+  request("/yield-prediction", payload);
+export const generatePlan = (profile) => request("/plan", profile);
+export const fetchMandiAnalysis = (
+  crop,
+  state = "All",
+  user_price_override = null,
+) => request("/mandi-analysis", { crop, state, user_price_override });
+export const simulateWhatIf = (
+  base_plan,
+  price_change_pct,
+  yield_shock_pct,
+  storage_months,
+  area_override,
+) =>
+  request("/what-if", {
+    base_plan,
+    price_change_pct: Number(price_change_pct),
+    yield_shock_pct: Number(yield_shock_pct),
+    storage_months: Number(storage_months),
+    ...(area_override > 0 ? { area_override: Number(area_override) } : {}),
   });
-  if (!res.ok) {
-    const err = await res.json().catch(() => ({}));
-    throw new Error(err.detail || 'Yield prediction failed');
-  }
-  return res.json();
-}
-
-export async function fetchMandiAnalysis(crop, state = 'All', userPriceOverride = null) {
-  const payload = { crop, state };
-  if (userPriceOverride) payload.user_price_override = parseFloat(userPriceOverride);
-  const res = await fetch(`${API_BASE}/mandi-analysis`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
-  });
-  if (!res.ok) {
-    const err = await res.json().catch(() => ({}));
-    throw new Error(err.detail || 'Mandi analysis failed');
-  }
-  return res.json();
-}
-
-export async function generatePlan(profile) {
-  const res = await fetch(`${API_BASE}/plan`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(profile),
-  });
-  if (!res.ok) {
-    const err = await res.json().catch(() => ({}));
-    throw new Error(err.detail || 'Plan generation failed');
-  }
-  return res.json();
-}
-
-export async function simulateWhatIf(basePlan, priceChangePct, yieldShockPct, storageMonths, areaOverride = null) {
-  const payload = {
-    base_plan: basePlan,
-    price_change_pct: parseFloat(priceChangePct) || 0,
-    yield_shock_pct: parseFloat(yieldShockPct) || 0,
-    storage_months: parseInt(storageMonths, 10) || 0,
-  };
-  if (areaOverride) payload.area_override = parseFloat(areaOverride);
-
-  const res = await fetch(`${API_BASE}/what-if`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
-  });
-  if (!res.ok) {
-    const err = await res.json().catch(() => ({}));
-    throw new Error(err.detail || 'What-If simulation failed');
-  }
-  return res.json();
-}

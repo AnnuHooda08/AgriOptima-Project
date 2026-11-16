@@ -56,6 +56,7 @@ REGIONAL_AVERAGE_YIELD_TONNES_PER_HA: Dict[str, float] = {
     "Onion": 18.00,
 }
 
+
 class ModelService:
     def __init__(self):
         self.crop_pipeline = None
@@ -73,19 +74,25 @@ class ModelService:
             # 1. Crop Suitability Model (SVM)
             if Path(CROP_SUITABILITY_MODEL_PATH).exists():
                 self.crop_pipeline = joblib.load(CROP_SUITABILITY_MODEL_PATH)
-                logger.info(f"Loaded Crop Suitability Pipeline from {CROP_SUITABILITY_MODEL_PATH}")
+                logger.info(
+                    f"Loaded Crop Suitability Pipeline from {CROP_SUITABILITY_MODEL_PATH}"
+                )
             else:
                 logger.error(f"Crop model not found at {CROP_SUITABILITY_MODEL_PATH}")
 
             # 2. Crop Yield Model (Random Forest)
             if Path(YIELD_RANDOM_FOREST_MODEL_PATH).exists():
                 self.yield_pipeline = joblib.load(YIELD_RANDOM_FOREST_MODEL_PATH)
-                logger.info(f"Loaded Yield Random Forest Pipeline from {YIELD_RANDOM_FOREST_MODEL_PATH}")
-                
+                logger.info(
+                    f"Loaded Yield Random Forest Pipeline from {YIELD_RANDOM_FOREST_MODEL_PATH}"
+                )
+
                 # Extract known training categories from OneHotEncoder inside ColumnTransformer
                 try:
                     preproc = self.yield_pipeline.named_steps["preprocessor"]
-                    encoder = preproc.named_transformers_["categorical"].named_steps["encoder"]
+                    encoder = preproc.named_transformers_["categorical"].named_steps[
+                        "encoder"
+                    ]
                     cats = encoder.categories_
                     self.supported_states = list(cats[0])
                     self.supported_districts = list(cats[1])
@@ -94,7 +101,9 @@ class ModelService:
                 except Exception as e:
                     logger.warning(f"Could not extract yield categories: {e}")
             else:
-                logger.error(f"Yield model not found at {YIELD_RANDOM_FOREST_MODEL_PATH}")
+                logger.error(
+                    f"Yield model not found at {YIELD_RANDOM_FOREST_MODEL_PATH}"
+                )
 
     def predict_crop_suitability(
         self,
@@ -104,7 +113,7 @@ class ModelService:
         temperature: float,
         humidity: float,
         ph: float,
-        rainfall: float
+        rainfall: float,
     ) -> CropRecommendationResponse:
         """
         Runs the saved SVM pipeline.
@@ -114,9 +123,10 @@ class ModelService:
         if self.crop_pipeline is None:
             raise RuntimeError("Crop suitability model is not loaded.")
 
-        input_df = pd.DataFrame([[
-            N, P, K, temperature, humidity, ph, rainfall
-        ]], columns=["N", "P", "K", "temperature", "humidity", "ph", "rainfall"])
+        input_df = pd.DataFrame(
+            [[N, P, K, temperature, humidity, ph, rainfall]],
+            columns=["N", "P", "K", "temperature", "humidity", "ph", "rainfall"],
+        )
 
         # Predict primary crop
         pred = self.crop_pipeline.predict(input_df)[0]
@@ -124,17 +134,19 @@ class ModelService:
         # Use decision_function to score candidates
         classes = self.crop_pipeline.classes_
         decision_scores = self.crop_pipeline.decision_function(input_df)[0]
-        
+
         # Order candidates by decision boundary distance
         ranked_indices = np.argsort(decision_scores)[::-1]
-        
+
         candidates = []
-        for rank, idx in enumerate(ranked_indices[:5]):  # Top 5 candidates
-            candidates.append(CandidateCrop(
-                crop=str(classes[idx]),
-                decision_score=round(float(decision_scores[idx]), 3),
-                is_top_choice=(rank == 0)
-            ))
+        for rank, idx in enumerate(ranked_indices):  # Full ranking lets planning filter unsupported crops
+            candidates.append(
+                CandidateCrop(
+                    crop=str(classes[idx]),
+                    decision_score=round(float(decision_scores[idx]), 3),
+                    is_top_choice=(rank == 0),
+                )
+            )
 
         primary_score = float(decision_scores[ranked_indices[0]])
 
@@ -145,22 +157,18 @@ class ModelService:
             evaluation_note="SVM pipeline trained with probability=False. Historical test accuracy ~79.87%. Secondary rankings represent decision boundary margin heuristics, not calibrated probabilities.",
             candidate_ranking=candidates,
             input_features={
-                "N": N, "P": P, "K": K,
+                "N": N,
+                "P": P,
+                "K": K,
                 "temperature": temperature,
                 "humidity": humidity,
                 "ph": ph,
-                "rainfall": rainfall
-            }
+                "rainfall": rainfall,
+            },
         )
 
     def predict_yield(
-        self,
-        state: str,
-        district: str,
-        crop: str,
-        season: str,
-        year: int,
-        area: float
+        self, state: str, district: str, crop: str, season: str, year: int, area: float
     ) -> YieldPredictionResponse:
         """
         Runs the saved Random Forest pipeline.
@@ -179,16 +187,20 @@ class ModelService:
         # Check support
         is_supported_crop = norm_crop in self.supported_crops
         is_supported_district = norm_district in self.supported_districts
-        
+
         # Build DataFrame with exact expected feature names
-        input_df = pd.DataFrame([{
-            "State": norm_state,
-            "District": norm_district,
-            "Crop": norm_crop,
-            "Season": norm_season,
-            "YearStart": year,
-            "Area": float(area)
-        }])
+        input_df = pd.DataFrame(
+            [
+                {
+                    "State": norm_state,
+                    "District": norm_district,
+                    "Crop": norm_crop,
+                    "Season": norm_season,
+                    "YearStart": year,
+                    "Area": float(area),
+                }
+            ]
+        )
 
         validation_message = None
         predicted_yield = 0.0
@@ -211,8 +223,12 @@ class ModelService:
                     validation_message = f"District '{norm_district}' not in direct training set. Evaluated using regional state distribution."
             except Exception as e:
                 logger.error(f"Error predicting yield: {e}")
-                predicted_yield = REGIONAL_AVERAGE_YIELD_TONNES_PER_HA.get(norm_crop, 2.5)
-                validation_message = f"Fallback applied due to prediction notice: {str(e)}"
+                predicted_yield = REGIONAL_AVERAGE_YIELD_TONNES_PER_HA.get(
+                    norm_crop, 2.5
+                )
+                validation_message = (
+                    f"Fallback applied due to prediction notice: {str(e)}"
+                )
 
         # Calculations
         est_production_tonnes = round(predicted_yield * area, 2)
@@ -232,8 +248,9 @@ class ModelService:
             evaluation_rationale="Selected for lowest recorded MAE of 2.10 t/ha (outperforming Linear Regression MAE 3.04 and Decision Tree MAE 2.99) to minimize absolute forecasting error for farmers.",
             is_supported_crop=is_supported_crop,
             is_supported_district=is_supported_district,
-            validation_message=validation_message
+            validation_message=validation_message,
         )
+
 
 # Global singleton instance
 model_service = ModelService()

@@ -19,3 +19,17 @@ frontend/dist/
 # Jupyter-generated autosave copies
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# Recreated by the six notebooks
+/saved_models/
+
+# Local submission documents and study material
+*.pdf
+*.docx
+*.ppt
+*.pptx
+/reports/
+/presentations/
+/study_material/
+/study_materials/
+/pdf_output/
