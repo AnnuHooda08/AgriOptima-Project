@@ -56,16 +56,6 @@ def test_yield_prediction_supported_sample():
     )
 
 
-def test_yield_prediction_unsupported_crop_fallback():
-    # Crop outside Haryana/Punjab training set
-    res = model_service.predict_yield(
-        state="Haryana",
-        district="Ambala",
-        crop="Exotic Dragonfruit",
-        season="Kharif",
-        year=2024,
-        area=2.0,
-    )
-    assert res.is_supported_crop is False
-    assert res.predicted_yield_tonnes_per_ha > 0
-    assert res.validation_message is not None
+def test_yield_prediction_unsupported_crop_is_rejected():
+    with pytest.raises(ValueError):
+        model_service.predict_yield(state='Haryana',district='Ambala',crop='Exotic Dragonfruit',season='Kharif',year=2024,area=2)

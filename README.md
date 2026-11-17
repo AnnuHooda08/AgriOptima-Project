@@ -1,7 +1,7 @@
 # AgriOptima
 
 Agricultural machine-learning experiments and a React application for crop
-planning, yield estimates and market scenarios.
+suitability, yield, market prices and post-harvest loss.
 
 ## Team
 
@@ -16,7 +16,6 @@ planning, yield estimates and market scenarios.
 
 - `models/`: complete ML notebooks with data preparation, training and evaluation.
 - `DataSets/`: input datasets and source attribution.
-- `saved_models/`: research bundles generated locally by the notebooks.
 - `results/`: machine-readable evaluation outputs and model plots.
 - `backend/`: FastAPI application, required application model bundles and API tests.
 - `frontend/`: React and CSS application.
@@ -27,7 +26,7 @@ planning, yield estimates and market scenarios.
 | --- | --- |
 | `01_crop_suitability.ipynb` | Compare Logistic Regression and RBF SVM for crop labels |
 | `02_crop_yield.ipynb` | Compare Linear Regression, Ridge, Decision Tree and Random Forest |
-| `03_mandi_price.ipynb` | Forecast next-month national maize median prices |
+| `03_mandi_price.ipynb` | Predict monthly prices across available commodities |
 | `04_post_harvest_loss.ipynb` | Estimate published loss percentages with Random Forest |
 
 Run notebook cells from top to bottom with the project root or `models/` as
@@ -36,50 +35,38 @@ replace the application model bundles automatically.
 
 ## Run locally
 
-Create and activate a Python environment, then run from the project root:
+Install Python dependencies with `python3 -m pip install -r requirements.txt -r requirements-dev.txt`, then run `npm install --prefix frontend`.
+Run `./start.sh`. Open http://127.0.0.1:5174 in Chrome or another browser.
+Set AGRI_PYTHON to your environment Python path if needed.
+The frontend uses same-origin /api requests, proxied to port 8000.
 
-```sh
-python -m pip install -r requirements.txt -r requirements-dev.txt
-python -m uvicorn app.main:app --app-dir backend --reload
-```
+## Data and predictions
 
-In a second terminal:
+The website has four independent prediction screens: crop suitability, yield,
+market prices and post-harvest loss. No fixed numerical fallback predictions are used.
+The price notebook reads all available commodity CSVs. 295 commodities have
+sufficient model-ready monthly history. Regional forecasts use the selected region’s recorded history. Missing lag months
+use its recent observed price median, with a source note. A region with no usable
+history returns an unavailable response. There are 32 recorded regions plus the
+national aggregate in the prepared table. These forecasts concern the next month after recorded
+history, not a current market quote.
 
-```sh
-cd frontend
-npm install
-npm run dev
-```
+The chronological test compares Random Forest MAE 822.13 Rs/quintal with
+previous-month MAE 683.49 across 69,641 monthly records. The baseline performs
+better on this aggregate test. Errors combine commodities with different price scales.
+The model is refitted on recorded history after evaluation for application inference.
 
-The Vite application normally opens at `http://localhost:5173` and proxies
-API requests to the local backend. The backend normally runs on port 8000.
-
-Some existing large dataset files use Git LFS. Install Git LFS and run
-`git lfs pull` after cloning to download their contents.
+Loss prediction uses the saved NABCONS study-value model. Unsupported categories
+return an error. The yield model also rejects unsupported crops instead of using
+fixed regional values. Soil datasets, maize-only extensions and unused source
+workbooks are excluded from the current four-component workflow.
 
 ## Verification
 
-```sh
-python -m pytest
-cd frontend
-npm run build
-```
+Run `python3 -m pytest` and `npm run build --prefix frontend`.
+Reports, presentations and study materials are excluded from GitHub.
 
-## Evaluation notes
-
-Classification and yield use separate training, validation and test groups.
-Price forecasts use only earlier months, and grouped splits keep related loss
-records together. Preprocessing is fitted inside model pipelines.
-
-The extended price experiment reports 2025 MAE of Rs 47.61/quintal versus
-Rs 76.67 for repeating the previous month. The baseline performs better during
-2023-2024 validation. Incomplete November 2025 reporting is shown in both the
-full-year and coverage-screened results. This experiment forecasts a national
-maize aggregate, rather than a live quote for each mandi.
-
-Crop labels and yield estimates require local agronomic verification. Published
-loss values are study aggregates.
-Notebook evaluation results and the application’s
-original pipeline metrics describe different model versions.
-
-Study materials, submission reports and presentation files are not included.
+The market selector lists 95 crops with at least 30 observed monthly prices in
+each of Haryana and Punjab. Coverage counts are recorded in
+`results/mandi_prices/haryana_punjab_coverage.csv`. Broader commodity inputs
+remain necessary for reproducing the pooled model training.

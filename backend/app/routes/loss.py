@@ -1,18 +1,20 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from app.services.planning_engine import dataset_loss
-from app.services.loss_service import model_loss
-
-router = APIRouter()
-
+from app.services.loss_service import model_loss, loss_bundle
+router=APIRouter()
 class LossRequest(BaseModel):
-    crop: str
-    state: str
-
-@router.post("/loss-analysis")
-def loss_analysis(req: LossRequest):
-    reference, stages, source = dataset_loss(req.crop, req.state)
-    estimate = model_loss(req.crop, req.state)
-    return {"published_loss_pct": round(reference, 3), "published_source": source,
-        "model_loss_pct": estimate, "model_available": estimate is not None,
-        "note": "Grouped historical test MAE: 0.344 percentage points across all record types, and 1.040 points for overall totals alone. The stage-median baseline scores 0.356 overall. These are study-value estimates, not verified farm outcomes."}
+    crop:str
+    state:str
+@router.get('/loss-options')
+def options():
+    bundle=loss_bundle()
+    encoder=bundle['model'].named_steps['preprocessor'].named_transformers_['categories'].named_steps['encoder']
+    categories=dict(zip(bundle['features'],encoder.categories_))
+    excluded=('milk','meat','fish','egg','poultry')
+    return {'states':list(categories['state']), 'crops':[str(c) for c in categories['crop'] if not any(x in str(c).lower() for x in excluded)]}
+@router.post('/loss-analysis')
+def predict(req:LossRequest):
+    value=model_loss(req.crop,req.state)
+    if value is None: raise HTTPException(422,'This crop and state are outside the loss model training categories.')
+    return {'crop':req.crop,'state':req.state,'loss_percentage':value,
+            'source':'Estimated overall loss using the model trained on published NABCONS study values.'}

@@ -1,6 +1,5 @@
 import pytest
 from app.schemas.plan import FarmProfile
-from app.schemas.what_if import WhatIfRequest
 from app.services.planning_engine import planning_engine
 
 
@@ -63,46 +62,6 @@ def test_full_plan_generation_math():
     assert abs(plan.roi_percentage - expected_roi) < 0.1
 
 
-def test_what_if_price_and_yield_shocks():
-    profile = FarmProfile(
-        state="Haryana",
-        district="Ambala",
-        area_ha=2.0,
-        season="Kharif",
-        N=90.0,
-        P=42.0,
-        K=43.0,
-        temperature=25.0,
-        humidity=80.0,
-        ph=6.5,
-        rainfall=250.0,
-        storage_months=0,
-    )
-    base_plan = planning_engine.generate_full_plan(profile).selected_plan
-
-    # Scenario: +20% price increase, 0% yield shock, 2 months storage
-    req = WhatIfRequest(
-        base_plan=base_plan,
-        price_change_pct=20.0,
-        yield_shock_pct=0.0,
-        storage_months=2,
-    )
-
-    sim_res = planning_engine.simulate_what_if(req)
-
-    # Simulated price should be exactly 1.20 * base price
-    expected_sim_price = round(base_plan.applicable_price_per_quintal * 1.20, 2)
-    assert abs(sim_res.simulated_price_quintal - expected_sim_price) < 0.05
-
-    # Storage cost should reflect 2 months of warehousing
-    assert sim_res.simulated_plan.storage_cost_rs > 0
-    assert sim_res.simulated_plan.storage_cost_rs == round(
-        sim_res.simulated_marketable_quintals * 2 * 45.0, 2
-    )
-
-    # Net return diff should equal simulated net return - original net return
-    expected_diff = round(sim_res.simulated_net_return - base_plan.net_return_rs, 2)
-    assert abs(sim_res.diff_net_return - expected_diff) < 0.05
 
 
 def test_plan_never_invents_generic_yields_for_unsupported_crop_labels():
@@ -151,11 +110,6 @@ def test_custom_offer_is_not_reused_for_other_crops():
     assert all(plan.applicable_price_per_quintal != 7777 for plan in response.alternative_plans)
 
 
-def test_zero_shock_preserves_a_low_entered_price_and_net_return():
-    base = planning_engine.generate_full_plan(FarmProfile(user_price_override=50)).selected_plan
-    result = planning_engine.simulate_what_if(WhatIfRequest(base_plan=base))
-    assert result.simulated_price_quintal == 50
-    assert result.diff_net_return == 0
 
 
 def test_invalid_state_district_pair_is_rejected():
@@ -172,19 +126,6 @@ def test_loss_comes_from_state_crop_study_totals():
     assert 'NABCONS' in source
 
 
-def test_user_cost_rates_and_loss_survive_simulation():
-    profile = FarmProfile(cultivation_cost_per_ha=12345, transport_cost_per_quintal=11,
-        storage_cost_per_quintal_month=7, packaging_cost_per_quintal=3,
-        loss_override_pct=0, storage_months=2)
-    base = planning_engine.generate_full_plan(profile).selected_plan
-    assert base.total_loss_percentage == 0
-    assert base.cultivation_cost_rs == 24690
-    assert base.transport_cost_rs == round(base.marketable_production_quintals * 11, 2)
-    assert base.storage_cost_rs == round(base.marketable_production_quintals * 2 * 7, 2)
-    scenario = planning_engine.simulate_what_if(WhatIfRequest(base_plan=base, storage_months=2))
-    assert scenario.simulated_plan.total_costs_rs == base.total_costs_rs
-    assert scenario.simulated_plan.net_return_rs == base.net_return_rs
-    assert scenario.simulated_plan.loss_source == base.loss_source
 
 
 def test_model_loss_is_used_when_selected_and_manual_override_wins():
@@ -196,3 +137,16 @@ def test_model_loss_is_used_when_selected_and_manual_override_wins():
     manual = planning_engine.generate_full_plan(profile.model_copy(update={'loss_override_pct': 2})).selected_plan
     assert manual.total_loss_percentage == 2
     assert manual.loss_source.startswith('User-entered')
+
+
+def test_missing_market_price_does_not_break_yield(monkeypatch):
+    from app.services.planning_engine import PlanningEngine
+    from app.services.mandi_service import mandi_service
+    from app.schemas.plan import FarmProfile
+    def unavailable(**kwargs):
+        raise ValueError('No recorded market price')
+    monkeypatch.setattr(mandi_service,'get_mandi_analysis',unavailable)
+    plan=PlanningEngine.generate_full_plan(FarmProfile())
+    assert plan.selected_plan.predicted_yield_tonnes_per_ha > 0
+    assert plan.selected_plan.applicable_price_per_quintal is None
+    assert plan.selected_plan.net_return_rs is None

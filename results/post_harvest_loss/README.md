@@ -25,7 +25,6 @@ merged into training. The original government report download returned HTTP
 404 during the compatible-data search. No extra training rows are claimed.
 
 The website bundle is `backend/saved_models/post_harvest_loss.joblib`.
-`/api/loss-analysis` reports the published reference and model estimate
-separately. A user can choose the model for planning; an explicit user loss
-percentage overrides either method. Unknown input categories return no model
-estimate instead of an unlabelled extrapolation.
+`/api/loss-analysis` returns the model loss percentage for the selected crop and state.
+Unknown input categories return an unavailable response rather than a fixed loss value.
+The notebook saves the evaluated bundle directly into the backend model directory.

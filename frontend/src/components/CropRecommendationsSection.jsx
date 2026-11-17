@@ -36,22 +36,20 @@ export default function CropRecommendationsSection({
     <div className="card">
       <h2 className="card-title">
         <Leaf size={22} color="#059669" />
-        Crop Suitability Model (SVM)
+        Crop suggestions for your field
       </h2>
 
       <div className="alert alert-info">
         <Leaf size={18} />
         <div>
           <strong>
-            Soil suitability and seasonal planning are different checks.
+            Crops to consider for your field.
           </strong>
           <p>
-            The SVM uses soil and climate inputs, not season or city. Its raw
-            label can stay the same when you change season. The planning crop
-            and candidates below are filtered using recorded crop seasons for{" "}
-            {state} ({season}). Local moong guidance is checked separately from
-            ambiguous source-season labels. Historical records support this
-            screening; they do not guarantee field suitability.
+            These suggestions use the soil and weather details you entered. The crop
+            shown first also has growing-season records for {state} ({season}).
+            Before sowing, check water availability, seed variety and local advice.
+            Update your field details if your growing conditions change.
           </p>
         </div>
       </div>

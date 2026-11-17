@@ -36,27 +36,6 @@ SUITABILITY_TO_YIELD_MAP: Dict[str, str] = {
     "potato": "Potato",
 }
 
-# Regional average yield fallbacks for crops where district-level data is missing
-REGIONAL_AVERAGE_YIELD_TONNES_PER_HA: Dict[str, float] = {
-    "Rice": 4.10,
-    "Wheat": 4.80,
-    "Maize": 3.20,
-    "Bajra": 2.10,
-    "Cotton(lint)": 1.95,
-    "Gram": 1.15,
-    "Moong(Green Gram)": 0.85,
-    "Urad": 0.75,
-    "Arhar/Tur": 1.10,
-    "Masoor": 0.90,
-    "Groundnut": 1.60,
-    "Soyabean": 1.75,
-    "Barley": 3.40,
-    "Sugarcane": 72.00,
-    "Potato": 22.50,
-    "Onion": 18.00,
-}
-
-
 class ModelService:
     def __init__(self):
         self.crop_pipeline = None
@@ -205,30 +184,13 @@ class ModelService:
         validation_message = None
         predicted_yield = 0.0
 
-        if not is_supported_crop:
-            # Check if regional average is available
-            fallback = REGIONAL_AVERAGE_YIELD_TONNES_PER_HA.get(norm_crop)
-            if fallback:
-                predicted_yield = fallback
-                validation_message = f"Crop '{norm_crop}' is outside Haryana/Punjab training set. Using documented regional baseline of {fallback} t/ha."
-            else:
-                predicted_yield = 2.0
-                validation_message = f"Crop '{norm_crop}' not in yield training vocabulary. Using generic benchmark of 2.0 t/ha."
-        else:
-            try:
-                pred = self.yield_pipeline.predict(input_df)[0]
-                # Enforce physical non-negativity
-                predicted_yield = max(0.1, round(float(pred), 2))
-                if not is_supported_district:
-                    validation_message = f"District '{norm_district}' not in direct training set. Evaluated using regional state distribution."
-            except Exception as e:
-                logger.error(f"Error predicting yield: {e}")
-                predicted_yield = REGIONAL_AVERAGE_YIELD_TONNES_PER_HA.get(
-                    norm_crop, 2.5
-                )
-                validation_message = (
-                    f"Fallback applied due to prediction notice: {str(e)}"
-                )
+        # Unsupported inputs should not receive an invented yield.
+        if not is_supported_crop or not is_supported_district or norm_state not in self.supported_states or norm_season not in self.supported_seasons:
+            raise ValueError('Choose a state, district, crop and season covered by the yield model.')
+        prediction = float(self.yield_pipeline.predict(input_df)[0])
+        if not np.isfinite(prediction):
+            raise ValueError('The yield model could not produce a valid estimate.')
+        predicted_yield = round(max(0.0, prediction), 2)
 
         # Calculations
         est_production_tonnes = round(predicted_yield * area, 2)

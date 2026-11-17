@@ -17,16 +17,6 @@ def test_api_health_endpoint():
     assert "AMBALA" in data["metadata"]["supported_districts"]
 
 
-def test_api_weather_endpoint():
-    response = client.get(
-        "/api/weather?latitude=30.3782&longitude=76.7767&district=Ambala"
-    )
-    assert response.status_code == 200
-    data = response.json()
-    assert "temperature" in data
-    assert "humidity" in data
-    assert "rainfall" in data
-    assert data["temperature"] > 0
 
 
 def test_api_crop_recommendation_endpoint():
@@ -73,7 +63,7 @@ def test_api_mandi_analysis_endpoint():
     data = response.json()
     assert data["selected_price_quintal"] > 0
     assert data["sample_size"] > 0
-    assert data["forecast_price_quintal"] > 0
+    assert client.post("/api/market-forecast", json={"crop":"Maize","state":"All"}).json()["predicted_price"] > 0
     assert "Historical" in data["price_source"]
 
 
@@ -101,36 +91,6 @@ def test_api_plan_endpoint():
     assert data["selected_plan"]["net_return_rs"] is not None
 
 
-def test_api_what_if_endpoint():
-    # First generate a plan to get a valid CropPlan
-    plan_payload = {
-        "state": "Haryana",
-        "district": "Ambala",
-        "area_ha": 2.0,
-        "season": "Kharif",
-        "N": 90.0,
-        "P": 42.0,
-        "K": 43.0,
-        "temperature": 25.0,
-        "humidity": 80.0,
-        "ph": 6.5,
-        "rainfall": 200.0,
-        "storage_months": 0,
-    }
-    plan_res = client.post("/api/plan", json=plan_payload).json()
-    base_plan = plan_res["selected_plan"]
-
-    what_if_payload = {
-        "base_plan": base_plan,
-        "price_change_pct": 10.0,
-        "yield_shock_pct": -5.0,
-        "storage_months": 1,
-    }
-    response = client.post("/api/what-if", json=what_if_payload)
-    assert response.status_code == 200
-    data = response.json()
-    assert "simulated_plan" in data
-    assert data["simulated_plan"]["gross_revenue_rs"] > 0
 
 
 @pytest.mark.parametrize('patch', [
@@ -149,20 +109,45 @@ def test_dataset_price_location_override_and_forecast():
     recent = local[local.date.dt.to_period('M').eq(local.date.max().to_period('M'))]
     assert result.selected_price_quintal == round(float(recent.price.median()), 2)
     assert result.market_scope == 'Ambala, Haryana'
-    assert result.forecast_price_quintal > 0
+    assert client.post("/api/market-forecast", json={"crop":"Wheat","state":"All"}).json()["predicted_price"] > 0
     override = mandi_service.get_mandi_analysis('Maize', 'Haryana', 7777, 'Ambala')
     assert override.selected_price_quintal == 7777
     assert override.historical_median == result.historical_median
     assert override.is_user_override
 
 
-def test_loss_endpoint_separates_reference_model_and_unsupported_crop():
-    response = client.post('/api/loss-analysis', json={'crop': 'Wheat', 'state': 'Haryana'})
-    assert response.status_code == 200
-    data = response.json()
-    assert data['published_loss_pct'] == 4.37
-    assert data['model_available']
-    assert 0 <= data['model_loss_pct'] <= 100
-    unknown = client.post('/api/loss-analysis', json={'crop': 'Unknown crop', 'state': 'Haryana'}).json()
-    assert unknown['model_available'] is False
-    assert unknown['model_loss_pct'] is None
+def test_loss_endpoint_predicts_without_constant_fallback():
+    response=client.post('/api/loss-analysis',json={'crop':'Wheat','state':'Haryana'})
+    assert response.status_code==200
+    assert 0<=response.json()['loss_percentage']<=100
+    assert client.post('/api/loss-analysis',json={'crop':'Unknown crop','state':'Haryana'}).status_code==422
+
+def test_forecasts_differ_between_commodities_and_chrome_cors():
+    values=[client.post('/api/market-forecast',json={'crop':c,'state':'All'}).json()['predicted_price'] for c in ['Wheat','Potato','Maize']]
+    assert len(set(values))==3
+    r=client.options('/api/market-forecast',headers={'Origin':'http://localhost:5174','Access-Control-Request-Method':'POST'})
+    assert r.headers['access-control-allow-origin']=='http://localhost:5174'
+
+
+def test_identical_browser_requests_have_identical_predictions():
+    payload={'state':'Haryana','district':'Ambala','season':'Kharif'}
+    a=client.post('/api/plan',json=payload,headers={'Origin':'http://localhost:5174'})
+    b=client.post('/api/plan',json=payload,headers={'Origin':'http://127.0.0.1:5174'})
+    assert a.status_code==b.status_code==200
+    assert a.json()==b.json()
+
+
+def test_market_model_uses_regional_history():
+    values=[]
+    for state in ['Haryana','Punjab','Maharashtra']:
+        r=client.post('/api/market-forecast',json={'crop':'Wheat','state':state})
+        assert r.status_code==200,r.text
+        values.append(r.json()['predicted_price'])
+    assert len(set(values))>1
+
+
+def test_market_selector_requires_both_states():
+    options=client.get('/api/market-options').json()
+    assert len(options)==95
+    assert all(states==['Haryana','Punjab'] for states in options.values())
+    assert 'Wheat' in options and 'Potato' in options

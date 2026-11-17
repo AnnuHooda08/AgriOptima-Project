@@ -17,3 +17,15 @@ def get_mandi_analysis(req: MandiAnalysisRequest):
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Mandi analysis failed: {str(e)}")
+
+from pydantic import BaseModel
+from app.services.market_forecast_service import market_options, predict_market
+class ForecastRequest(BaseModel):
+    crop: str
+    state: str
+@router.get('/market-options')
+def forecast_options(): return market_options()
+@router.post('/market-forecast')
+def forecast(req:ForecastRequest):
+    try: return predict_market(req.crop,req.state)
+    except ValueError as error: raise HTTPException(422,str(error))

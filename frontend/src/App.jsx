@@ -28,9 +28,8 @@ import {
 import FarmProfileSection, { DISTRICTS } from "./components/FarmProfileSection";
 import CropRecommendationsSection from "./components/CropRecommendationsSection";
 import YieldProductionSection from "./components/YieldProductionSection";
-import MarketStorageSection from "./components/MarketStorageSection";
-import FinalPlanSection from "./components/FinalPlanSection";
-import WhatIfSection from "./components/WhatIfSection";
+import PredictionSection from "./components/PredictionSection";
+
 import { fetchHealth, generatePlan, fetchCropRecommendation } from "./api";
 const DEFAULT = {
   cultivation_cost_per_ha: 45000,
@@ -58,12 +57,12 @@ const tabs = [
   ["profile", "My field", MapPin],
   ["crop", "Crop suitability", Wheat],
   ["yield", "Yield & production", TrendingUp],
-  ["market", "Market & storage", Store],
-  ["plan", "Farm plan", FileText],
-  ["whatif", "Scenario lab", SlidersHorizontal],
+  ["market", "Market prices", Store],
+  ["loss", "Post-harvest loss", FileText],
+
 ];
 const number = (value) =>
-  Number.isFinite(Number(value))
+  value != null && Number.isFinite(Number(value))
     ? new Intl.NumberFormat("en-IN", { maximumFractionDigits: 1 }).format(value)
     : "—";
 const money = (value) => (value == null ? "—" : `₹${number(value)}`);
@@ -322,7 +321,7 @@ export default function App() {
       entry.priceOverride == null ? "" : String(entry.priceOverride),
     );
     setGeneratedPrice(entry.priceOverride ?? null);
-    navigate("plan");
+    navigate("crop");
     setNotice("Saved snapshot opened. Recalculate to use current settings.");
   };
   const p = selectedPlan,
@@ -469,7 +468,7 @@ export default function App() {
             <button
               className="icon-button"
               aria-label="View crop comparison"
-              onClick={() => navigate("plan")}
+              onClick={() => navigate("crop")}
             >
               <ArrowUpRight size={20} />
             </button>
@@ -477,7 +476,7 @@ export default function App() {
           <p>Estimated net returns for the same field and assumptions.</p>
           <div className="comparison-chart">
             {p ? (
-              [p, ...alternativePlans].slice(0, 4).map((row, i) => (
+              [p, ...alternativePlans].filter(row => row.net_return_rs != null).slice(0, 4).map((row, i) => (
                 <div className="comparison-row" key={row.crop}>
                   <span>
                     {row.crop}
@@ -534,8 +533,8 @@ export default function App() {
               ],
               [
                 "Plan your harvest",
-                "Compare costs and test market changes.",
-                "whatif",
+                "Estimate the crop lost after harvest.",
+                "loss",
               ],
             ].map(([t, d, tab], i) => (
               <li key={t}>
@@ -722,7 +721,7 @@ export default function App() {
                       yield: "Understand your harvest.",
                       market: "From harvest to market.",
                       plan: "Bring the numbers together.",
-                      whatif: "Make room for the unexpected.",
+                      loss: "Understand post-harvest loss.",
                       sources: "Understand what’s behind the plan.",
                     }[activeTab]}
               </h1>
@@ -810,7 +809,7 @@ export default function App() {
                   </p>
                   <button
                     className="btn btn-primary"
-                    onClick={() => navigate("plan")}
+                    onClick={() => navigate("crop")}
                   >
                     Go to farm plan
                     <ArrowRight size={16} />
@@ -883,52 +882,8 @@ export default function App() {
               {activeTab === "yield" && (
                 <YieldProductionSection selectedPlan={p} profile={field} />
               )}
-              {activeTab === "market" && (
-                <MarketStorageSection
-                  profile={field}
-                  selectedPlan={p}
-                  customPrice={customPrice}
-                  setCustomPrice={setCustomPrice}
-                  onRecalculatePlan={() => handleGeneratePlan()}
-                  loading={loading}
-                />
-              )}
-              {activeTab === "plan" && (
-                <>
-                  <div className="plan-tools">
-                    <span>
-                      <FileText size={16} />
-                      Your planning snapshot
-                    </span>
-                    <button
-                      className="btn btn-secondary"
-                      disabled={!p || loading}
-                      onClick={savePlan}
-                    >
-                      <Bookmark size={16} />
-                      Save this plan
-                    </button>
-                    <button
-                      className="btn btn-secondary"
-                      disabled={!p}
-                      onClick={() => window.print()}
-                    >
-                      <Printer size={16} />
-                      Print / PDF
-                    </button>
-                  </div>
-                  <FinalPlanSection
-                    selectedPlan={p}
-                    alternativePlans={alternativePlans}
-                  />
-                </>
-              )}
-              {activeTab === "whatif" && (
-                <WhatIfSection
-                  selectedPlan={p}
-                  baselineStorageMonths={field.storage_months}
-                />
-              )}
+              {activeTab === "market" && <PredictionSection key="market" kind="market" />}
+              {activeTab === "loss" && <PredictionSection key="loss" kind="loss" />}
               {activeTab === "sources" && (
                 <section className="card sources-card">
                   <span className="eyebrow">A CLEARER PICTURE</span>

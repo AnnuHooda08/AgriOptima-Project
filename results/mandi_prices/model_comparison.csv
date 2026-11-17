@@ -1,0 +1,2 @@
+test_rows,training_rows,forest_mae,previous_month_mae,cutoff
+69641,277271,822.1338518451724,683.4942973966486,2019-12-01 00:00:00

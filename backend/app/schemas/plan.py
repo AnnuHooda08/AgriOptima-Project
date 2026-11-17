@@ -46,17 +46,17 @@ class CropPlan(BaseModel):
     loss_stage_breakdown: Dict[str, float]
     total_loss_percentage: float
     marketable_production_quintals: float
-    applicable_price_per_quintal: float
+    applicable_price_per_quintal: Optional[float]
     price_source: str
-    gross_revenue_rs: float
+    gross_revenue_rs: Optional[float]
     cultivation_cost_rs: float
     transport_cost_rs: float
     storage_cost_rs: float
     packaging_cost_rs: float
     total_costs_rs: float
-    net_return_rs: float
-    net_return_per_ha_rs: float
-    roi_percentage: float
+    net_return_rs: Optional[float]
+    net_return_per_ha_rs: Optional[float]
+    roi_percentage: Optional[float]
     feasibility_notes: List[str]
 
 

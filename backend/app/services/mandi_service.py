@@ -12,6 +12,9 @@ import joblib
 from app.core.config import DATASETS_DIR, BASE_DIR
 
 CROP_FILES = {
+    "Bajra": "Bajra(Pearl Millet-Cumbu)", "Barley": "Barley (Jau)",
+    "Jowar": "Jowar(Sorghum)", "Sesamum": "Sesamum(SesameGingellyTil)",
+    "Ginger": "Ginger(Green)", "Sannhamp": "Sunhemp",
     "Masoor": "Lentil (Masur)(Whole)", "Guar seed": "Guar Seed(Cluster Beans Seed)",
     "Horse-gram": "Kulthi(Horse Gram)",
     "Rice": "Paddy(Dhan)(Common)", "Arhar/Tur": "Arhar (Tur-Red Gram)(Whole)",
@@ -23,10 +26,10 @@ CROP_FILES = {
 @lru_cache(maxsize=64)
 def dataset_prices(crop):
     # Cache the cleaned table so repeated requests do not reread large CSVs.
-    name = CROP_FILES.get(crop, crop)
+    name = next((value for key,value in CROP_FILES.items() if key.casefold() == crop.casefold()), crop)
     path = DATASETS_DIR / "india_mandi_prices_2000_2024" / (name + ".csv")
     if not path.is_file():
-        raise ValueError("No historical market data for this crop. Enter a local offer.")
+        raise ValueError("No recorded market price is available for this crop.")
     columns = ["State Name", "District Name", "Market Name", "Modal Price (Rs./Quintal)", "Reported Date"]
     data = pd.read_csv(path, usecols=lambda col: col in columns or col == "Modal Price").drop_duplicates()
     if columns[3] not in data.columns:
@@ -36,24 +39,8 @@ def dataset_prices(crop):
     data["date"] = data["date"].fillna(pd.to_datetime(data[columns[4]], format="%Y-%m-%d", errors="coerce"))
     clean = data.loc[data.date.notna() & np.isfinite(data.price) & data.price.gt(0)].copy()
     if clean.empty:
-        raise ValueError("No valid historical prices for this crop. Enter a local offer.")
+        raise ValueError("No valid recorded market prices are available for this crop.")
     return clean
-
-@lru_cache(maxsize=1)
-def maize_forecast():
-    # Use the saved model's actual forecast origin, not today's calendar month.
-    path = BASE_DIR / "backend/saved_models/maize_price_extended_linear.joblib"
-    if not path.exists():
-        return None
-    bundle = joblib.load(path)
-    monthly = pd.read_csv(BASE_DIR / "results/mandi_prices/monthly_data.csv")
-    monthly["date"] = pd.to_datetime(monthly["date"])
-    target = pd.Timestamp(bundle["training_last_month"]) + pd.offsets.MonthBegin(1)
-    row = monthly.loc[monthly.date.eq(target), bundle["features"]]
-    if row.empty or row.isna().any().any():
-        return None
-    value = float(bundle["model"].predict(row)[0])
-    return round(value, 2) if np.isfinite(value) and value > 0 else None
 
 class MandiService:
     @staticmethod
@@ -87,7 +74,7 @@ class MandiService:
             price_source=source, historical_min=float(recent.price.min()), historical_median=median,
             historical_max=float(recent.price.max()), date_range=str(latest), sample_size=len(recent),
             is_user_override=user_price_override is not None, market_scope=scope,
-            forecast_price_quintal=maize_forecast(),
-            forecast_note="Historical one-month-ahead research estimate for national maize. Not a local or current quote. Validation favoured the previous-month baseline.")
+            forecast_price_quintal=None,
+            forecast_note="")
 
 mandi_service = MandiService()

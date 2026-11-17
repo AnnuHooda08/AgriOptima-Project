@@ -20,6 +20,8 @@ def predict_crop_yield(req: YieldPredictionRequest):
             year=req.year,
             area=req.area,
         )
+    except ValueError as e:
+        raise HTTPException(status_code=422, detail=str(e))
     except Exception as e:
         raise HTTPException(
             status_code=500, detail=f"Yield prediction failed: {str(e)}"

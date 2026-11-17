@@ -5,7 +5,6 @@ from app.core.config import DATASETS_DIR
 from typing import Dict, List, Any, Optional
 
 from app.schemas.plan import FarmProfile, CropPlan, PlanResponse
-from app.schemas.what_if import WhatIfRequest, WhatIfResponse
 from app.services.model_service import model_service, SUITABILITY_TO_YIELD_MAP
 from app.services.mandi_service import mandi_service
 from app.services.loss_service import model_loss
@@ -15,7 +14,7 @@ logger = logging.getLogger(__name__)
 @lru_cache(maxsize=1)
 def recorded_crop_seasons():
     """Supported state/crop/season combinations in the project's yield source."""
-    records = pd.read_csv(DATASETS_DIR / "Yeild" / "crop_production_haryana_punjab_1997_2019.csv")
+    records = pd.read_csv(DATASETS_DIR / "Yield" / "crop_production_haryana_punjab_1997_2019.csv")
     valid = (pd.to_numeric(records["Area"], errors="coerce") > 0) & (pd.to_numeric(records["Yield"], errors="coerce") > 0)
     records = records.loc[valid, ["State", "Crop", "Season"]].dropna()
     return frozenset(tuple(str(value).strip().lower() for value in row)
@@ -24,7 +23,7 @@ def recorded_crop_seasons():
 
 @lru_cache(maxsize=1)
 def recorded_field_locations():
-    records = pd.read_csv(DATASETS_DIR / "Yeild" / "crop_production_haryana_punjab_1997_2019.csv", usecols=["State", "District"])
+    records = pd.read_csv(DATASETS_DIR / "Yield" / "crop_production_haryana_punjab_1997_2019.csv", usecols=["State", "District"])
     return frozenset((str(state).strip().lower(), str(district).strip().upper())
                      for state, district in records.dropna().itertuples(index=False, name=None))
 
@@ -114,18 +113,21 @@ class PlanningEngine:
         marketable_quintals = round(gross_prod_quintals * (1.0 - (loss_pct / 100.0)), 2)
 
         # 4. Market Price
-        mandi_res = mandi_service.get_mandi_analysis(
-            crop=yield_crop_name,
-            state=profile.state,
-            district=profile.district,
-            user_price_override=profile.user_price_override,
-        )
-        applicable_price = mandi_res.selected_price_quintal
-        price_source = mandi_res.price_source
+        # Missing market coverage must not block crop and yield predictions.
+        try:
+            mandi_res = mandi_service.get_mandi_analysis(
+                crop=yield_crop_name, state=profile.state, district=profile.district,
+                user_price_override=profile.user_price_override,
+            )
+            applicable_price = mandi_res.selected_price_quintal
+            price_source = mandi_res.price_source
+        except ValueError:
+            applicable_price = None
+            price_source = 'Market price unavailable for this crop. Revenue and net return cannot be calculated.'
 
         # 5. Financial Arithmetic
         # Gross revenue = Marketable quintals * price per quintal
-        gross_revenue = round(marketable_quintals * applicable_price, 2)
+        gross_revenue = round(marketable_quintals * applicable_price, 2) if applicable_price is not None else None
 
         # Cultivation cost
         cult_rate = profile.cultivation_cost_per_ha
@@ -151,11 +153,11 @@ class PlanningEngine:
         )
 
         # Net Return = Gross Revenue - Total Costs
-        net_return = round(gross_revenue - total_costs, 2)
-        net_return_per_ha = round(net_return / profile.area_ha, 2)
+        net_return = round(gross_revenue - total_costs, 2) if gross_revenue is not None else None
+        net_return_per_ha = round(net_return / profile.area_ha, 2) if net_return is not None else None
 
         # ROI percentage
-        roi = round((net_return / total_costs) * 100.0, 1) if total_costs > 0 else 0.0
+        roi = (round((net_return / total_costs) * 100.0, 1) if total_costs > 0 else 0.0) if net_return is not None else None
 
         # Feasibility annotations
         feasibility_notes = []
@@ -284,123 +286,6 @@ class PlanningEngine:
             formulas_and_assumptions=formulas,
         )
 
-    @staticmethod
-    def simulate_what_if(req: WhatIfRequest) -> WhatIfResponse:
-        """
-        Evaluates dynamic what-if adjustments to prices, yield shocks, area, or storage duration.
-        """
-        base = req.base_plan
-        area = (
-            req.area_override
-            if req.area_override is not None
-            else base.cultivated_area_ha
-        )
-
-        # Apply yield shock
-        sim_yield = max(
-            0.0,
-            round(
-                base.predicted_yield_tonnes_per_ha
-                * (1.0 + (req.yield_shock_pct / 100.0)),
-                2,
-            ),
-        )
-        sim_prod_t = round(sim_yield * area, 2)
-        sim_prod_q = round(sim_prod_t * 10.0, 2)
-
-        # Apply loss
-        sim_marketable_q = round(
-            sim_prod_q * (1.0 - (base.total_loss_percentage / 100.0)), 2
-        )
-
-        # Apply price change
-        sim_price = max(
-            0.0,
-            round(
-                base.applicable_price_per_quintal
-                * (1.0 + (req.price_change_pct / 100.0)),
-                2,
-            ),
-        )
-        sim_revenue = round(sim_marketable_q * sim_price, 2)
-
-        # Costs
-        cult_rate = base.cultivation_cost_per_ha
-        sim_cult_cost = round(cult_rate * area, 2)
-        sim_trans_cost = round(sim_marketable_q * base.transport_cost_per_quintal, 2)
-        sim_storage_cost = round(
-            sim_marketable_q * req.storage_months * base.storage_cost_per_quintal_month, 2
-        )
-        sim_pack_cost = round(sim_marketable_q * base.packaging_cost_per_quintal, 2)
-        sim_total_costs = round(
-            sim_cult_cost + sim_trans_cost + sim_storage_cost + sim_pack_cost, 2
-        )
-
-        # Net Return
-        sim_net_return = round(sim_revenue - sim_total_costs, 2)
-        diff_net = round(sim_net_return - base.net_return_rs, 2)
-        sim_roi = (
-            round((sim_net_return / sim_total_costs) * 100.0, 1)
-            if sim_total_costs > 0
-            else 0.0
-        )
-
-        # Build simulated plan
-        sim_plan = CropPlan(
-            crop=base.crop,
-            suitable=base.suitable,
-            suitability_rank=base.suitability_rank,
-            predicted_yield_tonnes_per_ha=sim_yield,
-            cultivated_area_ha=area,
-            gross_production_tonnes=sim_prod_t,
-            gross_production_quintals=sim_prod_q,
-            loss_source=base.loss_source,
-            cultivation_cost_per_ha=base.cultivation_cost_per_ha,
-            transport_cost_per_quintal=base.transport_cost_per_quintal,
-            storage_cost_per_quintal_month=base.storage_cost_per_quintal_month,
-            packaging_cost_per_quintal=base.packaging_cost_per_quintal,
-            loss_stage_breakdown=base.loss_stage_breakdown,
-            total_loss_percentage=base.total_loss_percentage,
-            marketable_production_quintals=sim_marketable_q,
-            applicable_price_per_quintal=sim_price,
-            price_source=f"What-If Simulated Price ({req.price_change_pct:+.1f}%)",
-            gross_revenue_rs=sim_revenue,
-            cultivation_cost_rs=sim_cult_cost,
-            transport_cost_rs=sim_trans_cost,
-            storage_cost_rs=sim_storage_cost,
-            packaging_cost_rs=sim_pack_cost,
-            total_costs_rs=sim_total_costs,
-            net_return_rs=sim_net_return,
-            net_return_per_ha_rs=round(sim_net_return / area, 2),
-            roi_percentage=sim_roi,
-            feasibility_notes=[
-                f"Simulated price: Rs. {sim_price}/qtl ({req.price_change_pct:+.1f}%)",
-                f"Simulated yield: {sim_yield} t/ha ({req.yield_shock_pct:+.1f}%)",
-                f"Storage duration: {req.storage_months} months (Storage cost: Rs. {sim_storage_cost})",
-            ],
-        )
-
-        desc = f"Price {req.price_change_pct:+.1f}%, Yield {req.yield_shock_pct:+.1f}%, Storage {req.storage_months}mo"
-
-        return WhatIfResponse(
-            crop=base.crop,
-            scenario_description=desc,
-            original_yield_t_ha=base.predicted_yield_tonnes_per_ha,
-            simulated_yield_t_ha=sim_yield,
-            original_marketable_quintals=base.marketable_production_quintals,
-            simulated_marketable_quintals=sim_marketable_q,
-            original_price_quintal=base.applicable_price_per_quintal,
-            simulated_price_quintal=sim_price,
-            original_gross_revenue=base.gross_revenue_rs,
-            simulated_gross_revenue=sim_revenue,
-            original_total_costs=base.total_costs_rs,
-            simulated_total_costs=sim_total_costs,
-            original_net_return=base.net_return_rs,
-            simulated_net_return=sim_net_return,
-            diff_net_return=diff_net,
-            roi_percentage=sim_roi,
-            simulated_plan=sim_plan,
-        )
 
 
 planning_engine = PlanningEngine()
